@@ -1,0 +1,1009 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+235785766,Ee-volution,"@unseatingBread helped me debug some of the logic and the timing of the music. I got a little stuck on the text validation to make sure that the user couldn't accidentally put in a number outside the range of the list (but could've just randomized costumes). Scratch forums to the rescue! I also heavily relied on the Scratch wiki for my understanding of how the List blocks worked. 
+
+***Credits***
++ All the other Pokemon projects in the Scratch community for different ideas about what evolution might look like + music.
++ KHInsider for Pokemon soundtrack music (OG - Victory + Evolution, Best of - Pokemon Theme song)
++ Images are all from Bulbapedia ","Press the green flag to start, then follow along with the prompts! In this project you can choose how you'd like to evolve your Eevee. Make sure your sound is on!",2745846,https://cdn2.scratch.mit.edu/get_image/project/235785766_480x360.png,2018-07-07T21:28:02.000Z,2018-07-09T22:36:17.000Z,2018-07-08T10:24:08.000Z,39,8,3,0,0,,
+235784264,Magic!,"Major credit to @mizzpeters, @ceebee, @asparklekat, and @paulinah for encouraging me to read the Harry Potter series this year.
+
+I feel like I learned a TON about reimplementation in this project. (The details: I had initially implemented all of the sensing logic in the monster, but that seemed to be too resource-intensive for Scratch, so I then redistributed the code across the other objects and the project was less laggy.)","Press the green flag to start.
+The A key summons your wand.
+The L key lights up your wand.
+The E key summons your trusty patronus: the starfish.",39526,https://cdn2.scratch.mit.edu/get_image/project/235784264_480x360.png,2018-07-07T20:48:25.000Z,2018-07-24T11:26:56.000Z,2018-07-08T10:30:19.000Z,38,17,7,0,0,,
+235789039,Petopticon,"This project was created for day 4 of Getting Unstuck. I made this project because I wanted to see what happens when you create the maximum number of clones that Scratch 2 supports (300). The feed transition effect is achieved by having each each of the 300 clones (a 20 x 15 grid of cells) cycle through a set of costumes. (Apologies for any glitches...it's a lot of clones.)
+
+Would there have been easier ways to achieve this effect? Definitely.
+
+Was is fun trying to get it to work anyway? Definitely. 
+
+If I had more time, I would work on additional feeds with different transition effects. ","You find yourself at an unfamiliar computer terminal. What is this system, and who built it? When the menu is loaded, you realize that this is some kind of surveillance system, with numeric options. What happens when you make a selection with the keyboard?",56239,https://cdn2.scratch.mit.edu/get_image/project/235789039_480x360.png,2018-07-07T22:59:28.000Z,2018-07-08T13:48:03.000Z,2018-07-08T10:28:46.000Z,40,8,2,0,0,,
+235763589,Space Happenings (In Process),"I was excited to draw some inspiration from a recent reminder of the glorious Zenon: Girl of the 21st Century with @mizzpeters and @asparklekat! The movie inspired the setting and my outfit. The cats are inspired by my actual cats, Truffle and Turnip.
+
+As I was working on my project, I encountered a number of bugs to work through. First, I couldn't figure out why my sprite seemed to have 'disappeared' and wouldn't come back when I pressed the green flag. As a Getting Unstuck strategy, I decided to try pressing all of the keys I used for sensing to see if I could find out what was happening or working. Turns out my sprite had just gotten so small I couldn't see it anymore!
+
+I was glad to continue playing with broadcast, which I learned with Day 3's musical project. This time around, I realized that sometimes I needed to tell a script to stop until it received another message -- by using the ""stop this script"" block.","Things are getting really weird up in space -- it seems there's been a spell cast on all in the atmosphere! I can't find my friends, can you help? After pressing the green flag, press the sprite to begin exploring in space!
+
+(I'm definitely still working on this. I started with the prompted commands, though I'd like to create my own, too!)",25705937,https://cdn2.scratch.mit.edu/get_image/project/235763589_480x360.png,2018-07-07T13:34:54.000Z,2018-07-08T13:56:37.000Z,2018-07-08T10:33:32.000Z,29,7,1,0,0,,
+235774365,Getting Unstuck Day 4: Magical Sprites!,"Thank you SO much to @culturedgirlygirl for the *gorgeous* Hogwarts illustrations! I used the backpack tool to capture Hermione, Luna, and a Hogwarts fan.
+
+Today's reflection: I immediately thought of Harry Potter when I saw today's challenge! Getting the character to grow and shrink wasn't too hard, but I got stuck for a little while on how to get her back to normal from the transfiguration without some funky things happening. I found the _ = _ block and got excited to use ""costume=4"" to change the broadcast. I also got stuck on thinking about what would happen if people didn't type transfigure, and originally tried to do something more complicated, but I decided to keep it simple and just broadcast the message even if someone types the wrong thing.",Press the green flag to start.,19163721,https://cdn2.scratch.mit.edu/get_image/project/235774365_480x360.png,2018-07-07T17:10:36.000Z,2018-07-09T03:40:10.000Z,2018-07-08T11:09:14.000Z,16,4,2,0,0,,
+235816936,Gettign Unstuck Day 4,This one was easier for me.  Love changing costumes.,"When you type the word ""change"" on the keyboard, watch what the fish does. To start again, press the letter ""q",24826697,https://cdn2.scratch.mit.edu/get_image/project/235816936_480x360.png,2018-07-08T11:13:25.000Z,2018-07-08T11:43:29.000Z,2018-07-08T11:21:40.000Z,19,8,4,0,0,,
+235816971,unicorn - day 4,,,11349852,https://cdn2.scratch.mit.edu/get_image/project/235816971_480x360.png,2018-07-08T11:14:18.000Z,2018-07-08T11:41:36.000Z,2018-07-08T11:40:01.000Z,14,4,0,0,0,,
+235816704,Getting Unstuck #4,"This was tricky. What I really wanted to have happen was for the user to be asked for a word, and then the beetle to take each letter of the word and apply a corresponding effect slowly, while the beetle ""said"" the word back to the user in a speech bubble. I couldn't figure out how to do it. With more time I'd try to get that to happen. I'd also make sure that every letter had a unique effect attached to it, so that every word created a unique look to the beetle.",Just type a word. The beetle will transform to represent your word. Press the space bar to clear the effects and start again.,141519,https://cdn2.scratch.mit.edu/get_image/project/235816704_480x360.png,2018-07-08T11:07:31.000Z,2018-07-08T12:17:31.000Z,2018-07-08T12:00:06.000Z,10,2,0,0,0,,
+235818485,BALLERINA - G. U. Day 4,"Continuo con la mia serie di progetti semplici semplici.
+Naturalmente la musica è ""Ode to code"" di Brendan Paolini.
+","Clicca sulla bandierina verde per avviare il progetto.
+Clicca sui tasti per vedere gli effetti sullo sprite.",13746945,https://cdn2.scratch.mit.edu/get_image/project/235818485_480x360.png,2018-07-08T11:53:22.000Z,2018-07-09T15:49:17.000Z,2018-07-08T12:06:04.000Z,8,3,0,0,0,,
+235818315,Day4,,"Press b to get bigger
+Press s to get smaller
+Press m to change costume
+Press t to play the instrument",34225248,https://cdn2.scratch.mit.edu/get_image/project/235818315_480x360.png,2018-07-08T11:48:35.000Z,2018-07-08T12:42:07.000Z,2018-07-08T12:36:47.000Z,11,1,0,0,0,,
+235817379,Unstuck Day 4,,Just some basic movement and options.,33890948,https://cdn2.scratch.mit.edu/get_image/project/235817379_480x360.png,2018-07-08T11:24:40.000Z,2018-07-08T12:37:51.000Z,2018-07-08T12:37:25.000Z,4,2,0,0,0,,
+235818540,GU_Day4,"Previously I had not considered using negative numbers for appearance variables such as whirl and mosaic. I discovered that it is like ""undo"". Ah-ha; a new observation. It depends which key of a pair you use first. Either key of the pair will cause the effect. Then, the other key of the pair will reverse it. 
+I can press multiple keys simultaneously to make effects change simultaneously.","Click the green flag to begin. Then control appearance changes. 
+b - bigger
+s - smaller
+m - do & undo mosaic
+n - do & undo mosaic
+w - do & undo whirl
+v - do & undo whirl
+c - color; add
+d - color; subtract",24741621,https://cdn2.scratch.mit.edu/get_image/project/235818540_480x360.png,2018-07-08T11:54:46.000Z,2018-07-08T13:40:58.000Z,2018-07-08T12:22:28.000Z,5,2,0,0,0,,
+235820484,Play With My Face (v2),"I created this project in response to Challenge #4 of the ""Getting Unstuck"" initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+
+This project is a variation of one of my first Scratch projects, created back in March 2007 (before the public launch of Scratch!):
+https://scratch.mit.edu/projects/142/","Press keys to play with my face
+C to change color
+P to pixelate
+F for fisheye effect
+W for whirl effect 
+Space to restore original photo
+
+To reverse the effects: Press the key immediately to the left on the keyboard. For example, press X (immediately to the left of C) to reverse the color shift, press O to reverse pixelate, press D to reverse fisheye, and press Q to reverse whirl.",167,https://cdn2.scratch.mit.edu/get_image/project/235820484_480x360.png,2018-07-08T12:41:42.000Z,2018-07-08T19:18:57.000Z,2018-07-08T13:06:46.000Z,12805,535,362,0,0,,
+235819905,Unstuck Day 4: Sprite Appearance,"I made this project in response to the prompt for Challenge #4 of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+In this project I struggled with modifying a lot of sprites after having created them (26!). I knew I should get the fireflies the way I wanted them before duplicating them 25 times but of course testing them as I went along I saw changes I wanted to make to improve the firefly effect. One thing I did to make that easier was to create a global variable for the brighness value so I wouldn't have to change it in every sprite. If I spent more time I would do the same for the minimum and maximum size for each as well.",Press any letter key to make a random firefly light up. Mash a bunch of letters to make them light up as a group!,214174,https://cdn2.scratch.mit.edu/get_image/project/235819905_480x360.png,2018-07-08T12:28:07.000Z,2018-07-09T16:41:03.000Z,2018-07-08T13:09:23.000Z,11,3,0,0,0,,
+235820827,Getting Unstuck day 4,"I just explored the different visual effects and paired them with different key presses. I tried to get a random visual effect by creating a list of the effect names, but the ""item random of list_"" cannot be put into the ""set _effect to_"" block.
+","Press space for the ghost
+Up and down arrows for the bat
+Left and right arrows for the dog
+A for the unicorn",17767933,https://cdn2.scratch.mit.edu/get_image/project/235820827_480x360.png,2018-07-08T12:50:21.000Z,2018-07-08T13:12:31.000Z,2018-07-08T13:12:31.000Z,16,2,0,0,0,,
+235818634,Curtains up!,"Getting Unstuck #Day 4
+
+Actually, I believe there is a better way to scratch this but I am running on a budgeted time for this project. There are many more things I could have done - especially animations.","  Click green flag to start.
+
+Follow the instructions given by Mr. Bixby.
+",158902,https://cdn2.scratch.mit.edu/get_image/project/235818634_480x360.png,2018-07-08T11:57:19.000Z,2018-07-08T13:43:01.000Z,2018-07-08T13:15:16.000Z,8,3,0,0,0,,
+228911267,Day 3:  Notorious RBG! Game,"I started this game a while ago after seeing the RGB film, but never finished it!  I love Supreme Court Justice Ruth Bader Ginsburg!
+
+I teach with a program called Learn 2 Teach, Teach 2 Learn where we work at #MakingLiberation!","Use up arrow to raise Ruth's arm! 
+
+Use space key to make Ruth jump!
+  
+    ",27658530,https://cdn2.scratch.mit.edu/get_image/project/228911267_480x360.png,2018-06-13T09:12:52.000Z,2018-07-08T17:31:24.000Z,2018-06-13T10:13:27.000Z,25,11,1,0,0,,
+235821507,Getting unstuck day 4,I was inspired by sliefer's project where you type the letters c-h-a-n-g-e,Type c-o-d-e to see the changes.,16010675,https://cdn2.scratch.mit.edu/get_image/project/235821507_480x360.png,2018-07-08T13:07:01.000Z,2018-07-08T13:22:44.000Z,2018-07-08T13:20:37.000Z,6,3,0,0,0,,
+235820673,Getting Unstuck: Day 4 — Effect Explorer,"Reflection
+
+I created a basic effect explorer that allows users to increase and decrease each of the 7 effects using keyboard input.
+
+There are two phases to the code. First, when the project starts the initial settings are reverted to a normal state. Second is the forever loop in which the project responds to key presses and applies the appropriate effect.
+
+I like this project because it's simple: it does one thing and does it well.","space — clear effect
+1 & q — color
+2 & w — fisheye
+3 & e — whirl
+4 & r — pixelate
+5 & t — mosaic
+6 & y — brightness
+7 & U — ghost",26264460,https://cdn2.scratch.mit.edu/get_image/project/235820673_480x360.png,2018-07-08T12:46:25.000Z,2018-07-08T13:26:43.000Z,2018-07-08T13:08:11.000Z,8,4,0,0,0,,
+235822123,day 4,,"Click the green flag to start. Click on the ball to change its color. Use ""up arrow"" to increase the size, the ""down arrow"" to decrease the size. Careful making the ball too big!",7505824,https://cdn2.scratch.mit.edu/get_image/project/235822123_480x360.png,2018-07-08T13:21:16.000Z,2018-07-08T13:39:22.000Z,2018-07-08T13:37:21.000Z,4,2,0,0,0,,
+235818419,pond life,When I had all the frogs croaking it seemed to get stuck so in the end I only had the first frog doing this,,33472226,https://cdn2.scratch.mit.edu/get_image/project/235818419_480x360.png,2018-07-08T11:51:30.000Z,2018-07-08T13:40:24.000Z,2018-07-08T13:37:42.000Z,10,3,0,0,0,,
+235822383,Getting Unstuck: Day 4,Create a project that controls the appearance of a sprite via the keyboard.,"Try to get the Scratch Cat to the END of the maze. 
+1. Use the C key to choose your character.
+2. Use the arrow keys to navigate up, down, left and right. 
+3. Use the S key to shrink your character to fit through certain parts of the maze for 3 seconds.
+
+Good luck!
+",86693,https://cdn2.scratch.mit.edu/get_image/project/235822383_480x360.png,2018-07-08T13:27:16.000Z,2018-07-10T11:07:33.000Z,2018-07-08T13:52:27.000Z,11,5,0,0,0,,
+235776032,Getting Unstuck Day 4—RAINBOW!,"For this project I was thinking about using costumes to 'change the sprite entirely' but then I thought- does it mean literally change it to a different sprite? So I tried that! Ultimately, I'm glad I did because I wasn't sure how I could also make the text RAINBOW be multicolored without changing the color of the rainbow icon sprite... I wonder how one might also do that? So fun!! <3rainbows. 
+
+Ok- I came back to it and tried to add sparkles for when it got bigger or smaller... :D","""Create a project that casts spells on a sprite. Whenever you press the B key, the sprite gets a little bigger. Whenever you press the S key, the sprite gets a little smaller. Whenever you press the M key, the sprite becomes a different sprite entirely."" Press N to switch back to the Rainbow symbol!",24267830,https://cdn2.scratch.mit.edu/get_image/project/235776032_480x360.png,2018-07-07T17:45:59.000Z,2018-07-08T13:58:43.000Z,2018-07-08T13:51:34.000Z,8,1,0,0,0,,
+235821049,GettingUnstuck_#4,This project was created for Getting Unstuck Day4. Trying to use the Event control to change the looks. It would be a good practice to initialize (reset) the settings after the fantastic effects have been taken place on the sprite.   ,"1. Click the Green Flag
+2. Press a, b, c, d, or e and see what happens ;-) ",31325002,https://cdn2.scratch.mit.edu/get_image/project/235821049_480x360.png,2018-07-08T12:55:43.000Z,2018-07-09T03:11:03.000Z,2018-07-08T13:54:45.000Z,20,5,0,0,0,,
+235820251,Getting Unstuck Challenge 4,"What did you like most about your project? 
+I loved playing with the change size and color blocks.
+What would you do with it next, if you had more time?
+I would change the music and maybe have a storm come in if I had more time. Love this project.","Press Green Flag to Start.
+Press d for Dan to hit the ball to Anna.
+Press a for Anna to return the ball.
+Press s to stop the game.",21000359,https://cdn2.scratch.mit.edu/get_image/project/235820251_480x360.png,2018-07-08T12:36:12.000Z,2018-07-08T14:07:29.000Z,2018-07-08T14:05:19.000Z,10,3,0,0,0,,
+235822808,the princess ,"I created this project in response to Challenge #4 of the ""Getting Unstuck"" initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu","Press the green flag
+press A and  b and you will see how change the princess
+",16804071,https://cdn2.scratch.mit.edu/get_image/project/235822808_480x360.png,2018-07-08T13:38:12.000Z,2018-07-16T11:02:49.000Z,2018-07-08T13:54:59.000Z,4,2,0,0,0,,
+235823786,Unstuck Day 4,,"See the magic of the unicorn on the moon!
+Press ""a"" to change the color.
+Press ""s"" to change with the fisheye effect.
+Press ""d"" to change the whirl pattern.
+Press ""f"" to pixelate the unicorn.
+Press ""g"" to use a mosaic pattern.    
+Press ""h"" to change to a ghost.
+To reset the unicorn press the spacebar.",22256610,https://cdn2.scratch.mit.edu/get_image/project/235823786_480x360.png,2018-07-08T14:03:13.000Z,2018-07-08T14:21:03.000Z,2018-07-08T14:14:58.000Z,8,1,0,0,0,,
+235824252,Unstuck Day 4,"For Getting Unstuck day 4, this is a variation on a project I made for Learning Creative Learning, in which I tried to make a dynamic 2d version of the Montessori trinomial cube. Someone involved in Montessori suggested the model might be of different colors than the red, blue, yellow of the Montessori apparatus.
+
+For getting unstuck, I added color changing via P and Q keys.","Adjust variables using sliders
+
+Change colors using P and Q
+
+reset with space bar",33815227,https://cdn2.scratch.mit.edu/get_image/project/235824252_480x360.png,2018-07-08T14:14:16.000Z,2018-07-08T14:38:18.000Z,2018-07-08T14:25:53.000Z,19,3,1,0,0,,
+215894441,Challenge #001 - Animate a name,"I confess I used this during the school year to have students animate their names, so I didn't put a lot of effort into today's challenge.","Start wit the green flag.
+Type in each letter of my last name to see what happens.
+To stop the ""D"", click the space bar.",20126730,https://cdn2.scratch.mit.edu/get_image/project/215894441_480x360.png,2018-04-12T23:07:16.000Z,2018-07-08T14:33:18.000Z,2018-04-12T23:53:59.000Z,30,3,1,0,0,,
+235824121,Getting Unstuck Day 20 / Day 4,"I decided to use my day 4 project and develop it into a Very Hungry caterpillar story. I had great fun drawing the fruit.
+The thing that I struggled with is getting the fruit to disappear when it is ""eaten""","Click the green flag to start.
+Use the arrow keys to get the caterpillar to eat the fruit",3297086,https://cdn2.scratch.mit.edu/get_image/project/235824121_480x360.png,2018-07-08T14:10:50.000Z,2018-07-31T11:28:02.000Z,2018-07-08T14:31:03.000Z,22,6,1,0,0,,
+235818382,Baby Eater,Reto 4: Utilizar los botones para cambiar el aspecto de los sprites,Utiliza las flechas para guiar a mi bebé y que coma muchos pescados para hacerse grande!,26161450,https://cdn2.scratch.mit.edu/get_image/project/235818382_480x360.png,2018-07-08T11:50:27.000Z,2018-07-08T14:46:38.000Z,2018-07-08T14:45:17.000Z,23,5,0,0,0,,
+235822387,Unstuck Day 04 - Keyboard Appearance,"I made the clothing items (and dani) select randomly, but used arrow keys to move through the backdrops. 
+
+I liked thinking through when to use the paint tools to modify items and when to let the code do the modifying. This is a first draft in many ways. My next version would give the user more control to toggle through each of the clothing items and dani options, maybe even toggle through different hair colors, like the backdrop.","This is a standard dress-up program using keys.
+
+",14632339,https://cdn2.scratch.mit.edu/get_image/project/235822387_480x360.png,2018-07-08T13:27:19.000Z,2018-07-08T22:11:31.000Z,2018-07-08T14:51:46.000Z,16,5,0,0,0,,
+235733186,Unstuck Day 4: Playing Tag,"Wanted to have one sprite chase another.
+When Scratch Cat moved one space, wanted the dog to follow behind.  When Scratch Cat moved forward, wanted dog to move closer, as well.
+When Scratch Cat moved away, wanted dog to do the same.
+Getting Scratch Cat to use keyboard controls to move was straight forward.  Getting Dog to do the same motion, but delayed by a certain number of steps or seconds was very challenging.  Never quite got it right and would love to hear suggestions from more experienced coders. Changed many times.  Right now, Scratch moves, but Dog doesn't :(  Time to share anyway . . .  
+Note: Copied code from one sprite to another to save time.  Thanks again, @susanattenheim, @alirb, @Mittenbrother for your advice!","Create a project that controls the appearance of a sprite via the keyboard. 
+Playing Tag: F=forward, C=closer, A=away",18337230,https://cdn2.scratch.mit.edu/get_image/project/235733186_480x360.png,2018-07-07T02:13:42.000Z,2018-07-08T14:58:12.000Z,2018-07-08T14:58:12.000Z,8,3,0,0,0,,
+235822126,Unstuck 04 - Playing with looks,"This time I didn't look at any other projects first. I wanted to try out a set of code that I could easily duplicate for other sprites. So I worked on 1 sprite first, then copied to the 2nd and 3rd sprites, just changing the ""actions"" for each key that is pressed. I would have liked to figure out how to make subroutines / functions, but didn't have time.","Create a project that controls the appearance of a sprite via the keyboard. As just one example, you could create a project where a sprite gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key. ",19123745,https://cdn2.scratch.mit.edu/get_image/project/235822126_480x360.png,2018-07-08T13:21:18.000Z,2018-07-08T15:06:09.000Z,2018-07-08T15:06:03.000Z,6,1,0,0,0,,
+235825641,Randomized Graphic Effects,"This is a proof of concept of one way to randomly change look or behavior of a sprite. Inspired by a question posed by @MrQuentin 's in his Getting Unstuck project https://scratch.mit.edu/projects/235820827/
+
+","Click the up arrow for a random response (1 of 3 possible responses). Space bar to reset.
+
+Must wait 1 second before re-randomizing. Can someone figure out how to eliminate this delay without changing the programmatic result?",33815227,https://cdn2.scratch.mit.edu/get_image/project/235825641_480x360.png,2018-07-08T14:45:21.000Z,2018-07-08T15:11:13.000Z,2018-07-08T15:11:13.000Z,20,2,1,0,0,,
+235826057,Getting Unstuck: Day 4,I learned the coding for changing the sprite's color from yesterday's challenge.,"1. Click the green flag.
+2. Click the cat to watch the message.",14143361,https://cdn2.scratch.mit.edu/get_image/project/235826057_480x360.png,2018-07-08T14:55:16.000Z,2018-07-08T15:21:45.000Z,2018-07-08T15:15:15.000Z,7,1,0,0,0,,
+235825063,day 4,"I made it from my idea,then after build the start of idea,the another one come to gather,the music from kids song in you tube.
+my daughter did the project with me.","press green flag, and then click A,B,C keys in the board.
+feel free and play with the keys (A,B,C).",34188789,https://cdn2.scratch.mit.edu/get_image/project/235825063_480x360.png,2018-07-08T14:33:59.000Z,2018-07-08T18:43:25.000Z,2018-07-08T15:11:52.000Z,10,1,0,0,0,,
+235827368,Randomized Graphic Effects remix,"A remix of daveywonder's remix using broadcast instead of forever-if. UPDATE: I removed the broadcast block and just inserted the broadcast code into the main script.
+
+I put a reset in each of the possible effect changes also and added a mosiac effect. I also tweaked some of the effects to make them more animated.
+
+I also reworked the ""set switch to random"" so it always picks a different effect.","Click the up arrow for a random response (1 of 3 possible responses). Space bar to reset.
+
+Must wait 1 second before re-randomizing. Can someone figure out how to eliminate this delay without changing the programmatic result?",14632339,https://cdn2.scratch.mit.edu/get_image/project/235827368_480x360.png,2018-07-08T15:25:55.000Z,2018-07-08T20:55:16.000Z,2018-07-08T15:30:08.000Z,16,6,0,0,0,235825641,235825641
+235827609,Getting Unstuck Day 4,,"Change the appearance of the Sun via the keyboard:
+press 1 for a ""pulse"" effect
+press 2 for a ""whirlpool"" effect
+press 3 for a ""sad"" Sun
+press 4 to see an eclipse
+
+In the first two cases, you can keep the key pressed. 
+
+The SPACE removes all effects.",14159575,https://cdn2.scratch.mit.edu/get_image/project/235827609_480x360.png,2018-07-08T15:31:02.000Z,2018-07-08T15:52:42.000Z,2018-07-08T15:31:56.000Z,16,6,0,0,0,,
+235827121,#GettingUnstuck4 - Fruit movements and shoots,"All fruits taken from the Scratch pool. Please, feel free to remix and add your own costumes & sprites :)","Press Green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 4
+
+""Create a project that controls the appearance of a sprite via the keyboard. As just one example, you could create a project where a sprite gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key"".
+
+My proposal is:
+- ""up arrow"" to grow
+- ""down arrow"" to shrink
+- ""left & right arrow"" keys to random change costume
+- ""q"" to increase rotate speed
+- ""a"" to decrease rotate speed
+- ""c"" to launch a clone
+- ""space bar"" to finish",1112440,https://cdn2.scratch.mit.edu/get_image/project/235827121_480x360.png,2018-07-08T15:19:58.000Z,2018-07-18T16:13:38.000Z,2018-07-08T15:52:27.000Z,14,5,0,0,0,,
+235825255,Froggo in Wonderland: Getting Unstuck Day 4 Size,"Getting Unstuck Day 4 Costumes
+
+Creativity:
+Changing a Sprite's appearance reminded me of an Alice in Wonderland scenario, where she grows bigger or smaller based on what she eats. My froggo friend is Alice, but I also wanted to play with another character changing costumes, as well as changing the background in response to events in the script.
+
+Production:
+Used a lot of ""broadcast message"" blocks to coordinate the activity between all the different sprites. I also realized that if I wanted to run two parallel sequences (like talking and moving) that I could create two scripts that each start with the same event (green flag, or message) and that they would run at the same time. No more fiddling around with wait blocks.
+
+Getting Unstuck:
+I was stuck in one area, where I wanted a script to repeat until a specific message is broadcast. You can start a script with a message but you can't end a loop with a message. So I had to Google for some help and found a workaround where you set a variable to 1 with the message and then set the loop to run until the variable = 1.
+I'm still unclear about how some events are timed in Scratch, such as what happens when you have a ""wait"" block versus the ""say"" block or the ""play sound"" block, each of which has a certain duration, but what happens to the rest of the script during this time?",Just press the green flag!,3485356,https://cdn2.scratch.mit.edu/get_image/project/235825255_480x360.png,2018-07-08T14:37:55.000Z,2018-07-08T15:52:04.000Z,2018-07-08T15:44:11.000Z,8,3,0,0,0,,
+235828683,Day 4: My name is going crazy,"Wanted to keep it veeeery simple, but still fun today! :) ",Type my name (Laura) and see what happens! Reset with space! :) ,24957617,https://cdn2.scratch.mit.edu/get_image/project/235828683_480x360.png,2018-07-08T15:56:10.000Z,2018-07-08T16:25:02.000Z,2018-07-08T16:00:19.000Z,11,7,0,0,0,,
+235828242,Day 4 of Unstuck,"Nothing fancy but you can use the space, up, down, left, right keys to create different actions with the sprite.",,25095252,https://cdn2.scratch.mit.edu/get_image/project/235828242_480x360.png,2018-07-08T15:45:43.000Z,2018-07-08T16:06:19.000Z,2018-07-08T16:05:44.000Z,10,1,0,0,0,,
+235821581,Getting Unstuck Challenge 4 - Level Create,"Once again had fun. Tiles from opengameart.org
+
+I have always wanted to create a grid based mouse drop tile level creator. Pardon the pun, started from Scratch and here it is.
+
+I have all the x,y, costume, positions stored for each clone. I am working on an encode/decode system so you can save your beautiful levels and share them in the comments for us to see. Will report back on that
+
+In the meantime, enjoy creating levels and Scratching!","Getting Stuck Challenge 4 - changing costumes
+
+all instructions are in game. Enjoy the sandbox.
+
+Also added a cheat code , then you have to answer the question. :) , Best used if your level is complete.
+
+ GOOD LUCK, hope you find it. Hint, the initial cheat may be part of my username.......try pressing keys...................................... :)
+
+",3158946,https://cdn2.scratch.mit.edu/get_image/project/235821581_480x360.png,2018-07-08T13:08:46.000Z,2018-08-03T04:33:31.000Z,2018-07-08T16:06:05.000Z,35,4,4,0,0,,
+235826145,Getting Untuck Day #4: Something's wrong! ,"Inspired by Karen's Harry Potter project, I remember this project of a little Magic story.
+I remixed it to make it interactive.
+I found difficult to delete the clones and continue without clicking on the green flag and restart it all again. 
+Thanks to @mstone326 to helping me get unstuck!
+","Click the green flag to start
+Use Arrows and space keys to make magic and prompts to make magic. 
+",2176961,https://cdn2.scratch.mit.edu/get_image/project/235826145_480x360.png,2018-07-08T14:57:19.000Z,2018-07-08T17:04:36.000Z,2018-07-08T16:09:08.000Z,20,6,0,0,0,,
+235825815,Day 4 - super cat,"Music from https://www.televisiontunes.com
+This was fun and a bit like a project I assign 2nd & 3rd grade after they've completed a few intro lessons. I can't wait to share some of the projects in the studio to fire up their imagination!","Click green flag to start
+Click B, S, and W keys (in no particular order) to see the transformations",18341966,https://cdn2.scratch.mit.edu/get_image/project/235825815_480x360.png,2018-07-08T14:49:28.000Z,2018-07-08T16:32:27.000Z,2018-07-08T16:27:12.000Z,10,7,2,0,0,,
+235828881,Visual Song (Getting Unstuck 3 and 4),"Really don't know anything about music: i let the computer invent a random sequence of notes for me.
+It has been a really random exploration of sound and effects, I will come back later and try to learn more about tempo, beats and so on :)",Press the arrow keys to find out what effects they produce!,2417641,https://cdn2.scratch.mit.edu/get_image/project/235828881_480x360.png,2018-07-08T16:01:09.000Z,2018-07-09T05:18:47.000Z,2018-07-08T16:44:46.000Z,17,5,1,0,0,,
+235829183,Gordon_Getting Unstuck Day 4,,Use the arrow keys to move the cat.  Use the S key to make him smaller and the G key to make him larger.  Eat the Cake!,18900622,https://cdn2.scratch.mit.edu/get_image/project/235829183_480x360.png,2018-07-08T16:09:26.000Z,2018-07-08T16:44:42.000Z,2018-07-08T16:44:42.000Z,11,3,0,0,0,,
+235823223,day-4,"Getting Unstuck - Day 4
+Scratch On!","B key - become Big and fly
+C key - become small and walk
+Right/Left - move
+M key - change appearance
+In the water it will drown.",139209,https://cdn2.scratch.mit.edu/get_image/project/235823223_480x360.png,2018-07-08T13:49:12.000Z,2018-07-08T16:58:07.000Z,2018-07-08T16:43:50.000Z,8,5,1,0,0,,
+235830114,Unstuck 4:Space Manuevers,Not exactly what I wanted. ,"Use Arrow keys to move your spaceship.
+
+Try to land the spaceship on the x. ",25417130,https://cdn2.scratch.mit.edu/get_image/project/235830114_480x360.png,2018-07-08T16:31:31.000Z,2018-07-09T15:24:18.000Z,2018-07-08T16:54:55.000Z,11,3,0,0,0,,
+235822362,Getting Unstuck day 4 Growing and reverse growning,Went a little overboard on the costume change... I could have just used the next costume method but I wanted to see if I could tie costume to a variable so I could control cases when I have more than 2 costumes. ,,34141039,https://cdn2.scratch.mit.edu/get_image/project/235822362_480x360.png,2018-07-08T13:26:33.000Z,2018-07-08T17:07:44.000Z,2018-07-08T17:07:13.000Z,10,2,0,0,0,,
+235821546,You Do You,"I was inspired by the book Elmer by David McKee for this project.  I'm thinking of expanding my use of Scratch to my second grade classes next year. I already do another (non-coding) project based on this book, so it came to mind. 
+
+This project took me a bit longer to create than I originally planned, but I'm happy with how it turned out.  I used keystrokes, changing backdrops, wait blocks and broadcast.  Moving further and given more time, perhaps I'd like to make it rain at the end to make the grey wash off.","Click the Green Flag to begin.
+
+Click the A and B keys when Ellie the elephant prompts you to do so.",1196430,https://cdn2.scratch.mit.edu/get_image/project/235821546_480x360.png,2018-07-08T13:08:02.000Z,2018-07-08T17:12:01.000Z,2018-07-08T17:03:35.000Z,14,6,1,0,0,,
+235828048,unstuck 4,"When you use cloning, delete the clone when its done. Otherwise it stays in the project and disturbs the proces.
+Thanks to @alirb When the shark opens his mouth the diver dives and the fish change to transparent as a camouflage.","Spacebar: diver breathes
+Arrow-keys for movement and fishtalks",1072279,https://cdn2.scratch.mit.edu/get_image/project/235828048_480x360.png,2018-07-08T15:40:58.000Z,2018-07-09T08:42:45.000Z,2018-07-08T17:25:54.000Z,7,1,0,0,0,,
+235832572,Unstuck Day 4 - Keyboard Interaction,What else could be added here? A keystroke to have him bounce up and down? Change size? Fade away?,"Challenge:
+Create a project that controls the appearance of a sprite via the keyboard. 
+
+Once Scratch cat reaches center stage, press the ""d"" key to make him dance. ",25286049,https://cdn2.scratch.mit.edu/get_image/project/235832572_480x360.png,2018-07-08T17:26:20.000Z,2018-07-15T15:43:13.000Z,2018-07-08T17:36:52.000Z,2,1,0,0,0,,
+235831097,Remix: Froggo in Wonderland: Getting Unstuck Day 4,"I remixed this and took out the forever-if loop. 
+Each gift is activated by either the <b> or <s> key. 
+This remix is not an improvement; I love the original! Thanks for making it!
+
+A few years ago I noticed that after giving my students a number of introductory projects, some thought every script required a forever block. Since then I have tried the exercise of finding alternatives to using ""forever.""
+
+Related to this is how students will use an ""if"" block thinking it will loop indefinitely, when instead they should use the  <wait until ___> for their condition.",Just press the green flag!,14632339,https://cdn2.scratch.mit.edu/get_image/project/235831097_480x360.png,2018-07-08T16:54:29.000Z,2018-07-08T17:43:01.000Z,2018-07-08T17:14:56.000Z,8,2,2,0,0,235825255,235825255
+235832028,Unstuck Day 4 - Keyboard Movement,Liked using the glide blocks to run the bases. This gave me some practice at using the X Y coordinates to determine Scratch's placement on the background.,"Press 1, 2 3 or 4 to run the bases. Click Scratch with your pointer to return to home plate.",18558561,https://cdn2.scratch.mit.edu/get_image/project/235832028_480x360.png,2018-07-08T17:14:12.000Z,2018-07-08T17:44:33.000Z,2018-07-08T17:41:56.000Z,8,1,1,0,0,,
+235834036,Getting Unstuck Day 4,,"Press B button to increase size.
+Press S button to decrease size.
+Press Space Bar to change color.
+Press Up Arrow and Down Arrow to change costumes.",34190765,https://cdn2.scratch.mit.edu/get_image/project/235834036_480x360.png,2018-07-08T17:59:44.000Z,2018-07-08T18:02:34.000Z,2018-07-08T18:02:34.000Z,4,1,0,0,0,,
+235832649,Getting Unstuck: Day 4,"Its been hot and sunny in Scotland the past few weeks so I went with a  sun theme :-)
+","Click the green flag to start.
+The 'b' key makes the sun get bigger
+The 's' key makes the sun get smaller
+The 'm' key makes Scratch cat move and change costume",34197892,https://cdn2.scratch.mit.edu/get_image/project/235832649_480x360.png,2018-07-08T17:28:20.000Z,2018-07-08T18:01:55.000Z,2018-07-08T17:55:21.000Z,9,3,0,0,0,,
+155500941,Fiordalisi,"Ho modificato un mio vecchio progetto sull'uso dell'istruzione ""timbra"" per cambiare l'aspetto dello sprite quando si preme la barra di spazio","Clicca sulla bandierina verde. Barra di spazio per modificare colore e dimensione dello sprite, tasto C per pulire lo sfondo",17698999,https://cdn2.scratch.mit.edu/get_image/project/155500941_480x360.png,2017-04-13T10:45:48.000Z,2018-07-08T18:05:14.000Z,2017-04-13T10:58:21.000Z,13,3,0,0,0,,
+117784494,Si balla-2,"Tutorial Scratch modificato secondo quanto richiesto da Getting unstuck 4, usando la barra di spazio per far cambiare colore al gatto
+","Remix di Si balla. Le ballerine vengono clonate.
+Premi la barra di spazio per far cambiare colore al gatto per un secondo e mezzo.",17698999,https://cdn2.scratch.mit.edu/get_image/project/117784494_480x360.png,2016-08-05T18:08:15.000Z,2018-07-08T18:22:35.000Z,2016-08-05T18:32:41.000Z,11,2,0,0,0,,
+235832943,Getting Unstuck #4: Control the appearance of a sprite via the keyboard,"Scratch project was created as activity #4 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+Day #4 Challenge: Create a project that controls the appearance of a sprite via the keyboard. As just one example, you could create a project where a sprite gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key.","Press the green flag, then:
+- when you press the B key, the tree gets a little bigger  
+- when you press the S key, the tree gets a little smaller 
+- when you press the M key. the tree changes its costume. ",1202362,https://cdn2.scratch.mit.edu/get_image/project/235832943_480x360.png,2018-07-08T17:35:28.000Z,2018-07-08T20:17:10.000Z,2018-07-08T18:14:09.000Z,11,2,1,0,0,,
+235833303,day 04,,"Click on a green flag and a ballon appears. Click on ""c"" and you can change the colour of the ballon. Click on ""u"" and the balloon will go up and as going up will also get smaller and smaller .. sort of ""Up Up and Away"" :)
+
+Click on ""l"" and you add some wind to the left, click on ""r"" and you get wind to the right. Enjoy!
+",771142,https://cdn2.scratch.mit.edu/get_image/project/235833303_480x360.png,2018-07-08T17:43:15.000Z,2018-07-08T18:17:22.000Z,2018-07-08T18:10:00.000Z,5,2,0,0,0,,
+235832161,Getting Unstuck Day 4 Bear Grows and Shrinks,,,11634746,https://cdn2.scratch.mit.edu/get_image/project/235832161_480x360.png,2018-07-08T17:17:06.000Z,2018-07-09T20:55:22.000Z,2018-07-08T18:35:46.000Z,12,2,0,0,0,,
+235835369,Getting Unstuck Day 4,,,32626504,https://cdn2.scratch.mit.edu/get_image/project/235835369_480x360.png,2018-07-08T18:29:32.000Z,2018-07-08T18:42:55.000Z,2018-07-08T18:38:38.000Z,2,0,0,0,0,,
+235835130,Day 4 - Getting ready for school,"I thought about drawing on the cat and making different costumes but thought that would take too long. If I had more time, I'd make a bunch of costumes and just switch those when I clicked the right arrow.","Click the flag to start. Then click a letter to try on clothes. If you don't like the clothes, press the right arrow and it will disappear.
+
+(Letters to use: a,s,d,f,g,j)",10309968,https://cdn2.scratch.mit.edu/get_image/project/235835130_480x360.png,2018-07-08T18:24:09.000Z,2018-07-08T18:59:44.000Z,2018-07-08T18:52:26.000Z,7,3,0,0,0,,
+235833272,Space Cruiser,"I wanted to make a little, input-dependent animation for Day 4. I used the Scratch Wiki to figure out how to make a 'previous costume' script for when the engines turn off.
+
+I struggled with the script to make the asteroids show up on the right edge of the screen, and while I'm okay with how it came out, I bet there's a more efficient way to do it!","Press SPACE to fire the engine
+
+Press LEFT/RIGHT ARROW to turn
+
+Made for Getting Unstuck Day 4: Create a project that controls the appearance of a sprite via the keyboard",27306974,https://cdn2.scratch.mit.edu/get_image/project/235833272_480x360.png,2018-07-08T17:42:25.000Z,2018-07-09T02:27:03.000Z,2018-07-08T19:04:34.000Z,13,7,1,0,0,,
+235819953,Getting Unstuck: Day 4,"Music: https://www.youtube.com/audiolibrary/music
+Sorry, I write in Italian.
+Mi sono applicata, ma il risultato è molto modesto.
+Ho trovato l'uso della valigetta molto utile per inserire le istruzioni.
+(Google traslation: I applied myself, but the result is very modest.
+I would have liked - in the Scratch archive - new vector images.
+I found the use of the backpack very useful for inserting instructions.","Click on the green flag.
+Press:
+R = reset     C = color     F = fish-eye     W = whirl
+B = big     S = small     G = ghost",19789360,https://cdn2.scratch.mit.edu/get_image/project/235819953_480x360.png,2018-07-08T12:29:08.000Z,2018-07-08T19:18:46.000Z,2018-07-08T19:03:38.000Z,18,9,2,0,0,,
+235836112,GettingUnstuck#4 - Impossible Triangle,"Getting Unstuck challenge/activity#4 - ""Create a project that controls the appearance of a sprite via the keyboard""
+
+Already knew how to make basic sprite changes via keyboard and the code is very simple here. But the addition of the text which meant I need to find out how to move in front and then back behind another sprite. Also had to try and centre the sprite so spinning looked ok!","Press the following keys to affect the sprite:
+Right arrow - spin right
+Left arrow - spin left
+Up arrow - make bigger
+Down arrow - make smaller
+C - change colour
+F - bring to front
+B - send to back",15872912,https://cdn2.scratch.mit.edu/get_image/project/235836112_480x360.png,2018-07-08T18:45:08.000Z,2018-07-08T19:14:27.000Z,2018-07-08T19:14:27.000Z,9,2,0,0,0,,
+235833449,Homerow Fun,"Notes: Did you know there are only a-z and 0-9, and spacebar key controls?  Poor Semicolon. 
+
+Reflection:  This was all about setting initial conditions for me.  I talk about setting initial conditions a lot with my students and here I was having to go back and fix a bunch of conditions I forgot to set.","Day #4: Create a project that controls the appearance of a sprite via the keyboard.
+
+Use your keyboarding skills to practice homerow keys.
+""Where's the fun in that?"" You ask....",399245,https://cdn2.scratch.mit.edu/get_image/project/235833449_480x360.png,2018-07-08T17:46:29.000Z,2018-07-08T19:21:11.000Z,2018-07-08T19:21:11.000Z,10,6,2,0,0,,
+235832996,Getting Unstuck: Day 4(four seasons),,"Click the flag to start. 
+Clik a=spring, b=summer, c=autumn,d=winter",12775966,https://cdn2.scratch.mit.edu/get_image/project/235832996_480x360.png,2018-07-08T17:36:27.000Z,2018-07-08T19:21:53.000Z,2018-07-08T19:21:53.000Z,3,1,0,0,0,,
+235836076,Getting Unstuck Day 4,"I guess my mind is still hooked on the sound project from yesterday. While I am not a ""music teacher,"" I love studying music along side my students and using music in my classroom whenever possible. If I find the time I hope to have the letter note name appear and then change costumes to become music notes on the staff.","Start by clicking on the green flag. This program plays the notes C (low & high simultaneously), D, E, F, G, A, and B when their corresponding letter key is pressed (i.e. C, D, E, F, G, A, and B)",22156688,https://cdn2.scratch.mit.edu/get_image/project/235836076_480x360.png,2018-07-08T18:44:28.000Z,2018-07-08T19:27:34.000Z,2018-07-08T19:21:39.000Z,16,9,1,0,0,,
+235836208,Getting Unstuck: Day 4,,"Press up arrow key to  enlarge.
+Press down arrow key to  reduce.
+Left and right arrows will moove your character to the desired side.
+Use space to change the color of your character",24340467,https://cdn2.scratch.mit.edu/get_image/project/235836208_480x360.png,2018-07-08T18:47:10.000Z,2018-07-08T19:31:54.000Z,2018-07-08T19:24:53.000Z,7,1,0,0,0,,
+235832132,4 GIORNO ,,PREMERE CONTEMPORANEAMENTE BANDIERINA VERDE E SPAZIO,28304428,https://cdn2.scratch.mit.edu/get_image/project/235832132_480x360.png,2018-07-08T17:16:23.000Z,2018-07-08T19:13:00.000Z,2018-07-08T19:09:05.000Z,7,2,0,0,0,,
+235820626,Chase Unstuck #4,"This was trickier than I thought it would be. The idea is that if you press D the dog chases the cat and if you press C the cat chases the dog. It's a little glitchy sometimes and I'm not sure why. Sometimes the dog doesn't bark or the cat doesn't meow. It seems like the sprites don't always know they are touching. 
+
+If anyone has ideas for how I might do this better and/or more efficiently I'd love your suggestions.",Press the green flag to begin or to reset. Press D to make the dog chase the cat and see what happens. Press C to make the cat chase the dog. Press the green flag before you press D or C.,124311,https://cdn2.scratch.mit.edu/get_image/project/235820626_480x360.png,2018-07-08T12:44:58.000Z,2018-07-08T19:48:47.000Z,2018-07-08T19:48:24.000Z,8,2,0,0,0,,
+235835962,Shark tank (Getting Unstuck Day 4),,"Use direction keys to move sharks.
+Press
+space bar=costume change
+c=color change
+l=grow larger
+s=shrink
+t==tell a joke",34198395,https://cdn2.scratch.mit.edu/get_image/project/235835962_480x360.png,2018-07-08T18:41:58.000Z,2018-07-15T04:07:14.000Z,2018-07-08T20:01:06.000Z,9,2,0,0,0,,
+235839130,Unstuck Day 4: Tag (v2) - Dog IS Chasing Cat,"Actually got the dog chasing the cat!  TY @mizzpeters for pointing out that I had dropped the ""show"" button for dog sprite (whoops)
+The pacing of movement for the dog and cat is still not right . . . want a delay and then have them move at the same pace - tricky, tricky!  Will probably come back to it again later.
+","Create a project that controls the appearance of a sprite via the keyboard. 
+Playing Tag: F=forward, C=closer, A=away",18337230,https://cdn2.scratch.mit.edu/get_image/project/235839130_480x360.png,2018-07-08T19:54:02.000Z,2018-07-08T20:13:32.000Z,2018-07-08T20:01:47.000Z,9,2,0,0,0,,
+235839874,Unstuck Day 4 - Keyboard Sprite,"For the coding, I placed all keys in a big forever loop using if statements. This structure allows you to hold a key down to move / change the sprite more fluidly than if you use the ""When Key Pressed"" event.
+
+After having fun messing with the sprite, I assigned the stamp function to the space bar and set the r key to clear the screen. Why waste the cool effects - make art from them!","Arrow Keys: Move Sprite
+q / w Keys: Rotate Sprite
+a / z Keys: Change Colors
+s / x Keys: Whirl / Unwhirl
+r Key: Reset
+Space Bar: Stamp Sprite",7902,https://cdn2.scratch.mit.edu/get_image/project/235839874_480x360.png,2018-07-08T20:12:42.000Z,2018-07-08T20:29:53.000Z,2018-07-08T20:24:55.000Z,11,5,0,0,0,,
+235839330,Getting unstuck Day4,"What did you like most about your project? editing the costumes, usually I don't really play about with them in the editor. 
+
+What would you do with it next, if you had more time? make the programme end once all the food is gone. Make nano's appearance different based on healthy/unhealthy choices. ",,17809789,https://cdn2.scratch.mit.edu/get_image/project/235839330_480x360.png,2018-07-08T19:58:53.000Z,2018-07-20T12:00:52.000Z,2018-07-08T20:30:13.000Z,12,5,0,0,0,,
+235839906,day 4 - space,,"Press ""right arrow"" to move the spaceship forward; press ""left arrow"" to move it back.",214,https://cdn2.scratch.mit.edu/get_image/project/235839906_480x360.png,2018-07-08T20:13:28.000Z,2018-07-08T20:40:30.000Z,2018-07-08T20:37:54.000Z,13,6,0,0,0,,
+235816567,Getting Unstuck: Day 4 ,"Sorry the last planet explodes (the teacher/mom in me has to apologize). 
+
+Hardest part was getting the music to sync up. I just had to pick a different music loop.
+
+If I had more time I would use NASA images.
+
+The clipart is from openclipart.org. I love their site. ","Press green flag.
+(Tip: wait unit the action is completed before pressing the next key)
+Press: a
+Press: b
+Press: c
+Press: d
+Press: e",17807175,https://cdn2.scratch.mit.edu/get_image/project/235816567_480x360.png,2018-07-08T11:03:49.000Z,2018-07-09T12:52:30.000Z,2018-07-08T20:52:37.000Z,17,5,0,0,0,,
+235818535,Getting Unstuck Day 4,"I think I may have gone a little too far with this! I didn't want simple key=effect, so I set a secret key that once found triggers one of 4 effects at random. The secret key then changes and the quest begins again. 
+","Getting Unstuck Day 4
+Create a project that controls the appearance of a sprite via the keyboard.
+
+In this project click the green flag and then hunt the secret letter key for a range of visual effects.",2314547,https://cdn2.scratch.mit.edu/get_image/project/235818535_480x360.png,2018-07-08T11:54:34.000Z,2018-07-08T21:13:34.000Z,2018-07-08T21:13:34.000Z,9,1,0,0,0,,
+235842360,Challenge4Size,,"This is another chemistry quiz. The keyboard letters a, b, c and d control the size of the 4 answer buttons. 
+
+HELP: I can't make the program stop saying ""wrong answer"" on top of the ""right answer"". I think what's happening is, when I press ""d"" for question 2, it's the right answer for question 2, but also it's giving a wrong answer for question 1. But it shouldn't still be reading question 1. There are 2 reasons why it shouldn't - I stopped broadcasting question 1 and I said the variable ""question"" = 2. It's driving me crazy. Please help. ",2190314,https://cdn2.scratch.mit.edu/get_image/project/235842360_480x360.png,2018-07-08T21:16:22.000Z,2018-07-08T21:20:48.000Z,2018-07-08T21:17:18.000Z,8,2,1,0,0,,
+235841485,day 4 getting unstuck - the summer storm remix,"For day 4 I decided to remix my own day 1 project and add interaction where the story develops by simply changing costumes.
+
+Question: I've been seeing a lot of math in projects and I'd like to learn how to incorporate more math and use it... how to make that leap?",Click the green flag to start the story but then follow along to interact with the story.,124064,https://cdn2.scratch.mit.edu/get_image/project/235841485_480x360.png,2018-07-08T20:53:47.000Z,2018-07-08T21:23:02.000Z,2018-07-08T21:22:23.000Z,10,3,1,0,0,,
+235837050,Ducky magical powers,"I was inspired by the project ""Getting Unstuck | Day 4 | Magic!"" by @karenb to do something related to magic.
+I've created a project where the backgrounds change at a specific moment, and where I could control the appearance of a sprite with the keyboard in a more interactive way.
+I added some music and sound effects too.
+I like the story and I'd like to combine more effects and images.
+
+                                      ----Credits----
++ Sprites and bakcgrounds: All of them (except the butterfly) have been created with the Scratch paint editor.
++ Song: ""Intro (Callin Karma)"" by The Kyoto Connection is licensed under a Attribution-Noncommercial-NoDerivatives 2.5 Argentina License. 
+http://freemusicarchive.org/music/The_Kyoto_Connection/No_Headphones_Required/01_-_Intro_Callin_Karma","Press the green flag to start.
+Use the Left and Right arrow keys to move the character.
+Try to cross the red river. If you can cross it, try to pay attention to the signs by following the story.
+Enjoy it!
+
+--Getting Unstuck Day 4--:
+Create a project that controls the appearance of a sprite via the keyboard
+
+
+",4413079,https://cdn2.scratch.mit.edu/get_image/project/235837050_480x360.png,2018-07-08T19:06:05.000Z,2018-07-19T19:25:20.000Z,2018-07-08T21:28:08.000Z,12,3,0,0,0,,
+235842880,Challenge4Size remix,"I'm not sure I saw the glitch you mentioned, so maybe you fixed it before I remixed. I streamlined the code by deleting the broadcast element names. I created a list of element names and had the princess say a # item from the list. This would allow you to add elements to the list to extend the game with much less code.
+
+Each answer is one if/else block when the key is pressed. If you add elements, you need to add an ""___ or ___"" block to the ""if true"" condition for the right answer. See the -2 block for an example.","This is another chemistry quiz. The keyboard letters a, b, c and d control the size of the 4 answer buttons. 
+
+HELP: I can't make the program stop saying ""wrong answer"" on top of the ""right answer"". I think what's happening is, when I press ""d"" for question 2, it's the right answer for question 2, but also it's giving a wrong answer for question 1. But it shouldn't still be reading question 1. There are 2 reasons why it shouldn't - I stopped broadcasting question 1 and I said the variable ""question"" = 2. It's driving me crazy. Please help. ",14632339,https://cdn2.scratch.mit.edu/get_image/project/235842880_480x360.png,2018-07-08T21:30:07.000Z,2018-07-09T00:27:27.000Z,2018-07-08T21:50:02.000Z,7,0,0,0,0,235842360,235842360
+126893346,Felix the wizard Getting Unstuck Day 4,Getting Unstuck Day 4:Create a project that controls the appearance of a sprite via the keyboard,Click on the green flag and read the balloons,8789156,https://cdn2.scratch.mit.edu/get_image/project/126893346_480x360.png,2016-10-21T16:30:58.000Z,2018-07-14T08:02:08.000Z,2018-07-08T21:51:03.000Z,10,2,0,0,0,,
+235822598,Day4 Unstuck: You in Minecraft!,"I decided to go back to an old project I had done, in that project the the idea was that you remix and use the editor to customize your character.  So I did a little more creating and came up with this. 
+I first got stuck when it was time to dance, the pieces of the character were not in sync(I was using Move block).  I took a break and when I came back to it, I decided to use the GLIDE block instead and that worked.
+Currently having a problem now with other keys not always working. If you press the green flag twice it works.  
+
+What I like about this project is making the Scratch Cat into a Minecraft character.   If I had more time, I would make more costumes for more looks.  
+
+Background from http://pixelpapercraft.com/papercraft/4f9f9283c42edb5666000054/grass-background
+music from
+ https://soundcloud.com/shadowmaster01/revenge-minecraft-creeper-song","Day 4 Unstuck: Create a project that controls the appearance of a sprite via the keyboard
+Press S key to choose skin and then up arrow to select
+Press E key to choose eyes and then down arrow to select
+Press M key to choose mouth and then right arrow to select
+Press H key to choose hair and then left arrow to select
+Press P key to choose pants and then X key to select
+Press T key to choose top and then Z key to select
+Once you are done press D key to Dance!
+",1294980,https://cdn2.scratch.mit.edu/get_image/project/235822598_480x360.png,2018-07-08T13:32:46.000Z,2018-07-09T02:13:42.000Z,2018-07-08T22:00:37.000Z,10,4,0,0,0,,
+235841449,Getting Unstuck Day 4,"I tried to be more creative today since I took a little short cut yesterday and used part of a project I had made in the past. For some reason I thought a little bit about a nursery rhyme - that is where the spider idea came from when I was thinking about growing and shrinking.
+
+It probably took longer to modify the characters today then it did to create the coding pieces. I still kept it a short project, but feel my ideas came across. 
+
+I sometimes think in simplistic terms because I teach Scratch to 3rd and 4th graders so most of the projects are on the shorter side while they are learning to create.
+
+This was fun today!","Getting Unstuck Day 4. Press Green Flag to start.
+
+To see Spider grow press the B key, to shrink the S key
+
+After girl says goodbye. press space bar to see her run away.",588430,https://cdn2.scratch.mit.edu/get_image/project/235841449_480x360.png,2018-07-08T20:52:55.000Z,2018-07-24T20:25:18.000Z,2018-07-08T22:41:23.000Z,13,6,0,0,0,,
+235843573,Getting Unstuck: Day 4,,"Make the sun brighter by pressing the B key
+Add some texture to the moon by pressing the W key
+Change the size of the planet by pressing the S key and the color by pressing the C key
+
+
+Create a project that controls the appearance of a sprite via the keyboard. As just one example, you could create a project where a sprite gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key.",25043750,https://cdn2.scratch.mit.edu/get_image/project/235843573_480x360.png,2018-07-08T21:47:42.000Z,2018-07-09T02:10:21.000Z,2018-07-08T22:03:03.000Z,10,0,0,0,0,,
+235848085,Getting Unstuck 4,This is a quick one because I spent today at the beach and I'm a little tired and sunburnt. He's a cute little space ghost though. :),Click the green flag then follow the space ghost's instructions.,18044195,https://cdn2.scratch.mit.edu/get_image/project/235848085_480x360.png,2018-07-08T23:43:07.000Z,2018-07-08T23:51:18.000Z,2018-07-08T23:49:52.000Z,9,2,0,0,0,,
+235844118,Periodic Table ,I tired to use this day to apply it to the course I teach which is chemistry. I could not figure out the if..then block so that if someone picks the wrong answer something else happens. So for now just pick a and it will show you got it right. Any suggestions on how to fix this thanks!,Follow the instructions on the screen. When the questions pops up answer is A. ,34227265,https://cdn2.scratch.mit.edu/get_image/project/235844118_480x360.png,2018-07-08T22:01:35.000Z,2018-07-08T23:51:42.000Z,2018-07-08T23:50:06.000Z,7,1,0,0,0,,
+235844806,Unstuck Day 4 - Keyboard Controlled Characters,,Press H to get the start menu.   See if you can hear the cat talk!,18198558,https://cdn2.scratch.mit.edu/get_image/project/235844806_480x360.png,2018-07-08T22:19:09.000Z,2018-07-09T01:18:47.000Z,2018-07-08T23:13:54.000Z,7,3,0,0,0,,
+235847482,Scratch Through the Looking Glass,"My first inclination was to make a sprite do something fun with keyboard commands, but I was away from the computer for the whole day, so I had lots of time to think about it. I saw a picture of Alice in Wonderland, and wondered if I could do a shrinking and growing Scratch. I could figure out exactly how to trigger him on either side of the mirror though. One side to make him grow, and one side to make him shrink. My extremely ""elegant"" solution was to edit my mirror by putting VERY tiny gray lines on either side of the image that Scratch could bump into and sense and trigger an effect. It worked! And you can't really see the lines!",Use the left and right arrows to move scratch through the looking glass.,22706156,https://cdn2.scratch.mit.edu/get_image/project/235847482_480x360.png,2018-07-08T23:29:12.000Z,2018-07-09T00:11:54.000Z,2018-07-09T00:03:22.000Z,17,9,1,0,0,,
+235849021,Unstuck Day 4 Rushing,This is another example of a lesson that I teach my students in Grade 4.  We tied this lesson into the curriculum when we are learning about using broadcast blocks.  Broadcast blocks in this activity help the snowman know when to talk and ask for the next bit of help.  Each key stroke that is asked for causes a sprite to move into position.,Click the Green Flag to start.  Follow the Snowman's directions so that you can successfully add all of the parts to their correct location.  You will need to use the keys on the keyboard.,7525698,https://cdn2.scratch.mit.edu/get_image/project/235849021_480x360.png,2018-07-09T00:03:28.000Z,2018-07-09T00:06:00.000Z,2018-07-09T00:06:00.000Z,9,4,1,0,0,,
+235846670,Getting Unstuck Day 4,"I added a shark this time in honor of the upcoming Shark Week 2018; however, I did struggle quite a bit with the sprites. At first, I tried to upload a shark silhouette, but I was unable to grow or shrink it. That was my biggest challenge. 
+
+I have to remember that if something doesn't work, it's okay to try something else, which was what I did. ","Click the green flag. 
+Click ""b"" to make the shark bigger. 
+Click ""s"" to make the shark smaller. ",10722024,https://cdn2.scratch.mit.edu/get_image/project/235846670_480x360.png,2018-07-08T23:10:10.000Z,2018-07-09T00:33:27.000Z,2018-07-09T00:27:40.000Z,8,1,0,0,0,,
+235842594,Flowers growing.,The sun and the flowers are from pixabay.  ,"Click the green flag.
+Click on the space bar to see the flowers change colors.
+Click on the letter b to see the flowers get bigger.
+Click on the letter s to see the flowers get smaller.",8909132,https://cdn2.scratch.mit.edu/get_image/project/235842594_480x360.png,2018-07-08T21:22:51.000Z,2018-07-09T00:33:05.000Z,2018-07-09T00:28:56.000Z,10,3,1,0,0,,
+235822752,Day 4 - Underwater adventure,"I wanted to make it look like the divers were moving forward in space. I found it challenging to make the background changes appear like passing scenery. Thanks to @MEStech for the bubble idea.
+
+Day 4 - Create a project that controls the appearance of a sprite via the keyboard. As just one example, you could create a project where a sprite gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key.",Click the flag to get started. Use the right area to navigate the divers forward.,109272,https://cdn2.scratch.mit.edu/get_image/project/235822752_480x360.png,2018-07-08T13:36:28.000Z,2018-07-26T23:42:14.000Z,2018-07-09T01:06:02.000Z,8,3,0,0,0,,
+235818763,Giga changes!! - Getting Unstuck - Day 4,What should Y do?,"Using QWERT letters and Up and Down arrows to change how Giga looks
+The colour using QW
+Next costume using E
+Pixelate using RT
+Arrows for the size 
+
+Reset all the graphics effects using space",19641362,https://cdn2.scratch.mit.edu/get_image/project/235818763_480x360.png,2018-07-08T12:00:59.000Z,2018-07-09T01:27:05.000Z,2018-07-09T01:22:44.000Z,7,2,0,0,0,,
+235852560,Getting Unstuck Day 4,This was a fun project. ,Click the flag. Gobo will give you directions. ,266894,https://cdn2.scratch.mit.edu/get_image/project/235852560_480x360.png,2018-07-09T01:12:46.000Z,2018-07-09T01:28:36.000Z,2018-07-09T01:25:23.000Z,6,3,0,0,0,,
+235829284,Resize,Getting Unstuck Day 4: Create a project that controls the appearance of a sprite via the keyboard. ,Click the green flag to start. Press the up-arrow to enlarge the polygons and down-arrow to reduce the polygons.,25332755,https://cdn2.scratch.mit.edu/get_image/project/235829284_480x360.png,2018-07-08T16:11:31.000Z,2018-07-25T17:19:54.000Z,2018-07-08T17:00:14.000Z,16,4,1,0,0,,
+235851055,Unstuck Day 4 - Follow the Leader,"Challenge: Control a sprite using the keyboard.
+
+The biggest challenges were to make sure the sprites stayed in the proper relative position, and they were properly positioned after a ""trick.""
+
+Update: Added more say blocks and improved motion",Press the flag to begin. The sprites are playing follow the leader. Press any of the arrow keys to see them play the game. Press the letter E to end their game.,10715270,https://cdn2.scratch.mit.edu/get_image/project/235851055_480x360.png,2018-07-09T00:44:12.000Z,2018-07-28T22:38:59.000Z,2018-07-09T01:47:06.000Z,8,3,0,0,0,,
+170195842,Day 4-Getting unstuck - keyboard trucks,Day 4 of getting unstuck. Create a project that controls the appearance of a sprite via the keyboard.,Press letters for each vehicle. Press the space to drive it. Click on the vehicle to make it stop moving.,16509596,https://cdn2.scratch.mit.edu/get_image/project/170195842_480x360.png,2017-07-31T23:36:16.000Z,2018-07-09T23:19:41.000Z,2018-07-09T02:22:40.000Z,11,1,0,0,0,,
+235847394,Costume designer,"This project responds to the prompt for Getting Unstuck:  Day 4:  Create a project that controls the appearance of a sprite via the keyboard. As just one example, you could create a project where a sprite gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key.'""
+
+Today's strategy was...JUST KEEP GOING!  This was a tedious project to put together, and I had to tinker with it quite a while to get it to do what I wanted.  I do feel like I learned some new tricks in the process!","You are a costume designer.  
+There are 7 costumes.  
+For each costume, type:
+- b to change brightness;
+- c to change the color;
+- f to add a fisheye effect;
+- p to pixelate;
+- w to whirl;
+- u to undo all effects.
+Click on a costume when done, and a new one will appear.  Bravo if you design all 7!",527557,https://cdn2.scratch.mit.edu/get_image/project/235847394_480x360.png,2018-07-08T23:27:50.000Z,2018-07-09T14:58:53.000Z,2018-07-09T02:26:15.000Z,11,3,0,0,0,,
+235845084,Getting Unstuck Challenge 4 - American Gothic style,"Excited to revisit a project from CS First Coding Club which I run at my school.
+Fairly simple coding, but effects using paint tools on the sprites add to project.
+Finally worked out how to make sound stop with end of script using stop this script block.
+If presenting to class have decided would perhaps need a few hint codes for those less able.
+Loving this challenge.","Visit scratch.mit.edu/projects/24454633/remixes/ to see CS First projects that began with this starter project.
+
+Click green flag.
+Click on sprites.
+Click up down right and left keys for additional effects.",13484475,https://cdn2.scratch.mit.edu/get_image/project/235845084_480x360.png,2018-07-08T22:27:11.000Z,2018-07-09T02:28:56.000Z,2018-07-09T02:23:49.000Z,20,5,2,0,0,24454633,24454633
+235854002,Day4 Unstuck Keyboard Interaction,"I enjoyed this one, the only thing frustrating to me was I could get my kid/student to disappear or say something when the trex go to her but I couldn't get her to say something and disappear.  I also didn't notice the sound volume increasing either some things I will have to investigate. ","Press spacebar to increase dino size, speed and the music speed.
+
+Create a project that controls the appearance of a sprite via the keyboard. As just one example, you could create a project where a sprite gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key. ",20446522,https://cdn2.scratch.mit.edu/get_image/project/235854002_480x360.png,2018-07-09T01:41:38.000Z,2018-07-10T01:46:48.000Z,2018-07-09T02:30:08.000Z,6,2,0,0,0,,
+235856121,Let's Dance,"Okay, this day was fun!  It just seemed like it came together well, although I had to think about waiting one second between movements in order for it all to work.","Keyboard letter d to make her dance
+Keyboard letter c to make her change ballet position",34205973,https://cdn2.scratch.mit.edu/get_image/project/235856121_480x360.png,2018-07-09T02:21:07.000Z,2018-07-09T02:39:53.000Z,2018-07-09T02:37:58.000Z,5,2,0,0,0,,
+235856744,unstuck day 4,I like create project with script sensing. I had explore many ways to make something different.,,34216021,https://cdn2.scratch.mit.edu/get_image/project/235856744_480x360.png,2018-07-09T02:33:13.000Z,2018-07-09T02:45:03.000Z,2018-07-09T02:34:02.000Z,12,1,0,0,0,,
+235848419,Getting Unstuck Challenge #4,,"In this challenge, different keys on the keyboard cause different effects on the dinosaurs. I liked incorporating sound on this one. ",10296314,https://cdn2.scratch.mit.edu/get_image/project/235848419_480x360.png,2018-07-08T23:49:57.000Z,2018-07-09T02:47:41.000Z,2018-07-09T02:46:39.000Z,7,2,0,0,0,,
+235853911,#GettingUnstuck Day 4,,Press the W key to begin Avery'sw conversation. Then press the J key for Devin's response,18062705,https://cdn2.scratch.mit.edu/get_image/project/235853911_480x360.png,2018-07-09T01:39:55.000Z,2018-07-09T02:48:53.000Z,2018-07-09T02:47:58.000Z,3,0,0,0,0,,
+235827172,word art,"I set out to make something that would create visuals based on the words people typed. The only variable I ended up using was how many characters were in the word. Would have been cool to keep track of something like ""vowels"" and/or actually display the words people type, but my knowledge of strings is a bit too rudimentary. ","Just click the green flag and start typing some ""words"". Be sure to string them together in a sentence.",19031046,https://cdn2.scratch.mit.edu/get_image/project/235827172_480x360.png,2018-07-08T15:21:21.000Z,2018-07-09T02:55:08.000Z,2018-07-09T02:50:11.000Z,2,0,0,0,0,,
+235857559,Gattus Sfortunatibus,"I got the idea by looking at @mres project, I liked how simple and compelling it was, and it reminded of this project that I made years ago with children during a summer camp in Italy. One of them @GiochiBlu gave me the idea for the clones trick. Only after I realized how many people chose a magic theme, including @mizzpeters @karenb @heloisazal and many others!
+
+In the original project I only had the voice for the banana spell, I added all of the others. If I had more time I would invent more magic tricks!","Press keys 1, 2, 3, 4, 5, 6, 7 to try all the magic spells on the poor Scratch Cat!
+
+Press the space bar to cancel the effects.",2286560,https://cdn2.scratch.mit.edu/get_image/project/235857559_480x360.png,2018-07-09T02:46:31.000Z,2018-07-19T01:49:04.000Z,2018-07-09T03:07:01.000Z,9,5,0,0,0,,
+235847736,Unstuck Day 4: Magic Soccer,I had a lot of fun using the colors to control the sprite's appearance. I also really enjoyed figuring out how to get the ball to appear to score a goal.  ,Click on the green flag to begin.  Watch to see how the tricky cat scores a goal.  ,34190490,https://cdn2.scratch.mit.edu/get_image/project/235847736_480x360.png,2018-07-08T23:35:30.000Z,2018-07-09T03:14:24.000Z,2018-07-09T03:12:11.000Z,5,1,0,0,0,,
+235733034,Unstuck Day 3: Make Some Music,"I used the tips in Scratch to help me with the coding piece.  My son, who played flute for 8 years, helped me with the beats of the notes.","Click on the cat sprite first.  When it is finished walking and playing, click on the dinosaur sprite.  After it finishes, click on the butterfly.",34190490,https://cdn2.scratch.mit.edu/get_image/project/235733034_480x360.png,2018-07-07T02:10:58.000Z,2018-07-07T22:26:33.000Z,2018-07-07T22:24:29.000Z,9,2,1,0,0,,
+235842630,Planet Fall - 2 Player (Unstuck 4),"The goal for this challenge was to ""create a project that controls the appearance of a sprite via the keyboard."" My entry for project 3 did that, so I wanted to try experiment with some other ideas:
+
+* the background changes as the rocket sprite moves; I was going for the illusion of movement
+
+* having the planets resize via the ""b"" key but also ""snap"" back to normal automatically while also ""falling"" and changing location with each pass. 
+
+
+","This is a two player game meant for connecting to Makey Makey. 
+
+The  idea is that Player 1 (the rocket) can only move side-to-side (like in Galaga) while Player 2 controls the size of the planets as they scroll down the screen. 
+
+The object of the game is for Player 1 to dodge the planets by pressing the left arrow/right arrow keys,  while Player 2 can scale the  planet 1 with the up arrow and planet 2 with the down arrow. 
+
+Players could make custom, 2 button space themed controllers that would trigger the keyboard keys.
+
+Things to add: more objects for the rocket to avoid and a system to keep score and one to change players.
+",27690149,https://cdn2.scratch.mit.edu/get_image/project/235842630_480x360.png,2018-07-08T21:24:04.000Z,2018-07-10T13:32:05.000Z,2018-07-09T03:53:30.000Z,5,1,1,0,0,,
+235843294,BreakOut!,"'Loud Metal' Sound Effect from StoryBlocks
+Velocity & Gravity Tutorial from YouTube helped a lot! https://youtu.be/4YoGkwV7D9c
+
+Super fun! Would love to incorporate a chase... I thought I was going to use the keyboard to do the jump, but went into a rabbit hole and ended up using velocity & gravity. 
+***Day #5 Challenge... incorporating a Helicopter Chase","Click Green Flag to Begin
+Use Up Arrow to Break Out 
+Use Left Arrow to Get Away
+Use Space Bar to Move Helicopter left
+Use Down Arrow to Move Helicopter Down ",10859938,https://cdn2.scratch.mit.edu/get_image/project/235843294_480x360.png,2018-07-08T21:41:03.000Z,2018-07-09T18:37:21.000Z,2018-07-09T04:03:12.000Z,12,1,0,0,0,,
+235861437,Day 4,,,24884035,https://cdn2.scratch.mit.edu/get_image/project/235861437_480x360.png,2018-07-09T04:16:10.000Z,2018-07-09T04:32:30.000Z,2018-07-09T04:32:29.000Z,5,0,0,0,0,,
+235848174,Getting Unstuck Day 4 Challenge,"I'm working on the custom block that animates the letters. I want it to run the script if the letters are below y axis -10, but once they reach y axis -10 I want them to stop moving to prevent them from going over the face. It's not working yet, the letters go above y axis -10 so I'll have to debug.","CLick the green flag to start. Press the letters of my name on the keyboard, to make my photo change in different ways. Watch as the letters grow when you press the buttons.",17824064,https://cdn2.scratch.mit.edu/get_image/project/235848174_480x360.png,2018-07-08T23:44:52.000Z,2018-07-09T04:42:25.000Z,2018-07-09T00:21:20.000Z,11,1,0,0,0,,
+235862875,Getting Unstuck - Day 4 ,"This is a remix from a project I made with my students and Makey-Makey. Ss had to draw all characters after making some research and by creating a physical controller, guests could navigate through Mexico by going North, South, East or West to uncover Mexico's traditions and providing different types of information. The controller had to match the character that is taking you through Mexico: in this case, ss made a colour pallette and a paint brush to navigate.
+Thank you Miranda and Ulises for your inspiration.
+
+I am still working in timing as it might get stuck sometimes.. specially if you touch three entities in the southern part of Mexico.
+
+","Getting Unstuck Day 4  - Music and dance in Mexico.
+
+Click on the green flag.
+Navigate through Mexico
+Up arrow - North
+Down arrow - South
+Right arrow - East
+Left arrow - West
+
+Try not to touch two states at a time (I'm still fixing timing and program, any suggestions?)
+",32493591,https://cdn2.scratch.mit.edu/get_image/project/235862875_480x360.png,2018-07-09T04:53:46.000Z,2018-07-09T14:52:11.000Z,2018-07-09T06:07:26.000Z,2,2,0,0,0,,
+235865999,Beware of...,,Click on the green flag.,17755152,https://cdn2.scratch.mit.edu/get_image/project/235865999_480x360.png,2018-07-09T06:06:20.000Z,2018-07-09T06:29:11.000Z,2018-07-09T06:29:11.000Z,4,1,0,0,0,,
+235859105,Tennis lesson with the bird - Watch the ball!(Getting Unstuck Day 4: ),"arrow keys image: Wikimedia - Karl432
+trophy image: fir0002 | flagstaffotos.com.au ","When you are playing tennis, it is important to keep your eye on the ball.  Practice this skill with the bird who is learning to watch the ball. 
+
+ Use arrow keys to point to the bird to the tennis ball.  ",17257831,https://cdn2.scratch.mit.edu/get_image/project/235859105_480x360.png,2018-07-09T03:17:52.000Z,2018-07-13T05:31:15.000Z,2018-07-10T01:09:10.000Z,4,0,0,0,0,,
+235869090,Getting Unstuck - Day 4 (sprite!),"I like the idea of turning sprites into patterns...but I also like the idea of using the keyboard for storytelling! If I had more time, I'd experiment with that.",Use the space key to change the appearance of the crab!,2752403,https://cdn2.scratch.mit.edu/get_image/project/235869090_480x360.png,2018-07-09T06:59:05.000Z,2018-07-09T07:09:51.000Z,2018-07-09T07:05:02.000Z,8,0,0,0,0,,
+230099423,Day 4 Getting Unstuck,"Semplice programma da utilizzare non solo con la tastiera, ma anche con MakeyMakey. Io ad esempio ho creato un grande cuore con carta alluminio che i bambini toccavano e facevano battere.
+Day 4 Getting Unstuck",Clicca la bandierina verde e segui le istruzioni,10086796,https://cdn2.scratch.mit.edu/get_image/project/230099423_480x360.png,2018-06-21T13:53:29.000Z,2018-07-09T07:30:54.000Z,2018-07-06T14:13:08.000Z,6,1,0,0,0,,
+235870660,Unstuck_4,,"After clicking the green flag, to make Kitty bigger press key b, to make Kitty smaller press key s.  To change Kittyʻs color, press m",9694576,https://cdn2.scratch.mit.edu/get_image/project/235870660_480x360.png,2018-07-09T07:23:14.000Z,2018-07-09T07:32:38.000Z,2018-07-09T07:31:34.000Z,5,0,0,0,0,,
+235870487,Cat of 1000 Colours,This one wasn't too hard to do as it utilised the same script for each element.,Type the first letter of which colour circle you want to go to or G to grow and S to shrink. To revert to original form press the space bar.,30508500,https://cdn2.scratch.mit.edu/get_image/project/235870487_480x360.png,2018-07-09T07:20:15.000Z,2018-07-09T07:58:15.000Z,2018-07-09T07:54:21.000Z,4,0,0,0,0,,
+235876221,day_4,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/235876221_480x360.png,2018-07-09T08:43:22.000Z,2018-07-09T08:52:39.000Z,2018-07-09T08:52:37.000Z,4,0,0,0,0,,
+235876590,unstuck4_wizards_apprentice,I loved this story as a kid,press space bar,17651534,https://cdn2.scratch.mit.edu/get_image/project/235876590_480x360.png,2018-07-09T08:48:29.000Z,2018-07-09T08:52:39.000Z,2018-07-09T08:50:53.000Z,5,0,0,0,0,,
+162660875,"day 4 ""a fun game""",To be honest this is a project which i did with the help of my teacher a year ago during Scratch lessons.,"HAVE FUN with the game.
+-try to click on bats and they will disappear with npoise
+-the bats also disappear when the wizard touches them with his magic wand .
+
+- ....και ο μάγος έγινε παιχνίδι
+-αν  καταφέρεις και αγγίξεις τα  κινούμενα αντικείμενα με τον δείκτη του ποντικιού παράγουν ήχο και εξαφανίζονται.
+-για προσπάθησε!
+-ο μάγος και το χαλί κινούνται όπως το ποντίκι 
+6.3.2
+-τα ζωάκια εξαφανίζονται και αν ακουμπήσουν το ραβδί του μάγου",23593293,https://cdn2.scratch.mit.edu/get_image/project/162660875_480x360.png,2017-05-23T14:21:49.000Z,2018-07-09T09:38:53.000Z,2017-05-23T14:33:55.000Z,3,0,0,0,0,,
+235866930,Getting Unstuck: Day 4,"Getting Unstuck: Day 4
+Challenge: Create a project that controls the appearance of a sprite via the keyboard. As just one example, you could create a project where a sprite gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key.
+
+Nice way to zoom in and to scale down a sprite. I know that in this project wuold be better if the changes are commanded by code... But I took the opportunity of this task to do this project for one of my friend who celebrating his birthday today. "," Cake gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key. The background music lasts 20 seconds.",17615581,https://cdn2.scratch.mit.edu/get_image/project/235866930_480x360.png,2018-07-09T06:22:29.000Z,2018-07-22T15:02:50.000Z,2018-07-09T09:01:02.000Z,3,1,0,0,0,,
+235873312,Day 4 - Getting Unstuck,"My robots => LEGO® BOOST https://shop.lego.com/
+
+REMIX by Mitchel Resnick (@mres), LEGO Papert Professor of Learning Research at the MIT Media Lab 
+(https://scratch.mit.edu/users/mres/)
+created a project in response to Challenge #4 of the ""Getting Unstuck"" initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+
+This project is a variation of a first Scratch projects, created back in March 2007 (before the public launch of Scratch!):
+https://scratch.mit.edu/projects/142/","Click the Green Flag. Move the mouse over the photos to play with different image effects. Click the Green Flag again to restart. 
+
+Press keys to play:
+(C) to change color - (P) to pixelate
+(F) for fisheye effect - (W) for whirl effect 
+(M) to hear Frankie the cat meowing
+
+To reverse the effects: Press the key immediately to the left on the keyboard. For example, press X (immediately to the left of C) to reverse the color shift, press O to reverse pixelate, press D to reverse fisheye, and press Q to reverse whirl.",26079479,https://cdn2.scratch.mit.edu/get_image/project/235873312_480x360.png,2018-07-09T08:04:02.000Z,2018-07-24T22:20:06.000Z,2018-07-09T09:46:49.000Z,5,0,0,0,0,142,142
+235872371,balls and bricks,"GettingUnstuck DAY4
+
+Try to remix:
+- add a variable to count the yellow balls
+- set the falling time randomly
+- add a sound when a ball touches a brick","14 balls fall from the sky and must reach the ground (when this happens the ball become yellow). But there are bricks that block them. You have to click the right letter to make the brick disappear and allow the ball to reach the ground.
+At the end all the bricks should be replaced by yellow balls
+",2143382,https://cdn2.scratch.mit.edu/get_image/project/235872371_480x360.png,2018-07-09T07:49:53.000Z,2018-07-09T10:31:50.000Z,2018-07-09T10:26:29.000Z,17,2,1,0,0,,
+235885101,Getting Unstuck: Day 4,Pretty flowers,,24912473,https://cdn2.scratch.mit.edu/get_image/project/235885101_480x360.png,2018-07-09T11:01:15.000Z,2018-07-16T16:38:47.000Z,2018-07-09T11:08:14.000Z,2,0,0,0,0,,
+235887930,#GettingUnstuck_4,"I´d change backdrop, and I´d add actions to the dog as ""say: ""hi, my name is ...."".","Click the green flag.
+Click on letter ""b"" to see the dog gets bigger.
+Click on letter ""s"" to see dog gets smaller.
+Click on letter ""m"" to change costume.
+Click on letter ""r"" to move the dog.",16962202,https://cdn2.scratch.mit.edu/get_image/project/235887930_480x360.png,2018-07-09T11:43:24.000Z,2018-07-09T12:33:13.000Z,2018-07-09T12:33:12.000Z,5,0,0,0,0,,
+235825645,Day 4 - Crazy Numbers,,,24154277,https://cdn2.scratch.mit.edu/get_image/project/235825645_480x360.png,2018-07-08T14:45:27.000Z,2018-07-09T13:24:29.000Z,2018-07-09T13:24:29.000Z,3,0,0,0,0,,
+235899154,Getting Unstuck Day 4,"Thanks to #GettingUnstuck Day 4 for the inspiration.
+I chose a different sprite here because I often just stick with Scratch.
+The biggest decision I had with this project was with how to respond to key presses.
+Years ago, I started off (with 1.4) using the hat blocks for a game
+https://scratch.mit.edu/projects/2757068/#player
+ but someone suggested that I use a loop. I tried it and it was smoother.
+However for this project I found the hat blocks worked better. Compare with https://scratch.mit.edu/projects/235910619/","Click the green flag to start or to reset the graphical effects.
+These keys change something on the sprite
+e - changes the ear colour
+c - changes the costume (choose from 1, 2, 3, or 4
+t - changes the transparency until Nano becomes invisible!
+w - changes the whirl effect ( I've loved this since Scratch 1.4!)
+
+Press Space to stop the stage colour effect. it might get on your nerves",287832,https://cdn2.scratch.mit.edu/get_image/project/235899154_480x360.png,2018-07-09T13:47:01.000Z,2018-07-09T16:36:22.000Z,2018-07-09T14:37:10.000Z,5,0,0,0,0,,
+235858928,Ee-volution remix,"My background knowledge on Pokeman = 0. So, I made the list visible to check my coding results. (You could certainly hide the list.) My goal was to keep the project similar to the original while tweaking it to let the user have multiple tries at evolving. I faced many challenges...and persevered! Getting unstuck --> try and fail, and try again! 
+First, I needed to understand the sequence of broadcast blocks. I numbered them with comments. I eliminated one broadcast block, & renumbered the rest. 
+In order to make the theme music stop playing, I made a variable and triggered it to change. The theme music plays in a ""repeat until"" loop. 
+To make the victory music stop, I finally found a simple solution: a wait block followed by a stop all command.
+I eliminated the evolve music from the original project b/c it didn't work well with the user choice to repeatedly select different evolutions.
+","Press the green flag to start, then follow along with the prompts! In this project you can choose how you'd like to evolve your Eevee. Make sure your sound is on!",24741621,https://cdn2.scratch.mit.edu/get_image/project/235858928_480x360.png,2018-07-09T03:13:47.000Z,2018-07-09T14:58:35.000Z,2018-07-09T14:58:35.000Z,5,3,0,0,0,235785766,235785766
+235852930,Getting Unstuck Day 4,I had fun creating this project. I enjoyed having the fox move about with different commands and changing the backdrop.,"keyboard commands:
+space bar : flips adult fox
+right arrow key : move right
+left arrow key: move left
+up arrow key: move up
+down arrow key: move down
+
+When you click the green flag move the adult fox to the burrow hole. The adult fox will transition to the inside of the burrow to see the baby fox.",24781756,https://cdn2.scratch.mit.edu/get_image/project/235852930_480x360.png,2018-07-09T01:19:31.000Z,2018-07-09T15:58:09.000Z,2018-07-09T15:40:22.000Z,9,1,0,0,0,,
+235915299,Crash,"I really wanted to capture every different possible keystroke - which I could kind of get to with `when <any> key pressed`, but then there was no way to check which key was pressd and respond accordingly. I did however stumble upon a great way to crash Flash by creating way too many sprites :)",Pound on the keyboard,1092342,https://cdn2.scratch.mit.edu/get_image/project/235915299_480x360.png,2018-07-09T16:08:28.000Z,2018-07-09T16:16:29.000Z,2018-07-09T16:15:04.000Z,7,0,0,0,0,,
+235920143,Unstuck: Day 4,"Its nice for the kids build your city
+By Filipe Mendes
+#GettingUnstuck","Build a city
+Press green flag bor begin and then space to build a city ;)
+The goal is build a city only with a retangle. Use:
+B for bigger
+S for smaller
+F to fix the blok
+C to change color and the arrow keys for move the retangle",2980392,https://cdn2.scratch.mit.edu/get_image/project/235920143_480x360.png,2018-07-09T16:56:33.000Z,2018-07-09T17:23:53.000Z,2018-07-09T17:17:38.000Z,6,1,2,0,0,,
+235892981,Getting Unstuck: Day 4,Icon made by Freepik from www.flaticon.com ,"Use the right and left key to change the landmark, and the up and down key to change the color, to pick the next place to travel!",599612,https://cdn2.scratch.mit.edu/get_image/project/235892981_480x360.png,2018-07-09T12:49:28.000Z,2018-07-10T12:25:37.000Z,2018-07-09T17:50:05.000Z,9,1,0,0,0,,
+235925510,Getting UNstuck Day 4,"I debated having both butterflies controlled by the same keys, I think most students will also use WASD.","Click green flag for instructions,
+see how to change the butterflies using the arrow keys.",11305008,https://cdn2.scratch.mit.edu/get_image/project/235925510_480x360.png,2018-07-09T17:46:30.000Z,2018-07-09T18:00:59.000Z,2018-07-09T17:59:03.000Z,2,0,0,0,0,,
+235911423,Buttons the clown,Today was a day that was tight on time.  Hence my project is a bit lacking. ,Follow the on screen instructions - beware - clowns ahead. ,2876976,https://cdn2.scratch.mit.edu/get_image/project/235911423_480x360.png,2018-07-09T15:30:52.000Z,2018-07-09T18:06:07.000Z,2018-07-09T18:03:44.000Z,4,1,0,0,0,,
+235927055,Better vision,,"Help Gobo to get a  better vision with his glasses
+pressing letter G",3602053,https://cdn2.scratch.mit.edu/get_image/project/235927055_480x360.png,2018-07-09T18:00:20.000Z,2018-07-10T17:46:56.000Z,2018-07-09T18:15:59.000Z,6,1,0,0,0,,
+235843431,QWERTY manipulations,"I put my notes and comments next to the Sprite scripts. 
+
+",Each key in QWERTY1 manipulates the sprite in their own way and can be combined.,34179488,https://cdn2.scratch.mit.edu/get_image/project/235843431_480x360.png,2018-07-08T21:44:27.000Z,2018-07-09T18:59:09.000Z,2018-07-09T18:54:34.000Z,3,0,0,0,0,,
+235935790,Sprite appearance,,"Click the flag to start, then use the buttons to control the appearance of the wizard.",13189460,https://cdn2.scratch.mit.edu/get_image/project/235935790_480x360.png,2018-07-09T19:16:52.000Z,2018-07-09T19:34:27.000Z,2018-07-09T19:34:06.000Z,4,0,0,0,0,,
+235870187,GettingUnstuck-04,"I was really in trouble this time because I was lacking interesting ideas, so I had a quick tour of other projects and decided to employ something I really find interesting: the periodicity in the definition of the hue.
+The game itself is quite boring and probably a bit frustrating: the funny part was to get the ball correctly finding if it was on the correct color (just the first time it touches it). I also had to remove apples border","Green flag to start, ""a"" and ""s"" to change the color of the two apples.
+When the ball rolls on her color you increase points, otherwise they are subtracted.
+Ball itself changes color randomly.",25876369,https://cdn2.scratch.mit.edu/get_image/project/235870187_480x360.png,2018-07-09T07:16:17.000Z,2018-07-09T19:52:37.000Z,2018-07-09T19:46:31.000Z,7,1,0,0,0,,
+235937096,Getting Unstuck Day 4,"I love how open ended this project was.  It was challenging to be creative.  I think this is something kids (and adults) need.  We all need more chances to get creative. When I watch my kids play, I'm always amazed at how they imagine such unique things.  I need to be more like them! 
+
+If I had more time, I would figure out how to make the sprite say ""GOAL"" if it hit the net or ""Bummer, missed!"" if not. ",Click the green flag to play some soccer! ,34221568,https://cdn2.scratch.mit.edu/get_image/project/235937096_480x360.png,2018-07-09T19:32:22.000Z,2018-07-09T20:05:42.000Z,2018-07-09T20:05:42.000Z,3,0,0,0,0,,
+235937732,Goalllllll! Day #4 Getting Unstuck,"What did you like most about your project? I like that I was able to do this one faster and love the narrative. 
+What would you do with it next, if you had more time? I would figure out how to get the transitions between ball movements and backdrops smoother.",Press the space bar to start and the down arrow to reset.,28676433,https://cdn2.scratch.mit.edu/get_image/project/235937732_480x360.png,2018-07-09T19:40:47.000Z,2018-07-09T20:14:02.000Z,2018-07-09T20:10:28.000Z,6,0,0,0,0,,
+235842471,Chicken,,Leftclick on the screen to help the chicken hatch the egg,11482292,https://cdn2.scratch.mit.edu/get_image/project/235842471_480x360.png,2018-07-08T21:19:18.000Z,2018-07-09T20:15:46.000Z,2018-07-09T20:14:25.000Z,7,2,0,0,0,,
+235937794,burattino_puppet (Getting Unstucked D4),"Controlling sprites with the keyboard is very frequent in my scratch creations, so I've tried to push me a little bit furtherd.... but maybe this time was too much. 
+I want to add legs control in every side and arms control in left and right side!!
+Right now I can understand how much work and time takes the making of a wooden puppet in the real world :)","I've tried to experiment how to recreate with scratch the control mechanism of a wooden puppet, like in the ancient sicilian theathers.
+
+Use A,W,D keys to control the side
+When you're on front you can control the arms with up, left, right arrow",6030800,https://cdn2.scratch.mit.edu/get_image/project/235937794_480x360.png,2018-07-09T19:41:28.000Z,2018-07-09T20:42:22.000Z,2018-07-09T20:16:54.000Z,7,2,0,0,0,,
+235938827,Getting Unstuck Day 4 - ninja  android takeover,"I REALY enjoyed this one. Was a lot of fun adding costume change to the mix. 
+I might remix this as a game at some point. 
+","Getting Unstuck Day 4
+#CreativeComputing
+#GettingUnstuck
+Create a city using keys:
+arrow keys move the image
+B = bigger
+S = smaller
+C= = colour change",24864870,https://cdn2.scratch.mit.edu/get_image/project/235938827_480x360.png,2018-07-09T19:55:54.000Z,2018-07-15T09:57:47.000Z,2018-07-09T21:04:15.000Z,8,0,0,0,0,,
+235951190,Getting Unstuck - Day 4,"These sprites and the idea are actually from the UTeach curriculum which we use for AP Computer Science Principles in my district. I didn't want to recreate the wheel so I used the sprites and the idea (but not the actual project, which included lists and bitstrings and is very cool). ",Click the Green Flag to start. Use the keys indicated to make Mario do his thing.,2360384,https://cdn2.scratch.mit.edu/get_image/project/235951190_480x360.png,2018-07-09T23:16:01.000Z,2018-07-10T00:23:57.000Z,2018-07-10T00:23:57.000Z,7,0,0,0,0,11419986,11419986
+235955077,Getting Unstuck Day 4,"I feel like I could go further with this project, but I like the effect so far. Since I'm trying to catch up on the Getting Unstuck days I'll come back later.",Challenge: Create a project that controls the appearance of a sprite via the keyboard.,34245752,https://cdn2.scratch.mit.edu/get_image/project/235955077_480x360.png,2018-07-10T00:24:56.000Z,2018-07-10T01:29:30.000Z,2018-07-10T01:28:05.000Z,4,0,0,0,0,,
+235955658,Getting_Unstuck_Day4    ,"Reflection:
+I've just realised that I focused on the ""using keyboard"" aspect of the project brief instead of the ""change appearance"".  Sigh.  Programming 101: read the brief, understand the brief, deliver the brief!  If I have time, I will make changes to the game to reflect the brief.  In the meantime...
+
+This game was a lot of fun to create, with my seven-year-old son as the primary tester!  Having a smaller child test your creations is really useful as they are so honest and expressive that you can tell exactly what they are thinking!
+
+The challenge was to use broadcasting to pass off to different sprites when things were happening so I could capture the event properly. I also needed to use lots of variables to keep track of different parts.  One challenge early on was working out how to handle what happens when a laser bolt hits a meteor.  I worked it out using a variable but before then, often EITHER the meteor OR the laser bolt would be destroyed but not both.","Meteor Dash!
+
+Avoid or shoot to meteors before they hit you.
+
+Use arrow keys to move the spaceship.
+
+Press spacebar to shoot.
+
+Press s to unleash a supernova fury but be careful! You've only got three.
+
+There is a secret cheat mode if you know ",13763665,https://cdn2.scratch.mit.edu/get_image/project/235955658_480x360.png,2018-07-10T00:34:34.000Z,2018-07-10T03:35:17.000Z,2018-07-10T03:27:42.000Z,3,1,0,0,0,,
+235951162,Getting Unstuck - Day 4,"The most difficult part of this project was the shape of the earrings.  Editing in Scratch was not easy.  Instead I used Google Drawings to crop the shape, download and then upload.","Getting Unstuck - Day 4: Create a project that controls the appearance of a sprite via the keyboard.
+
+b - changes the background
+space - changes the earring shape
+l - makes the earrings larger
+s - makes teh earrings smaller
+Arrow keys move the earrings",14400846,https://cdn2.scratch.mit.edu/get_image/project/235951162_480x360.png,2018-07-09T23:15:17.000Z,2018-07-10T03:41:23.000Z,2018-07-10T03:35:02.000Z,8,2,0,0,0,,
+235974747,Unstuck 4,"I liked the creative process. I have just started making it really simple, and then it came the idea of making a frame! :) ","Press Green Flag to start
+Press g to change costume and create your frame!
+
+Premi Bandierina Verde per iniziare
+Premi g per cambiare costume e creare la tua cornice!",13846307,https://cdn2.scratch.mit.edu/get_image/project/235974747_480x360.png,2018-07-10T06:28:19.000Z,2018-07-10T06:35:47.000Z,2018-07-10T06:33:04.000Z,4,0,0,0,0,,
+235975919,Changing Appearance.,,Click on the green flag then press any letter a-g and see what happens.,32833725,https://cdn2.scratch.mit.edu/get_image/project/235975919_480x360.png,2018-07-10T06:45:46.000Z,2018-07-10T07:14:46.000Z,2018-07-10T07:14:45.000Z,6,0,0,0,0,,
+235994064,GettingUnstuckDay4,,Some of the letters on your keyboard will trigger reactions - have a try!,4610900,https://cdn2.scratch.mit.edu/get_image/project/235994064_480x360.png,2018-07-10T10:53:21.000Z,2018-07-10T11:11:16.000Z,2018-07-10T11:09:54.000Z,4,0,0,0,0,,
+235995140,Getting Unstuck day4,,click on the green flag and press any arrow,25103547,https://cdn2.scratch.mit.edu/get_image/project/235995140_480x360.png,2018-07-10T11:11:48.000Z,2018-07-10T11:52:08.000Z,2018-07-10T11:50:33.000Z,5,0,0,0,0,,
+236014230,Getting Unstuck: Day 4,,Click the Green Flag to start. Use the keys indicated to make Scratch do his thing,19738986,https://cdn2.scratch.mit.edu/get_image/project/236014230_480x360.png,2018-07-10T14:22:42.000Z,2018-07-10T15:03:30.000Z,2018-07-10T14:43:57.000Z,5,0,0,0,0,,
+236019375,Fire Breathing Dragon,"This one was pretty easy once I discovered you could see inside other people's project and get help with the codes. Love the  ""broadcast/receive message"" option under the event block!",Use the magic wands to grow or shrink your dragon! Just press on each wand and see the magic,34227265,https://cdn2.scratch.mit.edu/get_image/project/236019375_480x360.png,2018-07-10T15:04:09.000Z,2018-07-10T15:26:34.000Z,2018-07-10T15:26:33.000Z,9,1,0,0,0,,
+235842774,Change Size,,"""b"" makes Gobo bigger
+The space key makes Gobo change color
+The ""up arrow"" changes Gobo to the next costume 
+The ""a"" key makes the scratch cat move
+The ""z"" key makes the scratch cat change color 
+The ""h"" key makes Avery change the costume to the next costume
+",25706025,https://cdn2.scratch.mit.edu/get_image/project/235842774_480x360.png,2018-07-08T21:27:31.000Z,2018-07-09T21:12:28.000Z,2018-07-09T21:12:28.000Z,5,0,0,0,0,,
+236034021,Getting Unstuck #4,#GettingUnstuck,"Clicca sulla bandierina verde
+Premi la barra spaziatrice e segui le istruzioni di Scratch",17320587,https://cdn2.scratch.mit.edu/get_image/project/236034021_480x360.png,2018-07-10T17:19:28.000Z,2018-07-10T18:02:02.000Z,2018-07-10T18:00:14.000Z,1,0,0,0,0,,
+236038454,unstuck 4,,"Click C to make him walk
+
+Click B to make him change colour
+
+click A to make him bigger
+
+click D to make him smaller",23449511,https://cdn2.scratch.mit.edu/get_image/project/236038454_480x360.png,2018-07-10T18:00:31.000Z,2018-07-10T18:14:35.000Z,2018-07-10T18:10:40.000Z,3,0,0,0,0,,
+236048084,Day 4 - Flowers in the Sky Part 2,"I couldn't think of something new to do, so decided to modify my Day 2 project to incorporate the keystroke changes.  I wanted to make one key be a toggle for the spinning, but couldn't get that work right,so I had to make it two different keys. ","Click on the green flag. Then click anywhere in the sky to add new starts.  
+Letter ""c"" changes the color of the stars
+Letter ""m"" changes the color of the moon
+Right arrow spins them to the right 
+Left arrow spins them to the left
+Up arrow makes them bigger
+Down arrow makes them smaller. ",31044612,https://cdn2.scratch.mit.edu/get_image/project/236048084_480x360.png,2018-07-10T19:31:07.000Z,2018-07-10T20:33:15.000Z,2018-07-10T20:33:14.000Z,6,0,0,0,0,,
+236056423,Getting Unstuck Day 4 LK,This challenge was fun for me because my ten year old son joined in the making. We shared the tasks of making each of the amusement park graphics.,"Click on the space bar to reset the graphics and change the rides.
+Click on the up arrow to pixelate the graphic.
+Click on the down arrow to change the color of the rides.
+Click on the right arrow to make the design whirl.
+Click on the left arrow to expand the middle of the picture.
+Press on the B key to make the graphic larger.
+Press on the S key to make the graphic smaller.",27094795,https://cdn2.scratch.mit.edu/get_image/project/236056423_480x360.png,2018-07-10T21:27:36.000Z,2018-07-11T15:53:55.000Z,2018-07-11T01:17:38.000Z,11,1,0,0,0,,
+235855381,Unstuck - Day 4,"This was a fun exercise for me and my daughter.  The whole time she was exploring, she was making funny sounds and laughing at her creation.  She really liked dressing up the Scratch Cat to make a disguise. 
+In class, this would be a nice bell ringer activity because it would only take about 5 minutes for the kids to explore and share with a neighbor.","Click the green flag to start and reset.
+Follow Scratch Cat's instructions.",2456527,https://cdn2.scratch.mit.edu/get_image/project/235855381_480x360.png,2018-07-09T02:05:33.000Z,2018-07-11T02:22:43.000Z,2018-07-11T02:22:43.000Z,3,0,1,0,0,,
+236074464,Sprite Chameleon-Day 4,Create a project that controls the appearance of a sprite via the keyboard. ,Press the green flag to start and use the arrow keys to change the appearance of the fish as he swims.,25165723,https://cdn2.scratch.mit.edu/get_image/project/236074464_480x360.png,2018-07-11T02:28:46.000Z,2018-07-11T02:42:22.000Z,2018-07-11T02:42:22.000Z,4,0,0,0,0,,
+235861123,Getting Unstuck - Day 4,"I had fun creating a teen-friendly pop culture quiz. Although I expected it to be simple, this project was more difficult to implement than I thought because the computer would register the key press faster than it could print an output. I used a repeat until keys 't' or 'f' were pressed and then followed that with two if statement blocks and a wait coding block. I also then broadcasted to another question so that the questions would not be clustered under one main coding block.
+
+I also made the code cleaner by using several functions on the different questions. Originally I was going to make a 10 question trivia but realized that might be too much work.",Press the green flag and wait for instructions from Rad Chad. You will only need to press two buttons to make this Scratch app work.,25334812,https://cdn2.scratch.mit.edu/get_image/project/235861123_480x360.png,2018-07-09T04:07:36.000Z,2018-07-12T06:06:07.000Z,2018-07-11T06:57:18.000Z,3,0,0,0,0,,
+236091487,day-4,,"Press:
+Left Arrow to increase speed.
+Right Arrow to decrease speed.
+Up/Down Arrows to change direction.
+Size changes according to speed.",4804940,https://cdn2.scratch.mit.edu/get_image/project/236091487_480x360.png,2018-07-11T07:50:40.000Z,2018-07-11T10:42:02.000Z,2018-07-11T08:16:00.000Z,3,0,0,0,0,,
+236100144,getting unstuck day 4,I have learn to put effects and reset.,"Press a,s,d,f,g,h,j to play effects and space for quit effects.",23020553,https://cdn2.scratch.mit.edu/get_image/project/236100144_480x360.png,2018-07-11T09:50:50.000Z,2018-08-03T17:43:09.000Z,2018-07-11T10:03:54.000Z,2,0,0,0,0,,
+236100916,getting unstuck day 4,"I've learned to custom a sprite with keys. Is is possible for animated sprites too because the changes affects all the skins. 
+It is interessting to reset all the effects at the beginning.
+
+Spectrum GIF https://mazeon.tumblr.com/post/106611401225/retro-machines-compilation-a-compilation-of-all","Customize the sprite and press SPACE to animate!
+A-Change color
+S-Pixelize
+D-Increase size
+F-Decrease size
+G-Increase brightness
+H-Decrease brightness
+
+RESET with green flag",2680901,https://cdn2.scratch.mit.edu/get_image/project/236100916_480x360.png,2018-07-11T10:03:38.000Z,2018-07-11T10:24:10.000Z,2018-07-11T10:12:42.000Z,8,1,0,0,0,,
+235981300,Alice - Getting Unstuck Day 4,,"Click on the green flag.
+Follow the instructions on the screen:
+- Press key D to let Alice shrink
+- Press key E to let Alice grow
+- Press key M to let Alice appear in the new outfit
+- Press key R to restart 
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->
+Getting Unstuck: Day 4 - #CreativeComputing
+
+Create a project that controls the appearance of a sprite via the keyboard. 
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->",24583107,https://cdn2.scratch.mit.edu/get_image/project/235981300_480x360.png,2018-07-10T08:00:20.000Z,2018-07-11T11:14:41.000Z,2018-07-11T09:51:21.000Z,11,1,0,0,0,,
+236132600,Getting Unstuck – Day 4,"Made for Day 4 of Getting Unstuck:
+
+Create a project that controls the appearance of a sprite via the keyboard.",Some days we just want to try something new.,588648,https://cdn2.scratch.mit.edu/get_image/project/236132600_480x360.png,2018-07-11T15:32:29.000Z,2018-07-11T17:18:55.000Z,2018-07-11T17:16:02.000Z,5,2,1,0,0,,
+236146020,VITA DA SQUALI!!!!....DAY 4,,"PER VEDERE I MOVIMENTI DELLO SQUALO....
+
+CLICCATE SU FRECCIA DX E SX
+CLICCATE SU S - B - M 
+PER TORNARE ALLA SITUAZIONE DI PARTENZA
+BANDIERINA VERDE...",34259094,https://cdn2.scratch.mit.edu/get_image/project/236146020_480x360.png,2018-07-11T17:40:26.000Z,2018-07-11T18:17:04.000Z,2018-07-11T18:14:46.000Z,6,0,0,0,0,,
+236148902,Unstuck Day 4!,,"When mom is dancing in the kitchen and then dad walks in.
+
+use the arrow keys to control mom's dancing (up, down, right, left)
+press 'd' on the keyboard when you're ready for dad to walk in.",24710888,https://cdn2.scratch.mit.edu/get_image/project/236148902_480x360.png,2018-07-11T18:07:52.000Z,2018-07-11T18:25:36.000Z,2018-07-11T18:24:18.000Z,4,1,0,0,0,,
+236152672,Day 4 - Monster Cat,,"Make your own monster.
+
+When ""c"" is pressed, the color of the cat will change.
+When ""f"" is pressed, the cat sprite will use the ""fisheye"" effect.
+When ""g"" is pressed, the cat will grow.
+When ""s"" is pressed, the cat will shrink.",17846897,https://cdn2.scratch.mit.edu/get_image/project/236152672_480x360.png,2018-07-11T18:43:06.000Z,2018-07-11T19:00:47.000Z,2018-07-11T18:46:11.000Z,3,0,0,0,0,,
+236165246,Unstuck Day 4,Fun to be a little silly with this?  Would add more sprites to the dance floor if I had more time.  ,"Press the space key to start the music, then the a,b,and c keys to have the sprites move.  The star glides behind the stage on the b key, Amon dances on the platform on the a key and Cassy dances across the stage on the c key.",11885888,https://cdn2.scratch.mit.edu/get_image/project/236165246_480x360.png,2018-07-11T21:28:26.000Z,2018-07-11T21:54:55.000Z,2018-07-11T21:54:55.000Z,2,0,0,0,0,,
+236167222,Getting Unstuck [Day 4],This is getting unstuck day 4,Use the arrow keys to change scratch cat,13594403,https://cdn2.scratch.mit.edu/get_image/project/236167222_480x360.png,2018-07-11T22:06:09.000Z,2018-07-11T22:09:01.000Z,2018-07-11T22:09:01.000Z,3,0,0,0,0,,
+236166068,day 4 unstuck,,,32864221,https://cdn2.scratch.mit.edu/get_image/project/236166068_480x360.png,2018-07-11T21:43:46.000Z,2018-07-11T23:12:28.000Z,2018-07-11T23:12:28.000Z,5,0,0,0,0,,
+236171047,Unstuck Day 4 project,Bunny image from http://cliparts.co/clipart/2503670 ,"Follow the on-screen instructions to make this bunny multiply!
+
+Unstuck Day 4 project #unstuck #creativecomputing",17786521,https://cdn2.scratch.mit.edu/get_image/project/236171047_480x360.png,2018-07-11T23:22:15.000Z,2018-07-11T23:41:54.000Z,2018-07-11T23:27:15.000Z,4,2,0,0,0,,
+236061446,Kitty Changes,,,14542522,https://cdn2.scratch.mit.edu/get_image/project/236061446_480x360.png,2018-07-10T22:59:49.000Z,2018-07-12T05:16:00.000Z,2018-07-12T05:16:00.000Z,7,0,0,0,0,,
+236187975,4 : Help me,"Just at little tip - the center of the costumes in the glasses are different from each other because otherwise I would have had to use different ""go to x and y coordinates"" for alle the costumes and this was much easier to do.","Scratch does not now how he wants to look today. Please help him.
+
+",1252137,https://cdn2.scratch.mit.edu/get_image/project/236187975_480x360.png,2018-07-12T05:02:50.000Z,2018-07-12T05:48:15.000Z,2018-07-12T05:45:22.000Z,3,0,0,0,0,,
+236197822,Getting Unstuck: Day 4,,Press the arrow keys to move the cat,34283191,https://cdn2.scratch.mit.edu/get_image/project/236197822_480x360.png,2018-07-12T07:55:25.000Z,2018-07-12T08:06:14.000Z,2018-07-12T08:05:23.000Z,9,2,0,0,0,,
+236218475,Unstuck #4 Costume Change,,Follow Scratch Cat's instruction to change its look,24269220,https://cdn2.scratch.mit.edu/get_image/project/236218475_480x360.png,2018-07-12T12:56:56.000Z,2018-07-12T13:14:17.000Z,2018-07-12T13:13:39.000Z,4,0,0,0,0,,
+236229542,getting unstuck day 4,,"s =>  smaller
+b=> bigger
+c= bolour",17636749,https://cdn2.scratch.mit.edu/get_image/project/236229542_480x360.png,2018-07-12T14:33:32.000Z,2018-07-12T14:50:26.000Z,2018-07-12T14:49:11.000Z,5,0,0,0,0,,
+236240657,unstuck 4 colour change,,"Press the space key and his colour will change. Use up arrow to get big, down arrow to make smaller. ",16426717,https://cdn2.scratch.mit.edu/get_image/project/236240657_480x360.png,2018-07-12T16:20:10.000Z,2018-07-12T16:40:24.000Z,2018-07-12T16:28:49.000Z,3,0,0,0,0,,
+236237384,Getting Unstuck4: butterflies,,"Press the green flag.
+Press the s  key on the keyboard
+After press the b key",16573108,https://cdn2.scratch.mit.edu/get_image/project/236237384_480x360.png,2018-07-12T15:46:59.000Z,2018-07-27T16:18:57.000Z,2018-07-12T16:19:21.000Z,3,0,0,0,0,,
+236247266,Getting Unstuck: Day 4,Andrés Gil Ruiz.,"With b key, you can do the ball bigger.
+
+With s key, you can do it smaller.
+
+If you want change the sport, press m key.",27636310,https://cdn2.scratch.mit.edu/get_image/project/236247266_480x360.png,2018-07-12T17:26:40.000Z,2018-07-12T17:42:03.000Z,2018-07-12T17:40:30.000Z,5,0,1,0,0,,
+236263186,day4,"Sprite taken from Google CS First Projects
+
+Create a project that controls the appearance of a sprite via the keyboard. As just one example, you could create a project where a sprite gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key. ",,24618980,https://cdn2.scratch.mit.edu/get_image/project/236263186_480x360.png,2018-07-12T20:35:52.000Z,2018-08-07T15:46:27.000Z,2018-07-12T21:28:14.000Z,3,0,0,0,0,,
+236249873,Getting Unstuck 4: New York at Night,"Painting is from the MET Public Domain images
+New York at Night
+Louis Michel Eilshemius
+
+Getting the couple to glide and reduce size was a little tricky.  It is still jumpy, would like to tinker more with the program to make their movement a little smoother.","Use the following keys:
+
+B= makes the moon larger
+S=makes the moon smaller
+Space=couple walk down the street
+Left/Right Arrows to move man",1353497,https://cdn2.scratch.mit.edu/get_image/project/236249873_480x360.png,2018-07-12T17:53:03.000Z,2018-07-13T01:18:04.000Z,2018-07-13T01:15:25.000Z,4,2,0,0,0,,
+236176078,Key-change,"Getting Unstuck: Day 4
+After mulling it over (approaching 'stuck'), the starting ideas emerged as simply clones and a square, with thoughts of 'how can this change by tapping a key?'
+Shading and adding designs within the square led to the 'what if' play factor which became ... a bit addictive. So, knowing there's plenty more that could be tweaked and tried, I stop here and share ... or i'll never get ""unstuck""!","Green flag to start / Stop sign to stop
+Click question mark (or background) to toggle help for keys
+",52693,https://cdn2.scratch.mit.edu/get_image/project/236176078_480x360.png,2018-07-12T00:58:11.000Z,2018-07-18T02:16:20.000Z,2018-07-13T02:07:26.000Z,2,1,0,0,0,,
+236261771,Getting Unstuck Day 4 - Monster Scratch,,"Welcome to Monster Scratch!  Create your own Monster Scratch using the following keys:
+
+Press the Green Flag to clear effects and switch backgrounds.
+Press the C key to change colour.
+Press the F key to increase fish-eye effect.
+Press the G key to grow Scratch.
+Press the S key to shrink Scratch.
+Press the W key to increase whirl effect.
+Press the H key to increase ghost effect.
+Press space to make Scratch breathe fire!
+Press the arrow keys to move Scratch around the stage.
+Make your Scratch Monster and enjoy!",27535268,https://cdn2.scratch.mit.edu/get_image/project/236261771_480x360.png,2018-07-12T20:13:53.000Z,2018-07-13T03:40:04.000Z,2018-07-12T20:54:36.000Z,7,1,0,0,0,,
+236295145,unstuck day 4,Fireworks images from the Code Club project.,"Space moves the firework to a new position.
+
+Up and down arrows change the costume.
+
+Left and right arrows change the size.
+
+S stamps the firework, C clears all the stamps.",1165375,https://cdn2.scratch.mit.edu/get_image/project/236295145_480x360.png,2018-07-13T07:07:39.000Z,2018-07-13T07:17:28.000Z,2018-07-13T07:15:43.000Z,3,0,0,0,0,,
+236296867,numbers and words,Getting Unstuck,"Bandiera verde e poi usa i numeri per scoprire le parole
+
+Click on the green flag.
+Use the numbers 1 2 3 4 to continue and discover words",11312120,https://cdn2.scratch.mit.edu/get_image/project/236296867_480x360.png,2018-07-13T07:37:26.000Z,2018-07-13T08:32:32.000Z,2018-07-13T08:04:26.000Z,7,0,0,0,0,,
+236300833,Getting Unstuck Day 4,"Getting Unstuck Day 4
+ ", controlla l'aspetto degli sprite tramite la tastiera,15572972,https://cdn2.scratch.mit.edu/get_image/project/236300833_480x360.png,2018-07-13T08:37:23.000Z,2018-07-24T13:51:14.000Z,2018-07-13T09:13:49.000Z,3,0,0,0,0,,
+236299532,Unstuck day 4,"Started with railway line because they already had perspective.
+Drew a tail on one of the costumes so that it created a rear view.","Start with the green flag
+
+Push b for bigger and the bear will come to you
+
+Push s for smaller and it will go back ",10852184,https://cdn2.scratch.mit.edu/get_image/project/236299532_480x360.png,2018-07-13T08:18:18.000Z,2018-07-15T10:52:03.000Z,2018-07-13T09:39:15.000Z,6,0,0,0,0,,
+236267624,greedy fish,"Never good at coloring inside the lines so I would really like to spend more time drawing in the sprites section. I also seem to be having trouble with ""when touching color"" so will work on that.",click green flag then space bar once,34099462,https://cdn2.scratch.mit.edu/get_image/project/236267624_480x360.png,2018-07-12T21:49:50.000Z,2018-07-14T14:02:15.000Z,2018-07-12T22:23:32.000Z,3,0,0,0,0,,
+236324756,Mago in movimento,Getting Unstuck day 4.,"Click on the green flag, then follow the wizard's directions.",22217887,https://cdn2.scratch.mit.edu/get_image/project/236324756_480x360.png,2018-07-13T14:19:52.000Z,2018-07-13T15:02:18.000Z,2018-07-13T14:59:58.000Z,2,0,0,0,0,,
+236365588,Unstuck 4,"My goal is to have the sprites playing catch, but I don't know how to do that yet.","Click the green flag to start the show. 
+Click the letter C on the keyboard to magically change the ball color.",840815,https://cdn2.scratch.mit.edu/get_image/project/236365588_480x360.png,2018-07-14T00:42:51.000Z,2018-07-14T01:19:56.000Z,2018-07-14T01:19:56.000Z,2,0,0,0,0,,
+236377700,Getting Unstuck Day 4,"Getting Unstuck Day 4 Reflection:
+I liked that I used keyboard commands to create choice in Anna's moves.  It will turn out differently each time you play.  If I had more time, I'd want to add more substance to it.  It would be cool to program using letters for a certain word or phrase.  I don't know sign language, but what if you created a program where you typed a letter and it showed you that letter in sign language?  Or you could use it for basic literacy skills.",Make Anna dance!  Use the number keys to choose her dance moves.,30095573,https://cdn2.scratch.mit.edu/get_image/project/236377700_480x360.png,2018-07-14T05:11:27.000Z,2018-07-14T05:27:31.000Z,2018-07-14T05:27:31.000Z,8,1,1,0,0,,
+236379336,Using keyboard to change a sprite,"#Gettingunstuck Day 4
+21 day scratch challenge","Use A to move left
+Use D to move right
+Use S for smaller
+Use B for bigger
+Use M for next costume
+Use the Green flag to reset the sprite
+
+ Butterfly is floating and bounces when it hits an edge.",3669917,https://cdn2.scratch.mit.edu/get_image/project/236379336_480x360.png,2018-07-14T05:52:36.000Z,2018-07-24T06:15:37.000Z,2018-07-14T06:03:11.000Z,3,0,0,0,0,,
+132468502,Unstuck 4,,,18827386,https://cdn2.scratch.mit.edu/get_image/project/132468502_480x360.png,2016-11-23T19:30:07.000Z,2018-07-13T14:45:12.000Z,2018-07-13T14:45:11.000Z,3,0,0,0,0,,
+236391195,Getting Unstuck: Day 4,"This is my project for Day 4 of the Getting Unstuck programming challenge.
+
+it was fun to create this animation and I can't wait to propose it to my students at school! If I had more time I would have added more fishes
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Create a project that controls the appearance of a sprite via the keyboard. 
+
+Press B = the fish gets a little bigger
+Press S = the fish gets a little smaller
+Press M = the fish changes its appearance",34314391,https://cdn2.scratch.mit.edu/get_image/project/236391195_480x360.png,2018-07-14T10:51:00.000Z,2018-07-14T20:14:04.000Z,2018-07-14T11:01:37.000Z,5,1,1,0,0,,
+236405527,Inflate!,Credits to NFour for the inflating sound ( http://soundbible.com/1410-Inflating-Balloon.html ) ,Press SPACE to inflate the balloon. Don't inflate too much!,12148328,https://cdn2.scratch.mit.edu/get_image/project/236405527_480x360.png,2018-07-14T16:20:14.000Z,2018-07-14T18:18:22.000Z,2018-07-14T16:27:16.000Z,5,0,0,0,0,,
+236398552,Unstuck 4.1,"In this lesson, I also explored how to duplicate and create new sprite costumes. So much fun.","Project goal: Create a project that controls the appearance of a sprite via the keyboard.
+
+Green flag to start / Stop sign to stop
+Star - press a
+Octopus - press b
+Man - press c 
+crab - press d",840815,https://cdn2.scratch.mit.edu/get_image/project/236398552_480x360.png,2018-07-14T13:52:03.000Z,2018-07-14T17:25:24.000Z,2018-07-14T17:19:50.000Z,3,0,0,0,0,,
+236410610,Play With My Face (v3),"Whats New? Get 100 Likes and I will make V4!!!!
+
+Pixelate, Mosaic, Brightness Effects
+
+Inspiration from Play With My Face (v2)
+
+Please Leave a Love, Like, Or Follow please!","Play with my face (v3)
+Controls:
+C for color effect  | X to reverse
+F for fisheye effect | D to reverse
+W for whirl effect | Q to reverse
+P for Pixelate Effect | O to reverse
+M for mosaic effect | None Yet
+G for ghost effect | None Yet",17022904,https://cdn2.scratch.mit.edu/get_image/project/236410610_480x360.png,2018-07-14T18:08:44.000Z,2018-07-14T18:21:42.000Z,2018-07-14T18:16:29.000Z,73,8,7,0,0,,
+236430437,Getting Unstuck Day 4,Getting Unstuck Day 4: Create a project that controls the appearance of a sprite via the keyboard.,"Press the green flag to begin.  All the instruments will play together.
+Press the space bar to hear the drum.
+Press the up arrow to hear Cow Bell.
+Press the down arrow to hear the guitar.",33988811,https://cdn2.scratch.mit.edu/get_image/project/236430437_480x360.png,2018-07-15T02:16:41.000Z,2018-07-15T02:43:28.000Z,2018-07-15T02:40:17.000Z,1,0,0,0,0,,
+236379810,LA FARFALLA BIRICHINA...,PROGETTO CREATO PER IL GIORNO 4 DI GETTING UNSTUCK:lo sfondo è una foto che ho scattato io.,"CLICCA SULLA BANDIERINA, POI CLICCA SULLE FRECCE",14651357,https://cdn2.scratch.mit.edu/get_image/project/236379810_480x360.png,2018-07-14T06:06:09.000Z,2018-07-14T06:37:16.000Z,2018-07-14T06:36:38.000Z,2,0,0,0,0,,
+236429435,Keyboard Control!,,,34102687,https://cdn2.scratch.mit.edu/get_image/project/236429435_480x360.png,2018-07-15T01:51:49.000Z,2018-07-15T19:23:34.000Z,2018-07-15T19:23:34.000Z,1,0,0,0,0,,
+236532886,Getting Unstuck Day 4,"I decided to provide a simple story for this project, including a few surprises.  With more time I would add sound and mor3e animation of Scratch Cat.",Help Scratch Cat blow up this balloon by pressing the B key.  Be careful to not blow it up too far.  HINT: another key might pop the balloon.,2502473,https://cdn2.scratch.mit.edu/get_image/project/236532886_480x360.png,2018-07-16T14:09:30.000Z,2018-07-16T14:43:57.000Z,2018-07-16T14:41:58.000Z,4,0,0,0,0,,
+236543507,ti comando io... non del tutto,"Getting Unstuck: Day 4
+Create a project that controls the appearance of a sprite via the keyboard. As just one example, you could create a project where a sprite gets a little bigger when you press the B key, gets a little smaller when you press the S key, and changes its costume when you press the M key
+
+Crea un progetto che controlli l'aspetto di uno sprite tramite la tastiera. Come solo un esempio, potresti creare un progetto in cui uno sprite diventa un po 'più grande quando premi il tasto B, diventa un po' più piccolo quando premi il tasto S e cambia costume quando premi il tasto M
+
+","se clicchi spazio: si muove a caso
+se clicchi a o b cambia colore
+se clicchi c si nasconde per un secondo
+se clicchi freccia su o giù diventa più grande o più piccolo
+se clicchi freccia destra se invece clicchi freccia sinistra",21462276,https://cdn2.scratch.mit.edu/get_image/project/236543507_480x360.png,2018-07-16T15:44:30.000Z,2018-07-16T15:51:31.000Z,2018-07-16T15:44:33.000Z,1,0,0,0,0,,
+236547572,Unstuck 4,,Use the space bar to see what happens to the rainbow,18923507,https://cdn2.scratch.mit.edu/get_image/project/236547572_480x360.png,2018-07-16T16:27:27.000Z,2018-07-16T17:18:12.000Z,2018-07-16T17:17:12.000Z,1,0,0,0,0,,
+236566702,Getting Unstuck - Day 4,"Woohoo! I was able to create this one without having to peek at anyone else's work!
+
+If given more time, I would try to create a string sprite that stayed the same size and a balloon sprite that would change size, so that it would continue to appear as if Cassy was holding it. ","Click the green flag to get started!
+
+Press the ""up"" arrow to make Cassy's balloon bigger.
+Press the ""down"" arrow to make Cassy's balloon smaller.
+Press the ""right"" arrow to slowly change the color of the balloon.
+Press the ""left"" arrow to drastically change the color of the balloon.
+
+Press the green flag again to reset the balloon.",24696341,https://cdn2.scratch.mit.edu/get_image/project/236566702_480x360.png,2018-07-16T19:38:37.000Z,2018-07-16T19:58:43.000Z,2018-07-16T19:53:46.000Z,1,0,0,0,0,,
+236569232,Unstuck: Day 4,,,28439839,https://cdn2.scratch.mit.edu/get_image/project/236569232_480x360.png,2018-07-16T20:13:17.000Z,2018-07-16T20:25:21.000Z,2018-07-16T20:24:45.000Z,3,0,0,0,0,,
+236594302,Day 4 Getiing Unstuck - Big and Small Dinosaur,"Buya Omar
+Mansur bin Nisan
+","Enjoy and Change You're Dinosaur 
+Change with Up and Down Arrow for Big and Small ",34222154,https://cdn2.scratch.mit.edu/get_image/project/236594302_480x360.png,2018-07-17T02:57:21.000Z,2018-07-17T04:58:34.000Z,2018-07-17T04:58:34.000Z,6,1,1,0,0,,
+236619622,colour gate 1,"The challenge was : Create a project that controls the appearance of a sprite via the keyboard. 
+
+I decided to make the sprite change colour but then I thought 'why would it need to?'
+
+I borrowed and adapted the wall routine from mwiedmann's project at https://scratch.mit.edu/projects/10537689/#player","For Day 4 of 'Get Unstuck'!
+
+Cat can't pass the gate unless he matches it's colour. To change Cat's colour use 'q' and 'a', to move left and right use the arrows.",3094436,https://cdn2.scratch.mit.edu/get_image/project/236619622_480x360.png,2018-07-17T10:08:19.000Z,2018-07-17T23:10:40.000Z,2018-07-17T11:06:40.000Z,5,0,0,0,0,,
+236606420,Getting Unstuck - dag 4 ,#GettingUnstuck,Use the keys B to make the frog bigger and S to make it smaller. By pressing M the frog turns into something else.,25631396,https://cdn2.scratch.mit.edu/get_image/project/236606420_480x360.png,2018-07-17T06:55:12.000Z,2018-07-18T08:11:54.000Z,2018-07-18T08:07:56.000Z,1,0,0,0,0,,
+236221516,Getting Unstuck Day 4,,,13275782,https://cdn2.scratch.mit.edu/get_image/project/236221516_480x360.png,2018-07-12T13:24:21.000Z,2018-07-18T09:09:17.000Z,2018-07-18T09:09:17.000Z,1,0,0,0,0,,
+235828430,Getting Unstuck Day 4 - appearance,"I spent waaaaayyyyyy too much time on this trying to build a little game where the net moved back and forth and randomly changed sizes. I got the appearance of the soccer ball via the keyboard part right, but got hung up on other aspects that I just couldn't get right.
+
+The biggest problem was getting the net to move back and forth across the screen. It kept changing the heading by 10 degrees or so. I couldn't get it to stay on a flat plane and just move back and forth.","Press the green flag to start. Match the size of the ball to the net and then kick it in!
+
+B=makes the ball bigger
+S=makes the ball smaller
+Space=kick the ball",2803184,https://cdn2.scratch.mit.edu/get_image/project/235828430_480x360.png,2018-07-08T15:50:19.000Z,2018-07-18T16:40:25.000Z,2018-07-18T16:34:02.000Z,1,0,0,0,0,,
+236680309,Getting Unstuck Day 4,,"Press the flag to start the project then please do what I ask!
+",21887196,https://cdn2.scratch.mit.edu/get_image/project/236680309_480x360.png,2018-07-17T21:06:49.000Z,2018-07-20T09:20:31.000Z,2018-07-18T17:15:17.000Z,3,0,0,0,0,,
+236850218,Alice day 4,,"press s for a smaller Alice and B to increase her figure
+press m to change dress ",3602053,https://cdn2.scratch.mit.edu/get_image/project/236850218_480x360.png,2018-07-19T14:01:18.000Z,2018-07-19T14:37:27.000Z,2018-07-19T14:27:00.000Z,6,2,0,0,0,,
+236799442,UnStuck Day 4,"Working through the challenges for Unstuck and seeing a reverse in my role from a teacher to that of a student and how my debugging ""fits"" with the sophistication level of my coding.","Click on Green flag to start.
+Try the Space Bar, and all four arrows to see what happens.  Note that the opposite arrows (up/down and right/left) do the opposite actions.",14232182,https://cdn2.scratch.mit.edu/get_image/project/236799442_480x360.png,2018-07-19T00:59:14.000Z,2018-07-19T16:17:02.000Z,2018-07-19T01:39:40.000Z,5,0,0,0,0,,
+236878738,Getting Unstuck Day 4- Grow/Shrink a sprite,"I enjoyed this project because I was able to code it exactly the way the saw it on in my mind. If I could change something about this project, I would like to have the sprite move across the screen as it grows, shrinks, or modifies its costume. ",Click on the green flag to start the program. Pressing the 'b' key will make the sprite bigger. Pressing the 's' key will make the sprite smaller. Pressing the 'm' key will modify the sprite's costume. ,30595057,https://cdn2.scratch.mit.edu/get_image/project/236878738_480x360.png,2018-07-19T19:15:38.000Z,2018-07-19T19:44:40.000Z,2018-07-19T19:36:58.000Z,3,0,0,0,0,,
+236969457,Getting Unstuck Day 4: Dirty Dog,I feel like there is probably an easier or neater way to connect some of my scripts and arrange timing.,"Click Green Flag to Clear and Watch.
+If you feel sorry for our dirty dog, you can click any key and give him additional treats.",26730957,https://cdn2.scratch.mit.edu/get_image/project/236969457_480x360.png,2018-07-20T20:21:38.000Z,2018-07-20T21:43:12.000Z,2018-07-20T21:43:12.000Z,6,1,0,0,0,,
+237070059,Unstuck #4 Keyboard control,Unstuck #4 - keyboard controls action,"Have Anna do your favorite funky hip hop moves by using the HOME ROW keys, some bottom row keys, and the space bar. 
+
+Up and down arrow keys control the volume
+
+",26618044,https://cdn2.scratch.mit.edu/get_image/project/237070059_480x360.png,2018-07-22T13:08:55.000Z,2018-07-22T13:49:24.000Z,2018-07-22T13:42:13.000Z,3,1,0,0,0,,
+237072842,OwlMorton-Unstuck4,,"Make scratch cat fly up and down, faster or slower using the arrow keys. Press P to power up!",21214926,https://cdn2.scratch.mit.edu/get_image/project/237072842_480x360.png,2018-07-22T14:21:09.000Z,2018-07-22T14:52:55.000Z,2018-07-22T14:43:39.000Z,2,0,0,0,0,,
+237146384,UG_04_Facciamo una corsetta....,,Premi il tasto verde per cominciare e ppi le frecce per ... SCOPRILO TU!!,34279311,https://cdn2.scratch.mit.edu/get_image/project/237146384_480x360.png,2018-07-23T13:36:50.000Z,2018-07-23T13:53:39.000Z,2018-07-23T13:52:47.000Z,2,0,0,0,0,,
+237141173,Underwater Chase,,,22657077,https://cdn2.scratch.mit.edu/get_image/project/237141173_480x360.png,2018-07-23T12:20:42.000Z,2018-07-23T13:56:59.000Z,2018-07-23T13:56:59.000Z,3,1,0,0,0,,
+236057909,Día 4,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/236057909_480x360.png,2018-07-10T21:52:21.000Z,2018-07-10T21:53:01.000Z,2018-07-10T21:53:01.000Z,2,1,0,0,0,,
+237246908,Getting Unstuck - Day 4,,,17812875,https://cdn2.scratch.mit.edu/get_image/project/237246908_480x360.png,2018-07-24T11:59:24.000Z,2018-07-24T14:36:27.000Z,2018-07-24T14:36:27.000Z,3,1,0,0,0,,
+237265205,Getting Unstuck - Day 4,"This project was created for Day 4 of Getting Unstuck.  Control sprite with your keyboard.
+
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621
+
+""Whatever is mentionable can be more manageable.""—Fred Rogers",Up and down keys will make him grow or shrink.   The left key will change his color.  The right arrow will change his costume. ,8880372,https://cdn2.scratch.mit.edu/get_image/project/237265205_480x360.png,2018-07-24T15:29:58.000Z,2018-07-24T15:49:40.000Z,2018-07-24T15:47:20.000Z,4,1,0,0,0,,
+237347909,Day4: Happy Birthday baloon,,,34128835,https://cdn2.scratch.mit.edu/get_image/project/237347909_480x360.png,2018-07-25T09:48:14.000Z,2018-07-25T11:12:31.000Z,2018-07-25T11:11:33.000Z,4,1,0,0,0,,
+237556813,Getting unstuck - day4,Getting unstuck day 4,,11617672,https://cdn2.scratch.mit.edu/get_image/project/237556813_480x360.png,2018-07-27T13:02:12.000Z,2018-07-27T14:01:32.000Z,2018-07-27T14:00:41.000Z,3,1,0,0,0,,
+237686342,Untitled-20,,Clicca prima sulla freccia destra e poi su quella sinistra per far incontrare gli animali marini.,14096918,https://cdn2.scratch.mit.edu/get_image/project/237686342_480x360.png,2018-07-29T14:16:55.000Z,2018-07-29T22:09:57.000Z,2018-07-29T15:37:57.000Z,4,1,0,0,0,,
+237118899,Unstuck #4 keyboard challenge,This one was a bit easier to do. even managed to record and edit the recording of break dancing.,"Press the space bar to start break music
+then push c d e a s x to get the moves going",31492686,https://cdn2.scratch.mit.edu/get_image/project/237118899_480x360.png,2018-07-23T05:23:04.000Z,2018-07-24T08:33:35.000Z,2018-07-24T08:33:08.000Z,2,1,0,0,0,,

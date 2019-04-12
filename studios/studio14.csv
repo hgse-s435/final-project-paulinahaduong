@@ -1,0 +1,565 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+236667738,Substitution Cipher,"Tutorial from @VideoGamerCanInvent: https://scratch.mit.edu/projects/74567664/#editor 
+
+Music is Ancient Hateno Tech Lab (Zelda Breath of the Wild) - KHInsider
+
+Remix suggestions: change the cipher! Make the encryption more complicated! Add other kinds of functionality!","Simple substitution cipher; if you want to change the cipher, go to backgrounds and change the letter order around in the cipher list. Not super complicated, but fairly tedious...one cool thing I learned was how to make your sprites spell out the words they say, like they're being typed live! Simple, but I hadn't thought of it. :) ",2745846,https://cdn2.scratch.mit.edu/get_image/project/236667738_480x360.png,2018-07-17T18:28:11.000Z,2018-07-18T09:32:47.000Z,2018-07-18T09:31:46.000Z,44,18,8,0,0,,
+236650098,Mystery Word,"My initial concept for Day 14 was to write a program that detected whether two words rhyme. A bug in my code (that was scrambling my letters) led me to this project instead. A big thanks to @jsh who played numerous iterations of the game to help me test. Together we went from ""This is the worst game ever. I want my money back."" to ""You've got some bad bugs."" to ""That's much less annoying."" to ""Good game! Major upgrade!"" It's so helpful to have someone who is willing to be totally honest with you! :)
+
+Music: https://archive.org/details/ReallyOldRecordingsSetA","This is a two-player word game!
+Player 1 enters a mystery word and three one-word clues to help Player 2 guess the mystery word.
+The program scrambles the word, which Player 2 then needs to guess.",39526,https://cdn2.scratch.mit.edu/get_image/project/236650098_480x360.png,2018-07-17T15:44:30.000Z,2018-07-18T11:18:15.000Z,2018-07-18T10:30:09.000Z,43,17,7,0,0,,
+236591011,Truffle's Idea Tumbler,"updates on this iteration for Day 20:
+I made a few detail edits, such as adding in spaces between the responses that Truffle joins as an idea. Sometimes when trying something new, the details are missed, and I'm glad to come back to this! I also added a feature where you can add a question to Truffle's memory. What question might bring some playful ideas?
+
+original notes:
+AHHHHH - This was my first time exploring strings and lists!
+^---- that's a very excited ahhhh!
+
+At first I wasn't even sure what the string blocks might be used for. I started off by looking at the Scratch wiki (https://en.scratch-wiki.info/wiki/String) to see what they even did. (thanks @paulinah)! Then I thought that I would create something that generated randomized text. 
+
+The most exciting part of creating this came as I was thinking of questions to ask. As I plugged in Ask "" "" and wait, and ""add answer to list"" at least 15 times, and saw my code grow longer and longer, I wondered how I could randomize the questions so that they might appear in another order (or be repeated, for re-considering other potential responses.) I thought, if I could put them somewhere and ask for a random one, that would be great. I had just created my first list of the answers to questions. It was a sparkly realization moment when I thought ""what if I stored the *questions* in a list, too??? This way, they could both be randomized when called upon and ALSO be more organized, not making my script forever long. I was honestly feeling kind of unsure about taking on lists -- and there I was, creating lists on lists to be joined in (lovingly) weird strings! I'm excited to see where this new discovery goes!
+
+During the recent Getting Unstuck project on changing scenes, I decided to try a ""pause and come back"" strategy in stuck moments. When I paused, I'd go in the vector editor and work on this cat face, thinking I'd surely use it for something in the future. I felt comfortable enough to play around with creating the cat while also thinking through the challenges in the project I was programming. For this challenge, I didn't spend ANY time on drawing, as I'd already created the cat. I wonder how far I would've gotten in the lists + strings exploration if I were also focusing on creating my own graphics?","After pressing the green flag, press the space bar to start.
+
+Once Truffle has started sharing potential ideas, click on her and she'll share more (:
+
+(update: press up arrow to add a question to Truffle's memory!)",25705937,https://cdn2.scratch.mit.edu/get_image/project/236591011_480x360.png,2018-07-17T02:02:56.000Z,2018-08-07T14:59:33.000Z,2018-07-18T10:35:56.000Z,50,16,3,0,0,,
+170419512,Palindrome Bear,This was really fun! I worked on it with @mizzpeters and had to do a lot of iterating and hard thinking. I want to work more on creating blocks as it still confuses me. ,"Press green flag to start
+Do you know what a palindrome is? Try the bear- they will tell you! ",24267830,https://cdn2.scratch.mit.edu/get_image/project/170419512_480x360.png,2017-08-03T14:01:35.000Z,2018-07-18T15:43:31.000Z,2017-08-03T14:37:28.000Z,38,9,0,0,0,,
+236732850,Visual Editor,"This project was created for Day 14 for Getting Unstuck. I wanted to explore the idea of drawing text and making a text input box, but without using Scratch's built-in ""say"" or prompt features. It was definitely a challenge, and I ran out of time before getting to many of the features that I would like to explore. So I plan to keep working on it in future, maybe as a remix for a future day of Getting Unstuck. Fun!
+","Press the green flag and enter a brief message in the text box. Only lowercase, unaccented characters and space key accepted for now. ",56239,https://cdn2.scratch.mit.edu/get_image/project/236732850_480x360.png,2018-07-18T10:42:11.000Z,2018-07-21T10:22:54.000Z,2018-07-18T11:08:07.000Z,43,15,6,0,0,,
+236734260,Getting Unstuck Day 14,"Just wanted to do something simple. The basic idea came quickly, mainly dictated by what's easy to so with Scratch's limited out of the box string manipulation. The look took a little while to perfect. If I had more time I would write some jokes for Scratch to tell. ","Getting Unstuck Day 14
+
+Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.
+
+Just run the project for some well deserved adoration.",2314547,https://cdn2.scratch.mit.edu/get_image/project/236734260_480x360.png,2018-07-18T11:04:33.000Z,2018-07-18T11:33:14.000Z,2018-07-18T11:33:14.000Z,22,11,3,0,0,,
+236734731,Getting Unstuck - Day 14,"Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. ",,86693,https://cdn2.scratch.mit.edu/get_image/project/236734731_480x360.png,2018-07-18T11:11:48.000Z,2018-07-18T11:40:25.000Z,2018-07-18T11:39:05.000Z,18,8,1,0,0,,
+236735676,Getting Unstuck Day 14,"This was fun to make. I hope you have fun creating fun puppy names. It's actually more about lists than strings, but I got carried away. ",All I can think about at the moment is puppies! ,4610900,https://cdn2.scratch.mit.edu/get_image/project/236735676_480x360.png,2018-07-18T11:27:04.000Z,2018-07-18T11:43:33.000Z,2018-07-18T11:40:25.000Z,25,12,2,0,0,,
+236736674,14. Initials,"Getting Unstuck: Day 14
+
+Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of).",Click on the Green Flag and answer the questions.,28208102,https://cdn2.scratch.mit.edu/get_image/project/236736674_480x360.png,2018-07-18T11:44:54.000Z,2018-07-18T12:09:17.000Z,2018-07-18T11:45:30.000Z,19,5,1,0,0,,
+236736119,Unstuck 14: Using String Blocks,"I made this project in response to the prompt for Challenge #14-using string blocks- of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+The part I was stuck on for a bit was getting the length of the list because at first I was using the green ""length of _"" block and not realizing I needed the maroon ""length of _"" block to get the count of items in the list.",It's time to garden! Do what the cat says to see if Pup is ready to plant some vegetables.,214174,https://cdn2.scratch.mit.edu/get_image/project/236736119_480x360.png,2018-07-18T11:34:53.000Z,2018-07-18T12:11:52.000Z,2018-07-18T12:08:07.000Z,14,5,0,0,0,,
+236735311,Bad Poetry Generator - Day 14 of Getting Unstuck,"credit to Freesound.org for the computer sound
+Beat-nik by J.M. Van Eaton (Cool Daddy O 60's beatnik music)
+Unsplash.com for the Cafe Background
+
+This was fun. After looking at the first couple projects submitted I was paralyzed! They were so good! 
+Then I realized I could counter that with something sooo baaadddd!
+I have used operator blocks more and more during the last two weeks. However, I really have not used the list blocks before. I saw them in someone else's project, realized how it could be used, and tested them out. Much easier than I anticipated. That, added to the realization earlier that I could randomized broadcasts, didn't make this too hard in the end. Except making the poetry and trying to get Scratch's beret correctly drawn. 
+Didn't know it was a beret? I'm not surprised!","Click on the green flag and answer the questions. 
+Be prepared for some questionable poetry!",22706156,https://cdn2.scratch.mit.edu/get_image/project/236735311_480x360.png,2018-07-18T11:20:38.000Z,2018-07-18T12:20:16.000Z,2018-07-18T12:16:03.000Z,25,13,3,0,0,,
+236736402,Getting Unstuck #14,"Getting Unstuck day 14. 
+I have been looking for an opportunity to get my head around lists, and today is the day.
+I'm quite happy with this result. I'd like to have made the user's name appear with only a capital initial and the rest in lower case, but I'm not sure that that's possible. Likewise, I'm not sure if I can make sure that users put in an actual number (eg 4) rather than the word (four). Apart from that I'm quite happy with this. I can't wait to see what others have been doing.",Just follow the instructions from the bat. ,141519,https://cdn2.scratch.mit.edu/get_image/project/236736402_480x360.png,2018-07-18T11:40:09.000Z,2018-07-19T03:04:59.000Z,2018-07-18T12:21:36.000Z,10,5,0,0,0,,
+236730602,Scrittura speculare,"Grazie ad Andrea Ferraresso per le in @DeAscuola: gli sempi condivisi aiutano a capire come procedere, poi continuo ad immaginare come rendere gli esempi utili (ci provo, almeno...)
+","Clicca sulla bandiera verde e Leonardo da Vinci ti aiuterà a scrivere come faceva lui: componi la parola e attendi l'esito.
+Click on the gree flag and Leonardo will help you to write as he did: write the word and wait for the result.",11312120,https://cdn2.scratch.mit.edu/get_image/project/236730602_480x360.png,2018-07-18T10:07:59.000Z,2018-07-20T07:54:30.000Z,2018-07-18T12:21:52.000Z,27,9,1,0,0,,
+236741026,Day 14 of Getting Unstuck,"Mi è piaciuto tanto usare i string blocks in the Operators category (i.e., join, letter of, and length of)",Clicca sulla bandierina verde e rispondi alle domande,10086796,https://cdn2.scratch.mit.edu/get_image/project/236741026_480x360.png,2018-07-18T12:46:59.000Z,2018-07-18T12:55:46.000Z,2018-07-18T12:54:46.000Z,25,3,1,0,0,,
+236692738,Getting Unstuck: Day 14 — Taco Cat,"Reflection
+
+This was a fun little project to do and came together fairly quickly. Once done, and after initially posting, I went back and refactored the code, which is probably where I spent the majority of my time. I happen to like refactoring quite a bit as this is usually where I learn the most about programming. Highly recommend! :)
+
+How it works: After the users answers Scratchy, the script processes it by pulling out only the letters of the alphabet while creating variables forward and reverse. This is to prevent spaces and specials characters (ie !@#$%) won't be used in the check. The letters in variables forward and reverse are then checked against one another. If any comparison isn't identical, then it isn't a palindrome.","Tell Scratch Cat a word or phrase and they'll say if it's a palindrome or not.
+
+For example, try ""taco cat"".",26264460,https://cdn2.scratch.mit.edu/get_image/project/236692738_480x360.png,2018-07-18T00:24:46.000Z,2018-07-21T14:43:22.000Z,2018-07-18T13:13:10.000Z,20,8,3,0,0,,
+236742981,Getting Unstuck Day 14,,"Abby will ask you about multiplication tables, asking you ten questions.
+The tables are randomly generated, concatenating the strings to form the question.
+This program proved to be very useful for my 7 year old daughter, who uses it to review math :)
+Enjoy with math!",14159575,https://cdn2.scratch.mit.edu/get_image/project/236742981_480x360.png,2018-07-18T13:08:54.000Z,2018-07-18T13:12:58.000Z,2018-07-18T13:09:21.000Z,15,4,1,0,0,,
+236741085,Getting Unstuck: Day 14,Not only lots of joins but a wee bit of array manipulation - next time I should use just the one list though.,,24912473,https://cdn2.scratch.mit.edu/get_image/project/236741085_480x360.png,2018-07-18T12:47:39.000Z,2018-07-18T13:17:34.000Z,2018-07-18T13:16:54.000Z,17,10,0,0,0,,
+236738554,GettingUnstuced day14,,"i versi degli animali: scrivi il nome di uno degli animali e saprai che verso fa
+
+voices of animals: wite the name of an animal (in italian) and you'll find which is its voice",25103547,https://cdn2.scratch.mit.edu/get_image/project/236738554_480x360.png,2018-07-18T12:14:16.000Z,2018-07-18T13:59:56.000Z,2018-07-18T13:34:33.000Z,9,2,0,0,0,,
+236740970,Getting Unstuck: Day 14,"If I had more time I would have the number correlate to the image so maybe when 2 comes up you would see two people or twins. Also I would like to explore a more elegant way to code the project so we could count up to 100 and make the code more efficient (not so long). 
+
+A cool thing would be to add other languages. ","Click the green flag.
+
+Follow the prompts. ",17807175,https://cdn2.scratch.mit.edu/get_image/project/236740970_480x360.png,2018-07-18T12:46:18.000Z,2018-07-18T13:38:35.000Z,2018-07-18T13:38:35.000Z,16,4,0,0,0,,
+236737313,wAvInG LeTtErS,"Getting Unstuck - day 14
+by Massimo Marletta
+
+In this project I used some blocks regarding text (for example extracting a single char from a text, or calculating le length of text) together to the function of recursive cloning of sprites.
+
+The letters are sprites with a costume for each character, the costume of each sprite is selected by analyzing the string. 
+
+The wave effect is given by changing the size of the sprite according to a sinusoidal function with a time shift different for each letter.
+
+In another project of mine I use the same logic to simulate a transversal mechanical wave: https://scratch.mit.edu/projects/236681045/
+
+","Input a text by clicking on the pencil and see it moving like a wave.
+
+In another project of mine I use the same logic to simulate a transversal mechanical wave: 
+https://scratch.mit.edu/projects/236681045/
+",4804940,https://cdn2.scratch.mit.edu/get_image/project/236737313_480x360.png,2018-07-18T11:55:30.000Z,2018-07-18T14:03:39.000Z,2018-07-18T13:35:39.000Z,35,12,4,0,0,,
+236743542,... al contrario!,L'idea di riscrivere una parola (o frase) al contrario me l'ha data la sfida di oggi Day 14 di Getting Unstuck. Dopo aver completato il mio lavoro ho visto che era quasi identico a quello di @mariateresas ! ,Press the green flag!,17698999,https://cdn2.scratch.mit.edu/get_image/project/236743542_480x360.png,2018-07-18T13:14:32.000Z,2018-07-18T13:51:58.000Z,2018-07-18T13:42:12.000Z,18,10,2,0,0,,
+236735705,17 letter words,"My inspiration came from a local trivia outfit, who yesterday had a category ""seventeen letter words."" 
+
+I haven't quite worked out the timing of the hint (fixed now?), but already fixed an issue with the ask block appearing when it shouldn't and modified the system of tracking words used to prevent duplicate questions.
+
+My daughter suggested I add an ""I give up"" feature, too.","Click the green flag to play this word-guessing game.
+
+Every answer is seventeen letters long.
+
+There are ten words total for you to guess.
+
+I added a second clue (the firs five letters) and a third clue (the last two or three letters, I'm not sure why it varies).",14632339,https://cdn2.scratch.mit.edu/get_image/project/236735705_480x360.png,2018-07-18T11:27:48.000Z,2018-07-18T18:19:37.000Z,2018-07-18T14:08:34.000Z,16,5,0,0,0,,
+236743552,Getting Unstuck day 14,"Today's challenge was a chance to do a project that I have been thinking about doing for a while. It is based on the Raspberry Pi Foundation's tutorial called ""Shakespearean Insult Generator"". I had anticipated having a bit of trouble getting all of the ""join_"" blocks nested and spaced properly, but it worked that first time. Yay!
+
+
+
+picture - wikimedia commons
+music - Arcangelo Corelli, Sonata No.11 in E Major Op.5:iii Adagio
+
+
+","Click the green flag
+follow the cat's instructions
+",17767933,https://cdn2.scratch.mit.edu/get_image/project/236743552_480x360.png,2018-07-18T13:14:39.000Z,2018-07-18T14:19:36.000Z,2018-07-18T14:15:56.000Z,23,8,2,0,0,,
+236743315,Getting Unstuck Day 14,"The game, designed for children, is to display an animal and write its name in English.
+From Book: Imparare a programmare con Scratch di Boscaini",Click green flag and play : Guess the animal's name!,13275782,https://cdn2.scratch.mit.edu/get_image/project/236743315_480x360.png,2018-07-18T13:12:18.000Z,2018-07-19T06:04:05.000Z,2018-07-18T15:01:09.000Z,15,5,2,0,0,,
+236735473, Jogo das Palavras,Autor: Jocemar do Nascimento,"Arraste com o mouse as palavras ate a figura correspondente, e depois responda as questões propostas.",1734014,https://cdn2.scratch.mit.edu/get_image/project/236735473_480x360.png,2018-07-18T11:23:25.000Z,2018-07-18T15:36:09.000Z,2018-07-18T13:27:27.000Z,14,0,0,0,0,,
+236743468,Getting Unstuck 14,"I thought doing a hangman-style game would be fun, but I didn't know it would end up so complicated! 
+
+My process was to build it step-by-step: first figure out how to choose a random word from a list and display it. Then figure out how to hide the letters and prompt the player to guess. Then figure out how to show the letter if they guess right and keep it hidden if they guess wrong, and so on. I tested it at each step to make sure it was working. I didn't always do the steps in an order that made sense - for example, I put in the rescue bird before nearly everything else because the idea popped into my head ad I thought it would be fun (and make the game have a happy ending!).
+
+I didn't get stuck exactly, but I feel like there must be a more elegant way of doing it. There's a lot of repetitive code here.
+
+Music is Water in the Creek by Josh Woodward via the Free Music Archive","Click the green flag to start. Click each box to guess what letter it is. Try to spell out the word before the Scratch Cat sinks!
+
+Hint (because the game is really hard otherwise): All the words are Scratch-themed.",18044195,https://cdn2.scratch.mit.edu/get_image/project/236743468_480x360.png,2018-07-18T13:13:47.000Z,2018-07-18T19:19:09.000Z,2018-07-18T15:36:12.000Z,12,5,2,0,0,,
+236760114,Scratch Cat Plays Rhymes v2,V2 - added check for three letters!,"Scratch cat want's to play rhymes.  He only knows three letter words that rhyme with cat.  Also he can't press the shift key, so he only knows lower case three letter words that rhyme with cat!  Take turns entering words and see if you can beat Scratch cat!  Press the green flag to begin.
+",18198558,https://cdn2.scratch.mit.edu/get_image/project/236760114_480x360.png,2018-07-18T15:57:33.000Z,2018-07-18T16:02:44.000Z,2018-07-18T16:02:34.000Z,7,2,0,0,0,,
+236760438,Unstuck 14 String blocks - Hangman,"This turned out to be a hard project. What I have is working well. I would like to improve it to:
+-handle ""misses"" by showing red Xs to count the strikes, and end game at 5 strikes
+-do an animation when the word is guessed
+-handle different lengths of words
+-make it a 2-player game, where another player types in the secret word to use
+","Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.
+
+It's hangman ... you know what to do :-)",19123745,https://cdn2.scratch.mit.edu/get_image/project/236760438_480x360.png,2018-07-18T16:01:04.000Z,2018-07-18T16:05:20.000Z,2018-07-18T16:05:20.000Z,18,7,1,0,0,,
+236754751,Day 14 - Getting Unstuck,"@RoboSquid: ""Just run the project for some well deserved adoration""","You are such a famous scratcher!
+Welcome to our Scratchy Cat Show!",26079479,https://cdn2.scratch.mit.edu/get_image/project/236754751_480x360.png,2018-07-18T15:03:21.000Z,2018-07-24T22:27:11.000Z,2018-07-18T16:12:54.000Z,18,7,1,0,0,236734260,236734260
+236748951,substring utility block,"Getting Unstuck: Day 14
+Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.
+
+I got stuck in a deep rabbit hole, aiming for a fully ECMAScript compliant implementation. I used the ""compromise"" strategy to get unstuck: I reduced the scope to ship a working product :)","This project contains a new scratch block that I have been missing:
+a custom ""substring"" block that extracts the part of an input string between the given start and end indexes.
+
+Feel free to use this in your projects without giving me any credit.
+See inside for more details :)",34248043,https://cdn2.scratch.mit.edu/get_image/project/236748951_480x360.png,2018-07-18T14:06:34.000Z,2018-07-18T16:59:16.000Z,2018-07-18T16:36:13.000Z,15,5,2,0,0,,
+236766719,Haiku vs Cut-Up 2 (Unstuck 14) ,"This is the first time I've played with the string blocks, wihich is part of the reason why I love Getting Unstuck: it challenges me to go beyond what I usually do. 
+
+This is a short experiment with the ""cut-up"" (or ""decoupe"") technique that I first encountered via William Burroughs' ""Towers Open Fire."" This projects takes a haiku by Kerouac and converts it to a randomized version. ","Version 2 Update: 
+
+Press the flag to begin and think of 10 words to give to WIlliam.
+
+Thanks @alirb for the suggestion of adding player input (and for nudging me just a bit further than I thought I could do!) 
+
+I'm on a train right now and wifi is intermittent. This needs some polishing - specifically, I'm still trying to find a way to remove the randomly selected word from the list (so it doesn't repeat) unitl all the words are used. Any suggestions will be given finger snaps in appreciation. ",27690149,https://cdn2.scratch.mit.edu/get_image/project/236766719_480x360.png,2018-07-18T17:08:03.000Z,2018-07-19T00:18:31.000Z,2018-07-18T17:36:05.000Z,14,5,1,0,0,,
+236764774,Word Speller (Getting Unstuck #14),"Getting Unstuck #14 - ""Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. ""
+
+Using a variable in place of a hardcoded costume name was really handy here. It didn't look like it would be possible since the dropdown list of costume names is shown in ""switch costume to"", but you can drag a variable in place and it accepts it.",Click the flag to start. Enter a lowercase word and Scratch will tell you how many letters it is and spell it out.,15872912,https://cdn2.scratch.mit.edu/get_image/project/236764774_480x360.png,2018-07-18T16:46:55.000Z,2018-07-18T17:53:42.000Z,2018-07-18T17:42:49.000Z,8,2,0,0,0,,
+236754103,Day 14," music from - https://www.televisiontunes.com/Jeopardy_-_1960s_-_Think_Music1960s.html
+
+http://www.televisiontunes.com/Muppets_-_1977_-__The_Muppet_Show_-_03_-_Mahna_Mahna.html
+
+This is an assignment I give my 2nd graders every year as a basic language arts review. I slung this together really quickly today and would not be able to give myself a good grade due to lack of diversity in parts of speech, sentence length, etc.! Oh well, I can find time later to flesh it out a bit!
+
+",Click the green flag and follow the prompts from Scratch Cat,18341966,https://cdn2.scratch.mit.edu/get_image/project/236754103_480x360.png,2018-07-18T14:57:06.000Z,2018-07-19T00:47:57.000Z,2018-07-18T17:45:19.000Z,16,5,2,0,0,,
+236760845,Getting Unstuck: Day 14,"Grazie a @elimasa che con il suo progetto mi ha consentito di reimpostare il mio: quello iniziale è ancora in bozza perché incontro difficoltà a renderlo ""ciclico"". 
+Purtroppo, la non-conoscenza della lingua inglese mi limita anche nell'esplorazione dei progetti altrui.
+Credits: 
+images - https://www.flaticon.com - https://www.vecteezy.com
+music - https://www.youtube.com/audiolibrary/music","Fare clic sulla bandierina verde e seguire le istruzioni.
+Click the green flag and follow the instructions.",19789360,https://cdn2.scratch.mit.edu/get_image/project/236760845_480x360.png,2018-07-18T16:05:09.000Z,2018-07-18T18:32:13.000Z,2018-07-18T18:32:13.000Z,13,4,2,0,0,,
+236703894,Deriv14,"GettingUnstuck Day 14, a remix of ideas from several projects earlier in the GettingUnstuck series. Working alongside students today, I made a five note instrument out of toaster tongs and copper tape. See sprites for a photo of the instrument.
+
+The idea of using mouse x and mouse y to change notes was an exciting discovery.
+
+There is additional graphics code that had to be disassembled because they were causing the program to freeze.","Green flag, draw with fingertip on track pad
+
+Designed for makeymakey with grounded ring, connect to right left up down and space (see photos within). Change notes by changing mouse-x, change instruments by changing mouse-y.
+
+to play theme from Close Encounters: left, up, right, space, down
+
+I almost forgot the unstuck theme of wordplay! For wordplay, I used a koan I wrote for PZ's PoP. Each time a note is played, the number of letters in a random word from the koan are displayed.",33815227,https://cdn2.scratch.mit.edu/get_image/project/236703894_480x360.png,2018-07-18T03:10:40.000Z,2018-07-18T19:27:51.000Z,2018-07-18T18:37:37.000Z,7,1,0,0,0,,
+236766972,#014 Getting Unstuck Strings Water Cycle,Thanks to  elimasa's getting unstuck project to help me figure this out.,"Oh my gosh!  I had no idea what I was doing.  I was looking everywhere for a string tutorial but couldn't find one.
+
+I did add the join string, but I'm really confused on all of the extra purple blocks and how to use them.",20126730,https://cdn2.scratch.mit.edu/get_image/project/236766972_480x360.png,2018-07-18T17:10:28.000Z,2018-07-18T19:01:46.000Z,2018-07-18T18:37:46.000Z,6,2,0,0,0,,
+236737706,Letters,"Space key - next task.
+
+""h"" - :)","Guess the word, closed by gray squares.
+Choose the desired letter with the mouse",139209,https://cdn2.scratch.mit.edu/get_image/project/236737706_480x360.png,2018-07-18T12:01:40.000Z,2018-07-19T05:28:41.000Z,2018-07-18T18:42:22.000Z,27,13,4,0,0,,
+236774065,Substring block remix,Remix del progetto di @welfringer per Getting Unstuck Day 14,"Trova una sottostringa dentro la stringa di input, ma attenzione: devi dare i due indici iniziale e finale compresi tra 1 e la lunghezza della stringa e in modo che sia iniziale < finale",17698999,https://cdn2.scratch.mit.edu/get_image/project/236774065_480x360.png,2018-07-18T18:18:31.000Z,2018-07-18T18:56:49.000Z,2018-07-18T18:42:15.000Z,4,1,1,0,0,236748951,236748951
+236758790,Getting Unstuck #14: Word Encryption,"Scratch project was created as activity #14 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+
+Day #14 Challenge: Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. ",Press the green flag!,1202362,https://cdn2.scratch.mit.edu/get_image/project/236758790_480x360.png,2018-07-18T15:44:14.000Z,2018-07-19T03:59:05.000Z,2018-07-18T18:16:01.000Z,15,5,1,0,0,,
+236777211,unstuck14,"Tip: the sprites in the red area almost sound the same as in English.
+The blue area is the most difficult. (except for the Scratchcat of course :-)",Learn some Dutch words. Click on every sprite untill you can take the test. Press spacebar to test.,1072279,https://cdn2.scratch.mit.edu/get_image/project/236777211_480x360.png,2018-07-18T18:50:55.000Z,2018-07-18T18:54:00.000Z,2018-07-18T18:51:16.000Z,7,2,0,0,0,,
+236772874,Day 14,,"press green flag, then answer the question.",34188789,https://cdn2.scratch.mit.edu/get_image/project/236772874_480x360.png,2018-07-18T18:07:38.000Z,2018-07-18T18:57:08.000Z,2018-07-18T18:55:08.000Z,5,1,0,0,0,,
+236762978,Getting Unstuck: Day 14,"This is my project for Day 14 of the Getting Unstuck programming challenge. I made a simple animation using the clone blocks and the string concatenation blocks.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621
+","Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. 
+
+This is a simple example of string concatenation and sprites cloning.",34314391,https://cdn2.scratch.mit.edu/get_image/project/236762978_480x360.png,2018-07-18T16:27:01.000Z,2018-07-18T19:02:42.000Z,2018-07-18T18:59:44.000Z,8,4,0,0,0,,
+236777954,day20,,"Click on the green flag to start.
+You have 6 seconds to multiply the two numbers displayed.",34225248,https://cdn2.scratch.mit.edu/get_image/project/236777954_480x360.png,2018-07-18T18:59:32.000Z,2018-07-24T11:37:39.000Z,2018-07-18T19:08:46.000Z,9,1,0,0,0,,
+236777569,Unstuck Day 14,"I must confess that I had very little time today and was rather overawed by some of the projects.  But, I have never used string blocks before so I decided to go simple which is all my frazzled brain can cope with today!  I was really pleased with the result.
+I thought the children would love to do this as a simple project to get into using string blocks, they would be so excited to see their name appear!  I might use this as an intro activity, when we're back at school!",For all teachers at the end of term!,3297086,https://cdn2.scratch.mit.edu/get_image/project/236777569_480x360.png,2018-07-18T18:54:52.000Z,2018-07-19T13:35:40.000Z,2018-07-18T19:09:43.000Z,11,3,1,0,0,,
+236774142,unstuck day 14,,guess the word: you have to click on the letter (word has length 3),443100,https://cdn2.scratch.mit.edu/get_image/project/236774142_480x360.png,2018-07-18T18:19:20.000Z,2018-07-18T20:15:41.000Z,2018-07-18T19:21:08.000Z,30,1,0,0,0,,
+236767190,day 14 - word game,"I was so pleased that I could make a list and then access it and show the typed words in another box.
+
+I struggled with removing the item from the original list so that it cannot be typed a second time.  Any help with this would be great.  I hope you enjoy playing the game.
+Please let me know what you think of it (any constructive or helpful comments are very welcome!)","I made this game as my daughter loves word play apps. This could be easily changed by addition of lists.
+Maybe there is a way of typing up a few lists and importing a list at the start of the game via a question.
+I hope that I did this correctly to achieve the aim of the lesson.  Ive been trying to challenge myself but really not sure about the variables, making my own blocks and that matematical aspect. 
+ Click the green flag - read what the lion says then try to guess the words.  If you get them correct you'll get a point and the word will appear in the results window.",24864870,https://cdn2.scratch.mit.edu/get_image/project/236767190_480x360.png,2018-07-18T17:12:32.000Z,2018-07-18T19:46:49.000Z,2018-07-18T19:27:51.000Z,8,3,1,0,0,,
+236779756,Falling Letters!,"Phew! Speaking of getting unstuck, today I was stuck all the time! Scratch is lot of fun EXCEPT when you have to stick blocks into blocks into other blocks... I was also in a rush today, so my code is not very elegant. Translating letters into numbers and again in costumes was hard, and also the routine that checks if the user writes a number costed me a lot of time. Exhausting but rewarding.  
+
+Fun thing: this is a remake of an example program of a dBase III tutorial. Nowadays almost no one even remembers dBase III, it was a powerful language mainly used to manage databases before SQL. MS Visual FoxPro was based on dBase III, but it was short lived.","Guess the secret word! Select how may random letters you want to be thrown out from the plane, then use LEFT/RIGHT to get them.
+If the letter is part of the secret word, then they will be revealed.",12148328,https://cdn2.scratch.mit.edu/get_image/project/236779756_480x360.png,2018-07-18T19:23:06.000Z,2018-07-18T20:06:27.000Z,2018-07-18T19:35:04.000Z,12,7,2,0,0,,
+236769072,Getting Unstuck Day 14: Zodiac Finder,"I was inspired to make this project to teach people a little more about their zodiac signs! It was fun to figure out how to parse the letters and then set the month and date to align with the horoscopes. Originally, when I tried to do this, I got stuck because a month (for example, April) could mean one of two signs. I think I worked around this pretty well, but there's probably a more elegant execution of this.
+
+If I had more time, I'd make sure there was a response for the user making a typo/not typing a correct birthday. Right now, it just stops :)
+
+Zodiac descriptions based on this guide: https://www.allure.com/story/zodiac-sign-personality-traits-dates","Click on the green flag. Type your birthday with only lowercase letters when prompted (example: may 24), then learn about your zodiac sign!",19163721,https://cdn2.scratch.mit.edu/get_image/project/236769072_480x360.png,2018-07-18T17:31:32.000Z,2018-07-18T22:02:08.000Z,2018-07-18T19:46:35.000Z,7,2,1,0,0,,
+236780808,Day 14 Getting Unstuck - say backwards,"Challenge: Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.","When prompted, enter what you want displayed backward then Scratch will say it backwards.",1013358,https://cdn2.scratch.mit.edu/get_image/project/236780808_480x360.png,2018-07-18T19:36:17.000Z,2018-07-25T13:03:05.000Z,2018-07-18T19:56:39.000Z,6,2,0,0,0,,
+236779249,Name that Flower,"Credit: flower photos from my NH garden
+
+Reflection: I've never played with the string blocks (other than join) in Scratch before.
+
+I was thinking of a hangman game but remembered a student playing with pixelation yesterday and thought that would be an easier type of game - reveal the picture (and easier to code).
+
+I was also thinking to add a hint of ""there is 'this letter' in its name."" but settled for this.","Getting Unstuck #14: Create a project that uses the string blocks in the Operators category.
+
+Guess the flower name or click on Scratchie.
+
+",399245,https://cdn2.scratch.mit.edu/get_image/project/236779249_480x360.png,2018-07-18T19:16:32.000Z,2018-07-19T01:28:15.000Z,2018-07-18T20:09:00.000Z,12,3,2,0,0,,
+236778823,Do the Jiggen! Getting Unstuck Day 14 Strings,"Getting Unstuck Day 14 Strings
+
+So this challenge was super fun. Not that many hurdles to overcome, things pretty much worked the way that I expected them to.
+I tried a new strategy: in the past, I would have likely broadcast two messages like ""dance"" and ""nodancing"" in order to coordinate all the different sprites' activities in the two situations. However, I tried using what is essentially a true/false variable and found that it worked rather well, as the sprites only do simple repetitive things in each different condition.",Click the different buttons on screen and see what happens!,3485356,https://cdn2.scratch.mit.edu/get_image/project/236778823_480x360.png,2018-07-18T19:10:27.000Z,2018-07-18T20:13:09.000Z,2018-07-18T20:10:28.000Z,12,5,1,0,0,,
+236758075,Darwinian Word Ladder,"Yikes! I'm feeling very sticky (as in, ""stuck"")! From dreaming it, to doing it, is not a piece of cake! I've got some logic errors. Ha! ... unstuck...I put a ""go to"" block in my forever loop so that the sprite will move away when the activity has finished, so that it doesn't occur all over again. 
+Credits:
+http://www.publicdomainfiles.com/show_file.php?id=13960921222742
+https://www.flickr.com/photos/notionscapital/9650462984
+https://www.flickr.com/photos/viciousg42/68548730/
+http://freemusicarchive.org/music/Dee_Yan-Key/Fast_Swing_reloaded/04--Dee_Yan-Key-Carpe_Diem","Click on the green flag to begin. Then follow the directions to solve the word ladder.
+
+",24741621,https://cdn2.scratch.mit.edu/get_image/project/236758075_480x360.png,2018-07-18T15:37:34.000Z,2018-07-18T23:00:44.000Z,2018-07-18T20:17:50.000Z,13,3,1,0,0,,
+236747870,Getting Unstuck Day 14,"Getting Unstuck Day 14 (Per questo tipo di progetto servirebbe uno studio più approfondito)
+Grazie al progetto condiviso di @mariateresas e grazie ad Andrea Ferraresso per @DeAscuola
+
+
+","Le parole a specchio
+",15572972,https://cdn2.scratch.mit.edu/get_image/project/236747870_480x360.png,2018-07-18T13:55:56.000Z,2018-07-24T13:58:54.000Z,2018-07-18T20:09:36.000Z,11,3,0,0,0,,
+236760266,Text Visualizer,It was surprisingly challenging to convert a character to a number to a color - compounded by the fact that it's difficult to suss out the state of the pen at any given point (I was baffled for quite a while when I accidentally set the shade to 0 and then couldn't figure out why the set color blocks weren't working!),Click one of the buttons to visualize a given text using colors!,1092342,https://cdn2.scratch.mit.edu/get_image/project/236760266_480x360.png,2018-07-18T15:59:11.000Z,2018-07-19T20:44:52.000Z,2018-07-18T20:37:11.000Z,18,4,2,0,0,,
+236757267,Creature Creator!/Getting Unstuck Day 14,,"Press green flag
+answer the questions
+use mouse to drag items around
+say yes when you are done
+ta da!
+you are done",28402186,https://cdn2.scratch.mit.edu/get_image/project/236757267_480x360.png,2018-07-18T15:29:22.000Z,2018-07-18T20:47:49.000Z,2018-07-18T20:47:10.000Z,17,3,1,0,0,,
+236785773,Unstuck Day 14 Rushing,"This silly thing was inspired by the ""joke"" that I get told all the time during lunch or recess duty at my school.  Guess it was good for something!  ;-)","Getting Unstuck Day 14 - Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.
+
+Click the Green flag to start and then answer the questions.
+",7525698,https://cdn2.scratch.mit.edu/get_image/project/236785773_480x360.png,2018-07-18T20:52:12.000Z,2018-07-18T21:07:40.000Z,2018-07-18T21:07:40.000Z,7,4,1,0,0,,
+236784802,Getting Unstuck: Day 14. The longest word game.,,Click on the green flag and play!,18190669,https://cdn2.scratch.mit.edu/get_image/project/236784802_480x360.png,2018-07-18T20:36:46.000Z,2018-07-18T21:20:04.000Z,2018-07-18T20:39:26.000Z,13,5,1,0,0,,
+236787427,Unstuck 14 String blocks - Hangman v2,"Update v2:
+-Gave the game an ending for either a win or loss.
+-Press [c] to get a clue
+-Play ""correct"" sound for each letter found
+
+This turned out to be a hard project. What I have is working well. I would like to improve it to:
+-handle different lengths of words
+-make it a 2-player game, where another player types in the secret word to use
+","Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.
+
+It's hangman ... you know what to do :-)
+-Press [c] to get a clue during the game
+-Press [space] to show the secret word during the game",19123745,https://cdn2.scratch.mit.edu/get_image/project/236787427_480x360.png,2018-07-18T21:20:15.000Z,2018-07-18T21:56:09.000Z,2018-07-18T21:25:07.000Z,7,4,1,0,0,,
+236779086,Secret Agent Scratch Cat  - Cipher Wheel : Getting Unstuck Day 14 ,Cipher Text image: https://apprecs.com/android/com.nb974.caesarcipherwheel/caesar-cipher-wheel,"Create a secret message using a cipher wheel.  
+
+Press the green button to start.  Use left/right arrow to turn the wheel and hit space bar to enter your message.",17257831,https://cdn2.scratch.mit.edu/get_image/project/236779086_480x360.png,2018-07-18T19:14:07.000Z,2018-07-19T00:19:28.000Z,2018-07-18T21:31:22.000Z,26,11,1,0,0,,
+236736866,Beatles: Love in 3 Words,"I got stuck several times dealing with all the lists in this project, but reviewed old projects and examples from other Scratchers to help sort it out. Using blocks with visible output like 'Say ()' is a go-to debugging strategy, as well.
+
+Making this reminded me how complex even the simplest games are deceptively complex to create. It's an issue I think about all the time when creating game design activities for new coders!
+
+With more time, I'd like to make the scripts for this project simpler to understand, so that it could be used as a demonstration of how to make a quiz like this one.
+
+Music samples from Amazon",Green Flag and follow instructions,27306974,https://cdn2.scratch.mit.edu/get_image/project/236736866_480x360.png,2018-07-18T11:48:06.000Z,2018-07-19T02:03:00.000Z,2018-07-18T21:33:23.000Z,15,4,2,0,0,,
+236788158,Getting Unstuck Day 14 Remix: Iglatinpay Amenay-4,"Loved the original! Here's another take on the idea . . . 
+Took a while to figure out how to get the first letter moved to the end.
+So happy when it worked, almost forgot to add ""ay"". Timing still not quite right and project seems to have gone from a few extraneous bowtie spins to not quite enough - will probably compare to previous drafts. Still thinking through the progression of steps when using the broadcast block, strings, loops and direction changes. 
+Would not have considered remix before Day 11 challenge. Glad to have a model to work from, and not always having to start from ""scratch"". 
+","Getting Unstuck Day 14
+Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.
+Follow the script and have Scratch spell your name in Piglatin!
+
+",18337230,https://cdn2.scratch.mit.edu/get_image/project/236788158_480x360.png,2018-07-18T21:34:26.000Z,2018-07-18T22:07:33.000Z,2018-07-18T21:52:23.000Z,8,4,0,0,0,236734260,236734260
+236777458,Favorite Season - Getting Unstuck Day 14,The challenge was getting the cat to respond when the user did not enter a proper response i.e. one of the four seasons.,Press the green flag and answer the cat's two questions.,22156688,https://cdn2.scratch.mit.edu/get_image/project/236777458_480x360.png,2018-07-18T18:53:25.000Z,2018-07-18T22:00:54.000Z,2018-07-18T22:00:06.000Z,12,5,0,0,0,,
+236786106,Day 14 - Using Operators and the JOIN block,"Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.  
+
+","Ok, in this, I say hello in the language the user says they speak (English, German, French, Italian, Japanese, and Spanish). They they are asked their name. What I can't figure out YET, is how to make it then answer, Teach me more (language), and then their name. How do you make TWO answer blocks? ",10309968,https://cdn2.scratch.mit.edu/get_image/project/236786106_480x360.png,2018-07-18T20:58:15.000Z,2018-07-18T22:05:09.000Z,2018-07-18T21:38:11.000Z,9,4,1,0,0,,
+236771286,Unstuck Day 14 - Name Your Rock Band,I had never used the string blocks or the question and answer blocks. It took me a while to figure out how to string the answers together by making variables in the Data blocks. I want to play with this more. This is a pretty simplistic project.,Click on the flag to begin.,10715270,https://cdn2.scratch.mit.edu/get_image/project/236771286_480x360.png,2018-07-18T17:52:43.000Z,2018-07-25T13:01:11.000Z,2018-07-18T22:30:48.000Z,5,4,0,0,0,,
+236791712,Challenge14SpellingwithElements,"When I have more time, I want to add in a test for capital and small letters, since that is important for the element symbols. I have found a project that I can remix for the code. ","This project asks for element symbols as answers to questions about the elements. At the end of each round, the symbols are put together to spell a word. There are 4 rounds. Click on the green arrow to begin.",2190314,https://cdn2.scratch.mit.edu/get_image/project/236791712_480x360.png,2018-07-18T22:43:01.000Z,2018-07-18T22:45:52.000Z,2018-07-18T22:43:44.000Z,10,3,0,0,0,,
+236762736,Simple Text Calculator,"Unstuck Challenge 14: Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.  
+
+This is a work in progress. At this moment, it only works with single-digit operands and with the four basic operations (+, -, *, /) only. ",Click on the green flag to start. Enter a math expression and the penguin will evaluate the expression for you.,25332755,https://cdn2.scratch.mit.edu/get_image/project/236762736_480x360.png,2018-07-18T16:24:40.000Z,2018-07-19T08:08:18.000Z,2018-07-18T22:51:31.000Z,9,3,0,0,0,,
+236778592,3 pics 1 word,"Inspired by ""4 pics 1 word"" game, I've created a simple word game.
+At first, I didn't know how to make it by using the string blocks, so I decided to take a look on other people's projects from this studio.
+Then I found a way to use the ""join"" block in this kind of game.
+                                     
+                                  ---My next goal---
+The difficulty is easy, so I'd like to add more pics, a timer and also randomness when the pics appears.
+","Press the green flag and then the stage to start.
+Look at the pictures and guess the word.
+
+
+                         ----Getting Unstuck Day 14---
+""Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.""",4413079,https://cdn2.scratch.mit.edu/get_image/project/236778592_480x360.png,2018-07-18T19:07:10.000Z,2018-07-20T03:28:45.000Z,2018-07-18T23:16:41.000Z,10,4,0,0,0,,
+236790785,Getting Unstuck Challenge 14,"Had seen mad lib style activities and have wanted to trial for a while so this was my push!
+I followed ideas and instructions from the raspberry pi geek.com.
+It was a lot of fun and I can see myself pushing it out to students.
+","Create a crazy Nursery Rhyme.
+Click the green flag and answer the questions.",13484475,https://cdn2.scratch.mit.edu/get_image/project/236790785_480x360.png,2018-07-18T22:23:37.000Z,2018-07-19T02:02:59.000Z,2018-07-18T23:17:17.000Z,3,2,0,0,0,,
+236764560,Jabberwocky remix,This sis NOT elegant code! How could I make it less repetitive?,,33472226,https://cdn2.scratch.mit.edu/get_image/project/236764560_480x360.png,2018-07-18T16:44:23.000Z,2018-07-24T18:48:07.000Z,2018-07-18T23:58:14.000Z,6,2,0,0,0,,
+236791424,Day 14: username and password generator,"Had fun making this, gave me a chance to revisit using lists!  
+","Day 14 challenge: Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay
+
+ Can't think of a username? Generate random usernames. Or how about all those passwords.  Cick Start button to get generated a username and password.",1294980,https://cdn2.scratch.mit.edu/get_image/project/236791424_480x360.png,2018-07-18T22:36:42.000Z,2018-07-19T01:37:15.000Z,2018-07-19T00:59:09.000Z,16,11,2,0,0,,
+236798505,Unstuck Day 14,This was fun!,"Click flag for directions.
+Patty Pig is a helpful language interpreter!",11305008,https://cdn2.scratch.mit.edu/get_image/project/236798505_480x360.png,2018-07-19T00:42:05.000Z,2018-07-19T01:14:25.000Z,2018-07-19T01:14:25.000Z,5,1,0,0,0,,
+236752108,Day14,"Had limited time, but tried my best with blocks I have never used before!",Clcik green flag and answer questions,11885888,https://cdn2.scratch.mit.edu/get_image/project/236752108_480x360.png,2018-07-18T14:37:39.000Z,2018-07-19T01:19:14.000Z,2018-07-19T01:18:34.000Z,6,1,0,0,0,,
+236797718,#GettingUnstuck Day 14,,,18062705,https://cdn2.scratch.mit.edu/get_image/project/236797718_480x360.png,2018-07-19T00:28:50.000Z,2018-07-19T01:25:40.000Z,2018-07-19T01:25:39.000Z,7,1,0,0,0,,
+236790556,Day 14 - Josef,"Josef from Machinarium
+
+Day 14 - Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.",Click the flag to start.,109272,https://cdn2.scratch.mit.edu/get_image/project/236790556_480x360.png,2018-07-18T22:18:52.000Z,2018-07-25T01:20:51.000Z,2018-07-19T01:42:39.000Z,7,2,0,0,0,,
+236797413,Aliebn Lamguage,"The inspiration for this project came from one of the most wonderful and inspiring stories I've ever read, ""badly spelled and beautifully written"", in which a little alien lands on Earth to find out what is a human.
+
+In the book, the alien speaks a very particular language full of misspellings and typos, that makes it super cute. So I tried to write a Scratch program to translate from human to alien language.
+
+That turned out to be much harder than expected. I thought I could just replace letters but it turned out that it was much more complex because quite often the translation of a letter depends on the letter that is before and/or after, and there are a lot of exceptions. 
+
+My unstuck strategy was to ""keep it simple"", so I made a couple of simple substitutions. Then I tried consider the previous letter and I made the simplest thing I could, which was ""mispeling"" double letter words. If I had more time I would dive deeper and try to implement the entire aliebn grammar.. for now I think it's cute enough! EDIT: I couldn't resist so I also made a simple filter that removes ""I'm"" or ""I am"" from the second answer.. it is not very robust, but it's good enough!
+
+Here are more info about the book and the alien language:
+https://www.pri.org/stories/2017-09-27/how-speak-aliebn-no-thats-not-typo
+
+Hapy learming friemds!",Meet a little alien who's learning about humans.,2286560,https://cdn2.scratch.mit.edu/get_image/project/236797413_480x360.png,2018-07-19T00:24:01.000Z,2018-07-19T04:51:05.000Z,2018-07-19T01:41:16.000Z,13,5,2,0,0,,
+236799811,Getting Unstuck 14 ,"After a 10 hour work day near New Hampshire, then a trip to Boston, didnt' think I'd get it done today. But I enjoy working with strings. 
+
+I thought to slow it down so it was easier to follow what is happening but decided that fast is fun. You can also use the text engine to type sentences and has some roughly built in margins. Will need a few adjustments but the framework is there. ","Ok, got it done. 
+
+Type a word, the index will go letter by letter to add it to a list in order. Then we'll randomize the index to add the letters to the scramble list and delete the list item from unscrambled.
+
+Once all the letters are scrambled we will join them all back into the scrambled variable. Then we'll run that scramble variable through my text engine which will then clone the letters centered on the screen. ",3158946,https://cdn2.scratch.mit.edu/get_image/project/236799811_480x360.png,2018-07-19T01:06:24.000Z,2018-07-19T03:02:33.000Z,2018-07-19T01:25:39.000Z,8,2,0,0,0,,
+236747251,The Fortune Teller - Getting Unstuck Day14,"Getting Unstuck: Day 14 - Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. 
+
+Dregs in the Cup Fortune Telling (1838) by William Sidney Mount (American artist, 1807-1868) 
+
+I always imagine a story. I love to find a way to create something like the steam going out from the teapot. I like to make it funny too. My challenge was not using prompts to enter the words. I wanted to try something new. I learned and had much fun! :)","click the green flag and watch the fortune teller performance.
+
+
+
+",2176961,https://cdn2.scratch.mit.edu/get_image/project/236747251_480x360.png,2018-07-18T13:49:46.000Z,2018-07-19T02:36:05.000Z,2018-07-19T01:20:06.000Z,15,5,0,0,0,,
+236792904,Reverse telephone game,"This project responds to the prompt for Getting Unstuck Day 14: ""Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.""
+
+Thanks to @mrwaltermqp for the inspiration that led to this remix!
+
+Scratch Conference 2018 logo from @mres on Twitter
+MIT Media Lab image:  https://www.media.mit.edu/about/press-visits-and-inquiries/ (Andy Ryan)
+tin can:  https://pixabay.com/en/can-dose-metal-packaging-tin-2022624/","Click on the green flag.  This is a ""reverse"" telephone game, so the message gets clearer at the end.  Stick around for the final shout-out and celebration!",527557,https://cdn2.scratch.mit.edu/get_image/project/236792904_480x360.png,2018-07-18T23:07:54.000Z,2018-07-19T04:16:23.000Z,2018-07-19T04:16:23.000Z,18,5,1,0,0,236735311,236735311
+236705890,Sanja meets Hollie's friend,"I thought this would be easier but it took me such a long time. I have exceeded my budgeted time today. Oh no!
+Help needed:
+How do I get Hollie to stop walking when asking the question and then to start walking again? Thanks.","Click green flag to start.
+
+Getting Unstuck #Day 14
+Hollie is the happy-go-lucky cousin of Steven. She loves new clothes and bought this special wearable that enables her whole body to change colours as she walks.
+Her best friend is Sanja.
+Please answer Hollie's questions. Enjoy.
+",158902,https://cdn2.scratch.mit.edu/get_image/project/236705890_480x360.png,2018-07-18T03:45:27.000Z,2018-07-19T05:11:29.000Z,2018-07-19T05:01:04.000Z,7,1,0,0,0,,
+236811859,Day 14 What animal are you? ,"I need to work on the background, and add more questions. ","I made a version of those quizzes you take to find out what animal you, what city you should live in, etc. The way I approached it was choosing 4 animals, making them variables, giving them a point, each time they are chosen as the answer. I only have 3 questions. It works, but I'm having trouble figuring out how to get it to work if the each animal had the same amount of points. It worked yesterday a few times for this, but then stopped. Any suggestions?",10309968,https://cdn2.scratch.mit.edu/get_image/project/236811859_480x360.png,2018-07-19T04:06:58.000Z,2018-07-25T03:21:20.000Z,2018-07-19T04:44:52.000Z,9,1,0,0,0,,
+236821905,GettingUnstuck Password Generator ,"The password is generated using a list of words taken from Getting Unstuck emails (till now)
+
+Getting Unstuck: Day 14","Click on GettingUnstuck LOGO to generate the password
+1) you can add a number at the beginning and/or at the end of the string (just click on the flag)
+2) you can choose from 4 level of lenght: short, med, long, strong. Click on the button until it shows the desired lenght ",2143382,https://cdn2.scratch.mit.edu/get_image/project/236821905_480x360.png,2018-07-19T07:08:55.000Z,2018-07-19T07:32:37.000Z,2018-07-19T07:32:37.000Z,12,2,0,0,0,,
+236825138,Bat - day 13 Getting Unstuck,,Click the flag and move the mouse through the stage,3602053,https://cdn2.scratch.mit.edu/get_image/project/236825138_480x360.png,2018-07-19T08:02:26.000Z,2018-07-19T08:19:14.000Z,2018-07-19T08:18:16.000Z,5,0,0,0,0,,
+236811371,Getting unstuck day 14 remix day13,Thanks to @alirb and many others from whom I have taken many ideas,"Press the green flag. Move the mouse on the lamp.
+Press the space bar.
+If you are tired, press the ""e"" key
+If you want to express the wishes, press the ""w""",19738986,https://cdn2.scratch.mit.edu/get_image/project/236811371_480x360.png,2018-07-19T03:57:30.000Z,2018-07-31T12:29:42.000Z,2018-07-19T08:39:46.000Z,6,2,0,0,0,,
+236831087,Day 14 - Play with words,,"It comes from a game to be played in two. One says a word and the other one is supposed to say another word that starts with the final letters of the first word.
+
+In this version, there is no check that the string is an actual word.",24154277,https://cdn2.scratch.mit.edu/get_image/project/236831087_480x360.png,2018-07-19T09:26:40.000Z,2018-07-19T09:54:56.000Z,2018-07-19T09:54:56.000Z,10,2,0,0,0,,
+236804457,Prefix Perfect Match,"I'm spending too long trying to work out why it seems to be randomly choosing if the answer is right or wrong, so correct answers are being shown as incorrect and vice versa. Help!",Press the space to start and follow the directions.,30508500,https://cdn2.scratch.mit.edu/get_image/project/236804457_480x360.png,2018-07-19T02:10:46.000Z,2018-07-19T10:39:21.000Z,2018-07-19T10:39:21.000Z,6,0,0,0,0,,
+236833662,Unstuck Day 14,"I am getting better at the ""broadcast"" block, but still need some practice.  I really love looking inside other's projects to help me figure out the ins and outs.",Just click on the green flag and find the perfect prom dress.  (I wish prom dress shopping was this easy!),24826697,https://cdn2.scratch.mit.edu/get_image/project/236833662_480x360.png,2018-07-19T10:12:07.000Z,2018-07-19T10:51:26.000Z,2018-07-19T10:48:43.000Z,7,1,0,0,0,,
+236841559,Unstuck Day 14: Let's shoot some hoops.,"I tried so many new things to make this project.  I had to look at Unstuck Day 14 by sleifer  and Name that Flower by HSSLab many times to figure out how to make this project work.
+
+I would like to let my class remix this and add on to it  so it could be a fun game for younger students. I could see them also changing the topic and making their own study guides or quizzes.  So many possibilities.","Devin wants to play a game, will you help?  Click the green flag to begin.",34190490,https://cdn2.scratch.mit.edu/get_image/project/236841559_480x360.png,2018-07-19T12:23:25.000Z,2018-07-19T14:06:30.000Z,2018-07-19T14:01:52.000Z,5,1,0,0,0,,
+235382073,Cheer for you!! - Getting Unstuck - Day 14,,Click the green flag to see Catherine Cheer for you!! ,19641362,https://cdn2.scratch.mit.edu/get_image/project/235382073_480x360.png,2018-07-03T18:57:27.000Z,2018-07-19T14:22:17.000Z,2018-07-19T14:21:39.000Z,4,1,0,0,0,,
+236841745,G.U. Day 14 PAROLE / ELORAP,"Grazie a Mariateresa e a Valeria. 
+Ho copiato la sequenza delle istruzioni, senza remixare i loro progetti perché avevo già impostato alcune parti in precedenza.
+Inizialmente avevo impostato tempi di rotazione delle lettere differenziati, poi li ho uniformati.
+","Clicca sulla bandierina verde.
+",13746945,https://cdn2.scratch.mit.edu/get_image/project/236841745_480x360.png,2018-07-19T12:26:02.000Z,2018-07-22T13:16:20.000Z,2018-07-19T15:31:40.000Z,9,4,2,0,0,,
+25796706,say the following letter of the word,,"Cliccate il gatto e............
+inserita una parola ed il gatto dirà la lettera successiva
+ad esempio:   lupo =  u   o  
+Click the cat and insert a word he will say le letters of the word
+that come after
+example lion= I N ",3602053,https://cdn2.scratch.mit.edu/get_image/project/25796706_480x360.png,2014-08-22T08:11:56.000Z,2018-07-19T16:31:43.000Z,2014-08-22T08:45:30.000Z,16,1,0,0,0,,
+178821885,Rolling circles in circle?,"As often I was intrigued by the code in the original project by dapontes. Played around with it with the intention to learn from the code and draw some different spirals. As often the result wasn't quite what I expected - looks more like some kind of rolling circles . . .
+One of the many things I like about Scratch: learning by surprises =)
+
+15/10/17 Featured. Thank you so much for all support and comments!","A visual project
+
+
+Lots of thanks to dapontes for lots of inspiring projects, 
+among them the original of this remix!!!
+
+",13532591,https://cdn2.scratch.mit.edu/get_image/project/178821885_480x360.png,2017-10-09T11:58:34.000Z,2017-10-26T11:46:38.000Z,2017-10-09T12:58:53.000Z,36294,1919,1358,0,0,178650563,178650563
+23537953,Sillabare Getting Unstuck 14,,"Inserite il vostro nome e il gatto lo dirà sillabando :-)
+",3602053,https://cdn2.scratch.mit.edu/get_image/project/23537953_480x360.png,2014-06-12T08:08:37.000Z,2018-07-19T08:30:37.000Z,2014-08-18T19:39:11.000Z,33,6,1,0,0,,
+236863214,Getting Unstuck Day 14 - Answer Me This...,,Answer Scratch honestly,18558561,https://cdn2.scratch.mit.edu/get_image/project/236863214_480x360.png,2018-07-19T16:19:06.000Z,2018-07-19T17:21:06.000Z,2018-07-19T16:37:00.000Z,4,1,0,0,0,,
+236854567,day 14,,Click on a flag .. and follow cat's instruction.,771142,https://cdn2.scratch.mit.edu/get_image/project/236854567_480x360.png,2018-07-19T14:48:45.000Z,2018-07-19T16:46:14.000Z,2018-07-19T16:45:34.000Z,3,2,0,0,0,,
+236862795,Getting Unstuck: Day 14,"Getting Unstuck: Day 14
+Challenge: Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. 
+
+My project is very simple, but I never used that kind of blocks. If I had more time, I wold create a storytelling like this: a teacher asks his students the length of a word.","Click on green flag.
+Write a word, Scratch say the word's length.",17615581,https://cdn2.scratch.mit.edu/get_image/project/236862795_480x360.png,2018-07-19T16:14:52.000Z,2018-07-22T14:42:17.000Z,2018-07-19T16:54:29.000Z,7,1,0,0,0,,
+236871624,A Word With U,"I wanted to make a word-guessing game for Getting Unstuck day 14. The idea for the mechanics of this game came from a pun: ""A word with U"" could mean a word that starts with 'A' that also has a 'U'.
+
+It was easier to find a word list than I thought it would be! I got it here: https://github.com/first20hours/google-10000-english/blob/master/google-10000-english-usa-no-swears.txt (You can upload a txt file to a list by right clicking on the list in the editor.)
+","You have 60 seconds to guess as many words as you can! (This project only knows the most common 10,000 words in American English, so guess accordingly.) Proper nouns (like ""California"") and common acronyms (like ""ISBN"") are welcome!
+
+If you can't think of a word, you can type ""give up""-- but beware, you'll lose some points.",522321,https://cdn2.scratch.mit.edu/get_image/project/236871624_480x360.png,2018-07-19T17:54:08.000Z,2018-07-19T18:02:36.000Z,2018-07-19T17:59:39.000Z,10,1,0,0,0,,
+236862831,Getting Unstuck: Day 14,"This took some time to do and my computer was slow.  I'm not sure if the Scratch program didn't like that I had so much code on one page.  I'm sure there is a more effective way to do this project.  If you have any hints/ideas, I would love to know.  
+I should probably add a score to it, but wanted to do something else with my day:)",Press the green flag and follow the instructions.,22286405,https://cdn2.scratch.mit.edu/get_image/project/236862831_480x360.png,2018-07-19T16:15:22.000Z,2018-07-19T21:42:24.000Z,2018-07-19T18:13:56.000Z,5,1,0,0,0,,
+236799372,Day 14-Strings and Operators - Genie,"Day 14- Strings and operators - Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. 
+
+Did a random genie name generator. Realized a little bit later that I have no idea what genies are names so some of them may be a little silly.","Click the green flag
+Click the lamp to meet the genie",16509596,https://cdn2.scratch.mit.edu/get_image/project/236799372_480x360.png,2018-07-19T00:57:49.000Z,2018-07-19T20:17:01.000Z,2018-07-19T20:07:48.000Z,2,0,0,0,0,,
+236875366,Getting Unstuck - Day 14,"I've always wondered how bands chose their names.  As a kid I thought that maybe each band member chose one word and then they threw them all together to find their name.  So, this project is based off of that idea.","Getting Unstuck Day 14 - Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.
+
+Click  the flag and enjoy.",14400846,https://cdn2.scratch.mit.edu/get_image/project/236875366_480x360.png,2018-07-19T18:34:13.000Z,2018-07-19T20:21:28.000Z,2018-07-19T20:17:02.000Z,5,2,0,0,0,,
+236883093,Getting Unstuck Day14,,,17809789,https://cdn2.scratch.mit.edu/get_image/project/236883093_480x360.png,2018-07-19T20:19:44.000Z,2018-07-19T20:28:12.000Z,2018-07-19T20:28:12.000Z,5,1,0,0,0,,
+236886423,Unstuck #14 - Polygon Lesson,Unstuck #14 - lists and operators,learning about lists and operators today!!,26618044,https://cdn2.scratch.mit.edu/get_image/project/236886423_480x360.png,2018-07-19T21:14:28.000Z,2018-07-22T13:58:48.000Z,2018-07-19T22:07:32.000Z,6,1,0,0,0,,
+236883589,Wordplay- Day 14,"Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. 
+
+*I've never used the ""Join"" block but I'm not really clear how this is different than just using the ""Say"" blocks? I'll have to keep playing around with it!",Press the green flag and then press on the Scratch Cat for a school cheer!,25165723,https://cdn2.scratch.mit.edu/get_image/project/236883589_480x360.png,2018-07-19T20:26:34.000Z,2018-07-20T00:59:09.000Z,2018-07-20T00:58:01.000Z,5,0,0,0,0,,
+236898392,Getting Unstuck Day 14,"I was only able to do a simplified version, but I'm starting to get a feel for the operators now.","Challenge: Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.",34245752,https://cdn2.scratch.mit.edu/get_image/project/236898392_480x360.png,2018-07-20T00:48:22.000Z,2018-07-20T01:07:57.000Z,2018-07-20T01:07:34.000Z,14,2,1,0,0,,
+236903872,Fairy_ Unstuck Day 14,Fun! I want to add more when I have more time. ,Just click the green flag. Can you guess my mathematical algorithm without peeking?,31144646,https://cdn2.scratch.mit.edu/get_image/project/236903872_480x360.png,2018-07-20T02:18:43.000Z,2018-07-20T18:55:36.000Z,2018-07-20T02:41:18.000Z,17,1,0,0,0,,
+236851875,DAY 14 - QUIZ IN NATURE!,"NON SONO SODDISFATTA DEL MIO LAVORO PERCHE' NON HO SAPUTO RISPONDERE ALLA RICHIESTA DEL DAY 14.
+SONO ALLE PRIME ARMI E L'USO DI ALCUNI BLOCCHI MI E' COMPLETAMENTE SCONOSCIUTO.
+L'HO COMUNQUE CONDIVISO VISTO CHE CI HO IMPIEGATO DUE GIORNI DI LAVORO....
+RIPROVERO' CON UN REMIX",BASTA CLICCARE SULLA BANDIERA E POI... VA DA SE',34259094,https://cdn2.scratch.mit.edu/get_image/project/236851875_480x360.png,2018-07-19T14:18:43.000Z,2018-07-20T17:34:42.000Z,2018-07-20T16:46:27.000Z,3,0,0,0,0,,
+236964006,What Yer Name Be --Unstuck Challenge 14,"Once I started, I realized I bit off more than I was willing to chew at this time.  I scaled down the project so that groups of letters returned results rather than a new name for each letter.  I would like to continue refining it and finding a simpler way of assigning a nickname based on a letter of the alphabet.",Click the flag and follow the pirate penguin will take over!,11608238,https://cdn2.scratch.mit.edu/get_image/project/236964006_480x360.png,2018-07-20T18:53:34.000Z,2018-07-20T20:09:17.000Z,2018-07-20T20:07:14.000Z,1,0,0,0,0,,
+236995932,Unstuck Day 14 project,"Kept it nice and simple and focused on using the ""length of"" block which I'd never used before. I love getting to try out new blocks, and now I want to find a way to introduce it to upper elementary students!",Click the flag and see if you're smarter than Scratch cat!,17786521,https://cdn2.scratch.mit.edu/get_image/project/236995932_480x360.png,2018-07-21T05:50:08.000Z,2018-07-21T06:16:38.000Z,2018-07-21T06:15:17.000Z,2,0,0,0,0,,
+236999884,Day 14,"I wanted to use the ""length of"" to give a random number depending on the length of the food or colour chosen but couldn't work out how to do this. I settled for choosing a random number.",Click on the green flag to start.,32833725,https://cdn2.scratch.mit.edu/get_image/project/236999884_480x360.png,2018-07-21T07:30:13.000Z,2018-07-21T07:40:22.000Z,2018-07-21T07:40:22.000Z,4,0,0,0,0,,
+237013916,IL MIO NOME,"Progetto creato per Getting Unstuck, giorno 14.","SE VUOI CONOSCERE IL MIO NOME, CLICCA SULLA BANDIERINA VERDE E...QUALCUNO TE LO DIRà!",14651357,https://cdn2.scratch.mit.edu/get_image/project/237013916_480x360.png,2018-07-21T13:27:00.000Z,2018-07-21T13:46:29.000Z,2018-07-21T13:46:29.000Z,3,0,0,0,0,,
+237028894,Getting Unstuck Day 14 remix,Remixed to use Sport's Team names.  Thanks to RoboSquid for original project.  I'm at the start of learning about string blocks and this project increased my understanding of the supporting ideas.,"Getting Unstuck Day 14
+
+Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.
+
+Just run the project for some well deserved adoration.",14232182,https://cdn2.scratch.mit.edu/get_image/project/237028894_480x360.png,2018-07-21T18:55:59.000Z,2018-07-21T19:35:29.000Z,2018-07-21T19:35:28.000Z,7,2,0,0,0,236734260,236734260
+237034991,Go Gators! Unstuck #14,"I really struggled with this project. It took me a while to grasp the concept of the join blocks and the different ways they can be used. While I have a better feel for it, I finally decided to remix. Thanks to @CMSSowders for the original project and cheering idea.",Click the green flag for a Florida Gators fight song,124311,https://cdn2.scratch.mit.edu/get_image/project/237034991_480x360.png,2018-07-21T21:28:08.000Z,2018-07-21T22:33:44.000Z,2018-07-21T22:33:44.000Z,2,1,0,0,0,236883589,236883589
+237066028,Tales of a Computer Teacher,"I've previously used the Scratch Catlibs activity with students.  I've adapted it in this project to make it more personal.  I think this might be a fun way to introduce string blocks to my students. 
+",Click on the Green Flag and enter the requested information.,1196430,https://cdn2.scratch.mit.edu/get_image/project/237066028_480x360.png,2018-07-22T11:18:33.000Z,2018-07-22T12:09:18.000Z,2018-07-22T12:08:40.000Z,8,1,0,0,0,,
+237086963,day 14 ,I am feeling so much more confident about having fun and worrying less about finding blocks than just two weeks ago! Now I understand the fluency that my students develop so much better. This day by day practice has added a whole new level of comfort with coding for me and changed how I want to approach my own teaching this fall.,Have a pleasant conversation but be prepared for a surprise!,124064,https://cdn2.scratch.mit.edu/get_image/project/237086963_480x360.png,2018-07-22T19:49:10.000Z,2018-07-22T20:16:11.000Z,2018-07-22T20:14:15.000Z,4,0,0,0,0,,
+237120593,day-14,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/237120593_480x360.png,2018-07-23T06:01:24.000Z,2018-07-23T06:08:19.000Z,2018-07-23T06:08:19.000Z,3,0,0,0,0,,
+237125786,Getting Unstuck - dag 14,#GettingUnstuck,Click the green flag to have a short chat.,25631396,https://cdn2.scratch.mit.edu/get_image/project/237125786_480x360.png,2018-07-23T07:31:45.000Z,2018-07-23T07:55:37.000Z,2018-07-23T07:54:48.000Z,3,1,0,0,0,,
+237129021,Day 14:  Mary Oliver Quote,"I made this one very simple because I really don't know the capacity of these blocks.  It was interesting to see what others did with them and that gave me ideas for using them in the future.  I had to remember to add spaces when I joined two words!\
+
+Muse is beatbox sax by Derek Brown ""Chameleon"" ",Just press the green flag and follow instructions!,27658530,https://cdn2.scratch.mit.edu/get_image/project/237129021_480x360.png,2018-07-23T08:27:47.000Z,2018-07-24T09:21:39.000Z,2018-07-23T09:14:10.000Z,4,0,0,0,0,,
+237021980,Getting Unstuk #14 Colori primari,"Alla fine con fatica ce l'ho fatta. Era la prima volta che provavo a fare un tipo di test.
+Per la foto del mare: https://pxhere.com/it/photo/683595
+","Cliccca sulla bandierina verde
+rispondi a Colorino
+Prova a dire i tre colori primari ma attenzione a non sbagliare
+premi spazio per continuare",17320587,https://cdn2.scratch.mit.edu/get_image/project/237021980_480x360.png,2018-07-21T16:23:36.000Z,2018-07-23T09:46:05.000Z,2018-07-23T09:46:05.000Z,3,0,0,0,0,,
+236941878,Getting UnStuck Day 14,"Bike comes from http://www.clker.com/search/cyclists/1
+
+I have done a similar one before and I thought it would be fun to recreate this. It has been a while since I have done a project like this.
+","Click on Green Flag to start and then follow the directions to create a Mad Lib.
+
+This is for Getting Unstuck Day 14.",588430,https://cdn2.scratch.mit.edu/get_image/project/236941878_480x360.png,2018-07-20T13:55:14.000Z,2018-07-23T12:59:55.000Z,2018-07-23T12:58:47.000Z,3,1,0,0,0,,
+237147309,unstuck day 14,An ordinary project... ,Just answer the question pliss,34216021,https://cdn2.scratch.mit.edu/get_image/project/237147309_480x360.png,2018-07-23T13:46:31.000Z,2018-07-23T13:47:48.000Z,2018-07-23T13:47:00.000Z,1,0,0,0,0,,
+237104611,Unstuck 14,"Remixed to use Favorite subject and teacher names.  Unstuck 14 is my first exposure with using string block in Scratch, and practice, practice is what I need most. Thanks to KPSRm27 for the original project and model. Writing the code line by line has helped me to understand the process more.
+
+ ","Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.",840815,https://cdn2.scratch.mit.edu/get_image/project/237104611_480x360.png,2018-07-23T01:31:38.000Z,2018-07-23T15:42:12.000Z,2018-07-23T13:38:44.000Z,6,3,0,0,0,,
+237158994,Unstuck-14,,,13846307,https://cdn2.scratch.mit.edu/get_image/project/237158994_480x360.png,2018-07-23T15:17:15.000Z,2018-07-23T15:38:38.000Z,2018-07-23T15:37:01.000Z,4,0,0,0,0,,
+237183290,Getting Unstuck Day 14 - strings,"I found this project easy to do, it just took awhile because of the nuances of using the ""join"" block.","This project is for Getting Unstuck Day 14: Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. 
+
+Click the green flag to get started.",2803184,https://cdn2.scratch.mit.edu/get_image/project/237183290_480x360.png,2018-07-23T19:46:46.000Z,2018-07-24T02:39:41.000Z,2018-07-24T02:38:03.000Z,3,0,0,0,0,,
+237120414,Getting Unstuck Day 14,"Getting Unstuck Day 14 Reflection:
+I had no idea what string blocks were or how much fun they could be until this project.  And I had no idea what I wanted to try with them until I started looking at projects in the studio.  I was really impressed with CompTeacherK5's project and decided to try to make my own.  (Here is a link: https://scratch.mit.edu/projects/237066028/#player).
+
+I got stuck when I tried to link more than two things in a join block.  It took me a long time to figure out that I could nest them.  Something I'd like to change or enhance (besides the rather lame story I came up with!) is adding other effects to it, like sound effects.","Click the green flag and answer the questions.  Your answers will be put into a back to school story, sort of like Mad Libs!",30095573,https://cdn2.scratch.mit.edu/get_image/project/237120414_480x360.png,2018-07-23T05:56:38.000Z,2018-07-24T03:23:58.000Z,2018-07-24T03:23:58.000Z,3,0,0,0,0,,
+237241826,Getting Unstuck: Day 14,"Andrés Gil Ruiz.
+
+I've tried to use lists and count, but I need more time...","Make dance the breakdancer. 
+
+Select the correct letters.",27636310,https://cdn2.scratch.mit.edu/get_image/project/237241826_480x360.png,2018-07-24T10:22:14.000Z,2018-07-24T10:54:06.000Z,2018-07-24T10:52:43.000Z,1,0,0,0,0,,
+237250113,Getting Unstuck - Day 14,If I had more time I would work on changing letters to symbols to make the password even more secure.,Click on the flag and then begin to create a simple 9-character password.,2502473,https://cdn2.scratch.mit.edu/get_image/project/237250113_480x360.png,2018-07-24T12:53:41.000Z,2018-07-24T14:20:14.000Z,2018-07-24T14:19:09.000Z,5,1,0,0,0,,
+237238780,Getting Unstuk #14 Colori primari remix,,"Cliccca sulla bandierina verde
+rispondi a Colorino
+Prova a dire i tre colori primari ma attenzione a non sbagliare
+premi spazio per continuare",13575540,https://cdn2.scratch.mit.edu/get_image/project/237238780_480x360.png,2018-07-24T09:24:36.000Z,2018-07-24T15:28:23.000Z,2018-07-24T15:28:23.000Z,7,0,0,0,0,237021980,237021980
+237292126,Getting Unstuck Day 14,,"Press green flag to start.
+
+Type in your name and wait for response.  Sprite will tell you how long your name is.  You may get a surprise!",34190765,https://cdn2.scratch.mit.edu/get_image/project/237292126_480x360.png,2018-07-24T20:53:03.000Z,2018-07-24T21:06:23.000Z,2018-07-24T21:05:58.000Z,4,0,0,0,0,,
+236216800,Getting Unstuck Day 8,,"Press green flag to begin
+
+Click on sprite
+
+Press space bar to set count to 0
+
+Once click count reaches 3 a message will appear",34190765,https://cdn2.scratch.mit.edu/get_image/project/236216800_480x360.png,2018-07-12T12:37:30.000Z,2018-07-12T15:27:44.000Z,2018-07-12T15:26:08.000Z,9,2,0,0,0,,
+237280087,Unstuck - Day 14,This project took a little time to complete.  Is there a faster or more efficient way to program the if...then...else blocks to look at each letter of the alphabet?  I'm curious to see if anyone else would have done this differently.,What's your Elf name?  Click the Green Flag and answer some questions to find out.,2456527,https://cdn2.scratch.mit.edu/get_image/project/237280087_480x360.png,2018-07-24T18:12:25.000Z,2018-07-25T00:43:46.000Z,2018-07-25T00:43:45.000Z,3,0,0,0,0,,
+237370738,Getting Unstuck: Day 14,"By Filipe Mendes
+#CreativeComputing",Count the number of letters tha have a name.,2980392,https://cdn2.scratch.mit.edu/get_image/project/237370738_480x360.png,2018-07-25T15:20:25.000Z,2018-07-25T16:27:47.000Z,2018-07-25T15:24:28.000Z,5,0,0,0,0,,
+237362310,Unstuck 14 - Using text,"This was fun to do, but after finishing I feel like there must be an easier (or at least more efficient) way to code it using list variables. Hmm.....",A Mad Lib! Click the Green Flag and do what Scratch Cat tells you.,7902,https://cdn2.scratch.mit.edu/get_image/project/237362310_480x360.png,2018-07-25T13:48:17.000Z,2018-07-25T17:11:32.000Z,2018-07-25T17:09:25.000Z,3,0,0,0,0,,
+237384398,Getting unstuck day 14,,green flag,17636749,https://cdn2.scratch.mit.edu/get_image/project/237384398_480x360.png,2018-07-25T17:56:50.000Z,2018-07-25T18:21:01.000Z,2018-07-25T18:20:46.000Z,4,0,0,0,0,,
+237392245,Password Maker (Getting Unstuck [Day 14]),This is for Getting Unstuck Day 14!,"Green Flag, Then Chose how long you password should be by sliding the slider, then hit start, after the password has been finished generation copy and paste the password to somewhere safe.",13594403,https://cdn2.scratch.mit.edu/get_image/project/237392245_480x360.png,2018-07-25T19:27:30.000Z,2018-07-25T19:46:34.000Z,2018-07-25T19:46:34.000Z,5,0,0,0,0,,
+237476939,#GettingUnstuck14 - Wordy,All sprites and costumes taken from the Scratch repository.,"Click the green flag and follow the instructions!
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 14.
+
+""Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay""
+
+You will be asked to select a word and ask a question about its letters.",1112440,https://cdn2.scratch.mit.edu/get_image/project/237476939_480x360.png,2018-07-26T16:07:43.000Z,2018-07-26T16:33:38.000Z,2018-07-26T16:31:02.000Z,6,0,0,0,0,,
+116157223,Getting Unstuck Day 14: Penguin,"Getting Unstuck: Day 14
+
+This one was fun to do. I decided to keep it simple. I didn't think it was necessary to add too many bells and whistles. ",Click the green flag to answer the penguin's questions. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/116157223_480x360.png,2016-07-12T22:24:10.000Z,2018-07-26T19:59:41.000Z,2018-07-26T19:47:51.000Z,3,1,0,0,0,,
+237497847,Día 14,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/237497847_480x360.png,2018-07-26T20:48:17.000Z,2018-07-26T20:49:50.000Z,2018-07-26T20:49:50.000Z,4,2,0,0,0,,
+237500825,Crazy squares Day 14 Getting unstuck,"Getting Unstuck Day 14: Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. ",Click on the green flag,8789156,https://cdn2.scratch.mit.edu/get_image/project/237500825_480x360.png,2018-07-26T21:32:11.000Z,2018-08-07T22:40:25.000Z,2018-07-26T21:57:40.000Z,11,2,0,0,0,,
+237543092,Getting Unstuck Day 14,"Made for #GettingUnstuck Day 14 #CreativeComputing.
+Thanks to @KPSRm27 for the inspiration to use sports for this project.
+To use string blocks, I decided to make my own block which uses a string input and then joins it to another string to create different sentences.
+I'm also pleased to say that I also used the vector graphics editor to make the pointing costumes! The first time I've used it!",Click the Green Flag and follow the instructions.,287832,https://cdn2.scratch.mit.edu/get_image/project/237543092_480x360.png,2018-07-27T07:49:43.000Z,2018-07-27T08:05:02.000Z,2018-07-27T07:55:50.000Z,5,1,0,0,0,,
+237685360,Getting Unstuck: Day14,Code Club project 'Chatbot' helped a lot.  This is the first time I have used the 'length of' operator. ,"Click on the robot to start!
+
+Chat with the robot!",34197892,https://cdn2.scratch.mit.edu/get_image/project/237685360_480x360.png,2018-07-29T13:53:18.000Z,2018-07-29T21:25:27.000Z,2018-07-29T21:18:15.000Z,5,2,1,0,0,,
+237765948,Adivina el animal Getting unstuck day 14,"I have learned to count letter positions in words and change its positions as a ""for""  loop. Ir is very interesting and engage me.
+Finally I have included a list to save the name of the animals. A random number select the position to play that word. ","Juego para adivinar nombres de animales. 
+Introduce tus 5 animales en la lista que hay en el escenario.",2680901,https://cdn2.scratch.mit.edu/get_image/project/237765948_480x360.png,2018-07-30T14:49:51.000Z,2018-07-30T15:39:53.000Z,2018-07-30T15:33:13.000Z,3,1,0,0,0,,
+237771675,getting unstuck day 14," I learn to use join
+",,23020553,https://cdn2.scratch.mit.edu/get_image/project/237771675_480x360.png,2018-07-30T16:04:24.000Z,2018-08-03T17:47:19.000Z,2018-07-30T16:12:40.000Z,5,2,0,0,0,,
+237823642,#unstuck Day 14 string blocks,I had to look at a video clip o how to string.,Start with clicking on the microphone.,31492686,https://cdn2.scratch.mit.edu/get_image/project/237823642_480x360.png,2018-07-31T02:56:38.000Z,2018-07-31T07:18:18.000Z,2018-07-31T07:18:18.000Z,4,2,0,0,0,,
+237860907,Io trovo le lettere,"Getting Unstuck 14
+Creare 
+Creare un progetto che utilizza i blocchi di stringa nella categoria Operatori (vale a dire, si uniscono, lettera, e la durata del) per qualche gioco di parole divertente. ",rispondi,21462276,https://cdn2.scratch.mit.edu/get_image/project/237860907_480x360.png,2018-07-31T13:37:38.000Z,2018-07-31T14:02:51.000Z,2018-07-31T14:01:14.000Z,2,2,0,0,0,,
+237999490,Getting Unstuck - Day 14,"The challenge for day 14 is to create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay.  
+
+I wrote this program that uses all three examples! :-)   And this is the very first program I have written that asks for a prompt to be answered!  I felt it was a little simple, so I added in some costume changes.
+",Click the green arrow and enter your name when prompted to find out some special facts about it!,24696341,https://cdn2.scratch.mit.edu/get_image/project/237999490_480x360.png,2018-08-01T22:09:01.000Z,2018-08-01T23:04:55.000Z,2018-08-01T23:01:32.000Z,2,1,0,0,0,,
+237792845,GETTING UNSTUCK14: FIGURES,,"PRESS THE GREEN FLAG
+PLEASE, WRITE IN BLOCK LETTERS",16573108,https://cdn2.scratch.mit.edu/get_image/project/237792845_480x360.png,2018-07-30T20:32:00.000Z,2018-08-06T21:50:05.000Z,2018-08-06T21:50:05.000Z,2,1,0,0,0,,
+238433917,day 14,"Create a project that uses the string blocks in the Operators category (i.e., join, letter of, and length of) for some fun wordplay. ",,24618980,https://cdn2.scratch.mit.edu/get_image/project/238433917_480x360.png,2018-08-07T09:55:31.000Z,2018-08-07T15:51:56.000Z,2018-08-07T10:06:28.000Z,2,1,0,0,0,,
+238271691,Getting Unstuck - Day 14,"When I was younger, I would always create stage names from online forms. I wanted to recreate the process using Scratch. I found this project relatively simple and know that I can expand the options to include inputs about immutable facts such as birthday and hair color.",Press the green button and wait to hear instructions from Roy!,25334812,https://cdn2.scratch.mit.edu/get_image/project/238271691_480x360.png,2018-08-05T12:55:06.000Z,2018-08-07T15:51:11.000Z,2018-08-07T15:49:40.000Z,2,1,0,0,0,,

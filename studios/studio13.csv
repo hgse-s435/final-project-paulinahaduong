@@ -1,0 +1,552 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+236533922,Steven + Amethyst,"Inspired by Steven Universe! I was poking around the sprites library (because of commuting I end up working in the offline editor a lot) and found a purple helicopter, which reminded me of Amethyst as a helicopter. I coded the project while riding the subway, with the purple helicopter and Gobo as sprite stand-ins, and then swapped sprites and added music when I got somewhere with wifi. I had also tried to reuse my newly learned gravity from previous Getting Unstuck days, but those really only worked with button presses, as opposed to ""forever gravity"" blocks. And since Steven only needs to float once...it was fine. ","Press the green flag to watch. Move the mouse onto the helicopter to annoy Amethyst, and leave her alone for some praise.",2745846,https://cdn2.scratch.mit.edu/get_image/project/236533922_480x360.png,2018-07-16T14:17:30.000Z,2018-07-17T09:24:58.000Z,2018-07-17T09:24:58.000Z,35,10,1,0,0,,
+236546122,Fussy Cat Simulator,"I was super inspired by @Mittensbrother's ""Easily Spooked"" project from Day 8 (https://scratch.mit.edu/projects/236238057/) and wanted to do something similar with an easily-annoyed-cat theme. :)
+
+I like the discovery aspect of the project. Two things I'm still thinking about:
+(1) Do I have bugs? The logic of my program seemed straightforward in theory:
+   cat is initially fussy
+   if you leave it alone for long enough, it is not fussy
+   if it is not fussy, you can pet it
+   if you pet it for too long, it gets fussy again
+But the implementation seem convoluted. I need a code review. :)
+(2) Is it too much discovery? (Will the temptation to peek into the code be really high? :))","Sparkles the Cat, who runs the notorious Time Laboratory, has demanded that her beleaguered assistant, Jeff, pet her. But Sparkles is a bit fussy. Jeff has reached out to you for help. Can you help Jeff figure out how to pet Sparkles the Cat without getting clawed?",39526,https://cdn2.scratch.mit.edu/get_image/project/236546122_480x360.png,2018-07-16T16:12:25.000Z,2018-07-17T11:01:49.000Z,2018-07-17T10:47:58.000Z,38,10,2,0,0,,
+236533858,Affection,"This was such a fun project to make! I'm really enjoying continuing to work with the vector editor! 
+
+At first I had the curled-up cat and close-up cat within the same sprite (as many costumes). In order to make use of the ""next costume"" block, I decided to separate them out to separate sprites. 
+Working on fixing a bug that causes the two to overlap during some of the transitions.","After pressing the green flag, press the space bar and use the mouse to interact with the cat.",25705937,https://cdn2.scratch.mit.edu/get_image/project/236533858_480x360.png,2018-07-16T14:16:52.000Z,2018-07-22T09:25:41.000Z,2018-07-17T10:52:57.000Z,40,11,2,0,0,,
+236587378,Secret,This project was created for Day 13 of Getting Unstuck. I really enjoyed today's challenge to think about what happens when the mouse is moved further or closer from a location. But I definitely had to play with a few different project concepts before I found something that I liked. ,"Press the green flag and try to find the secret spot by moving your mouse around. If you can click the exact spot, the secret will be revealed.  ",56239,https://cdn2.scratch.mit.edu/get_image/project/236587378_480x360.png,2018-07-17T01:13:33.000Z,2018-07-17T10:54:22.000Z,2018-07-17T10:54:22.000Z,36,8,2,0,0,,
+236622895,Getting Unstuck Day 13,"Move your mouse around the screen to see what happens.
+
+I wasn't sure if clones would react the way that I wanted to, but it seems to be ok. I'd love to add musical effects too!","I've always been interested in weaving, here's my attempt at a digital loom!",4610900,https://cdn2.scratch.mit.edu/get_image/project/236622895_480x360.png,2018-07-17T10:59:33.000Z,2018-07-17T11:21:13.000Z,2018-07-17T11:20:10.000Z,28,12,1,0,0,,
+236623798,day13,,Click on the green flag to start,34225248,https://cdn2.scratch.mit.edu/get_image/project/236623798_480x360.png,2018-07-17T11:12:18.000Z,2018-07-17T11:39:02.000Z,2018-07-17T11:38:42.000Z,18,2,0,0,0,,
+236624636,Unstuck Day 13,"I tried to leverage some of the requisites of creativity for this assignment, mainly limitation: I used a simple sprite and little code, and I allowed myself about 10 minutes to make the project while getting ready to go to work. I also lost track of the precise instructions (regarding a mouse getting close to a sprite), and didn't let this concern me too much in what I was making. I just worked with mouse and sprite. To be creative also means I'll return to this with some ideas that occur later in the day or overnight, so I'm marking it as a draft. Everything is a draft.","Green flag, click the mouse on stage and move it around",33815227,https://cdn2.scratch.mit.edu/get_image/project/236624636_480x360.png,2018-07-17T11:26:03.000Z,2018-07-17T22:01:22.000Z,2018-07-17T11:42:34.000Z,17,4,3,0,0,,
+236621251,Unstuck Day 13: React to Mouse,"I made this project in response to the prompt for Challenge #13-respond to mouse- of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+I couldn't make the sprite and its clones respond after a few seconds of not touching them because that blocks the interactivity, but i did manage to get them to behave differently depending on whether the wand (lightning) was touching them or they were away from the mouse. I learned that while clones cannot keep their own instance of a variable they do have their own position and can be aware of how far they are from the mouse pointer.","Cook the magic stew! Use your magic wand to make the stew boil but work quickly, if you stop using your wand the ingredients will shrink.
+
+Update: Thanks @jsh for clueing me to the fact that clones can keep their own variables if a varialbe is create ""only for this sprite."" Now each clone is maintaining its own effect amount and waiting its own amount if it is neglected by the mouse before it starts shrinking.",214174,https://cdn2.scratch.mit.edu/get_image/project/236621251_480x360.png,2018-07-17T10:33:00.000Z,2018-07-17T12:58:35.000Z,2018-07-17T11:33:06.000Z,30,9,0,0,0,,
+236624580,Getting Unstuck Day 13,I wanted to have the knight appear but can not make this work yet.  I will keep trying.,Click the green flag and try to access the castle with your mouse-pointer.,24826697,https://cdn2.scratch.mit.edu/get_image/project/236624580_480x360.png,2018-07-17T11:25:03.000Z,2018-07-17T12:00:14.000Z,2018-07-17T11:59:19.000Z,10,2,0,0,0,,
+236620001,hungry dog,I could not make the dog find the hidden food bowl by position alone- any ideas?,Click on the green flag and do as the dog tells you.,33472226,https://cdn2.scratch.mit.edu/get_image/project/236620001_480x360.png,2018-07-17T10:14:12.000Z,2018-07-17T15:56:07.000Z,2018-07-17T12:02:29.000Z,25,6,0,0,0,,
+236627093,Getting Unstuck Day13,,,17809789,https://cdn2.scratch.mit.edu/get_image/project/236627093_480x360.png,2018-07-17T12:04:30.000Z,2018-07-17T12:19:50.000Z,2018-07-17T12:19:50.000Z,13,1,0,0,0,,
+236623452,13 GIORNO,,PREMI LA BANDIERINA VERDE,28304428,https://cdn2.scratch.mit.edu/get_image/project/236623452_480x360.png,2018-07-17T11:07:48.000Z,2018-07-17T12:45:05.000Z,2018-07-17T12:32:00.000Z,7,2,0,0,0,,
+236623203,Bored Electron,"Getting Unstuck - day 13
+by Massimo Marletta
+
+In this project I used the block ""distance from mouse pointer"" to calculate the Coulomb repulsion force between two electrons (which is proportional to the inverse of the distance between them).
+The timer is user to sequence the events (i.e. electron waiting, electron bored, etc.)
+I had a lot of fun drawing costumes for the electron sprite with my children.
+","In this project we have a bored electron: yes, a poor negative charge all alone in the void space.
+The mouse pointer is another electron and you can apply Coulomb force to the bored electron simply getting close to him. 
+Put a bit of fun in his boring life!
+But be attentive to him: if you stay too long without pushing the electron he will complain because your are not paying enough attention to him!",4804940,https://cdn2.scratch.mit.edu/get_image/project/236623203_480x360.png,2018-07-17T11:04:03.000Z,2018-07-17T21:15:47.000Z,2018-07-17T12:31:22.000Z,40,10,0,0,0,,
+236627542,Lost Scratch Cat,,,17973263,https://cdn2.scratch.mit.edu/get_image/project/236627542_480x360.png,2018-07-17T12:11:16.000Z,2018-08-06T13:33:57.000Z,2018-07-17T12:46:29.000Z,17,6,1,0,0,,
+236628446,"Happy Birthday, Mom!","My inspiration for today's Getting Unstuck challenge is that today my Mom's birthday. 
+
+I remembered a talk Mitch Resnick gave about Scratch inspiring him to share other Scratchers' Mother's Day projects with his Mom for Mother's Day a number of years ago: https://www.youtube.com/watch?v=Ok6LbV6bqaE&t=19s",Use the mouse to bring the cat to the cake.,14632339,https://cdn2.scratch.mit.edu/get_image/project/236628446_480x360.png,2018-07-17T12:22:45.000Z,2018-07-18T00:46:19.000Z,2018-07-17T12:42:41.000Z,8,1,0,0,0,,
+236629144,Getting Unstuck Day 13,"I have always loved the Dog 2 sprite in Scratch 2.0. He's so blue and appears curious/confused by the world.
+
+If I had more time I would equip him with a wide range of resting behaviours - I remember liking Crash Bandicoot's resting actions on the PS game so much that sometimes I would leave him standing there just to watch them.
+
+I thought about giving him sounds as he walks or thinks, but they weren't necessary and I removed them. Dog2 is quiet sophistication personified.","Getting Unstuck Day 13
+
+Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+
+Run the project - the dog will follow a close-by mouse pointer.",2314547,https://cdn2.scratch.mit.edu/get_image/project/236629144_480x360.png,2018-07-17T12:32:16.000Z,2018-07-17T12:56:49.000Z,2018-07-17T12:52:25.000Z,13,4,1,0,0,,
+236632621,Getting Unstuck: Day 13,Shuddering from here: https://scratch.mit.edu/discuss/topic/178565/?page=1#post-1731550,,24912473,https://cdn2.scratch.mit.edu/get_image/project/236632621_480x360.png,2018-07-17T13:10:52.000Z,2018-07-17T13:25:50.000Z,2018-07-17T13:25:50.000Z,9,1,0,0,0,,
+236628519,Day 13,,press green flag then Move your mouse on the flower.,34188789,https://cdn2.scratch.mit.edu/get_image/project/236628519_480x360.png,2018-07-17T12:23:53.000Z,2018-07-17T13:27:47.000Z,2018-07-17T13:25:58.000Z,10,6,0,0,0,,
+236631575,#013 Getting Unstuck Sprite Reacts Differently,,"Definitely had trouble with this one.  Not even sure if I did it right.  Or, it's just SUPER SIMPLE.",20126730,https://cdn2.scratch.mit.edu/get_image/project/236631575_480x360.png,2018-07-17T13:00:26.000Z,2018-07-17T22:06:45.000Z,2018-07-17T13:27:33.000Z,12,3,0,0,0,,
+236629208,Getting unstuck day 13,Thanks to @alirb  ,"Press the green flag. Move the mouse on the lamp.
+
+Press the space bar.
+
+If you are tired, press the ""e"" key",19738986,https://cdn2.scratch.mit.edu/get_image/project/236629208_480x360.png,2018-07-17T12:33:07.000Z,2018-07-17T18:41:15.000Z,2018-07-17T13:29:55.000Z,10,2,0,0,0,,
+236569693,Getting Unstuck: Day 13 — Reactive Color,"Reflection
+
+I wanted something that would react to mouse gestures and ended up with lots of dots that cycle through the hue when a mouse gets within a certain distance. The dots continue to cycle for a time even after the mouse is out of range. Eventually, the hue for each dot will cycle back to red.
+
+There's definitely room for improvement here. For example, I would like to spend time working on a process for creating a better random distribution than the default ""go to random"" block.",Move the mouse pointer.,26264460,https://cdn2.scratch.mit.edu/get_image/project/236569693_480x360.png,2018-07-16T20:19:23.000Z,2018-07-17T13:44:34.000Z,2018-07-17T13:34:21.000Z,25,8,5,0,0,,
+236626022,Getting Unstucked day13,"I can't stop the dog when it sits (mouse pointer away from sprite)
+Non riesco a fermare il cane quando si siede (puntatore del mouse lontano dallo srite)","click on green flag and try to reach the dog.
+",25103547,https://cdn2.scratch.mit.edu/get_image/project/236626022_480x360.png,2018-07-17T11:47:13.000Z,2018-07-17T14:21:15.000Z,2018-07-17T13:29:14.000Z,8,1,0,0,0,,
+236632516,Getting Unstuck day 13,"Previously I have only used the ""distance to_"" block in maze projects to keep sprites from passing through walls and in games where the point is the controler. I had never really thought of it as a variable for getting different input values. I was inspired by @alirb's mention of theremins a few days ago, and so tried to make something along the lines of a digital theremin.","Click the green flag
+move the mouse pointer towards Scratchy
+change instuments using the slider",17767933,https://cdn2.scratch.mit.edu/get_image/project/236632516_480x360.png,2018-07-17T13:10:02.000Z,2018-07-17T13:48:10.000Z,2018-07-17T13:48:10.000Z,10,2,1,0,0,,
+236623440,Don't Let me Drown!,"This took me a little bit of time to get my head wrapped around, but once I did it wasn't so bad!","Keep your mouse on the scuba diver, or he might sink!",22706156,https://cdn2.scratch.mit.edu/get_image/project/236623440_480x360.png,2018-07-17T11:07:37.000Z,2018-07-17T14:06:10.000Z,2018-07-17T13:45:50.000Z,17,3,0,0,0,,
+236638709,Labirinto (Jogando com o Mouse),Autor: Jocemar do Nascimento,"Para jogar, use o Mouse, arrastando o mouse proximo ao personagem ou clicando nas Setas ou também usando as Setas do Teclado.",1734014,https://cdn2.scratch.mit.edu/get_image/project/236638709_480x360.png,2018-07-17T14:00:59.000Z,2018-07-17T14:15:49.000Z,2018-07-17T14:06:44.000Z,15,4,0,0,0,,
+236633015,Gettink Unstuck Day 13,I tried to use other blocks and create it,Clock green flag and move the mouse.,13275782,https://cdn2.scratch.mit.edu/get_image/project/236633015_480x360.png,2018-07-17T13:13:47.000Z,2018-07-17T14:10:28.000Z,2018-07-17T14:09:18.000Z,6,1,0,0,0,,
+236633255,summertime,"Ho apprezzato Animated .GIF Background Tutorial
+di @Mittensbrother      https://scratch.mit.edu/projects/236551138/ 
+e l'ho provato per questo progetto estivo .","Clicca sulla bandierina verde, ma non disturbare gli insetti con il mouse
+
+Summer suggestion, please don't disturb insects when the mouse pointer gets close to the the bug",11312120,https://cdn2.scratch.mit.edu/get_image/project/236633255_480x360.png,2018-07-17T13:15:57.000Z,2018-07-17T20:09:20.000Z,2018-07-17T14:23:31.000Z,16,7,2,0,0,,
+236624014,Getting Unstuck #13,"I'm quite pleased with this. If I had a bit more energy I'd try to make sure the lion wasn't moving quite so much. Also, the munching sound goes on for too long when the lion stops eating. The only way to fix this, I think, is to make the sound loop shorter, which I didn't want to do because then it gets far too repetitive. I might try to fix it by adding a few different short recordings and playing them in sequence. Maybe that will mean that they can be interrupted more easily.
+
+Thanks to @welfringer for fixing my audio problem. 
+
+Another thing that I've noticed from doing this and my Howard Arkley project on Day 9 is that my appreciation for the artworks increases with my exposure to them. Although I don't feel great about stealing the artworks, I'm sure that it has been good for me.
+
+I'm losing all sense of positive digital citizenship and just stealing images. 
+https://en.wikipedia.org/wiki/The_Sleeping_Gypsy
+https://thegaudyblog.wordpress.com/2013/05/02/on-rewatching-monty-python-and-mocking-the-french/",Press the green flag. Move your mouse near the lion to stop the gypsy from being eaten. If your mouse stops moving for too long an old friend pops in to visit.,141519,https://cdn2.scratch.mit.edu/get_image/project/236624014_480x360.png,2018-07-17T11:15:46.000Z,2018-07-18T04:56:52.000Z,2018-07-17T14:20:34.000Z,18,5,0,0,0,,
+236641863,Unstuck 13 Sensing position,"Well I got a bit off track, I realize as I'm finishing this. I didn't have time to have the sprite change as the mouse pointer gets closer. It took a long time to figure out how to check position, for closeness and getting closer/farther. I'm happy with what I learned.
+To improve the program, I would like to have an ""indicator sprite"" in the corner showing the ""level of closeness,"" maybe a gauge that gets fuller with closeness? I think my code is well structured to add that in.
+","Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently. ",19123745,https://cdn2.scratch.mit.edu/get_image/project/236641863_480x360.png,2018-07-17T14:29:52.000Z,2018-07-17T14:36:35.000Z,2018-07-17T14:36:35.000Z,11,6,3,0,0,,
+236636376,Getting Unstuck: Day 13,"Getting Unstuck: Day 13
+Challenge: create a sprite that reacts whenever the mouse pointer gets too close and If I leave the sprite alone for a few seconds, it should react differently.","Click on green flag to start.
+Move the mouse pointer to the sprite and see what happens ...",17615581,https://cdn2.scratch.mit.edu/get_image/project/236636376_480x360.png,2018-07-17T13:42:31.000Z,2018-07-22T14:51:09.000Z,2018-07-17T14:30:50.000Z,13,5,0,0,0,,
+236643574,Getting Unstuck Day 13,"This was such fun!  First I just got going with moving the bigger fish around and then I decided it would be more fun to have a smaller fish which moved with my mouse pointer for the bigger fish to react to.
+If I had more time I would probably experiment with adding hearts and some music when the little fish gets too close, or maybe that's a bit ambitious!","The amorous fish!
+Click the green arrow and move the little fish around.  Watch what happens when he gets too close and then moves further away.",3297086,https://cdn2.scratch.mit.edu/get_image/project/236643574_480x360.png,2018-07-17T14:45:30.000Z,2018-07-17T15:07:23.000Z,2018-07-17T15:07:23.000Z,10,5,0,0,0,,
+236636316,unstuck13,"I started with a too little number for the distance of the mouse-pointer. It had too be much bigger than I expected. To find the right number I made the cat repeatedly think the distance and then I knew what too choose.
+",It's unstuck 13! The cat doesn't think that the number 13 will do much harm.,1072279,https://cdn2.scratch.mit.edu/get_image/project/236636316_480x360.png,2018-07-17T13:42:06.000Z,2018-07-17T15:09:39.000Z,2018-07-17T15:04:32.000Z,6,2,0,0,0,,
+236633923,Perchance to Dream_GU_Day13,"My inspiration came from the ""Snoozetern"" news story (brilliant advertising). First I thought about The Princess and the Pea. While looking for mattress pics I found the Rwandan truck which fascinates me. Associative thinking led me to search for dream quotes. There was a gender imbalance in my choices; which I fixed. The attributions are in a list which is matched by number with each quote. (The attribution list is not used in the code.)
+Got unstuck from this glitch: the Z sprite was not centered in the costume drawing canvas so the ""distance to mouse-pointer"" command was not calibrated correctly.
+Credits:
+https://www.goodreads.com/quotes/tag/dream?page=9
+https://pxhere.com/en/photo/612534
+http://freemusicarchive.org/music/TRG_Banks/Dreamland/Great_Aunt_Henrietta ","Click the green flag.
+To view the lists, click on the orange Data section under Scripts. Find the ""Make a List"" heading. Click on the check box next to the list(s) you want to view. ",24741621,https://cdn2.scratch.mit.edu/get_image/project/236633923_480x360.png,2018-07-17T13:21:56.000Z,2018-07-18T11:42:03.000Z,2018-07-17T15:14:47.000Z,15,7,1,0,0,,
+236632991,Arrow Phobia,"First time using the Distance to Mouse Pointer block. It came in very handy. Was going to add a circular path for the sun to move, but ran out of time :-(",,199913,https://cdn2.scratch.mit.edu/get_image/project/236632991_480x360.png,2018-07-17T13:13:39.000Z,2018-07-17T15:27:21.000Z,2018-07-17T14:10:44.000Z,12,4,0,0,0,,
+236646036,Getting Unstuck: Day 13. Flash tunnel.,,Click the green flag and see what appens if touch the rectangle with the mouse.,18190669,https://cdn2.scratch.mit.edu/get_image/project/236646036_480x360.png,2018-07-17T15:07:50.000Z,2018-07-17T15:49:41.000Z,2018-07-17T15:31:10.000Z,14,6,0,0,0,,
+236647001,hungry dog copy,"Thanks MrQuentin - the ghost effect worked fine
+And I used just one dog - I was in a hurry and am not sure why I had 2 first time",Click on the green flag and do as the dog tells you.,33472226,https://cdn2.scratch.mit.edu/get_image/project/236647001_480x360.png,2018-07-17T15:16:40.000Z,2018-07-17T16:22:54.000Z,2018-07-17T15:39:49.000Z,9,1,1,0,0,,
+236645529,Several spiral arms with stars remix,"Remix di un lavoro di @leszpio - Ho reso lo sprite sensibile alla distanza dal puntatore del mouse
+Creato per Getting Unstuck Day 13","Move the mouse pointer within 20 px from the white dot to draw a spiral of stars.
+(Tip: shift + green flag for Turbo mode)
+",17698999,https://cdn2.scratch.mit.edu/get_image/project/236645529_480x360.png,2018-07-17T15:02:51.000Z,2018-07-20T19:23:50.000Z,2018-07-17T15:47:57.000Z,26,9,1,0,0,179958304,179958304
+236647298,Taco Dog,"I stumbled a bit on the clone replication with this one, as I wanted to delete tacos that were eaten and then pop up a new one after a delay. Because ""delete this clone"" must be at the end of a sequence, I tried several apporaches to initializing a new clone one second after the previous was removed, each with surprisingly different results:
+
+- Send and recieve broadcast: This was my first attempt, and it served the purpose of not creating a clone until after the delay. It also, however, created a new clone for each of the existing clones on the screen (as each was receiving the broadcast separately, I assume). This made for a kind of fun version where you need to eat tacos quickly to avoid a taco explosion, but not quite what I was looking for.
+- Function: My second attempt was to create and call a function that waited and then cloned. The ""wait"" inside my function blocked execution in the loop from which it was called (execution blocking commands are tricky!), so it didn't behave any differently than if I had just called the wait and clone inline.
+- Hide: This is the one I ended up going for - just hide the clone I plan on deleting right away so it doesn't really matter that it doesn't get deleted until after the clone is created.
+
+Other approaches could include using a timer or a non blocking alternative to wait (like the mod of a counter var), but I'm gonna leave well enough alone :)",Use the mouse to get the dog to eat those tacos!,1092342,https://cdn2.scratch.mit.edu/get_image/project/236647298_480x360.png,2018-07-17T15:19:38.000Z,2018-07-17T16:11:18.000Z,2018-07-17T16:01:46.000Z,12,6,1,0,0,,
+236643856,Poor crab! Getting Unstuck: Day 13,"Getting Unstuck: Day 13 - Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+I love animals and stories. Maybe that's why I often create stories on my projects. Scratch always stimulates my creativity! Love it! :)
+
+In this project, I draw different costumes, tinkered with time, sound, and rhythms to create the crab's movements and expressions.
+Thanks to @Augusto, after seeing his project, I wanted to use his idea and includied another sprite following the crab, the crab's shadow.  
+","Click on the green flag to start.
+See what happens when the mouse pointer gets close to the the crab!",2176961,https://cdn2.scratch.mit.edu/get_image/project/236643856_480x360.png,2018-07-17T14:47:55.000Z,2018-07-18T14:05:43.000Z,2018-07-17T16:28:22.000Z,14,3,0,0,0,,
+236653530,Getting Unstuck Day 13-sensing mouse pointer,"I originally wanted to have the sprites follow the mouse pointer without touching it, but couldn't seem to get it to work smoothly-something to work on!",Use the mouse pointer to get the toys into the toy box,16010675,https://cdn2.scratch.mit.edu/get_image/project/236653530_480x360.png,2018-07-17T16:18:05.000Z,2018-07-17T16:37:54.000Z,2018-07-17T16:36:34.000Z,5,1,0,0,0,,
+236641628,Watering the flower,"This is a difficult task for hand motions.
+You must have iron nerves and strong arms
+18/07/18 - Улучшенный дизайн
+
+","Watering the flower by moving a small drop in the red hose with the mouse.
+When the drop touches the wall, the drop and water move to their original position.
+Use fullscreen!",139209,https://cdn2.scratch.mit.edu/get_image/project/236641628_480x360.png,2018-07-17T14:27:48.000Z,2018-07-18T11:53:25.000Z,2018-07-17T16:37:56.000Z,21,4,4,0,0,,
+236650194,Tribeca Subway,"Unstuck Challenge 13: Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.",Click on the green flag to start. Pico will explain to you how to play.,25332755,https://cdn2.scratch.mit.edu/get_image/project/236650194_480x360.png,2018-07-17T15:45:31.000Z,2018-07-17T17:07:20.000Z,2018-07-17T16:49:36.000Z,12,5,1,0,0,,
+236659401,Plasma Ball,"OK the sprite isn't affected directly by the mouse distance, instead it sends two different messages or the number of clones that have to go towards the mouse. Somehow, the sprite ""reacts"".","It's a simulation of these balls full of lightnings from the '80s.
+
+Funny thing: if you put a fluorescent lamp next to these orbs, the lamp turns on. Once someone tried to explain me this magic but now I can't remember.",12148328,https://cdn2.scratch.mit.edu/get_image/project/236659401_480x360.png,2018-07-17T17:16:13.000Z,2018-07-17T18:19:05.000Z,2018-07-17T17:24:34.000Z,46,19,7,0,0,,
+236649500,Day 13 - Getting Unstuck,"@jmpcronin: ""First time using the Distance to Mouse Pointer block. It came in very handy. Was going to add a circular path for the sun to move, but ran out of time :-(""
+
+=> So I added it (it's not circular, I'm alfraid)
+Thanks for the inspiration @jmpcronin!","A sun that has the arrow's phobia.
+It reacts badly if your mouse pointer gets too close.
+
+But if you do not play with him, he gets a little sad.",26079479,https://cdn2.scratch.mit.edu/get_image/project/236649500_480x360.png,2018-07-17T15:38:20.000Z,2018-07-24T22:23:30.000Z,2018-07-17T15:42:39.000Z,9,4,0,0,0,236632991,236632991
+236657180,Day 13-Leavethoseclamsalone,,"Hey Human! Leave those clams alone!
+
+If you get to close to the clams with your mouse pointer, they will clam up and shut.",10309968,https://cdn2.scratch.mit.edu/get_image/project/236657180_480x360.png,2018-07-17T16:54:56.000Z,2018-07-17T17:27:27.000Z,2018-07-17T17:26:53.000Z,13,3,0,0,0,,
+236659433,Day 13 - React to Mouse - Dan and Beanstalk,"Day 13 - Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should respond.
+
+Looked at a few projects this morning and was thinking of trying to make a plant grow. Landed on Jack and the Beanstalk idea. Looked at a couple projects that created a variable from the distance from mouse pointer which made it easier to tell how far away the mouse actually was a visible variable. Started with the clone, but too difficult to control the clearing. Added Dan for some fun climbing up the beanstalk.",Click green flag. Bring mouse pointer to plant to see it grow!,16509596,https://cdn2.scratch.mit.edu/get_image/project/236659433_480x360.png,2018-07-17T17:16:29.000Z,2018-07-18T01:15:14.000Z,2018-07-17T17:38:29.000Z,10,5,0,0,0,,
+236660808,Getting Unstuck Day 13 - mouse close to sprite,,,11634746,https://cdn2.scratch.mit.edu/get_image/project/236660808_480x360.png,2018-07-17T17:28:45.000Z,2018-07-17T17:55:54.000Z,2018-07-17T17:55:54.000Z,12,4,1,0,0,,
+236631315,Getting Unstuck Day 13 - Mouse Power,I looked at @DoTheScratch's project and made some improvements to mine. I like how smooth Scratch moved in that project. ,Use the pointer to float Scratch around the robot. Make sure you don't touch the robot. He gets pretty ornery if you do.,18558561,https://cdn2.scratch.mit.edu/get_image/project/236631315_480x360.png,2018-07-17T12:57:42.000Z,2018-07-18T21:37:24.000Z,2018-07-17T17:56:18.000Z,7,2,0,0,0,,
+236661838,Day 13,"Work in progress! I want to add more options, music, and some elusive thing I feel is missing, but can't pinpoint yet!
+cafe image from wikimedia commons",click the green flag and then follow the Scratch Cat's prompt,18341966,https://cdn2.scratch.mit.edu/get_image/project/236661838_480x360.png,2018-07-17T17:38:24.000Z,2018-07-17T18:38:39.000Z,2018-07-17T18:32:40.000Z,8,5,1,0,0,,
+236668391,Unstuck 13 Sensing position (with gauge),"Update: Added a gauge to show proximity to target. 
+
+Well I got a bit off track, I realize as I'm finishing this. I didn't have time to have the sprite change as the mouse pointer gets closer. It took a long time to figure out how to check position, for closeness and getting closer/farther. I'm happy with what I learned.
+To improve the program, I would like to have an ""indicator sprite"" in the corner showing the ""level of closeness,"" maybe a gauge that gets fuller with closeness? I think my code is well structured to add that in.","Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently. ",19123745,https://cdn2.scratch.mit.edu/get_image/project/236668391_480x360.png,2018-07-17T18:34:50.000Z,2018-07-17T18:37:48.000Z,2018-07-17T18:37:48.000Z,5,2,0,0,0,,
+236658003,Getting Unstuck 13,Day 13 of Getting Unstuck,Clicca sulla bandierina verde e sposta la barra.,15572972,https://cdn2.scratch.mit.edu/get_image/project/236658003_480x360.png,2018-07-17T17:03:28.000Z,2018-07-18T09:20:13.000Z,2018-07-17T18:45:16.000Z,4,0,0,0,0,,
+236639357,Day 13 - Glove and sub,"Day 13 - Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently. 
+",Click the green flag. Mouse over the sub.,109272,https://cdn2.scratch.mit.edu/get_image/project/236639357_480x360.png,2018-07-17T14:06:26.000Z,2018-07-25T01:20:28.000Z,2018-07-17T19:06:01.000Z,11,4,0,0,0,,
+236623090,Getting Unstuck: Day 13,"This is my project for Day 13 of the Getting Unstuck programming challenge. My idea was simple but it took me some time to put it into practice. This exercise is useful because it allows you to study and pratice an interaction type that is not so used but can be useful in some projects.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621
+","Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+
+Try to click on the button... If you can :P",34314391,https://cdn2.scratch.mit.edu/get_image/project/236623090_480x360.png,2018-07-17T11:02:16.000Z,2018-07-17T19:09:38.000Z,2018-07-17T19:03:40.000Z,12,2,0,0,0,,
+236671157,Unstuck-13,,,34091272,https://cdn2.scratch.mit.edu/get_image/project/236671157_480x360.png,2018-07-17T19:04:31.000Z,2018-07-17T19:10:54.000Z,2018-07-17T19:10:54.000Z,7,1,0,0,0,,
+236672860,Annoying parrot - GettingUnstuck-13,"This parrot acts like the sheep I have in the company I work for: when you get closer she declares its independence but when you leave she calls you back...
+With more time I would like to modulate the reaction to the distance from the pointer or create a better reaction. It could even say something","Green flag to start.
+Getting too close to the parrot with the pointer will disturb it and it reacts accordingly, but if you leave it alone for a few seconds it comes to seek attention",25876369,https://cdn2.scratch.mit.edu/get_image/project/236672860_480x360.png,2018-07-17T19:24:46.000Z,2018-07-17T19:59:15.000Z,2018-07-17T19:49:52.000Z,10,4,1,0,0,,
+236675150,Getting Unstuck Day 13,"Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently. ",,14159575,https://cdn2.scratch.mit.edu/get_image/project/236675150_480x360.png,2018-07-17T19:55:01.000Z,2018-07-17T19:56:20.000Z,2018-07-17T19:55:31.000Z,13,4,0,0,0,,
+236662533,Day 13 Getting Unstuck - find line from two points,"Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+
+""ceiling fan blue"" image from wpclipart.com
+
+Reflect: 
+What did you like most about your project? 
+That I had to use math to figure out the direction the balloon should blow.
+
+What would you do with it next, if you had more time?
+Make the balloon pop if you touch it with the fan.
+
+","Move the fan close to the balloon to blow it around. If you leave the balloon alone for a few seconds, it will change color.  The balloon will return to the center if you blow it off the screen.",1013358,https://cdn2.scratch.mit.edu/get_image/project/236662533_480x360.png,2018-07-17T17:44:49.000Z,2018-07-25T13:00:24.000Z,2018-07-17T20:08:28.000Z,5,2,0,0,0,,
+236674537,Getting Unstuck 13,"Today's a bit busy, so this one's kind of quick. I did manage to try something new - drawing with vectors. 
+
+If I have more time I'll come back and add some more detail to the baby and its expressions.
+
+Sounds from soundjay.com (although the crying sound isn't working??)",Click the green flag.,18044195,https://cdn2.scratch.mit.edu/get_image/project/236674537_480x360.png,2018-07-17T19:46:25.000Z,2018-07-17T22:43:28.000Z,2018-07-17T20:10:12.000Z,9,6,1,0,0,,
+236574525,day 13 - chasing the bug,,Move the mouse to chase the bug.,214,https://cdn2.scratch.mit.edu/get_image/project/236574525_480x360.png,2018-07-16T21:36:19.000Z,2018-07-17T20:15:43.000Z,2018-07-17T20:12:48.000Z,16,8,3,0,0,,
+236593776,Challenge 13 - ants don't like that!,"Had to think of something quickly, under 30 minutes, and threw together a group of ants that like their space. Make them angry and run with the mouse. 
+
+The program uses a list to track all the distances to each ant. However, each ant clone will always know its distance from the mouse pointer so the list isn't necessary however it makes debugging a lot easier when you can see their data. Quick fun project","Had to keep it very simple today for lack of time due to work, BOOO! My 4.5 hours on number 12 yesterday put me behind. So quick one today. But still fun nevertheless
+
+But the ants do not like to be near the mouse and will get angry and scurry away until they are far enough to be comfortable. 
+
+",3158946,https://cdn2.scratch.mit.edu/get_image/project/236593776_480x360.png,2018-07-17T02:48:33.000Z,2018-07-17T20:46:26.000Z,2018-07-17T20:18:22.000Z,19,9,1,0,0,,
+236673880,Creepy Chaser -- Unstuck Challenge 13,"I'd still like to make my cloned bugs crawl around randomly on the screen until approached by the mouse.  I couldn't quite come up with a scheme I was happy with yet.  For now it's OK.  I still don't quite have the hang of the clone command.  I'd like them to all flash and move out of sync, but I will need to look into how to make that happen later.  Maybe they each need to be their own sprite.
+
+In one iteration, the code had both the original sprite and the clones making clones.  That was quite fun as the screen quickly filled up!",,11608238,https://cdn2.scratch.mit.edu/get_image/project/236673880_480x360.png,2018-07-17T19:38:04.000Z,2018-07-18T21:14:27.000Z,2018-07-17T20:22:48.000Z,9,3,0,0,0,,
+236677408,Getting Unstuck Day 13,"This was my first project using the ""distance to mouse-pointer"" block from the sensing category.",Click the green flag to begin. Then watch what happens when the mouse pointer gets too close to the sprite.,22156688,https://cdn2.scratch.mit.edu/get_image/project/236677408_480x360.png,2018-07-17T20:25:03.000Z,2018-07-18T01:09:03.000Z,2018-07-17T20:39:51.000Z,10,3,0,0,0,,
+236673402,Hamlet underwater,"Getting Unstuck: Day 13
+The ghost effect depends on the mouse-hamlet distance
+Depending on that distance, Hamlet talks or not",move the mouse close to Hamlet. He talks when the mouse is over him and stops when is far away,2143382,https://cdn2.scratch.mit.edu/get_image/project/236673402_480x360.png,2018-07-17T19:31:35.000Z,2018-07-18T06:46:11.000Z,2018-07-17T20:41:20.000Z,23,11,0,0,0,,
+236678788,Fly Swatter (Getting Unstuck #13),"Getting Unstuck # 13 - ""Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently. ""
+
+This is a little rough and ready. The sprites aren't exact and the cloning logic gets a little out of control. I would have liked to have had the fly sprite change costume to look like it was relaxing with a drink if left alone but didn't have time - cloning it to make more flies was my second thought.",Keep the fly under control with the swatter! Stay close to it or you will be in trouble!,15872912,https://cdn2.scratch.mit.edu/get_image/project/236678788_480x360.png,2018-07-17T20:43:25.000Z,2018-07-17T21:18:35.000Z,2018-07-17T21:16:18.000Z,8,4,0,0,0,,
+236650795,Tag: Getting Unstuck Day 13,"Getting Unstuck Day 13
+
+The idea of interacting with the mouse led me to the idea of tag. I don't know if my project really fulfills the brief, but I enjoyed making it.
+If I were to continue working on it, I would introduce a few other elements, such as making the reaction of ""running away"" sprites dependent on their distance to ""it."" 
+In addition, I would have the characters call out ""You're it!"" or ""I'm it!"" when they were tagged.",Press the green flag. Play tag as Scratch Cat.,3485356,https://cdn2.scratch.mit.edu/get_image/project/236650795_480x360.png,2018-07-17T15:51:49.000Z,2018-07-17T21:51:32.000Z,2018-07-17T21:23:42.000Z,7,6,0,0,0,,
+236677127,Ant them - Getting Unstuck day 13,"uThe difficult part was to do not think too big. I wandered a lot of time on internet looking for spritesheet to use in the project as I do not have time and skill to create a sprite by myself.
+
+I Started with a dragon guarding a threasure, the passed on a cat playing with the mouse pointer (did anyone remember neko on X?)
+
+I do not achieve to get an usable spritesheet, diminished again the size of the project and decided to animate an ant nest. 
+
+Unlike the real ones, the ant populations will cap at 30 individuals.
+","Ants are usually shy but odds are that you can foster a community of curious individuals, did you manage to attain such a result?
+
+As the ants approach your mouse they react in different ways depending on their character. Most of them are shy and will return to the nest. Some are just curious and if you leave they resume wandering. Some others will chase your mouse and you will have to find a way to get rid of them. Yes, you can peruse into the code.",2458985,https://cdn2.scratch.mit.edu/get_image/project/236677127_480x360.png,2018-07-17T20:21:35.000Z,2018-07-31T21:18:03.000Z,2018-07-17T21:20:09.000Z,10,7,1,0,0,,
+236680823,Will the cat catch the parrot?,,"When you move the mouse pointer left and right the parrot will follow it. If you stay more than 3 seconds without moving the mouse pointer then the cat will ask to move the mouse pointer (the parrot).
+Whren the parrot is closer to the cat it will jump. If the cat gets in contact with the parrot the game is finished.",25548148,https://cdn2.scratch.mit.edu/get_image/project/236680823_480x360.png,2018-07-17T21:14:39.000Z,2018-07-17T22:01:39.000Z,2018-07-17T21:50:47.000Z,8,1,0,0,0,,
+236684555,Challenge 13 - Sanja needs help remix,"Credits:
+Thanks to mstone326. I was unable to do what I wanted so I remixed her project and changed the story and sprites. These codes are beyond me.","Sanja is another cousin of Steven. She really does not like ducks especially the little pesky duckling.
+Please move the duck away by moving the mouse.
+
+",158902,https://cdn2.scratch.mit.edu/get_image/project/236684555_480x360.png,2018-07-17T22:17:05.000Z,2018-07-17T22:43:49.000Z,2018-07-17T22:41:41.000Z,14,3,0,0,0,236593776,236593776
+236683583,Getting Unstuck Challenge 13,"Just some silly fun today.
+No purpose to this activity.
+
+Chose a different action for the sensing block.
+Had fun changing it up.
+Had fun playing with paint editor and sprite.
+Enjoy!","Click the green flag.
+Wait for further instructions!",13484475,https://cdn2.scratch.mit.edu/get_image/project/236683583_480x360.png,2018-07-17T22:00:22.000Z,2018-07-17T22:48:32.000Z,2018-07-17T22:48:32.000Z,15,7,0,0,0,,
+236664200,Unstuck Day 13 - Dancing Patrick,"I found this to be a pretty easy project. At some point, I'd like to add music.",Press the flag to begin. SpongeBob will give you directions.,10715270,https://cdn2.scratch.mit.edu/get_image/project/236664200_480x360.png,2018-07-17T17:59:21.000Z,2018-07-25T13:02:08.000Z,2018-07-17T22:57:55.000Z,14,2,0,0,0,,
+236663083,Scratching on a Tuesday,"Lots of borrowed scripts from other Getting Unstuck days here! My unstuck strategies today are:
+
+1) Take a chunk of code from a different project and build something new around it
+2) Be silly, even on Tuesday
+3) Okay, now get back to work, it's still Tuesday",Green Flag and mouse,27306974,https://cdn2.scratch.mit.edu/get_image/project/236663083_480x360.png,2018-07-17T17:49:51.000Z,2018-07-17T19:20:43.000Z,2018-07-17T18:56:27.000Z,40,19,6,0,0,,
+236686545,The Infinity Sphere remix,"I was inspired by a student in my library code club today who made infinity sphere and I knew I wanted to make the drawing react to the mouse pointer.
+
+Stuck: I used Scratch Wiki to find out about how big the Pen size could get.","Getting Unstuck #13: Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+
+You have 60 seconds to play.  You get extra time if you make the color sphere shrink.",399245,https://cdn2.scratch.mit.edu/get_image/project/236686545_480x360.png,2018-07-17T22:53:05.000Z,2018-07-18T02:32:18.000Z,2018-07-17T23:31:27.000Z,11,3,0,0,0,236672851,236672851
+236686172,Weaving colors and music,"This project responds to the prompt for Getting Unstuck Day 13 ""Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.""
+
+This is a remix of the lovely weaving project by @coderangers .  Since music was mentioned as a possible addition, I jumped at the suggestion!  It's been fun to work with it and learn more about the ghost effect. Thank you, @coderangers!",Click the green flag and move the mouse for sights and sounds!,527557,https://cdn2.scratch.mit.edu/get_image/project/236686172_480x360.png,2018-07-17T22:46:20.000Z,2018-07-17T23:42:06.000Z,2018-07-17T23:42:06.000Z,14,5,0,0,0,236622895,236622895
+236687032,No Te Gusta Moz? (Unstuck 13),"I just saw Antman and the Wasp and a scene from it inspired today's response to the prompt. This was the first time I've tinkered with this approach and it's definitely given me some ideas on how to apply it in other ways, especially with student projects. 
+
+(Also, I'm out of town for the next few days, so these next projects might be a little rough until I can polish them up.)
+
+The whole Getting Unstuck process has been a quite a gift - there's still so much to learn, but now I have a new sense of creative confidence going into each day. Thank you!","Press the flag to start. Keeping the mouse away makes Morrissey sad. But then again, so does keeping it close. ",27690149,https://cdn2.scratch.mit.edu/get_image/project/236687032_480x360.png,2018-07-17T23:01:26.000Z,2018-07-18T00:54:38.000Z,2018-07-18T00:08:19.000Z,9,1,0,0,0,,
+236643735,generative art - shy interactive barcodes,"Getting Unstuck: Day 13
+https://gettingunstuck.gse.harvard.edu/
+Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+
+This project evolved organically, with many intermediary versions discarded while pursuing interesting glitches. The result could definitely be rewritten cleaner and more efficiently with the pen blocks, but I like the analog feel of the current iteration using stamps :)
+
+ToFix: When using the full screen height 180x2, the line sometimes gets stuck on the bottom of the screen - why it is not moving further?
+
+ToDo: Play with interactive colors, line thickness, speed... anf get back to a more ""barcodes"" look!","Move the mouse closer/further away from the middle axis to help shape this computer-generated drawing.
+
+Press space to pause and admire your work of art :)",34248043,https://cdn2.scratch.mit.edu/get_image/project/236643735_480x360.png,2018-07-17T14:46:51.000Z,2018-07-24T18:48:56.000Z,2018-07-18T00:23:04.000Z,17,7,3,0,0,,
+236689191,Unstuck day 13,"I really had to plan this project! Now that I am finished, I am interested to see how others handled checking the mouse position and the two second rule!","Click green flag to start
+Watch the fish swim! What happens when you move the mouse over the fish?",11305008,https://cdn2.scratch.mit.edu/get_image/project/236689191_480x360.png,2018-07-17T23:35:16.000Z,2018-07-18T00:33:51.000Z,2018-07-18T00:25:32.000Z,8,3,0,0,0,,
+236693131,Challenge13Pointer-2,"This is inspired by the classic Daffy Duck cartoon, ""Duck Amok"". It's on youtube here: https://www.youtube.com/watch?v=nAA3DCEkVHs If you haven't seen it, you really should. ","Click on the green arrow to begin, then move your cursor to the ""start cursor here"" button. When the duck says to touch him with the cursor, don't be in too big a hurry. ",2190314,https://cdn2.scratch.mit.edu/get_image/project/236693131_480x360.png,2018-07-18T00:29:27.000Z,2018-07-18T00:32:52.000Z,2018-07-18T00:32:52.000Z,6,2,0,0,0,,
+236691735,Day13,Fun project.  Lot's of creative things that can be done with sensing.,Click on the flag to start the program and follow along with what the monkey needs.,11885888,https://cdn2.scratch.mit.edu/get_image/project/236691735_480x360.png,2018-07-18T00:11:57.000Z,2018-07-18T01:13:34.000Z,2018-07-18T00:39:02.000Z,6,1,0,0,0,,
+236664135,Getting Unstuck Day 13,"I had a lot of fun with this one, though I couldn't quite work out the last part of having the sprite respond after a few seconds.","Challenge: Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should respond.
+
+Click the green flag and then move the mouse around to see the dinosaur's reaction.",34245752,https://cdn2.scratch.mit.edu/get_image/project/236664135_480x360.png,2018-07-17T17:58:45.000Z,2018-07-18T00:52:33.000Z,2018-07-18T00:50:23.000Z,4,1,0,0,0,,
+236690416,Unstuck Day 13: I Spy,"I looked at the studio for some inspiration.  Thanks to gmenegoz for the Annoying parrot project, I was able to see how to make the objects move in relation to the proximity to the sprite.","Sprite cat has lost 3 objects, a ball, a guitar and a chair.  Click the green flag and then move the cat around the room to try and find the objects.  Once they have been found, go near them to see them do tricks.",34190490,https://cdn2.scratch.mit.edu/get_image/project/236690416_480x360.png,2018-07-17T23:53:38.000Z,2018-07-19T12:23:22.000Z,2018-07-18T01:25:24.000Z,11,0,0,0,0,,
+236654252,Day 13 Life of an abstract,"I had found this picture a few days ago and was going to use it in a previous color sensing project, but the color blocks were not the way to bring this picture to life as too many shared colors. This picture works perfectly for this challenge, so I am happy to get the chance to use it.  I had fun imagining what each character would do.  If I had more time, I think I would have added more movement to the project. ","My answers Day 13 challenge: Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+
+Move your mouse slowly around the painting to see what art comes to life!",1294980,https://cdn2.scratch.mit.edu/get_image/project/236654252_480x360.png,2018-07-17T16:24:40.000Z,2018-07-18T03:14:46.000Z,2018-07-18T01:47:03.000Z,19,10,3,0,0,,
+236698863,Catch the Puppy,Not a lot of time today so a very quick project.,Start with the green flag then just move your mouse,30508500,https://cdn2.scratch.mit.edu/get_image/project/236698863_480x360.png,2018-07-18T01:52:12.000Z,2018-07-18T02:28:54.000Z,2018-07-18T02:27:59.000Z,9,1,0,0,0,,
+236680203,Spaceship survivor ,"Inspired by classical spaceship arcade game I've created a simple shooting game.
+The ship moves faster or slowly depending on the distance from the enemy. I decided to added this kind of movement to make the game more challenging.
+
+                                         ---My next goal---
+I'd like to add more enemies, safe zones when you can hide and maybe some power-ups.
+
+                                            ----Credits----
++ Sprites and backgrounds: All of them have been created with the Scratch paint editor.","Press the play button to start.
+Use the mouse to move your ship.
+When you see ""target"" on the screen you could shoot your enemy by pressing the space bar.
+Try to get as many points as possible. 
+**Tips**: don't forget to get ""HP"" before it dissappears.
+
+                                  ---Getting Unstuck day 13---
+""Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently"".",4413079,https://cdn2.scratch.mit.edu/get_image/project/236680203_480x360.png,2018-07-17T21:05:27.000Z,2018-07-20T03:36:11.000Z,2018-07-18T02:53:12.000Z,9,2,0,0,0,,
+236695859,Unstuck Day 13: Hide and Seek,"This is my second attempt at Challenge 13. Tried coding using strategies of @mauretta @clarimer @alirb.  Had trouble getting mine to work.  Computer has been glitchy last few days. (Too many lines of code? Too many sprites?)  When sprites were reduced in size, they seemed to move better.  Also layers seem to be important. If more than one sprite, does the mouse interact with only the top layer?  Not sure if the mouse is controlling motion here . . . Giga seems to move even when mouse not nearby, and seems to get stuck near the rock, which is two layers below. Tips and advice would be appreciated if you have suggestions :)","Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently. ",18337230,https://cdn2.scratch.mit.edu/get_image/project/236695859_480x360.png,2018-07-18T01:09:32.000Z,2018-07-18T03:32:11.000Z,2018-07-18T02:49:48.000Z,4,1,0,0,0,,
+236679585,Scratch Camp Project / Getting Unstuck Day 13,,Move your mouse on either side if the cat to move it.,28402186,https://cdn2.scratch.mit.edu/get_image/project/236679585_480x360.png,2018-07-17T20:55:25.000Z,2018-07-19T01:45:36.000Z,2018-07-18T02:25:29.000Z,71,3,0,0,0,,
+236644278,Scratch Cat Tag,,"Scratch Cat is ready to play tag.  If you are it, move the mouse pointer to touch Scratch Cat.  Otherwise if Scratch Cat is it, move the mouse pointer to keep away.  Press the green flag to start and have fun!",18198558,https://cdn2.scratch.mit.edu/get_image/project/236644278_480x360.png,2018-07-17T14:51:44.000Z,2018-07-18T14:00:13.000Z,2018-07-18T03:55:16.000Z,8,1,0,0,0,,
+236695191,Ode to Joy,"Getting Unstuck: Day 13 
+Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently. 
+
+Reflection - The screen is a bit crowded and Fred the worm could do with an upgrade. Not exactly to the brief but I had fun with it.         
+
+
+
+""Ode to Joy"" (German: ""An die Freude"" [an diː ˈfʁɔʏdə]), is an ode written in the summer of 1785 by German poet, playwright, and historian Friedrich Schiller and published the following year in Thalia. A slightly revised version appeared in 1808, changing two lines of the first and omitting the last stanza.
+
+""Ode to Joy"" is best known for its use by Ludwig van Beethoven in the final (fourth) movement of his Ninth Symphony, completed in 1824. Beethoven's text is not based entirely on Schiller's poem and introduces a few new sections. His tune[1] (but not Schiller's words) was adopted as the Anthem of Europe by the Council of Europe in 1972 and subsequently by the European Union.
+Reference - https://en.wikipedia.org/wiki/Ode_to_Joy\
+
+I was inspired by cooljewels piano keys project view:
+https://scratch.mit.edu/projects/115556287/#player
+There you will find the notes to simple tunes.  
+",Click the green flag to start. Move your mouse point to Beethoven to begin. Follow the worms body as you pass over the notes and play the tune. Have fun!  ,17948274,https://cdn2.scratch.mit.edu/get_image/project/236695191_480x360.png,2018-07-18T01:00:58.000Z,2018-07-22T07:57:27.000Z,2018-07-18T04:23:53.000Z,14,8,3,0,0,,
+236633402,Ball Baby - Getting Unstuck Day 13,,Press the Green Flag to Start.  The baby start crying if you left him alone too long.  He gets happy if you go near him.,17257831,https://cdn2.scratch.mit.edu/get_image/project/236633402_480x360.png,2018-07-17T13:17:08.000Z,2018-07-18T13:34:43.000Z,2018-07-18T04:35:36.000Z,6,3,0,0,0,,
+236703200,Steven The Bug,"Ok, I've been spending waaay too much time on this, but I'm super proud of my project today.
+
+I've always been wanting to make a sprite that follows the mouse with their eyes, so this project seemed to be a good opportunity to do it. Then I realized how cool it would be to feature Steven, inspired by project made today by @Mittensproject, @augusto and @aitan
+
+After playing a bit with the imported image, it was clear to me that Steven deserved a vector version. I started playing with the graphic editor and I got stuck there! My strategy today was ""keep going"" and that made me to spend hours to create Steven, my first vector sprite ever! I was so excited and proud that I couldn't stop, so I also made vector graphics for the scratch blocks, inspired by the awesome illustrations made by the Getting Unstuck team.
+
+Feel free to use Steven and the script blocks in your projects, you can also add new costumes or improve them!
+
+Happy debugging!","Steven The Bug doesn't like to be caught.
+Move the mouse slowly and see what happens when you get closer.
+Press space bar to generate a new background.",2286560,https://cdn2.scratch.mit.edu/get_image/project/236703200_480x360.png,2018-07-18T02:59:16.000Z,2018-07-19T01:47:09.000Z,2018-07-18T06:08:33.000Z,12,7,3,0,0,,
+236643179,GettingUnstuck_#13,This was created for GettingUnstuck Day13. My kid was helping to make the sound effect in the beginning :-),"Click the Green Flag, and move the magic wand to the Triangle's home. You can also click the stage, and see what happens.",31325002,https://cdn2.scratch.mit.edu/get_image/project/236643179_480x360.png,2018-07-17T14:41:49.000Z,2018-07-22T07:04:20.000Z,2018-07-18T03:25:33.000Z,12,3,2,0,0,,
+236715637,Day 13 - Dinosaur dancing,,"Timid Dinosaur, please do not touch it with the mouse or you'll be eaten!",24154277,https://cdn2.scratch.mit.edu/get_image/project/236715637_480x360.png,2018-07-18T06:28:52.000Z,2018-07-18T06:43:40.000Z,2018-07-18T06:43:15.000Z,11,6,0,0,0,,
+236717290,Getting Unstuck Day 13 ,"Credits
+Images: https://www.flaticon.com","Fare clic sulla bandiera verde.
+Click the green flag.",18667079,https://cdn2.scratch.mit.edu/get_image/project/236717290_480x360.png,2018-07-18T06:55:15.000Z,2018-07-18T08:12:18.000Z,2018-07-18T08:10:50.000Z,14,1,0,0,0,,
+236717521,Getting Unstuck #13: feed the hungry frog,"Images: https://pixabay.com/
+
+Scratch project was created as activity #13 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+
+Day #13 Challenge: Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.",Press the green flag and use your mouse-pointer to feed the hungry frog!,1202362,https://cdn2.scratch.mit.edu/get_image/project/236717521_480x360.png,2018-07-18T06:58:45.000Z,2018-07-18T15:15:02.000Z,2018-07-18T08:44:59.000Z,7,2,0,0,0,,
+236729099,Day 13 - Save goldie the fish!,"This was supposed to be easy and quick but nope!
+It was fun using the clone option.  
+Tricky!!!
+
+I might revisit this and turn it into a game - loosing points for when ocotopus touch fish , mose fish for more levels and a timer.
+aim high!","#Day 13
+I cheated a bit today and remixed @mstone326.
+I thought that this would make the project easy and quick. 
+Oh no!
+I got carried away and changed the theme to a fish tank and the ants to octopus.... 
+Oh well.  
+Aim of the game - Keep the octopus away from the fish using your mouse.
+
+",24864870,https://cdn2.scratch.mit.edu/get_image/project/236729099_480x360.png,2018-07-18T09:43:01.000Z,2018-07-25T12:15:42.000Z,2018-07-18T10:13:07.000Z,5,3,1,0,0,236593776,236593776
+236743428,Getting Unstuck: Day 13,Ho ripreso un vecchio mio progetto e ho fatto in modo che al passaggio del mouse si attivasse la spiegazione. Molto bello gli sviluppi che ha preso.,Progetto sulle Donne Stem,10086796,https://cdn2.scratch.mit.edu/get_image/project/236743428_480x360.png,2018-07-18T13:13:17.000Z,2018-07-18T13:50:10.000Z,2018-07-18T13:48:01.000Z,13,4,0,0,0,,
+236738748,G.U. Day 13 - PUNTATORE,,"Clicca sulla bandierina verde, semplici effetti sul gatto.
+Lo sfondo cambia colore .
+",13746945,https://cdn2.scratch.mit.edu/get_image/project/236738748_480x360.png,2018-07-18T12:16:40.000Z,2018-07-18T13:54:44.000Z,2018-07-18T13:54:44.000Z,5,1,0,0,0,,
+236703170,Fussy Cat Simulator remix,"I, the cat, make the rules (or, do I?) 
+The hand may pet me at any time
+I will react differently to the hand depending upon certain conditions
+I am fussy when the hand first meets me
+When I get fussy, I hiss
+To avoid being hissed at, the hand must be a certain distance away from me for a count from 0 to 20
+When I am happy, I purr
+I purr softly to let the hand know that it may approach me
+I purr loudly when the hand is petting me after a break, but only for a short while  
+I get fussy again each time after a countdown from 20 to 0
+I am actually controlled by the hand
+I am an A.I. cat!!!!
+
+I do not naturally excel at writing or following logic. I persevered to analyze and understand @karenb 's code. Scratch is hard to read when there are multi-layered nests of code. After using post-it notes on my kitchen counter, I decided to use some ""my blocks"" and comments in my remix. 
+","Sparkles the Cat, who runs the notorious Time Laboratory, has demanded that her beleaguered assistant, Jeff, pet her. But Sparkles is a bit fussy. Jeff has reached out to you for help. Can you help Jeff figure out how to pet Sparkles the Cat without getting clawed?",24741621,https://cdn2.scratch.mit.edu/get_image/project/236703170_480x360.png,2018-07-18T02:58:41.000Z,2018-07-18T15:00:49.000Z,2018-07-18T15:00:49.000Z,7,2,0,0,0,236546122,236546122
+236690698,Getting Unstuck: Day 13-2,"L'effetto neve non è soddisfacente. 
+Cosa/come posso fare per migliorarlo?
+
+Credits: 
+https://www.vecteezy.com
+music - https://www.youtube.com/audiolibrary/music","Fare clic sulla bandierina verde.
+Utilizza:
+- puntatore del mouse
+- freccia in alto
+- freccia in basso
+Click the green flag.
+Uses:
+- mouse pointer
+- up arrow
+- down arrow",19789360,https://cdn2.scratch.mit.edu/get_image/project/236690698_480x360.png,2018-07-17T23:57:08.000Z,2018-07-19T10:07:59.000Z,2018-07-18T19:22:49.000Z,8,4,0,0,0,,
+236784619,Unstuck Day 13 Rushing,,"Getting Unstuck Day 13 -- Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently. 
+
+Click the Green flag to start --- and then move the mouse pointer near each character to make them dance.",7525698,https://cdn2.scratch.mit.edu/get_image/project/236784619_480x360.png,2018-07-18T20:33:53.000Z,2018-07-18T20:51:17.000Z,2018-07-18T20:50:27.000Z,6,1,0,0,0,,
+236784428,#GettingUnstuck Day 13,,Click the green flag. Move the mouse to see the reaction of the basketball.,18062705,https://cdn2.scratch.mit.edu/get_image/project/236784428_480x360.png,2018-07-18T20:30:37.000Z,2018-07-18T20:58:12.000Z,2018-07-18T20:57:37.000Z,4,2,1,0,0,,
+236783864,day 13 - Coreografo per un giorno ,,"CON LA BANDIERA VERDE.... SI PARTE
+CON IL MOUSE.... SI DA' UN INPUT ALLA BALLERINA
+AL TERMINE DELLA MUSICA .... CON LO SPAZIO..... TUTTO TORNA ALLA NORMALITA'",34259094,https://cdn2.scratch.mit.edu/get_image/project/236783864_480x360.png,2018-07-18T20:21:05.000Z,2018-07-19T13:59:50.000Z,2018-07-18T21:47:55.000Z,9,1,0,0,0,,
+228077498,Don't touch my Apple - Getting Unstuck Day 13,"I had an idea but wanted to built on it a little so added the apple as the trigger instead of the lion. 
+Also needed a background and somewhere for the apple to be - added a few trees.  I was going to make there be a random number of trees and in a random location but I didn't want to go crazy!",Watch out for the lions apple!!  ,19641362,https://cdn2.scratch.mit.edu/get_image/project/228077498_480x360.png,2018-06-07T20:11:01.000Z,2018-07-19T02:25:23.000Z,2018-07-19T02:22:36.000Z,8,0,0,0,0,,
+236722234,#day 13 of getting unstuck,,,29414487,https://cdn2.scratch.mit.edu/get_image/project/236722234_480x360.png,2018-07-18T08:10:06.000Z,2018-07-19T04:34:22.000Z,2018-07-19T04:34:22.000Z,2,0,0,0,0,,
+236825138,Bat - day 13 Getting Unstuck,,Click the flag and move the mouse through the stage,3602053,https://cdn2.scratch.mit.edu/get_image/project/236825138_480x360.png,2018-07-19T08:02:26.000Z,2018-07-19T08:19:14.000Z,2018-07-19T08:18:16.000Z,5,0,0,0,0,,
+236777356,Getting Unstuck: Day 13-1,"Prima parte del progetto Getting Unstuck: Day 13.
+
+Credits: 
+images - https://www.flaticon.com - https://www.vecteezy.com
+music - https://www.youtube.com/audiolibrary/music","Fare clic sulla bandierina verde.
+Utilizza:
+- puntatore del mouse
+- freccia in alto
+- freccia in basso
+- freccia a destra
+- freccia a sinistra
+Click the green flag.
+Uses:
+- mouse pointer
+- up arrow
+- down arrow
+- right arrow
+- left arrow",19789360,https://cdn2.scratch.mit.edu/get_image/project/236777356_480x360.png,2018-07-18T18:52:21.000Z,2018-07-19T10:29:03.000Z,2018-07-19T10:27:57.000Z,16,0,1,0,0,,
+236852233,day 13,,From hiss to kiss .. get near letter h with  mouse .. maybe you get a kiss :),771142,https://cdn2.scratch.mit.edu/get_image/project/236852233_480x360.png,2018-07-19T14:22:51.000Z,2018-07-19T14:46:48.000Z,2018-07-19T14:45:54.000Z,4,1,0,0,0,,
+236863914,Monday to Friday! Unstuck Day 13,Simple. I didnt have a lot of time to work on these the past few days and the second costume is pretty much how I feel. EXHAUSTED~ . Cheers. ,Use the mouse to hover over Mya.  ,31144646,https://cdn2.scratch.mit.edu/get_image/project/236863914_480x360.png,2018-07-19T16:27:20.000Z,2018-07-19T16:40:01.000Z,2018-07-19T16:39:16.000Z,6,1,0,0,0,,
+236858586,Getting Unstuck - Day 13,My inspiration was a walk that I took with my dog at the beginning of this summer.  We can across a porcupine in the middle of the path.  It just froze and looked at us.  It wouldn't start moving until we backed up a distance. It took FOREVER for it to finally wander into the woods so that we could pass.,"Getting Unstuck Day 13 - Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+
+Move the sprite to see how the porcupine reacts.  Click the green flag to reset. More your sprite to the left side of the path to start.",14400846,https://cdn2.scratch.mit.edu/get_image/project/236858586_480x360.png,2018-07-19T15:31:37.000Z,2018-07-19T16:52:35.000Z,2018-07-19T16:43:40.000Z,4,0,0,0,0,,
+236698117,Sprite- Day 13,"Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+
+Thank you to DoTheScratch for helping me with the code!  I loved your project!",Press the green flag and use the mouse to control the princess.,25165723,https://cdn2.scratch.mit.edu/get_image/project/236698117_480x360.png,2018-07-18T01:42:16.000Z,2018-07-19T20:25:17.000Z,2018-07-19T20:24:28.000Z,4,0,0,0,0,,
+236891629,Magic mouse Getting Unstuck Day 13,"Getting Unstuck Day 13: Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+Thanks for the suggestions to @MEstech with ""Day 13 Life of an abstract"" and @mini-macaron with ""Rain Bunny""",Move the mouse and explore the picture,8789156,https://cdn2.scratch.mit.edu/get_image/project/236891629_480x360.png,2018-07-19T22:55:03.000Z,2018-07-25T21:53:20.000Z,2018-07-19T22:56:55.000Z,8,4,0,0,0,,
+236898170,Pop the Balloons Unstuck #13,"I struggled with this for a while. I actually started another project and then stopped because I didn't think it really fit the assignment. I looked at the projects by @mstone326 and @mccormba for ideas. I didn't really remix their projects, but got a better idea of what I thought I should do. My code is not as complex as theirs but it works ... I think.","Click the green flag to begin. Move the mouse close to, but not over, the blue balloon. Pop balloons by moving the mouse over them. Move the mouse over the original blue balloon to pop all the balloons.",124311,https://cdn2.scratch.mit.edu/get_image/project/236898170_480x360.png,2018-07-20T00:45:01.000Z,2018-07-23T14:53:50.000Z,2018-07-20T01:32:27.000Z,3,0,0,0,0,,
+236911374,plant a flower,"This is for 'Getting Unstuck' day two, I'm catching up. I like generative patterns and this one is related to something a student of mine stumbled upon by accident once. Controlling the amount of curve by relating it to position in some way can create some fantastic patterns!
+
+If I had more time, I'd, I dunno, probably add something weird generating in the background independent of clicks ... :)","Click the green flag, wait just a moment, then click the backdrop. Once it's done drawing you can click again to draw more!",1860684,https://cdn2.scratch.mit.edu/get_image/project/236911374_480x360.png,2018-07-20T04:28:30.000Z,2018-07-20T04:45:45.000Z,2018-07-20T04:43:34.000Z,6,0,0,0,0,,
+236871391,IL TOPINO TRASFORMISTA,"Progetto realizzato per Gettin Unstuck, giorno 13.",Clicca sulla bandierina verde e allontana il puntatore del mouse dal topino; ora prova a cliccare ancora la bandierina verde ma passa il mouse sul topino e vedi cosa succede,14651357,https://cdn2.scratch.mit.edu/get_image/project/236871391_480x360.png,2018-07-19T17:51:12.000Z,2018-07-20T14:25:42.000Z,2018-07-20T14:25:42.000Z,6,0,0,0,0,,
+236924570,Getting Unstuck #13,progetto giorno 13 Getting Unstuck,"Clicca sulla bandierina verde
+avvicinati alla stella
+muovi  il mouse",17320587,https://cdn2.scratch.mit.edu/get_image/project/236924570_480x360.png,2018-07-20T08:47:57.000Z,2018-07-20T16:08:31.000Z,2018-07-20T16:05:18.000Z,7,2,0,0,0,,
+236994788,Unstuck Day 13 project,"I was feeling a little creative fatigue, so I returned to my favorites: Scratch cat, cloning, and the pick random number block. I decided to not go with the ""meow"" sound as I know some users (@visionsbyvicky)  don't like it! ",Touch the cat with the mouse and see what happens!,17786521,https://cdn2.scratch.mit.edu/get_image/project/236994788_480x360.png,2018-07-21T05:17:42.000Z,2018-07-21T05:49:44.000Z,2018-07-21T05:44:49.000Z,2,0,0,0,0,,
+236996621,Day 13,This doesn't work quite as I wanted it to but you will get the idea.,Click on the green flag then use the mouse pointer to interact with the dragon.,32833725,https://cdn2.scratch.mit.edu/get_image/project/236996621_480x360.png,2018-07-21T06:07:34.000Z,2018-07-21T09:52:06.000Z,2018-07-21T09:50:20.000Z,3,1,0,0,0,,
+236734691,Getting Unstuck - Day 13,"Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently. ",,86693,https://cdn2.scratch.mit.edu/get_image/project/236734691_480x360.png,2018-07-18T11:11:09.000Z,2018-07-21T12:55:39.000Z,2018-07-18T11:55:22.000Z,3,0,0,0,0,,
+237016112,Unstuck Day 13,I spend as much time or more looking at other people's projects just for the pleasure of seeing the creativity as I do looking at the coding for ideas... then I have to just STOP and get down to business and work on my own project.  ,Click on Green Flag for the instructions on how to help Cat eat a running bowl of fruit.,14232182,https://cdn2.scratch.mit.edu/get_image/project/237016112_480x360.png,2018-07-21T14:16:44.000Z,2018-07-21T15:17:06.000Z,2018-07-21T15:17:06.000Z,7,1,1,0,0,,
+237018208,Fireworks,"Fireworks Image: https://pixabay.com/en/fireworks-new-year-s-eve-sparkler-1993221/
+","Click on the Green Flag to begin.
+Hover the mouse near and away from the fireworks.",1196430,https://cdn2.scratch.mit.edu/get_image/project/237018208_480x360.png,2018-07-21T15:02:09.000Z,2018-07-22T10:53:30.000Z,2018-07-21T15:29:00.000Z,5,1,0,0,0,,
+237043433,Day 13: Imagine Raven,"I never used ""distance to mouse pointer.""  To figure out the distance, I made a variable called distance and had it show in an earlier draft.  I saw that when the mouse pointer was less than 25, I was as close as I wanted to be to triger the gif.
+
+Song is clip from Raven Song by Elephant Revival and Raven Gif is by Eva:  https://picsart.com/i/gif-drawtools-layersonlayers-raven-bird-customtext-gif-241590150000202",Click on green flag and hover the mouse closer and closer to the raven!  See what happens!,27658530,https://cdn2.scratch.mit.edu/get_image/project/237043433_480x360.png,2018-07-22T01:09:50.000Z,2018-07-22T01:48:48.000Z,2018-07-22T01:48:48.000Z,3,1,0,0,0,,
+237060208,Getting Unstuck - dag 13,#GettingUnstuck,"The cat will look after the mousepointer, and if it gets to close, something happens.",25631396,https://cdn2.scratch.mit.edu/get_image/project/237060208_480x360.png,2018-07-22T08:36:43.000Z,2018-07-22T08:41:07.000Z,2018-07-22T08:40:06.000Z,3,0,0,0,0,,
+237067039,Unstuck 13,"Honorably borrowed KPSRm27 idea to complete this one
+
+So proud of what I can do now: 
+1) customized and added a background
+2) ungrouped, remove pieces and recolored a stock costume to create a new one.
+3) love the broadcast feature.",Click on Green Flag for the instructions on how to help the monkey capture the bowl of bananas before Cat returns.,840815,https://cdn2.scratch.mit.edu/get_image/project/237067039_480x360.png,2018-07-22T11:47:23.000Z,2018-07-26T00:47:21.000Z,2018-07-22T11:47:39.000Z,2,1,0,0,0,,
+237086103,Day13 reactions,"I started to remix another project and realized it would actually be more fun to just start my own this time. With more time, I would make many more balls and experiment with the changes in an interactive way where the balls also interacted with each other. This might also be a good place to learn more about clones which I still don't really understand.","Play with the size and color of the ball by moving the mouse over, close to or far away from the ball.",124064,https://cdn2.scratch.mit.edu/get_image/project/237086103_480x360.png,2018-07-22T19:27:58.000Z,2018-07-22T19:48:30.000Z,2018-07-22T19:47:06.000Z,2,0,0,0,0,,
+237111519,Getting Unstuck: Day 13 The Shy Musician,"Image from MET Public Domain Images
+A Musical Party
+Gabriël Metsu
+1659","Click the green flag to start!  If your mouse gets too close to the musician, he will let you know.",1353497,https://cdn2.scratch.mit.edu/get_image/project/237111519_480x360.png,2018-07-23T03:12:35.000Z,2018-07-23T03:23:18.000Z,2018-07-23T03:22:13.000Z,1,0,0,0,0,,
+237119793,day-13,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/237119793_480x360.png,2018-07-23T05:42:32.000Z,2018-07-23T05:47:35.000Z,2018-07-23T05:47:35.000Z,5,0,0,0,0,,
+237116688,Getting Unstuck Day 13,"Getting Unstuck Day 13 Reflection:
+This was a fun project to create.  I liked figuring out how to control the clones and create different interactions between the bat sprite and the bug.  I spent a lot more time than I meant to trying to create a sunrise backdrop.  If I had more time I would tweak that more, or find a better set of backdrops.  ","Press the green flag, then click on the bat to catch the bugs.",30095573,https://cdn2.scratch.mit.edu/get_image/project/237116688_480x360.png,2018-07-23T04:42:08.000Z,2018-07-23T05:55:14.000Z,2018-07-23T05:55:14.000Z,1,0,0,0,0,,
+237157636,Unstuck-13,,,13846307,https://cdn2.scratch.mit.edu/get_image/project/237157636_480x360.png,2018-07-23T15:07:27.000Z,2018-07-23T15:16:12.000Z,2018-07-23T15:16:12.000Z,1,0,0,0,0,,
+237086387,13 : The mystery painting in San Diego,"Great idea - I never thought of this before. I will use this in my next workshops for sure.
+
+Does anyone know how to import a photo as a backdrop and make it look sharp in the full screen mode? 
+
+Here I used the online editor Vector Magic to transform the photo - but I would rather have used the original photo.","Move your mouse slowly around the painting to see what art comes to life! Sound on.
+
+Flyt musen langsomt rundt i billedet og se det komme til live. Tænd for lyden.",1252137,https://cdn2.scratch.mit.edu/get_image/project/237086387_480x360.png,2018-07-22T19:35:13.000Z,2018-07-24T08:45:17.000Z,2018-07-23T15:26:31.000Z,6,0,0,0,0,236654252,236654252
+237160912,Getting Unstuck Day 13 - reaction,"When I saw the instructions for this challenge I immediately pictured a ball moving around almost like a magnet being repelled. I had no idea how to do that until I saw @mcshicks project and was able to remix it. I'm still not sure exactly how the script works, but I was able to modify it enough to realize my vision.
+
+I still wish I could figure out how to make it move smoother (so the lines were not staggered - maybe similar to the Bored Electron project)",Press the green flag to start moving the ball around. If you move away from the ball for a few seconds it will switch colors.,2803184,https://cdn2.scratch.mit.edu/get_image/project/237160912_480x360.png,2018-07-23T15:29:41.000Z,2018-07-23T19:01:24.000Z,2018-07-23T18:51:49.000Z,4,0,0,0,0,236644278,236644278
+236752320,Day 13 of Getting Unstuck,I am trying to catch up and create a few projects that I missed. Here is a very simplistic version of a sprite reacting one way when the mouse pointer touches it or another when it is not.,Click on Green Flag and try to touch the horse with the mouse,588430,https://cdn2.scratch.mit.edu/get_image/project/236752320_480x360.png,2018-07-18T14:39:53.000Z,2018-07-24T13:17:34.000Z,2018-07-23T20:25:05.000Z,5,0,0,0,0,,
+237226910,plant a flower remixCar,Aggiunto sfondo e un piccolo movimento del cursore se non si preme il mouse.https://scratch.mit.edu/projects/237226910/#editor,"Click the green flag, wait just a moment, then click the backdrop. Once it's done drawing you can click again to draw more!",13575540,https://cdn2.scratch.mit.edu/get_image/project/237226910_480x360.png,2018-07-24T06:16:19.000Z,2018-07-24T06:30:44.000Z,2018-07-24T06:29:00.000Z,12,1,1,0,0,236911374,236911374
+237240356,Getting Unstuck: Day 13,Andrés Gil Ruiz,"Try to clean the background.
+
+Put the mouse pointer near of pencil to stop it during 5 seconds. The rubber will be erasing the pencil...
+
+",27636310,https://cdn2.scratch.mit.edu/get_image/project/237240356_480x360.png,2018-07-24T09:52:49.000Z,2018-07-24T10:17:41.000Z,2018-07-24T10:15:36.000Z,1,0,0,0,0,,
+237247481,Getting Unstuck - Day 13,"For some reason, there is a delay before the fish respond to touching the worm.  I've tried several ways for them to respond, this version using the broadcast feature seems to work the best, but not perfect.  I would appreciate any input.
+
+Sprite credit:  Worm on Hook from kisspng.com",Click on the Flag to begin.  Move the mouse to save the scared worm from becoming lunch.,2502473,https://cdn2.scratch.mit.edu/get_image/project/237247481_480x360.png,2018-07-24T12:09:52.000Z,2018-07-24T12:46:20.000Z,2018-07-24T12:43:13.000Z,1,0,0,0,0,,
+237277538,Unstuck - Day 13,"This one made us giggle!  As soon as we called the finger the ""tickle monster"" we couldn't stop laughing.  It only got funnier when I recorded myself laughing.  
+If we had more time, we would make it so both players could move at the same time. Also, we would like to see how to play random sounds so the cat would laugh differently each time he was tickled.
+
+finger image: https://www.kisspng.com/png-finger-touch-png-image-33303/
+","This is fun for two people.  One person controls Scratch Cat with cursor keys, the other controls the tickle monster with a,w,s,d keys.",2456527,https://cdn2.scratch.mit.edu/get_image/project/237277538_480x360.png,2018-07-24T17:44:57.000Z,2018-07-24T18:12:22.000Z,2018-07-24T18:01:26.000Z,2,0,0,0,0,,
+237279553,Getting unstuck Day 13,,"Click green flag to start
+
+When mouse hovers over sprite it will trigger a costume change.  Mouse moving over background will trigger costume change plus a message.",34190765,https://cdn2.scratch.mit.edu/get_image/project/237279553_480x360.png,2018-07-24T18:06:55.000Z,2018-07-24T19:28:25.000Z,2018-07-24T19:27:39.000Z,4,0,0,0,0,,
+237268032,Getting Unstuck Day 13,"I wanted to represent in a simple way some of the flora in Mexico and fauna that helps it pollinate. 
+
+What would it be missing? To turn the flowers into a tuna (or the nopal's fruit) after a certain time, but I was struggling with ""ifs"" and time. 
+
+Any suggestions?
+
+Music: Flauta Azteca https://www.youtube.com/watch?v=VOCu_bPdMuU
+
+",Click on the Green flag and then Click space bar.,32493591,https://cdn2.scratch.mit.edu/get_image/project/237268032_480x360.png,2018-07-24T16:01:08.000Z,2018-07-24T19:32:42.000Z,2018-07-24T19:32:42.000Z,1,0,0,0,0,,
+237358188,Unstuck 13 - Chased by a Ghost,"When I think of ""reacting"" somehow I go right to ghosts and horror stories - ","Click the Green Flag and move the mouse to control the ghost.  If you get too close to either side of Gobo, he will run away!",7902,https://cdn2.scratch.mit.edu/get_image/project/237358188_480x360.png,2018-07-25T13:01:35.000Z,2018-07-25T13:47:16.000Z,2018-07-25T13:41:16.000Z,3,0,0,0,0,,
+237369323,Getting Unstuck: Day 13,"By Filipe Mendes
+#CreativeComputing",Catch the Butterfly,2980392,https://cdn2.scratch.mit.edu/get_image/project/237369323_480x360.png,2018-07-25T15:04:37.000Z,2018-07-25T16:23:10.000Z,2018-07-25T15:13:35.000Z,3,0,0,0,0,,
+237378754,Getting unstuck day 13,,"bandierina verde
+puntatore mouse sullo sprite=> cambia colore
+puntatore del mouse lontano dallo sprite => dice Today is very hot",17636749,https://cdn2.scratch.mit.edu/get_image/project/237378754_480x360.png,2018-07-25T16:54:34.000Z,2018-07-25T17:36:34.000Z,2018-07-25T17:32:58.000Z,4,0,0,0,0,,
+237391726,Getting Unstustuck [Day 13],This is Getting Unstuck Day 13,Green flag and move your mouse around ,13594403,https://cdn2.scratch.mit.edu/get_image/project/237391726_480x360.png,2018-07-25T19:19:51.000Z,2018-07-25T19:25:47.000Z,2018-07-25T19:25:47.000Z,3,0,0,0,0,,
+237402386,prendi il gatto,"Getting Unstuck 13
+Create
+Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently",Metti la freccia sul cuore di gatto,21462276,https://cdn2.scratch.mit.edu/get_image/project/237402386_480x360.png,2018-07-25T22:00:13.000Z,2018-07-31T13:24:21.000Z,2018-07-25T23:02:33.000Z,2,0,0,0,0,,
+237433930,Getting Unstuck Day 13,"Hummingbird from http://www.publicdomainfiles.com/show_file.php?id=13526821229408 
+
+Throwing in a little science, with butterflies and hummingbirds being pollinators. Then throwing in a little natural selection with the hummingbird chasing the butterfly. 
+
+Thanks to mrswanson for the inspiration and assistance! ",Click the green flag and drag the cursor around to have the hummingbird chase the ladybug. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/237433930_480x360.png,2018-07-26T04:39:05.000Z,2018-07-26T05:41:45.000Z,2018-07-26T05:22:27.000Z,2,0,0,0,0,,
+237271046,#GettingUnstuck13 - Pointing lightning,All sprites and costumes taken from the Scratch repository.,"Click the green flag and move the mouse to get close to the lightning. You can press <space bar> to finish.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 13.
+
+""Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently""",1112440,https://cdn2.scratch.mit.edu/get_image/project/237271046_480x360.png,2018-07-24T16:34:46.000Z,2018-07-26T16:07:00.000Z,2018-07-26T15:59:48.000Z,4,1,0,0,0,,
+237480126,L'elefante cambia-colore,,"Dopo aver cliccato la bandiera verde, scopri come reagisce l'elefante se lo tocchi con il puntatore del mouse o se lo lasci da solo per 10 secondi!",34169307,https://cdn2.scratch.mit.edu/get_image/project/237480126_480x360.png,2018-07-26T16:48:59.000Z,2018-07-27T15:41:02.000Z,2018-07-26T17:18:25.000Z,4,1,0,0,0,,
+237485737,Getting Unstuck Day 13,"When I first started this project, I thought that I would have to calculate the distance between the beetle and the pointer so I set about doing this using a bit of trigonometry.
+I got quite involved in this until I spotted the Distance to Pointer block!
+I left my working to show what I had done.
+As a next step it would be nice to get the beetle to move away from the pointer.","Click the Green Flag to get the program going.
+Move the mouse pointer towards the beetle and see what happens.
+What happens if you keep the mouse pointer away from the beetle?",287832,https://cdn2.scratch.mit.edu/get_image/project/237485737_480x360.png,2018-07-26T17:55:54.000Z,2018-07-26T19:05:57.000Z,2018-07-26T18:16:13.000Z,8,2,1,0,0,,
+237497815,Día 13,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/237497815_480x360.png,2018-07-26T20:47:53.000Z,2018-07-26T20:50:12.000Z,2018-07-26T20:50:12.000Z,5,2,0,0,0,,
+237504010,Getting Unstuck: Day13,,"Click the green flag to start!
+
+I love the change colour effect so I used that today.
+
+Place the cursor near Scratch to get the change colour effect.",34197892,https://cdn2.scratch.mit.edu/get_image/project/237504010_480x360.png,2018-07-26T22:21:22.000Z,2018-07-27T22:02:18.000Z,2018-07-27T21:57:28.000Z,3,1,0,0,0,,
+237683891,Getting Unstuck13: cats and bell,,,16573108,https://cdn2.scratch.mit.edu/get_image/project/237683891_480x360.png,2018-07-29T13:14:43.000Z,2018-07-29T15:05:20.000Z,2018-07-29T15:05:19.000Z,4,1,0,0,0,,
+237694713,getting unstuck day 13,hi have learn to  detect to the mouse is near of the sprite,,23020553,https://cdn2.scratch.mit.edu/get_image/project/237694713_480x360.png,2018-07-29T17:38:23.000Z,2018-07-29T17:52:20.000Z,2018-07-29T17:50:45.000Z,2,1,0,0,0,,
+237694981,Catch the cat! Getting unstuck day 13,"I've learned to detect the distance to a sprite or mouse pointer.
+I've thinked how to change the change the orientation of an object if its X coordinate is lower o higher than the coordinate of the pointer",Catch the cat. Move the bat with mouse,2680901,https://cdn2.scratch.mit.edu/get_image/project/237694981_480x360.png,2018-07-29T17:45:13.000Z,2018-07-29T18:03:45.000Z,2018-07-29T17:59:35.000Z,5,2,0,0,0,,
+237699798,Unstuck #13 - Proximity Disco,Great way to use Pythagoras!!,"The goal of this challenge was to have the sprite react when the mouse pointer gets close. 
+
+If your mouse point gets nearAZ, he will start movin' and groovin'.",26618044,https://cdn2.scratch.mit.edu/get_image/project/237699798_480x360.png,2018-07-29T19:41:53.000Z,2018-07-29T20:21:17.000Z,2018-07-29T20:05:07.000Z,2,2,0,0,0,,
+237819786,# Unstuck 13sprite that reacts whenever the mouse pointer gets too close.,Looked at some of the projects for ideas then decided popping a balloon sounds like fun. Next step would make the balloon pop,Click the green flag and watch what happens what happens.,31492686,https://cdn2.scratch.mit.edu/get_image/project/237819786_480x360.png,2018-07-31T02:16:10.000Z,2018-07-31T02:54:37.000Z,2018-07-31T02:51:19.000Z,4,2,0,0,0,,
+237884637,Unstuck Day 13,,,34331091,https://cdn2.scratch.mit.edu/get_image/project/237884637_480x360.png,2018-07-31T18:22:19.000Z,2018-07-31T18:33:42.000Z,2018-07-31T18:33:42.000Z,3,2,0,0,0,,
+237795787,Getting Unstuck - Day 13,"The challenge for day 13 is, ""Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently."" 
+
+Scratch the cat will ask someone to chase him if the dog is not moving toward him.  Once the dog starts to move towards Scratch, he will begin to move away.
+
+I used the Scratch Wiki to figure out how to make the dog follow the mouse pointer.  This project also made me think about layering.  I started by just trying to program everything at once... Then I figured out that I should start with just the cat and making it move, then program the dog to follow, then program the speaking.
+
+I would definitely like to clean it up a little bit and make it flow more smoother.","Click the green arrow to get started.
+
+Use the mouse/touchpad to control the dog.",24696341,https://cdn2.scratch.mit.edu/get_image/project/237795787_480x360.png,2018-07-30T21:14:44.000Z,2018-08-01T19:29:35.000Z,2018-08-01T19:29:35.000Z,3,1,0,0,0,,
+238432461,day13,"Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently. ",,24618980,https://cdn2.scratch.mit.edu/get_image/project/238432461_480x360.png,2018-08-07T09:26:05.000Z,2018-08-07T15:51:35.000Z,2018-08-07T09:45:43.000Z,2,1,0,0,0,,
+238452932,Getting Unstuck- Day 13,"Using a if-else block and the distance variable, I made the vampire move away from the mouse. If I had more time, I would make the monster glide away from the mouse while simaltaneously crying for help. Such is the dichotomy with vampires--very brutal but even the most innocent garlic can conjure thoughts of horror!",Try to touch the monster using the mouse...Can they be defeated?,25334812,https://cdn2.scratch.mit.edu/get_image/project/238452932_480x360.png,2018-08-07T15:21:03.000Z,2018-08-07T15:31:58.000Z,2018-08-07T15:30:11.000Z,2,1,0,0,0,,

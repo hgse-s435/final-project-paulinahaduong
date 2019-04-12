@@ -1,0 +1,487 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root,,description (full),instruction (full),description (blank),instruction (blank)
+237028696,Circuits!-2,Based off a puzzle found here: https://circuits.puzzlebaron.com/game.php. Inspired by Zelda Shrine puzzles.,Definitely a work in progress. Click on the tiles to rotate the lines and connect the circuits! You win when everything lights up. (But things only seem to change color sometimes + the squares don't always line up perfectly). Any remixes with solutions welcome (I'm tagging @jsh for some help).,2745846,https://cdn2.scratch.mit.edu/get_image/project/237028696_480x360.png,2018-07-21T18:50:53.000Z,2018-07-22T10:33:05.000Z,2018-07-22T10:30:39.000Z,42,10,2,0,0,,,,98,112,23,9
+237034857,Spiral Game,This was fun! My only thing that I want to add is that I'd like it to only twirl the background if the bouncing ring is in the middle.. Thoughts?,"Press flag to start, then press space a few times , and try to find the secret surprise by clicking around with your mouse!",24267830,https://cdn2.scratch.mit.edu/get_image/project/237034857_480x360.png,2018-07-21T21:25:08.000Z,2018-07-21T22:36:11.000Z,2018-07-21T22:36:03.000Z,32,10,0,0,0,,,,,,,
+237060823,Conditions for...?,"I began by thinking about the question ""what kind of secret would I like to reveal?""
+
+I'm not sure if I share the right amount of information in the instructions + while playing. I want those playing to discover the features, though is there enough to start from? How is the timing?
+
+[intentionally minimal notes for hidden factor!]","Press the green flag.
+
+After that, move the mouse around and see what you can discover if you press the mouse in different parts of the stage.
+
+Can you resist the urge to look inside for hints?",25705937,https://cdn2.scratch.mit.edu/get_image/project/237060823_480x360.png,2018-07-22T08:53:14.000Z,2018-07-23T11:31:34.000Z,2018-07-22T10:34:59.000Z,35,10,5,0,0,,,,,,,
+237039971,Three of a Kind,"I was recently in Las Vegas for my grandmother's 90th birthday party. (She's very adventurous!) While there, I was stunned by the number of slot machines—I think it left a deep aesthetic impression on me. And so when I saw today's prompt (Day 18 of Getting Unstuck), it made me think of these games of chance! The structure of the prompt and the structure of my lived experiences collided to produce this creation!
+My sound effects selections don't sound right to me, but I wasn't entirely what would be better (and where to find it). If you have any audio recommendations, please let me know—I would be very grateful! (Update: I switched from gong on spin-click to computer beeps, which seems less blarghy.)","Press the green flag, then spin to play.
+Can you get three of a kind?",39526,https://cdn2.scratch.mit.edu/get_image/project/237039971_480x360.png,2018-07-21T23:45:26.000Z,2018-07-22T11:07:31.000Z,2018-07-22T10:45:25.000Z,44,19,4,0,0,,,,,,,
+237066541,Unstuck Day 18,I think I am getting the hang of things:-),"To play with the little bug, just click the green flag.",24826697,https://cdn2.scratch.mit.edu/get_image/project/237066541_480x360.png,2018-07-22T11:32:29.000Z,2018-07-22T12:03:41.000Z,2018-07-22T12:03:40.000Z,16,3,1,0,0,,,,,,,
+237041912,Puzzle,"This project was created for Day 18 of Getting Unstuck. I've always loved puzzle games, so I thought I would try my hand at making one today. Conclusion: it's harder than it seems!  
+
+I thought I would ""keep it simple"" and avoid clones with the project, but I had some major regrets due to the amount of work to keep the nearly-identical sprites in sync with each other. Lesson learned: use clones when you can!
+
+Music: 4bstr4ck3r, ""Random Effect""",Solve the puzzle to reveal the secret!,56239,https://cdn2.scratch.mit.edu/get_image/project/237041912_480x360.png,2018-07-22T00:32:34.000Z,2018-07-27T01:10:42.000Z,2018-07-22T12:11:38.000Z,45,10,3,0,0,,,,,,,
+156062492,Angoli colorati remix,"Lavoro per CodeMooc remixato per Getting Unstuck Day 18
+
+Grazie a @abogliolo per angoli-colorati","Input the size of the angle and press the right arrow key; press the space bar to change color
+The cat will reveal to you what type of angle you drew
+
+                                                ****
+Per iniziare, premi sulla bandierina verde. 
+Scegli un valore per l'ampiezza dell'angolo e usa il tasto freccia a destra per rappresentarlo; premi la barra di spazio per cambiare colore; disegnerai una spirale. Alla fine, il gatto classificherà l'angolo",17698999,https://cdn2.scratch.mit.edu/get_image/project/156062492_480x360.png,2017-04-18T15:39:05.000Z,2018-07-22T12:29:41.000Z,2017-04-18T16:01:36.000Z,22,2,1,0,0,154983023,154983023,,,,,
+237070250,18 giorno,,Premi sulla bandierina,28304428,https://cdn2.scratch.mit.edu/get_image/project/237070250_480x360.png,2018-07-22T13:13:32.000Z,2018-07-22T13:49:33.000Z,2018-07-22T13:46:07.000Z,10,3,0,0,0,,,,,,,
+236882401,Getting Unstuck: Day 18 — Guessing Game,"Reflection
+
+For today's Getting Unstuck, I use the AND block to sanitize the input. Players should only be able to select a number between 1 and 100. Should the player enter in a number outside of this range, or anything else that isn't a pure number, Scratch Cat informs them that the input is invalid, and players are not penalized.","Welcome to the Guessing Game!!
+
+Choose a number between 1 and 100 until you guess the correct number. The less number of guesses it takes you, the better the prize.",26264460,https://cdn2.scratch.mit.edu/get_image/project/236882401_480x360.png,2018-07-19T20:09:14.000Z,2018-07-22T14:05:10.000Z,2018-07-22T13:56:36.000Z,12,5,2,0,0,,,,,,,
+237065696,LogicGates,"Music: Armin Van Buuren vs. Vini Vici feat. Hilight Tribe - Great Spirit
+
+","Turn on the light bulb, changing the position of the switches and using knowledge of the logical circuits.
+Pressing the switch changes its state.
+Only six levels, but you can do more.",139209,https://cdn2.scratch.mit.edu/get_image/project/237065696_480x360.png,2018-07-22T11:09:11.000Z,2018-07-22T14:18:42.000Z,2018-07-22T14:03:56.000Z,42,19,5,0,0,,,,,,,
+237068635,Getting Unstuck #18: Reveal the secret,"Scratch project was created as activity #18 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+
+Day #18 Challenge: Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed. ",Press the green flag and follow the instructions!,1202362,https://cdn2.scratch.mit.edu/get_image/project/237068635_480x360.png,2018-07-22T12:31:25.000Z,2018-07-23T06:19:20.000Z,2018-07-22T14:03:34.000Z,13,5,1,0,0,,,,,,,
+237074215,Unstuck 18 Multiple conditions,"I saw this challenge as an opportunity to build upon and improve one of my previous projects, involving game levels. Specifically, in addition to incorporating ""multiple condition checking,"" I wanted to get more practice using clones as ""game treasures"" and ""game features"" (in this case platforms. I learned that ""delete this clone"" is necessary in order for global counters to be used in the ""when I start as a clone"" block. I am motivated to do some more reading about exactly what happens to scratch variables when clones are created. I didn't have time to fancy up the game ending, including stopping the display of clones at the end of the game. 
+","Create a project that when multiple conditions have been satisfied, a secret is revealed.
+
+Collect all the treasures and keys to reveal the secret. ",19123745,https://cdn2.scratch.mit.edu/get_image/project/237074215_480x360.png,2018-07-22T14:51:35.000Z,2018-07-22T22:04:43.000Z,2018-07-22T15:04:44.000Z,21,9,1,0,0,,,,,,,
+237073879,"Unstuck: Day 18, Secret Revealed V2","This project is for Getting Unstuck challenge day 18, reveal something by user interaction.
+This one is an update to my first submitted project today, adding the feature of changing the colors. ","What color are the 3 columns of circles? Click the button to reveal the secret! Try different color combinations and see which create a more effective illusion.
+This project is an example of a Munker illusion, in which bands of different colors are shown to affect each other in surprising ways. I came across a version of it online here https://twitter.com/NovickProf/status/1019592963259691008. 
+It's hard to believe your eyes!",214174,https://cdn2.scratch.mit.edu/get_image/project/237073879_480x360.png,2018-07-22T14:43:35.000Z,2018-07-22T19:41:02.000Z,2018-07-22T15:03:12.000Z,13,5,2,0,0,,,,,,,
+237072190,If you dare ... (Getting Unstuck Day 18),"This is my sixth Getting Unstuck project (two of them can be found on my other account @PinkyPepper).
+
+I remixed an old project and turned it into a puzzle game. I would have liked to make a real escape room, but I gave myself a time constraint today. I used a list again, because I learned more about using lists yesterday. My daughter tested my project and found a bug, which was easy to solve. If you find another one, please let me know.
+
+","This is a puzzle game. Can you reveal the surpise? Take a chance and look around in the dark  if you dare ...
+
+I made this for Day 18 of Getting Unstuck. Todays challenge:
+Create a project that when multiple conditions have been satisfied, a secret is revealed.",11833500,https://cdn2.scratch.mit.edu/get_image/project/237072190_480x360.png,2018-07-22T14:03:59.000Z,2018-07-22T15:21:45.000Z,2018-07-22T15:10:43.000Z,23,11,6,0,0,160855982,160855982,,,,,
+237073997,Day18,,Click on the green flag to start,34225248,https://cdn2.scratch.mit.edu/get_image/project/237073997_480x360.png,2018-07-22T14:46:21.000Z,2018-07-22T15:09:55.000Z,2018-07-22T15:09:18.000Z,10,1,0,0,0,,,,,,,
+237075199,day 18,,"press green flag , and answer the question using y or n.",34188789,https://cdn2.scratch.mit.edu/get_image/project/237075199_480x360.png,2018-07-22T15:15:34.000Z,2018-07-22T15:17:25.000Z,2018-07-22T15:15:59.000Z,16,4,0,0,0,,,,,,,
+24853888,Crossroads,"traffic simulation in a crossroads with traffic lights
+
+Getting Unstuck: Day 18
+update: added traffic lighters
+NOT/AND operators are used to control car's movement in a sort of AI",click on the sound icon to switch the sound on/off,2143382,https://cdn2.scratch.mit.edu/get_image/project/24853888_480x360.png,2014-07-19T06:39:03.000Z,2018-07-22T15:21:02.000Z,2014-07-19T08:58:46.000Z,859,28,13,0,0,,,,,,,
+237075769,Getting Unstuck Day 18,,This is a very simple project in which a ball is trapped in a box using OR logic operator.,14159575,https://cdn2.scratch.mit.edu/get_image/project/237075769_480x360.png,2018-07-22T15:28:08.000Z,2018-07-22T15:30:33.000Z,2018-07-22T15:29:17.000Z,14,4,0,0,0,,,,,,,
+237073583,Intro to Circuits,"For getting unstuck day 18, multiple conditions. This was inspired by @paulinah's really cool and complex circuit project. I basically started over and kept things simple so I could use this as an accompanying Scratch piece to paper circuit projects for early childhood students. Thanks paulinah for the inspiration!","Click the green flag, then use the pointer to drag each of two wires to a position on the stage where they will make a complete circuit. The LED will light up. If you accidentally drag one of the other sprites (the battery or the LED), click the green flag again to put them back in position.",33815227,https://cdn2.scratch.mit.edu/get_image/project/237073583_480x360.png,2018-07-22T14:35:45.000Z,2018-07-23T02:04:17.000Z,2018-07-22T15:30:33.000Z,16,7,0,0,0,237028696,237028696,,,,,
+237072346,Unstuck #18 - Factors of 24,Unstuck #18 - multiple conditions.,Click on the green flag. Find all of the factors of 24,26618044,https://cdn2.scratch.mit.edu/get_image/project/237072346_480x360.png,2018-07-22T14:07:36.000Z,2018-07-22T15:39:09.000Z,2018-07-22T15:35:33.000Z,15,5,1,0,0,,,,,,,
+236983896,Challenge 18 - to the moon,"We had a pipe burst in the street right outside my driveway the other day. The city workers worked hard all day and at one point one of the guys yelled, ""HEY, STAND ON THAT PIPE"". 
+
+That is all it took for inspiration for this project apparently. No city workers were harmed in the making of this project nor did any end up in space. :) ","Ok, challenge 18......... Had so many ideas and I was messing around while finalizing an idea and as I was messing around this came full circle. There isn't so much of a secret but there is a surprise when conditions are met. best with sound on
+
+Another wild ride. Click the flag and enjoy I very rarely do animations. However, Getting Unstuck has had me creating them and I have had fun doing them.",3158946,https://cdn2.scratch.mit.edu/get_image/project/236983896_480x360.png,2018-07-21T01:08:57.000Z,2018-07-22T20:53:04.000Z,2018-07-22T15:58:01.000Z,22,10,1,0,0,,,,,,,
+109690560,Getting Unstuck Day 18,,Click the green flag.,13275782,https://cdn2.scratch.mit.edu/get_image/project/109690560_480x360.png,2016-05-14T17:17:58.000Z,2018-07-22T16:34:07.000Z,2016-05-16T13:14:54.000Z,16,2,0,0,0,,,,,,,
+237079054,Day18 - Treasure Island,"I plan to add music and a few more surprises to this later, but am really pressed for time this morning!","Click the Green Flag and follow the directions
+Space bar to start game
+S to move straight
+R to move right
+L to move left",18341966,https://cdn2.scratch.mit.edu/get_image/project/237079054_480x360.png,2018-07-22T16:45:12.000Z,2018-07-22T16:59:51.000Z,2018-07-22T16:46:11.000Z,28,12,2,0,0,,,,,,,
+237079206,Getting Unstuck day 18,"I have used the boolean blocks a few times, but I have never deliberately tried to get all of them into 1 project. This ended up being less challenging than I thought it would be. (My use of the not_ is a bit contrived.) I was a fun project to work on while en route to the Scratch Conference later this week.","click the green flag
+follow Giga's instructions
+try to win the Internet",17767933,https://cdn2.scratch.mit.edu/get_image/project/237079206_480x360.png,2018-07-22T16:49:03.000Z,2018-07-22T16:57:20.000Z,2018-07-22T16:57:20.000Z,17,8,3,0,0,,,,,,,
+237077251,Day 18: I like to eat . . . ,"I created this project during the ""mouse over"" challenge, but couldn't get it to work that day.  Fixed that (yay!!)
+When the surprise was revealed, I wanted to make the appearance of sprites more ""showy"" and to play a certain song :)  Had trouble changing the size of sprites when grow and shrink were clicked.  Also wanted to introduce a chomping sound, but it glitched.  When instructions were coded to do something fancy, such as turn right and then left, the sprite followed the first instruction but not the next ones in the series. 
+I wanted the intro script to run completely before the scroll over options began, so I introduced the space bar (in addition to green flag and broadcast). I suspect there is conflict with the ""Event"" blocks as with an earlier challenge, but not sure. 
+Suggestions for debugging and alternate/more efficient use of code are welcome.
+","Press the green flag and you may find out what Nano likes to eat!
+
+Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed. ",18337230,https://cdn2.scratch.mit.edu/get_image/project/237077251_480x360.png,2018-07-22T16:02:27.000Z,2018-07-22T17:28:28.000Z,2018-07-22T16:47:26.000Z,14,3,0,0,0,,,,,,,
+237075633,Memory,"I started the project three times because I kept missing the objective of today's challenge. And even this one is barely hits. I removed the ands and ors and used a not condition to make the program understand that the two cards are the same. I got stuck several times, mainly because I needed to figure how to randomize the lists. I did a list with numbers from 1 to 20 and then randomly it puts them in other two lists, deleting the number so it can't be used again. So card n.1 (the cat) are in position list1 n.1 and list2 n.1. Card n.2 (the crab) are in position list1 n.2 and list2 n.2. Headache? :P
+Every clone has a private variable (remember, the sprite variables are also clone variables) with a progressive number, so every time the user clicks on a card, it's possible to know what it is looking for its number in the lists.
+
+Fun facts: the whole game is inspired by an old (early eighties) quiz show, named BIS, where the cells were small slide projectors' screens controlled by wire from a console.
+
+Credits: map by Tubs and hands+vinyl by Mbdortmund, from Wikipedia",It's the classic memory game! Click on the cards and search for matches. A riddle will be shown after you remove the cards.,12148328,https://cdn2.scratch.mit.edu/get_image/project/237075633_480x360.png,2018-07-22T15:25:31.000Z,2018-07-28T17:57:29.000Z,2018-07-22T16:49:39.000Z,13,5,3,0,0,,,,,,,
+237079937,day 18,,,443100,https://cdn2.scratch.mit.edu/get_image/project/237079937_480x360.png,2018-07-22T17:06:31.000Z,2018-07-22T18:54:53.000Z,2018-07-22T18:04:09.000Z,18,2,0,0,0,,,,,,,
+235893465,On-off latching switch,,"green flag
+
+then press/release space bar
+
+how does this switch behave differently than the momentary on/off button? https://scratch.mit.edu/projects/235893386/",33815227,https://cdn2.scratch.mit.edu/get_image/project/235893465_480x360.png,2018-07-09T12:54:30.000Z,2018-07-23T02:10:30.000Z,2018-07-22T18:33:16.000Z,20,3,0,0,0,,,,,,,
+237081108,And Or Not: Getting Unstuck Day 18,"Thanks to @karenb for her party sprite!
+
+Getting Unstuck Day 18
+
+With a bit more time, I might play with my tree full of ifs/thens/elses. Some of the questions don't need to be asked to get to an appropriate response depending on previous answers.
+In addition, I am having a bit of trouble getting Scratch Cat to understand all the different ways that people can report what time it is. That part of the script needs some work.","Answer a few simple questions and Scratch Cat will tell you what's on your schedule right now. 
+Try a bunch of different answers, not just the correct answers for right now.
+(Hint... something fun happens on Saturday!)",3485356,https://cdn2.scratch.mit.edu/get_image/project/237081108_480x360.png,2018-07-22T17:32:56.000Z,2018-07-22T18:42:35.000Z,2018-07-22T18:35:44.000Z,11,1,0,0,0,,,,,,,
+235857428,Cat Clones,Digging up old projects again for Getting Unstuck!,"Scratch Cat is hiding out among these clones.
+
+Click on a cat to make your guess.
+
+How many guesses will you take to you find him?
+
+Hint: He has trouble keeping still when you're close to picking him!",27306974,https://cdn2.scratch.mit.edu/get_image/project/235857428_480x360.png,2018-07-09T02:44:15.000Z,2018-07-22T23:13:13.000Z,2018-07-22T18:42:26.000Z,19,8,1,0,0,,,,,,,
+237080204,unstuck18,It took me quite a while to manage the appearing plants and animals. I thought it a clever plan to go with one sprite with more costumes. But afterwards it got more complicated because I definitly wanted some animation.....,For my favorite plants and animals press spacebar and mouse over when you see your choice.,1072279,https://cdn2.scratch.mit.edu/get_image/project/237080204_480x360.png,2018-07-22T17:12:33.000Z,2018-07-22T19:27:40.000Z,2018-07-22T19:25:04.000Z,15,4,0,0,0,,,,,,,
+237083337,#018 Getting Unstuck And Or Not,"I really had no ideas for this.  I just remixed one of my older projects and added a background change.
+
+Thanks to DaveyWonder in the studio because his code was the easiest to understand.  https://scratch.mit.edu/projects/235893465/
+",Press the green flag and follow the prompt.  ,20126730,https://cdn2.scratch.mit.edu/get_image/project/237083337_480x360.png,2018-07-22T18:22:52.000Z,2018-07-22T19:39:39.000Z,2018-07-22T19:13:13.000Z,11,3,0,0,0,,,,,,,
+237076042,Getting Unstuck 18,"This was another chance for me to bring in one of my outside interests. :)
+It's not quite working perfectly - the pieces have to be assembled *just right* and then the scissors show up, but the rest of the program doesn't always execute. I'm definitely stuck, I can't see any reason in the code why the rest of it doesn't happen. Hmm...
+
+scissors image from wikimedia commons
+sewing machine image from pngimg.com
+sewing machine sound from freesound
+",Click the green flag & assemble the sewing pattern.,18044195,https://cdn2.scratch.mit.edu/get_image/project/237076042_480x360.png,2018-07-22T15:34:21.000Z,2018-07-22T20:09:37.000Z,2018-07-22T19:58:40.000Z,14,2,0,0,0,,,,,,,
+237080014,Head or cross?,"I borrowed an animated gif and pictures for this simple game.
+
+","Cick on green flag to play.
+When you click on coin pay attention to the score. Are you lucky?",11312120,https://cdn2.scratch.mit.edu/get_image/project/237080014_480x360.png,2018-07-22T17:08:09.000Z,2018-07-30T13:21:54.000Z,2018-07-22T20:24:35.000Z,15,4,0,0,0,,,,,,,
+237061440,Scratch 3 letter anagrammer fixed ,"I am having nightmares with my internet as on the move. 4 letters kept crashing.
+There must be a neater way to make the anagrams?
+Plus I wanted to make a list of the answers but have no more time and don't know how.
+Fixed now but stuck to 3 letters as internet so bad!",,33472226,https://cdn2.scratch.mit.edu/get_image/project/237061440_480x360.png,2018-07-22T09:09:08.000Z,2018-07-24T18:43:09.000Z,2018-07-24T18:43:09.000Z,3,2,0,0,0,,,,,,,
+237083688,hide and seek improved,"Still away from home and struggling with RUBBISH internet
+Hme now and have added some Boolean score boxes!",Play hide and seek with the bears - Scratch will follow the mouse,33472226,https://cdn2.scratch.mit.edu/get_image/project/237083688_480x360.png,2018-07-22T18:31:58.000Z,2018-07-24T08:23:34.000Z,2018-07-22T21:27:04.000Z,5,1,0,0,0,,,,,,,
+237091268,Day18,This was FUN!  Can't wait to show and challenge my students!,Press green flag and answer the visitors questions.,11885888,https://cdn2.scratch.mit.edu/get_image/project/237091268_480x360.png,2018-07-22T21:33:02.000Z,2018-07-22T21:46:23.000Z,2018-07-22T21:46:23.000Z,8,2,0,0,0,,,,,,,
+237090114,Day 18 - revealing a secret,I know I need to do more work on this.... and I could see how this would make a fun game!,"I found this hard today.  
+
+Update!  I came back to it fresh today.  I was able to add the conditional into it via a question.   
+Hopefully thats it!",24864870,https://cdn2.scratch.mit.edu/get_image/project/237090114_480x360.png,2018-07-22T21:05:17.000Z,2018-07-23T14:40:39.000Z,2018-07-22T21:57:16.000Z,6,2,0,0,0,,,,,,,
+237092551,Unstuck 18 Multiple conditions (v2),"Update v2:
+-I think I fixed the problems with not displaying the ""game complete"" message correctly. I spent some time reading the scratch wiki to better understand how clones work, which has been a challenge for me. I made some changes based on what I learned.
+-cleaned up leftover platform clones at end of game.
+-added a ""this way"" sprite to show how to get to the next level.
+
+I saw this challenge as an opportunity to build upon and improve one of my previous projects, involving game levels. Specifically, in addition to incorporating ""multiple condition checking,"" I wanted to get more practice using clones as ""game treasures"" and ""game features"" (in this case platforms. I learned that ""delete this clone"" is necessary in order for global counters to be used in the ""when I start as a clone"" block. I am motivated to do some more reading about exactly what happens to scratch variables when clones are created. I didn't have time to fancy up the game ending, including stopping the display of clones at the end of the game. 
+","Create a project that when multiple conditions have been satisfied, a secret is revealed.
+
+Collect all the treasures and keys to reveal the secret. ",19123745,https://cdn2.scratch.mit.edu/get_image/project/237092551_480x360.png,2018-07-22T22:02:44.000Z,2018-07-22T22:07:32.000Z,2018-07-22T22:07:32.000Z,4,2,0,0,0,,,,,,,
+237091147,Unstuck 18 Pickup Sticks *Draft*,"I got stuck so many times creating this project. It was a lot of fun to figure out how to get each piece to work!
+
+I worked through a number of issues with layers, but can't figure out how to place a stick that is moved from the middle of the remaining pile back to it's same location after it is moved to the front. I have to rethink the system of using variables to track the layers.
+
+This might work best abandoning the layers altogether and using some sort of physical controller (makey makey, scratchbit, micro:bit?) and collabroation between one person moving the mouse and another operating the mouse click, press, and release.
+","Did you ever play the game pick up sticks? You had to move a stick off a pile without any other stick moving.
+
+I've been working all day on having the user move the top stick off the pile, but I'm running into trouble managing layers. I put it back together but now it delays when you move the seventh stick. Keep trying and I'll come back to it later to try to fix it.
+
+If you separate all the sticks, you will see a surprise!
+
+I still need to add audio effects, but wanted to get it posted.",14632339,https://cdn2.scratch.mit.edu/get_image/project/237091147_480x360.png,2018-07-22T21:30:19.000Z,2018-07-22T22:13:57.000Z,2018-07-22T22:05:23.000Z,11,4,1,0,0,,,,,,,
+237090020,Unstuck Day 18,I have only coded for sums from 2 to 12 as if it were two dice. If I was to extend the range of numbers I would need to add another If/Then and Operator to show the resulting sum.  I could do that as a variable that shows on the screen but I didn't know how to show it as Sprite or Costume size numbers ,click the green flag and have Cat add numbers,14232182,https://cdn2.scratch.mit.edu/get_image/project/237090020_480x360.png,2018-07-22T21:03:08.000Z,2018-07-22T22:22:37.000Z,2018-07-22T22:22:37.000Z,9,3,1,0,0,,,,,,,
+237065468,Getting Unstuck #18,"Getting Unstuck day 18.
+When this email arrived I was thinking about one of my favourite childrens' books, Harquin, the Fox who went down to went down to the valley. In this program, if it's night, and the squire's not about, Harquin will come out and look around. If either of these conditions is not met he'll (eventually) go back to his burrow. 
+There is no surprise in this project. I was so intent on doing something using Harquin that I didn't really read the prompt. There's a lesson there.
+I enjoyed using the vector editor, and suspect I'll be using it again.
+I think I have the timings about right; Harquin seems to appear and disappear often enough.",Press the green flag.,141519,https://cdn2.scratch.mit.edu/get_image/project/237065468_480x360.png,2018-07-22T11:03:05.000Z,2018-07-24T06:02:53.000Z,2018-07-22T22:30:24.000Z,14,5,0,0,0,,,,,,,
+237088740,Critical Hit? (Unstuck 18),"For such a simple prompt, this one really challenged me. Since I didn't know where to start, I approached this the same way when working with other material, and just started ""doing stuff."" Once I put a few blocks together, this idea came together.
+
+Right now, there's no real end to the game and I'm open to suggestions. I'm struggling with having the scripts stop when Hit Points equal zero or less. I've tried a lot of variations with the ""stop all"" block, and haven't had any success - will try again soon.","Click on the Beholder to ""roll"" your d20 and see if you can get a critical hit for 2x damage -- before its hit points reach 0.
+
+This is a work in progress (see below).
+",27690149,https://cdn2.scratch.mit.edu/get_image/project/237088740_480x360.png,2018-07-22T20:32:12.000Z,2018-07-23T11:59:26.000Z,2018-07-22T22:41:19.000Z,7,2,0,0,0,,,,,,,
+237088607,Day 18- And/Or/Not operator - Memory Game,"Day 18- Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed. 
+
+Started thinking this would be simple and it progressed into quite a mess! Simplified the number of costumes, etc. There are still some bugs (e.g. click on the same card 2x = match) but I feel like I perservered through my own struggle.","Green Flag
+Click on cards to get a match",16509596,https://cdn2.scratch.mit.edu/get_image/project/237088607_480x360.png,2018-07-22T20:28:11.000Z,2018-07-22T22:47:11.000Z,2018-07-22T22:42:25.000Z,11,5,1,0,0,,,,,,,
+237090859,Moonhack 2018 remix,"Credits: moonhack.com for the project directions.
+I'll be introducing this to my summer code club this week, so I thought I would test out the project and add some of my own conditionals.  I'm sure my middle schoolers will be more creative than me.
+
+","Getting Unstuck #18, testing conditions with the and, or, and not blocks.
+
+Use the spacebar to try and land the Apollo 11 Eagle on the moon.
+Keep your speed less than 2 upon landing.",399245,https://cdn2.scratch.mit.edu/get_image/project/237090859_480x360.png,2018-07-22T21:23:34.000Z,2018-07-22T22:51:33.000Z,2018-07-22T22:51:33.000Z,11,4,0,0,0,224448752,224448752,,,,,
+237081858,Getting Unstuck: Day 18,"""Grazie @karenb!!! Il tuo progetto mi ha ispirata e mi ha molto aiutata.""
+Mi sono molto divertita a scegliere e modificare le immagini.
+Penso che questo progetto - in alcune parti modificato - potrebbe fungere da modello per creare un sorteggio di immagini (personaggi, ambienti...) da utilizzare per inventare delle storie.
+
+Credits images: https://www.flaticon.com","Clicca sulla bandierina verde e gioca alla slot machine.
+Click on the green flag and play the slot machine.",19789360,https://cdn2.scratch.mit.edu/get_image/project/237081858_480x360.png,2018-07-22T17:49:06.000Z,2018-07-22T23:02:38.000Z,2018-07-22T23:02:38.000Z,31,6,3,0,0,,,,,,,
+237068341,Get Smart_GU_Day18,"This project took on a life of its own. I didn't get stuck today. Oh, wait, I spoke too soon. When running my project to check it, sometimes the sprite with the intro words becomes very large & off the screen. (Is this b/c I have both bitmap & vector graphics running at the same time?) 
+However, since the project is multi-faceted, it took a very long time to accomplish.There is so much more that can be done to enhance it. 
+Inspiration for the Q & A came from @karenb 's project with the escape room. 
+Credits:
+https://www.wouldyoubelieve.com/sounds/SorryAboutThatChief.wav
+https://www.wouldyoubelieve.com/sounds/missedit.wav (and loving it)
+https://en.wikipedia.org/wiki/Get_Smart
+http://pngimg.com/download/35689
+http://ew.com/gallery/25-greatest-tv-spies-ever/
+https://en.wikipedia.org/wiki/Get_Smart#/media/File:Get_Smart_with_Fang_1966.jpg
+https://en.wikipedia.org/wiki/Clock#/media/File:Wooden_hourglass_3.jpg
+https://giphy.com/gifs/get-smart-RU0RlIKOscMvu
+http://soundbible.com/1611-TV-Static.html
+https://www.riddles.com
+","Click the green flag to begin. Then, help Maxwell Smart, Secret Agent 86, on his missions. Answer questions correctly to reveal a secret! 
+(If you want to peek, the answers are in a list.) The questions are chosen at random from a list of 10. You will answer 2 questions at a time. If you get one wrong, you will be given another question (or perhaps the same one, again, It's random!)",24741621,https://cdn2.scratch.mit.edu/get_image/project/237068341_480x360.png,2018-07-22T12:23:20.000Z,2018-07-22T23:38:00.000Z,2018-07-22T23:38:00.000Z,12,4,1,0,0,,,,,,,
+237094625,Getting Unstuck: Day 18,"This is my project for Day 18 of the Getting Unstuck programming challenge. As the challenge goes on, it becomes increasingly difficult to find a solution to the proposed problem. I think I've made a nice game even if I have to say it's a hard to win. However, the difficulty can be adjusted by changing the speed of the figures or the speed of the ball.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed.
+
+English: 3 geometric figures travels in space. If you hit the square you will gain 1 point, otherwise you'll lose a point. Try to get a score above 3 (it seems easy but it's not, trust me :P) and you will have access to the surprise. 
+How to throw the ball? Press the SPACE key and point the mouse in the direction you want the ball to be launched.
+
+
+Italian translation: 3 figure geometriche viaggiano nello spazio. Se colpisci il quadrato otterrai 1 punto, altrimenti perderai un punto. Cerca di ottenere un punteggio superiore a 3 (sembra facile ma non lo è, fidati di me: P) e avrai accesso alla sorpresa.
+Come lanciare la palla? Premi il tasto SPAZIO e punta il mouse nella direzione in cui vuoi che venga lanciata la palla.",34314391,https://cdn2.scratch.mit.edu/get_image/project/237094625_480x360.png,2018-07-22T22:52:02.000Z,2018-07-22T23:54:57.000Z,2018-07-22T23:54:56.000Z,13,5,0,0,0,,,,,,,
+237095297,Unstuck Day 18 - Mood Survey,"I had a tough time today. I had most of this project done in the morning then went to see Hamilton. When I logged into Scratch this evening, my project was gone.I did the best I could making it a second time. The tallies don't seem to be working, so I need to fix that. But that's for another day. BTW - If you have a chance to see Hamilton, it's fantastic! 
+
+It sounds like I need cloud variables in order for the tallies to remain. I don't believe I have the ability to make them. So feel free to do this several times and change your anwers each time. ",Press the flag to begin. You will be asked two questions - your gender and your mood. ,10715270,https://cdn2.scratch.mit.edu/get_image/project/237095297_480x360.png,2018-07-22T23:07:33.000Z,2018-07-25T12:55:42.000Z,2018-07-23T00:02:38.000Z,9,2,0,0,0,,,,,,,
+237094001,Getting Unstuck Challenge #18,"Pushed for time on this one, so not quite perfect. I need to avoid too many comments appearing at once.
+I often find bugs appearing when using the and or not blocks - need to fine tune this skill.
+Reused Sassy bear - this time with moving sprite visible and creating a reaction.",Click green flag and watch.,13484475,https://cdn2.scratch.mit.edu/get_image/project/237094001_480x360.png,2018-07-22T22:37:29.000Z,2018-07-23T00:15:07.000Z,2018-07-23T00:15:06.000Z,8,2,0,0,0,,,,,,,
+237095910,World Cup Soccer Unstuck #18,"This is based on a project called Rio Shoot Out from the book ""Super Scratch Programming Adventure!"". While there isn't a surprise, the game uses a number of and, or, and not operator blocks.",Click the green flag to begin and then use the spacebar to try and make a goal. You have 8 shots to score 5 goals.,124311,https://cdn2.scratch.mit.edu/get_image/project/237095910_480x360.png,2018-07-22T23:19:42.000Z,2018-07-23T01:55:36.000Z,2018-07-23T00:51:44.000Z,6,1,0,0,0,,,,,,,
+237097735,Dani's Decision Dilemma,"Had trouble with changing the jeans as one simple code block, had to create many blocks instead. Touching colour never seems to work for me.","Start with the green flag, then follow directions",30508500,https://cdn2.scratch.mit.edu/get_image/project/237097735_480x360.png,2018-07-22T23:51:39.000Z,2018-07-23T01:54:55.000Z,2018-07-23T01:54:55.000Z,9,3,1,0,0,,,,,,,
+237106573,Unstuck day 18 Let's play Clue!,"I only used a few of each category from the board game - otherwise it would take much more time to put this together. After getting all the sprites in and coordinated, the use of logic was very minimal.  Oh well!","Click the green flag to walk through a guessing game based on the board game CLUE.
+",11305008,https://cdn2.scratch.mit.edu/get_image/project/237106573_480x360.png,2018-07-23T01:59:18.000Z,2018-07-23T02:03:02.000Z,2018-07-23T02:01:26.000Z,4,0,0,0,0,,,,,,,
+237104443,Unstuck Day 18: Guess the Shape,"Once again, I resorted to using information from one of my trusty DK books.  This project came from ""Coding Projects in Scratch."" 
+
+I know that I am learning a LOT and I like the fact that the projects force me to learn about blocks that I would otherwise ignore. I am hopeful that I will soon be able to create a project without relying heavily on someone else's project. ",Are you ready for the snow?  Virtual snow that is.  Click the green flag to let the snow begin.  Try to guess what shape is hidden before the snow reveals it.,34190490,https://cdn2.scratch.mit.edu/get_image/project/237104443_480x360.png,2018-07-23T01:28:56.000Z,2018-07-23T02:04:18.000Z,2018-07-23T02:04:18.000Z,12,5,1,0,0,,,,,,,
+237104212,Bouncing around,"I am behind by 2 days now that I have completed this. 
+
+The ball bounces randomly and when it touches any falling flower, it will cause a Scratch mascot (random) to appear. the backdrop will also change colour.","Click green flag to start.
+
+Getting Unstuck # Day 18
+",158902,https://cdn2.scratch.mit.edu/get_image/project/237104212_480x360.png,2018-07-23T01:25:52.000Z,2018-07-23T02:20:17.000Z,2018-07-23T02:01:43.000Z,8,2,0,0,0,,,,,,,
+237106587,challenge18EscapeRoom,"This project turned out way more complicated than I first intended it to be. I used the ""and"" operator block twice: once to check that all the coefficients of the balanced chemical equation were correct, and once to set a range for the answer to a gram calculation.I used the ""or"" key to take into account the different ways the user could enter the limiting reagent - by name or formula. I made the key sprites myself, from pictures. The sounds are all in public domain, except for the door unlocked sound, which was recorded by Mike Koenig and found at SoundBible.com. ",This is an escape room. The clues to escape are chemistry questions. Click the green flag to begin.,2190314,https://cdn2.scratch.mit.edu/get_image/project/237106587_480x360.png,2018-07-23T01:59:32.000Z,2018-07-23T10:44:33.000Z,2018-07-23T02:01:05.000Z,12,5,0,0,0,,,,,,,
+237108578,Happy New Year's eve in Australia ,"Getting Unstuck: Day 18 - Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed.
+
+@jentz has commented on my other project, with brighter stars and when I knew he was from Australia, I remembered the picture I took of wonderful Fireworks show on Sidney two years ago.
+Immediately I thought about making a Firework project. I explored other Scratch projects and knew that are amazing ones. I took the idea to flash the background and a simple way of making fireworks.
+I used clones to control the number and interval they happen.
+
+
+Thank @unclives https://scratch.mit.edu/projects/11304/ 
+@alib, now you can make your own show too! :)",Click the green flag and choose your show!,2176961,https://cdn2.scratch.mit.edu/get_image/project/237108578_480x360.png,2018-07-23T02:25:51.000Z,2018-07-23T02:27:50.000Z,2018-07-23T02:26:00.000Z,9,1,0,0,0,,,,,,,
+237069506,Day 18 Scratch Sprite Trivia,"This was a quick and fun one.  From all that I learned in Day 17, I used lists again for this project.  
+
+Information for the questions came from Scratch wiki https://en.scratch-wiki.info/wiki/Gobo%27s_Friends#Pico","How well do you know  your sprites, click the green flag and play the game.
+
+Day 18 Challenge: Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed.",1294980,https://cdn2.scratch.mit.edu/get_image/project/237069506_480x360.png,2018-07-22T12:55:27.000Z,2018-07-23T03:59:40.000Z,2018-07-23T03:11:44.000Z,16,3,0,0,0,,,,,,,
+237116090,Two Dice Game,"Unstuck Challenge 18: Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed.
+
+This project is designed for 7th Grade Math Probability Unit: compound event. Possible remix idea is to simulate ""Two Dice Sum"" or ""Two Dice Product"". ","Click on the green flag to start. You can choose to roll the pair of dice once, or you can ask the computer to roll the dice 10 time. The results will be recorded each time. ",25332755,https://cdn2.scratch.mit.edu/get_image/project/237116090_480x360.png,2018-07-23T04:32:13.000Z,2018-07-23T05:27:45.000Z,2018-07-23T05:18:52.000Z,6,3,1,0,0,10130014,10130014,,,,,
+237094919,Little gold miner,"At first, I didn't know what to do today.Then I realized, that I could do something interesting by using the pen blocks.
+So, I decided to create a game where you can find different hidden things. I used clones for the treasures and when they are close, they are making a sound that help us to find them.
+
+I'd like to add more things to find, music  and another way to improve the use of pen blocks.","Help the gold miner to find precious metals or other things before time  runs out.
+Press the play button to start and follow the directions.
+Mouse to move.
+Space and mouse button to dig.
+You've got 120 secs.
+
+                            --- Getting Unstuck Day 18---
+""Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed.! ",4413079,https://cdn2.scratch.mit.edu/get_image/project/237094919_480x360.png,2018-07-22T22:58:59.000Z,2018-07-26T19:38:20.000Z,2018-07-23T06:51:51.000Z,12,3,0,0,0,,,,,,,
+237118815,Day 18 Reveal a secret,I got a bit carried away with this Unstuck project. It's a surprising ending rather than a secret. Without giving anything away I found it hard to get the last angle correct.,Test your knowledge of New Zealand.,32833725,https://cdn2.scratch.mit.edu/get_image/project/237118815_480x360.png,2018-07-23T05:21:21.000Z,2018-07-23T07:24:53.000Z,2018-07-23T07:23:23.000Z,10,1,0,0,0,,,,,,,
+237125637,Getting Unstuck Day 18,,"Answer the questions by clicking on the boxes. Click the green check mark when you're ready to check your answers. Click on the boxes as needed to edit your answers. When all the answers are correct and green check mark is clicked, secret will be revealed!",28402186,https://cdn2.scratch.mit.edu/get_image/project/237125637_480x360.png,2018-07-23T07:29:48.000Z,2018-07-23T08:09:24.000Z,2018-07-23T08:09:24.000Z,11,1,0,0,0,,,,,,,
+237125489,getting unstucked day18,,click the green flag ,25103547,https://cdn2.scratch.mit.edu/get_image/project/237125489_480x360.png,2018-07-23T07:28:02.000Z,2018-07-23T08:23:41.000Z,2018-07-23T08:23:41.000Z,6,1,0,0,0,,,,,,,
+237132383,Day 18 of Getting Unstuck,,Clicca sulla bandierina verde e rispondi,10086796,https://cdn2.scratch.mit.edu/get_image/project/237132383_480x360.png,2018-07-23T09:26:02.000Z,2018-07-23T09:27:42.000Z,2018-07-23T09:27:24.000Z,6,3,1,0,0,,,,,,,
+237071196,Getting Unstuck Day 18,Getting Unstuck Day 18,Clicca sulla bandierina verde e sposta il tappeto con le frecce DX SX,15572972,https://cdn2.scratch.mit.edu/get_image/project/237071196_480x360.png,2018-07-22T13:38:53.000Z,2018-07-23T18:19:31.000Z,2018-07-23T10:00:16.000Z,6,1,0,0,0,,,,,,,
+237136271,Getting Unstuck Day 18,"My first late submission! Was out all day yesterday, so a quick and dirty project for today.
+
+Wanted to make a puzzle where combinations of keys could be pressed together to solve a puzzle. This was the quickest version I could make. If I find more time I may add more options and Scratch Cat secrets!","Getting Unstuck Day 18
+
+Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed.",2314547,https://cdn2.scratch.mit.edu/get_image/project/237136271_480x360.png,2018-07-23T10:42:51.000Z,2018-07-23T12:15:06.000Z,2018-07-23T12:15:06.000Z,1,0,0,0,0,,,,,,,
+237138791,Getting Unlocked,"Getting Unstuck - day 18
+by Massimo Marletta
+
+The user must guess a number satisfying all the 3 secret criteria.
+Each of the orange block will move as one criterion is satisfied.
+
+","
+* You have to guess a number which satisfies some secret criteria.
+
+* Set your guess with the green buttons (the left one decrease and the right one increase the values showed in the display).
+
+* Click on the key to check if your number is the secret one.
+
+Each of the tree locks (the orange blocks on the right) will move and became blue (indicating you have unlocked a part of the mechanism) if your guess satisfies a criterion. Only if your guess satisfies ALL the criteria the mechanism will be completely unlocked!
+(for example if the secret number is 10, the first lock could be unlocked if your guess is multiple of 2, the second if your guess if multiple of 5, ...).
+",4804940,https://cdn2.scratch.mit.edu/get_image/project/237138791_480x360.png,2018-07-23T11:34:19.000Z,2018-07-24T16:42:59.000Z,2018-07-23T12:28:33.000Z,23,2,0,0,0,,,,,,,
+237140020,G.U. DAY 18,,"Clicca sulla bandierina verde , scrivi una parola e osserva gli effetti.
+",13746945,https://cdn2.scratch.mit.edu/get_image/project/237140020_480x360.png,2018-07-23T11:58:45.000Z,2018-07-23T13:08:38.000Z,2018-07-23T13:06:56.000Z,3,0,0,0,0,,,,,,,
+237085869,Virtual Flower,"I was able to get this project to work, but I don't think I've got the conditions quite right - I think it's just picking up on the touching the pot bottom and that's all it needs to do.  I think I need to work on it more to figure out how to introduce another condition.
+
+Given more time, I'd also move the water and food to sprinkle onto the flowers and then move back. I would also add variables to monitor hunger, thirst, and light.
+
+I got the original idea from Scratch's Virtual Pet project - from a set of Scratch Coding Cards that I just received. https://scratch.mit.edu/projects/237145343/#editor","Click the Green Flag to begin.
+
+Provide just the right condition for the flowers to grow to their fullest...",1196430,https://cdn2.scratch.mit.edu/get_image/project/237085869_480x360.png,2018-07-22T19:22:18.000Z,2018-07-25T14:39:53.000Z,2018-07-23T13:29:29.000Z,5,0,0,0,0,,,,,,,
+237147470,Getting Unstuck- Day 18,"Had to shoehorn the ""OR"", as it was not really necessary.",,24912473,https://cdn2.scratch.mit.edu/get_image/project/237147470_480x360.png,2018-07-23T13:47:53.000Z,2018-07-23T13:48:34.000Z,2018-07-23T13:48:00.000Z,1,0,0,0,0,,,,,,,
+237166201,Unstuck-18,,,13846307,https://cdn2.scratch.mit.edu/get_image/project/237166201_480x360.png,2018-07-23T16:32:22.000Z,2018-07-23T17:01:13.000Z,2018-07-23T17:01:13.000Z,3,0,0,0,0,,,,,,,
+237165542,Scratch Cat go on a trip - Getting Unstuck  copy,"I modified previous project to add some more features using ""and"" / ""or"" operator blocks.
+
+Passport image:https://clipart.me/free-vector/passport-cover
+Suitcase Image: http://clipart-library.com/clipart/8cGbRjx4i.htm
+Camera Image"" http://hatenylo.com/camera-clipart-black-and-white-easter-clipart/camera-clipart-black-and-white-camera-clip-art-black-and-white-clipart-panda-free-clipart-images-school-clipart-2/","Scratch Cat needs to go on the trip.
+
+Click the green flag to start.  Use arrow keys to move around and click the items to gather things he needs for the trip.  Click the car to start the journey.
+
+",17257831,https://cdn2.scratch.mit.edu/get_image/project/237165542_480x360.png,2018-07-23T16:24:24.000Z,2018-07-23T18:29:36.000Z,2018-07-23T18:23:15.000Z,5,2,0,0,0,,,,,,,
+237181349,Day 18 - Getting Unstuck,,"Click the green flag and find out if a number is divisible by 2, 3 or 5.
+
+But what happens when your number is divisible by two of this numbers?",26079479,https://cdn2.scratch.mit.edu/get_image/project/237181349_480x360.png,2018-07-23T19:18:59.000Z,2018-07-24T22:12:15.000Z,2018-07-23T20:42:34.000Z,7,1,0,0,0,,,,,,,
+237165225,Day 18 - Memory Game remixed to reflect secondary colors,"Clarimer persevered through a problem I was struggling with. I learned a lot from remixing his project. 
+
+Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed. ","Green Flag
+Click on cards to color mix for secondary colors",109272,https://cdn2.scratch.mit.edu/get_image/project/237165225_480x360.png,2018-07-23T16:20:22.000Z,2018-07-26T15:40:19.000Z,2018-07-24T01:26:17.000Z,14,0,0,0,0,237088607,237088607,,,,,
+237210247,Operators- Day 18,"Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed. 
+
+**My projects seem very simple compared to many of the projects on here, but I am learning so much and many of these concepts are new to me so I am figuring out how to use these blocks and it's taking me a long time!",Press the green flag.,25165723,https://cdn2.scratch.mit.edu/get_image/project/237210247_480x360.png,2018-07-24T02:09:13.000Z,2018-07-24T02:39:55.000Z,2018-07-24T02:39:44.000Z,2,0,0,0,0,,,,,,,
+237180187,LA PALLA VAGABONDA,"Progetto creato per GettinUnstuck, giorno 18
+","Clicca sulla bandierina verde, poi clicca sulla palla e osserva..
+Il progetto (come tutti i miei precedenti) è solo l'inizio di qualcosa che può essere migliorato...In particolare, in questo caso, la palla non fa esattamente ciò che avrei voluto...",14651357,https://cdn2.scratch.mit.edu/get_image/project/237180187_480x360.png,2018-07-23T19:03:46.000Z,2018-07-24T12:59:19.000Z,2018-07-24T12:59:19.000Z,5,0,0,0,0,,,,,,,
+237259232,Riddles - Getting Unstuck Day 18,"Hint: Answer using only the object name (i.e. - phone, not ""a phone"")
+
+Sorry I didn't take the time to account for incorrect answers so it will look messy if you don't answer all 4 riddles correctly. I know how to fix this I just didn't have the time. 
+
+Riddles from https://www.youtube.com/watch?v=kMK5a27N7ys","Press the green flag to begin. Then try to answer these 4 riddles. What wonderful picture will you reveal with all four correct answers?
+
+",22156688,https://cdn2.scratch.mit.edu/get_image/project/237259232_480x360.png,2018-07-24T14:29:33.000Z,2018-07-24T16:44:24.000Z,2018-07-24T16:00:48.000Z,4,1,0,0,0,,,,,,,
+237259223,Logic - Getting Unstuck Day 18,I started down this path and I think I got too far into it to stop. ,"An interesting logic puzzle. 
+Click the green flag to start the project.  and click on the top row of balls to change the colour. 
+Depending on the logic the balls in the second row will change colours.  
+When the balls in the last row match you have unlocked the background!!  
+It can be easy depending on the ball to match. or very challenging!!",19641362,https://cdn2.scratch.mit.edu/get_image/project/237259223_480x360.png,2018-07-24T14:29:28.000Z,2018-07-24T20:17:44.000Z,2018-07-24T20:14:29.000Z,3,0,0,0,0,,,,,,,
+237290721,Day 18 Tunnel of Doom ,"Another project I have built with students over the summer in camp. Idea came from one of the books I really like. Coding Projects in Scratch by DK.
+
+A secret is not really revealed it is just that you made it out!","Day 18 Getting Unstuck
+
+Click on Green Flag and then use the mouse pointer to move through the maze. Beat the best time to be the best player. ",588430,https://cdn2.scratch.mit.edu/get_image/project/237290721_480x360.png,2018-07-24T20:31:47.000Z,2018-07-24T20:34:19.000Z,2018-07-24T20:33:28.000Z,5,2,1,0,0,,,,,,,
+237085781,Bouncing Color Game - Getting Unstuck Day 18,"This isn't quite working the way I hoped it would. I had initially set it so you had to have mouse down while touch ball was touching the color, but it seemed the mouse could  be down anywhere and you could get a point. I am still trying to figure out what I am doing wrong. . Oh well! I will have time to revisit I am sure!",Hit the green flag to start bouncing. When the ball is touch a color you can hit the space bar to get a point!,22706156,https://cdn2.scratch.mit.edu/get_image/project/237085781_480x360.png,2018-07-22T19:20:31.000Z,2018-07-24T21:39:52.000Z,2018-07-24T21:38:04.000Z,4,0,0,0,0,,,,,,,
+237298630,DAY 18 GetCHEETOS,"I was trying really hard to do something fabulous today but ended up just doing this. I still don't get what a lot of people are doing, BUT, I made another list (which I'm new at) so that's cool.","First goal is to get the cheetos 5 times. You can only move if you use the up AND right arrow at the same time, or the down AND left arrow.
+Once you get a score of 5, you will get one of 3 secrets. If you get the secret password, then you get a surprise!
+
+Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed.",10309968,https://cdn2.scratch.mit.edu/get_image/project/237298630_480x360.png,2018-07-24T22:35:12.000Z,2018-07-24T23:13:34.000Z,2018-07-24T22:52:32.000Z,4,0,0,0,0,,,,,,,
+237278065,Analisi logica Getting Unstuck#18,"Progetto realizzato per #GettingUnstuck giorno 18
+Ad avere più tempo si potrebbe inserire un codice che porti l'alunno a scegliere una frase e ad analizzarla. Magari con il tempo lo migliorerò.","Clicca sulla bandierina e rispondi alle domande della maestra
+sono ammesse le seguenti risposte:
+- soggetto
+- predicato
+- espansione diretta
+- espansione indiretta",17320587,https://cdn2.scratch.mit.edu/get_image/project/237278065_480x360.png,2018-07-24T17:50:43.000Z,2018-07-25T08:23:33.000Z,2018-07-25T08:22:09.000Z,4,1,0,0,0,,,,,,,
+237345853,Getting Unstuck: Day 18,Andrés Gil Ruiz.,"Press the two letters at same time to complete the secret word. 
+
+If you do it, you will watch a secret for a happy life.
+
+",27636310,https://cdn2.scratch.mit.edu/get_image/project/237345853_480x360.png,2018-07-25T09:10:07.000Z,2018-07-25T09:37:36.000Z,2018-07-25T09:36:12.000Z,5,2,1,0,0,,,,,,,
+237354220,Getting unstuck day 18,,Just a little project testing some boolean logic ,4610900,https://cdn2.scratch.mit.edu/get_image/project/237354220_480x360.png,2018-07-25T11:54:15.000Z,2018-07-25T12:09:12.000Z,2018-07-25T12:08:55.000Z,2,0,0,0,0,,,,,,,
+237353646,Unstuck 18,"Remixed: andrewpilla https://scratch.mit.edu/projects/237345853/
+images: Google Search
+mp3: Stevie Wonder Happy Birthday Youtbuehb",Click the green flag and follow the instructions. ,840815,https://cdn2.scratch.mit.edu/get_image/project/237353646_480x360.png,2018-07-25T11:42:38.000Z,2018-07-25T17:04:04.000Z,2018-07-25T12:51:15.000Z,4,1,0,0,0,,,,,,,
+237300747,Getting Unstuck Day 18,"Not my most creative project.  Actually pretty literal. I have an engineering background and this took me back to beginning college classes. 
+
+The hardest part of the project was working with the costumes.  I prefer using the costume names, but that was not working here.  So I had to use the costume numbers.","Getting Unstuck Day 18 - Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed.
+
+Click on the logic gate to toggle it between AND, OR and NOT.
+Click on the inputs to change the value to ON or OFF.",14400846,https://cdn2.scratch.mit.edu/get_image/project/237300747_480x360.png,2018-07-24T23:08:34.000Z,2018-07-25T14:17:44.000Z,2018-07-25T14:14:55.000Z,4,0,0,0,0,,,,,,,
+237378352,Scratch Cat go on a trip - Getting Unstuck  copy remixCar,,"Scratch Cat needs to go on the trip.
+
+Click the green flag to start.  Use arrow keys to move around and click the items to gather things he needs for the trip.  Click the car to start the journey.
+Musicata
+
+",13575540,https://cdn2.scratch.mit.edu/get_image/project/237378352_480x360.png,2018-07-25T16:49:30.000Z,2018-07-25T16:58:57.000Z,2018-07-25T16:58:41.000Z,4,0,0,0,0,237165542,237165542,,,,,
+237386042,Unstuck - Day 18,"This is a simple design, but could really help students understand the x-y plane.  I might use this to supplement a lesson on movement.  I could add a feature where the background switches to the x-y grid.  I was pleasantly surprised on how quickly I was able to program with the ""and"" operator.  It worked quite well.",Click the green flag and guess which quadrant Scratch Cat is occupying.,2456527,https://cdn2.scratch.mit.edu/get_image/project/237386042_480x360.png,2018-07-25T18:13:04.000Z,2018-07-25T18:20:35.000Z,2018-07-25T18:20:35.000Z,1,0,0,0,0,,,,,,,
+237215762,Unstuck Day 18 project,"This project originally had a LOT more booleans in it, but then I realized I only needed to use the ""AND"" as the others were only further complicating my program. I'll have to continue exploring the OR and NOT in other projects!",Click the flag and prepare to guess the secret code. Which two cats make up the secret sequence??,17786521,https://cdn2.scratch.mit.edu/get_image/project/237215762_480x360.png,2018-07-24T03:24:09.000Z,2018-07-30T00:51:34.000Z,2018-07-24T22:14:58.000Z,1,0,0,0,0,,,,,,,
+237396937,Getting Unstuck  [Day 18],This is for Getting unstuck day 18!,"Green flag then, click and hold on Scratch Cat While pressing space.",13594403,https://cdn2.scratch.mit.edu/get_image/project/237396937_480x360.png,2018-07-25T20:36:32.000Z,2018-07-25T20:40:46.000Z,2018-07-25T20:40:46.000Z,1,0,0,0,0,,,,,,,
+237393862,DAY 18 - MISSION...POSSIBLE!,"HO APPLICATO SOLO IL BLOCCO ...O...
+PER QUESTO PROGETTO HO SEGUITO UN TUTORIAL SU YOUTUBE
+https://www.microninja.me/risorse/scratch-per-iniziare/il-labirinto/
+APPORTANDO, PERO', DELLE PICCOLE MODIFICHE (VEDI LE STELLE SCINTILLANTI)
+NON SONO RIUSCITA A FAR GIRARE LA NAVICELLA VERSO LA DIREZIONE CHE INDICAVANO LE FRECCE.
+SONO MOLTO SODDISFATTA.","PER INIZIARE BASTA CLICCARE LA BANDIERA VERDE
+CON LE FRECCE SI FA SPOSTARE LA NAVICELLA
+ATTENZIONE AI ...BUCHI NERI...",34259094,https://cdn2.scratch.mit.edu/get_image/project/237393862_480x360.png,2018-07-25T19:49:22.000Z,2018-07-25T21:45:18.000Z,2018-07-25T21:36:45.000Z,3,1,1,0,0,,,,,,,
+237383039,Getting Unstuck: Day 18,"By Filipe Mendes
+#CreativeComputer",Generate a random number and let the user choose if even or odd and the range,2980392,https://cdn2.scratch.mit.edu/get_image/project/237383039_480x360.png,2018-07-25T17:41:33.000Z,2018-07-25T22:12:25.000Z,2018-07-25T22:11:22.000Z,2,0,0,0,0,,,,,,,
+237392429,Getting Unstuck Day 18 - conditionals,"Getting Unstuck Day 18: conditionals.
+
+For this project I revisited an earlier game I made for Day 9. I figured out a way to use conditionals to randomly place the food, plus used conditionals to determine whether the player was successful or not.","Press the green flag to get started. Your objective is to gather as many food pellets as possible to take to the feeding center.
+
+Use the arrow keys to move the ant through the maze.
+
+Red pellets = kills the ant and stops all action
+Yellow/green = +1 point
+Purple/pink = -1 point",2803184,https://cdn2.scratch.mit.edu/get_image/project/237392429_480x360.png,2018-07-25T19:30:32.000Z,2018-07-25T22:19:31.000Z,2018-07-25T20:30:15.000Z,6,0,0,0,0,,,,,,,
+237407153,Getting Unstuck Day 18,"Getting Unstuck Day 18 Reflection:
+This is really simple, but I got to try a few different operators that I hadn't used before.  MsNykorchuk5's project has more riddles, which is what I'd like to figure out how to do.
+I think the and/or/not operators are helpful, but I have to think more about when to use them.  A lot of times the if/then blocks seem to work just as well, if not better.  But I am not a very advanced Scratch user - I'm sure they have their uses that I don't quite understand yet!",Click on the green flag and see if you can solve the riddle.,30095573,https://cdn2.scratch.mit.edu/get_image/project/237407153_480x360.png,2018-07-25T23:13:15.000Z,2018-07-25T23:51:39.000Z,2018-07-25T23:51:39.000Z,3,0,0,0,0,,,,,,,
+237201304,Getting Unstuck Day 18,I was playing with this on the side and realized it worked for this particular challenge!,"Challenge: Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed.
+
+Click the green flag to have the magician guess your age!",34245752,https://cdn2.scratch.mit.edu/get_image/project/237201304_480x360.png,2018-07-24T00:21:58.000Z,2018-07-26T00:15:53.000Z,2018-07-26T00:14:58.000Z,4,0,0,0,0,,,,,,,
+237375105,Getting Unstuck Day 18-2,"
+Book:  Imparare a programmare di Boscaini",Click the green flag,13275782,https://cdn2.scratch.mit.edu/get_image/project/237375105_480x360.png,2018-07-25T16:13:08.000Z,2018-07-26T14:30:17.000Z,2018-07-26T14:28:37.000Z,3,0,0,0,0,,,,,,,
+237520305,Day 18 - Memory Game remixed to reflect secondary colors remix,"Getting Unstuck Day 18 
+
+I really liked this project! I remixed it to try out different color variations. I did not work out in my favor, but I was able to change the color of the cards. 
+
+Very creative @PolyPrep and @clarimer! ","Green Flag
+Click on cards to color mix for secondary colors",10722024,https://cdn2.scratch.mit.edu/get_image/project/237520305_480x360.png,2018-07-27T01:36:12.000Z,2018-07-27T01:56:00.000Z,2018-07-27T01:53:13.000Z,8,0,0,0,0,237165225,237088607,,,,,
+237540725,GUPA (Invitation to remix)  remixCar,,"GUPA = Getting Unstuck People Animation; is an animation created with pictures of some scratchers who joined Getting Unstuck Challenge
+
+press SPACE to put in / remove from pause 
+Let's create GUPAs: remix it for creating a new GUPA animation
+",13575540,https://cdn2.scratch.mit.edu/get_image/project/237540725_480x360.png,2018-07-27T07:01:35.000Z,2018-07-27T07:07:57.000Z,2018-07-27T07:07:57.000Z,4,0,0,0,0,237080018,237080018,,,,,
+237580466,Scratch@MIT Breakout,You will definitely need to go to my tweets to find the color lock annswer (it is a little bit challenging to find).  If I had more time I would create many more locks for this.  To the staff and crew of Scratch@MIT 2018:  Thanks for a great time of learning!!,"For those of you who have done Breakout EDU's or Escape Classrooms, this will look familiar.  This Breakout is based on some of the information learned at Scratch@MIT 2018.  Help me escape my hotel room so that I can get home and take time to go through all of my notes and swag from the conference!!",2502473,https://cdn2.scratch.mit.edu/get_image/project/237580466_480x360.png,2018-07-27T18:49:43.000Z,2018-07-27T19:40:22.000Z,2018-07-27T19:36:51.000Z,2,0,0,0,0,,,,,,,
+237644476,Getting Unstuck Day 18,,Press green flag to start.  Ball will bounce.  ,34190765,https://cdn2.scratch.mit.edu/get_image/project/237644476_480x360.png,2018-07-28T19:27:17.000Z,2018-07-28T19:36:19.000Z,2018-07-28T19:36:03.000Z,4,0,0,0,0,,,,,,,
+237676511,"AND, OR, NOT remix Day 18 Getting Unstuck ","Getting Unstuck Day 18:Create a project that when multiple conditions have been satisfied, a secret is revealed. 
+
+Amphora Icon made by Freepik (www.freepik.com) from www.flaticon.com","Click on the green flag and watch what happens
+",8789156,https://cdn2.scratch.mit.edu/get_image/project/237676511_480x360.png,2018-07-29T09:46:00.000Z,2018-08-01T18:42:32.000Z,2018-07-29T13:56:20.000Z,2,0,0,0,0,35418498,14692365,,,,,
+237690786,Getting Unstuck Day 18,"Inspiration came from Day 18 of Getting Unstuck asking me to use the and block in a conditional statement. I decided to follow the example of some early 8-bit games where the player had to collect objects to get to the next level.
+I used the pacman from an earlier project and used the backpack to move it across.
+To improve this project I would add more objects to collect, perhaps using cloning to do it efficiently. I'd also like to add more levels.","Click the Green Flag to start.
+Use the arrow keys to control the pacman.
+Avoid the red lines.
+Collect the three items and make your way to the rainbow to finish the game.",287832,https://cdn2.scratch.mit.edu/get_image/project/237690786_480x360.png,2018-07-29T16:02:16.000Z,2018-07-29T16:32:46.000Z,2018-07-29T16:27:35.000Z,3,0,0,0,0,,,,,,,
+237701184,Getting Unstuck Day 18,"I struggled a bit to come up with an idea that involved 'and' 'or' and 'not'  Eventually I decided on a cat v mouse game, but I didn't get round to including 'not'
+I think I need to do a bit more work on it to make it easier to play, and I think my path to the cheese is a bit boring.","Click the green flag to start and use the arrow keys to get the mouse to the cheese without the cat catching him.
+You only have three lives!",3297086,https://cdn2.scratch.mit.edu/get_image/project/237701184_480x360.png,2018-07-29T20:15:10.000Z,2018-07-29T21:05:48.000Z,2018-07-29T21:05:24.000Z,6,1,0,0,0,,,,,,,
+237736558,UnStuck Day 18,I really confused to make a challenge project in the beginning. Until i see this project https://scratch.mit.edu/projects/237079206/ project of MrQuentin.  And i learn many things with his project and i make the simple one. @MrQuentin ,"Click ""SPIN""",34216021,https://cdn2.scratch.mit.edu/get_image/project/237736558_480x360.png,2018-07-30T05:58:50.000Z,2018-07-30T06:03:45.000Z,2018-07-30T05:59:17.000Z,5,1,0,0,0,,,,,,,
+237738387,True or False Getting Unstuck day 18,"
+Incomplete project. I can not finally tell him the total points and the comment",click on the green flag and click true or false,19738986,https://cdn2.scratch.mit.edu/get_image/project/237738387_480x360.png,2018-07-30T06:38:50.000Z,2018-07-30T09:04:10.000Z,2018-07-30T09:02:00.000Z,7,1,0,0,0,,,,,,,
+237141068,Day 18 - and or not,,"I was expecting more ifs, but it came out liike this....
+It works, but no ands and no ors...",24154277,https://cdn2.scratch.mit.edu/get_image/project/237141068_480x360.png,2018-07-23T12:18:50.000Z,2018-07-31T11:51:38.000Z,2018-07-31T11:51:38.000Z,5,1,0,0,0,,,,,,,
+237542911,l'audio,"Getting Unstuck 15
+Create
+Create a project that shows different backgrounds depending on how loud the room is. ",clicca la bandierina ,21462276,https://cdn2.scratch.mit.edu/get_image/project/237542911_480x360.png,2018-07-27T07:45:43.000Z,2018-07-31T14:06:47.000Z,2018-07-27T07:54:13.000Z,4,1,0,0,0,,,,,,,
+237866496,Il labirinto e o non,"Getting Unstuck 18
+creare",,21462276,https://cdn2.scratch.mit.edu/get_image/project/237866496_480x360.png,2018-07-31T14:42:36.000Z,2018-07-31T15:08:55.000Z,2018-07-31T15:08:23.000Z,4,1,0,0,0,,,,,,,
+237875772,#GettingUnstuck18 - Little (and not-big) adventure,All sprites taken from the Scratch repository.,"Press Green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 18
+
+""Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed""
+
+Click the green car to reset the game.",1112440,https://cdn2.scratch.mit.edu/get_image/project/237875772_480x360.png,2018-07-31T16:37:45.000Z,2018-07-31T17:23:32.000Z,2018-07-31T17:22:49.000Z,6,1,0,0,0,,,,,,,
+237937061,#Unstuck 18 And Or Not Block,I found this one really tricky to do. I was trying to use healthy food and give options but the and block didn't work so I only managed to do it with a not block. Need some more research on finding a video on how to use and. I couldn't find one.,Click on flag to start.,31492686,https://cdn2.scratch.mit.edu/get_image/project/237937061_480x360.png,2018-08-01T06:02:24.000Z,2018-08-01T07:56:42.000Z,2018-08-01T07:55:08.000Z,6,1,0,0,0,,,,,,,
+237989870,Getting Unstuck: Day 18. The secret of the world.,,"Click on the green flag.
+Answer to the questions and quite until the end to read the secret of the world!",18190669,https://cdn2.scratch.mit.edu/get_image/project/237989870_480x360.png,2018-08-01T19:42:05.000Z,2018-08-01T21:20:32.000Z,2018-08-01T21:20:32.000Z,7,2,0,0,0,,,,,,,
+238024677,Día 18,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/238024677_480x360.png,2018-08-02T03:01:55.000Z,2018-08-02T03:02:52.000Z,2018-08-02T03:02:52.000Z,5,1,0,0,0,,,,,,,
+238088263,getting unstuck day 18,hi have learn to use diferents conditions to pass sucess ,,23020553,https://cdn2.scratch.mit.edu/get_image/project/238088263_480x360.png,2018-08-02T20:13:48.000Z,2018-08-02T21:43:17.000Z,2018-08-02T21:35:03.000Z,5,1,0,0,0,,,,,,,
+238137968,Maze with time counter getting unstuck day 18,"It is an old project that I improve with NO, OR and AND operators.
+OR: detect colours of wall
+AND: sound countdown if time is <10 and >0
+NO: for bubble position. It is random and mustn't touch the wall colour when it appears. 
+It has been difficult to me design a project based on operators. This estructure dont help me to create.","Move the crab with arrows to find the exit of the maze. Now, you have a countdown. If you catch the bubble, you win 10 seconds.
+You will discover the secret if you reach the exit!",2680901,https://cdn2.scratch.mit.edu/get_image/project/238137968_480x360.png,2018-08-03T08:21:00.000Z,2018-08-03T09:16:49.000Z,2018-08-03T09:07:24.000Z,4,1,0,0,0,,,,,,,
+238272178,day-18,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/238272178_480x360.png,2018-08-05T13:09:58.000Z,2018-08-05T13:48:28.000Z,2018-08-05T13:48:27.000Z,4,1,0,0,0,,,,,,,
+238340573,Getting Unstuck - dag 18,,The party starts if you point at the cat.,25631396,https://cdn2.scratch.mit.edu/get_image/project/238340573_480x360.png,2018-08-06T10:43:36.000Z,2018-08-06T10:47:02.000Z,2018-08-06T10:46:28.000Z,2,1,0,0,0,,,,,,,
+238285544,Getting Unstuck - Day 18,"The challenge for day 18 of Getting Unstuck is: ""Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed.""
+
+I used the ""or"" block for the first clue because there are three correct possibilities.  I used the ""and"" block for the combinations of 2 and 3 correct items.
+
+Reflection/Call for help:  I have spent close to two hours trying to figure out how to only broadcast one message at a time and I cannot figure it out!  When you click and hold down on a correct item it will display the previous response.  If there is a way to make it so no extra ""say"" bubbles appear? If so can you please remix it and show me (or explain why)? Thanks!
+Oh boy... the above happens when you are looking inside... when you run it from the project page, my ""no"" message doesn't appear! HELP!","Scratch is planning a trip to a mystery location.  He only needs to bring 3 of the items shown.  Click an item to find out whether or not Scratch will put it in his car.  Once you figure out the three necessary items, Scratch will tell you where he is going!",24696341,https://cdn2.scratch.mit.edu/get_image/project/238285544_480x360.png,2018-08-05T18:57:26.000Z,2018-08-07T11:10:23.000Z,2018-08-07T10:47:42.000Z,7,1,0,0,0,,,,,,,
+238481212,Logic Gates (Getting Unstuck #18),"Getting Unstuck activity 18 - ""Using one or more of the and, or, and not Operators blocks, create a project that when multiple conditions have been satisfied, a secret is revealed. ""
+
+Fell back to some of my old electronics knowledge for this.  The ""surprise"" is the bulb appearing an switching on.","Click the flag to start.
+Click each of the inputs to toggle the value between 0 and 1 and see how it affects the output.",15872912,https://cdn2.scratch.mit.edu/get_image/project/238481212_480x360.png,2018-08-07T22:26:11.000Z,2018-08-07T23:16:08.000Z,2018-08-07T23:16:07.000Z,3,2,0,0,0,,,,,,,
+238489203,Dance with letters,"Today's prompt was to make a project using some logical operators ""and, or, not"" to reveal a secret. The prompt was too wide and all it came in my mind were logic puzzles, but I wanted to do something more artistic.
+
+The inspiration came from a video that I watched today about an installation at Artechouse, where people were immersed in a sea of letters and could interact with them by moving their bodies.
+
+I made a first version pretty quickly but then I realized that I wasn't using the logical operators and I needed a secret to reveal. I got stuck, so I went for a walk. When I came back I had the idea of using the letters to reveal a word. The project got much more complicated but I learned more about clones and I'm pretty satisfied with the final result.
+
+Enjoy!
+
+PS: I've just realized that the prompt for day 19 is about clones! Now I have to make a different one! :)","Click the green flag, make sure your webcam is on and... dance until you find the ""secret"" message!
+
+To fully enjoy this project, get far from the screen and use all of your body to move the letters around.",2286560,https://cdn2.scratch.mit.edu/get_image/project/238489203_480x360.png,2018-08-08T00:10:41.000Z,2018-08-08T04:08:29.000Z,2018-08-08T02:32:21.000Z,4,2,0,0,0,,,,,,,
+238550928,Getting Unstuck - Day 18,"I used sensory blocks to send broadcasts and help the bug navigate around the screen. I needed to create global variables for the program so that the bug could send a signal to stop all sprites, change the background, and end the game.","Find the combination that works! Use the up, down, left, and right arrow keys to navigate the bug around the page. If the bug is sitting on top of the button for a few seconds, it will change color. Find the correct combination of button colors to win the game.",25334812,https://cdn2.scratch.mit.edu/get_image/project/238550928_480x360.png,2018-08-08T15:13:58.000Z,2018-08-08T16:08:52.000Z,2018-08-08T16:06:48.000Z,2,0,0,0,0,,,,,,,
+238552505,"GettingUnstuck18 : or, not, and",,,16573108,https://cdn2.scratch.mit.edu/get_image/project/238552505_480x360.png,2018-08-08T15:34:35.000Z,2018-08-08T17:07:11.000Z,2018-08-08T16:51:15.000Z,1,0,0,0,0,,,,,,,

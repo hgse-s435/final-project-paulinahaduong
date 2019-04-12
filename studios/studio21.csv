@@ -1,0 +1,624 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+237312700,Sum of multiples of 3 and 5,"When @karenb and I first got started with these challenge designs, one of our sources of inspiration was Project Euler, which has been one of my favorite ways to learn coding (at first in Python) for a long time. What I love about Project Euler is that it encourages a variety of solutions to a single problem, and once you ""solve"" a problem, you're still encouraged to look at how others did it, as well as consider how you might refactor your code to be more elegant, or faster, or more beautiful, and I love the idea that you're never really done with any of the challenges. It's very mathematically focused, though, so perhaps not appropriate for all audiences, but there are certainly some students who might appreciate them! 
+
+This project is downloaded from @karenb - I changed the background + fixed a bug that was overcounting multiples + added sound.","Press the green flag to get started!
+
+Getting Unstuck Prompt: Find a Project Euler problem you're excited about at projecteuler.net. Solve it using a Scratch project!
+
+(Other prompts I was excited about - fixing others' bugs, focusing on modulo/other math blocks...)
+",2745846,https://cdn2.scratch.mit.edu/get_image/project/237312700_480x360.png,2018-07-25T01:26:28.000Z,2018-07-25T09:26:54.000Z,2018-07-25T09:26:54.000Z,24,7,1,0,0,,
+237299692,CatCat,"For Day 21 of Getting Unstuck, we were challenged to create our own prompt. My prompt for today is ""Make a project that provides helpful advice, making use of a block that you haven't used (much) before.""
+
+The block that I selected for today's project is the 'username' block from the Sensing category, which provides the username of the person running the project. It's a simple block, but can provide a very personal touch. 
+
+This project is dedicated to the Getting Unstuck community. It has been a joy to participate in Getting Unstuck with you for all 21 days. So many great prompts, projects, and people! 
+
+Illustrations: 
+- Getting Unstuck Strategies by Paulina, https://gettingunstuck.gse.harvard.edu/strategies.html
+- pixabay.com
+
+Music: Pyotr Ilyich Tchaikovsky, ""Nutcracker Suite: Arabian Dance"" (London Festival Orchestra)",Press the green flag to receive your complimentary reading.,56239,https://cdn2.scratch.mit.edu/get_image/project/237299692_480x360.png,2018-07-24T22:53:02.000Z,2018-07-27T16:00:56.000Z,2018-07-25T10:10:55.000Z,51,15,5,0,0,,
+237313696,"Ideas, Meet Layers","""Scratch, Meet Ideas. Ideas, Meet Scratch""
+Create: 
+Either: Start with an idea you're not quite sure how to bring to life in Scratch. Try it, see where it goes! 
+OR 
+Start with a feature/block/functionality that you haven't used in Scratch. Try it, see where it goes!
+(OR, try both!)
+
+Reflect:
+Why did you choose the starting point that you did? Where did you imagine you might end up? Where did your process go?
+
+I decided to go with the latter, seeking to play with layers. What can manipulating layers bring to a project? Here I start to think about that with a selection of simple sprites. How will the image shift as layering shifts?
+
+What was I thinking about in designing this challenge?
+I've been thinking about the differences between starting the creative process when driven by an idea or concept and when driven by an exploration of a new feature/block/function. What does process look like in each of those? What's exciting about each? What does exploring new feature/block/functionality do for our ideas? And what do our ideas do for discovering features/blocks/functionality? 
+
+A way to start exploring those differences seemed to be noticing which is driving a project, and then noticing process along the way.
+
+(For example, my exploration on Day 10 foregrounded functionality:
+https://scratch.mit.edu/projects/236354120 and on Day 18 foregrounded an idea I envisioned: https://scratch.mit.edu/projects/237060823)","Press the green flag, then use these keys to create with layers!
+
+                   Make Clones:          Bring to Front:      Send Back:
+purple               right                          d                           s
+violet               space                          v                           b
+yellow              down                          y                           u
+pink                    left                           p                           o
+(can you find a surprise in the keys?)",25705937,https://cdn2.scratch.mit.edu/get_image/project/237313696_480x360.png,2018-07-25T01:38:54.000Z,2018-07-25T11:26:16.000Z,2018-07-25T10:44:17.000Z,32,8,2,0,0,,
+237310116,1s1s splat (1s1s tetris V0.7 remix),"My Day 21 Getting Unstuck prompt...
+1s1s: Create a 1s1s project (i.e., a project with only 1 sprite and 1 script).
+
+I was randomly scouring the Scratch Forums and came across a discussion about the ""1s1s"" phenomenon. Here's the discussion thread in question: https://scratch.mit.edu/discuss/topic/12378/ and here are examples of 1s1s projects: https://scratch.mit.edu/search/projects?q=1s1s
+
+As one poster noted, ""Yeah, 1s1s or any of its variations are usually challenges that Scratchers set themselves when making a project to make it more impressive."" I don't know about the ""more impressive"" claim, but there's something interesting about playing with constraints, which is certainly a theme of Getting Unstuck. I've never made (at least not intentionally!) a 1s1s project, so the novelty factor was definitely high!
+
+To be honest, I wasn't at all sure where to begin. I knew I wanted to do a 1s1s, but wasn't sure what types of programs might be best suited to the genre. I love Tetris (so much) so, on a whim, I search for 1s1s Tetris, which led to two results. One of the two results had a version number of 0.7, so I saw an opportunity to extend someone else's neat work, while learning a lot in the process.
+
+In practice, this was kind of a total disaster. (It feels pretty good to end my Getting Unstuck experience with a spectacular failure.) I ended up so confused and frustrated that I turned it into a ""splat"" situation—when blocks land they lose their shape. (But, appropriately, that doesn't even work totally correctly.)","My Day 21 Getting Unstuck prompt...
+1s1s: Create a 1s1s project (i.e., project w/only 1 sprite and 1 script).
+
+Green flag: Start.
+Space key: Rotate block.
+Left/Right arrow keys: Move block horizontally.
+Down arrow key: Move block vertically (slowly).",39526,https://cdn2.scratch.mit.edu/get_image/project/237310116_480x360.png,2018-07-25T00:54:04.000Z,2018-07-25T10:54:23.000Z,2018-07-25T10:45:44.000Z,25,7,0,0,0,1338834,1338834
+237349574,1s1s Maze,"OK, as I shared in 1s1s splat (https://scratch.mit.edu/projects/237310116/), I had a big vision for my CYOGUP (Choose Your Own Getting Unstuck Prompt), but it was a flaming disaster. I didn't really understand the 1s1s mechanism and I remixed a project that I found confusing.
+
+BUT I woke up this morning with some idea of how 1s1s works! (It's basically one big control loop that does everything. Revelation!) So, I decided to take one of my very classic projects (which is in the Creative Computing Curriculum Guide, it was one of the first game projects I tried to help people learn) and make it 1s1s! This project is that attempt!!!
+
+Compare the code from the original (from 2009!): https://scratch.mit.edu/projects/612964/#editor
+with this project's code!
+
+Now I don't think I'm ready for a 1s1s situation that is as complicated or as gorgeous as this Super Mario Brothers 1s1s (https://scratch.mit.edu/projects/2176968/#editor), but I feel like I've made a bit of conceptual progress!!! EVERYTHING IS ITERATIVE!!! YAYYYYY!
+","Press green flag to initialize, then use the arrow key to navigate through the maze.
+
+A second attempt at my Day 21 Getting Unstuck prompt...
+1s1s: Create a 1s1s project (i.e., project w/only 1 sprite and 1 script).",39526,https://cdn2.scratch.mit.edu/get_image/project/237349574_480x360.png,2018-07-25T10:20:39.000Z,2018-07-25T11:00:47.000Z,2018-07-25T10:45:49.000Z,31,10,1,0,0,,
+237352303,Unstuck Day 21,"I just loved these getting Unstuck projects.  My biggest frustration was trying to figure out if my errors were from glitches or from bugs in my program.  This game works fine most times, but every once and awhile it does not.  Is this something I am doing wrong or just my horrible internet speed?","I wanted to take a go at creating my own block and defining it, so for Day 21 I made a simple game and created a ""jump"" block.  Simply press the green flag and then use the up arrow to jump over the car.",24826697,https://cdn2.scratch.mit.edu/get_image/project/237352303_480x360.png,2018-07-25T11:15:45.000Z,2018-07-25T11:38:34.000Z,2018-07-25T11:38:34.000Z,13,4,0,0,0,,
+237350977,Unstuck Day 21: Use Broadcast and Wait,"For the Getting Unstuck challenge Day 21 I set a challenge to use the Broadcast and Wait block because my students often accidentally use it instead of plain Broadcast and I never understood what it does. What is it waiting for? So I set out to understand it so I can recommend to students when it's a useful block.
+Turns out to be simple, and very useful! It just waits for the action that is triggered by its broadcast message to finish before it goes on to the next block. If several sprites are responding to its broadcast with different durations it will wait until the last one is done. Here the different partyers are saying thank you for different amounts of time.
+Audio source: http://www.daveross.com/audio/wah_wah_SFX.mp3",Click green flag for a special message!,214174,https://cdn2.scratch.mit.edu/get_image/project/237350977_480x360.png,2018-07-25T10:48:08.000Z,2018-07-25T11:54:36.000Z,2018-07-25T11:00:51.000Z,15,3,1,0,0,,
+237352877,Getting Unstuck: Day 21,Andrés Gil Ruiz.,"My own Getting Unstuck: 
+
+Create a project using ""More Blocks"".
+
+Very useful for big projects...
+
+In this example, you can make walk the girl with arrow keys (even up and down).",27636310,https://cdn2.scratch.mit.edu/get_image/project/237352877_480x360.png,2018-07-25T11:27:12.000Z,2018-07-25T11:59:25.000Z,2018-07-25T11:56:44.000Z,11,1,0,0,0,,
+222942081,Getting Unstuck Day 21,"I wanted to use the video button, but instead of the user manipulating sprites through video, the video transparency creates an effect.
+
+Ocean sounds: http://soundbible.com/1935-Ocean-Waves.html License: Attribution 3.0 Recorded by Mike Koenig ","Click the green flag and allow mic & camera if you haven't yet.
+
+Prompt: explore the video sensing blocks.",14632339,https://cdn2.scratch.mit.edu/get_image/project/222942081_480x360.png,2018-05-14T19:51:45.000Z,2018-07-25T12:09:18.000Z,2018-07-25T12:08:16.000Z,10,2,0,0,0,,
+237355053,#021 Getting Unstuck Maze Create your own-2,,"Project 21 - Create you own
+
+Create a maze that has the sprite get to a prize.",20126730,https://cdn2.scratch.mit.edu/get_image/project/237355053_480x360.png,2018-07-25T12:10:49.000Z,2018-07-25T12:16:33.000Z,2018-07-25T12:11:07.000Z,9,5,0,0,0,,
+237354338,Getting Unstuck # 21 - Firefox,"My prompt - create a project from things in your backpack. They can be from your own previous projects, or from other people's.  Combine elements from other projects into something new and interesting.
+
+Today I've combined my two favourite projects from the last week; fireworks, and Harquin the fox, to create Firefox, satisfying my own prompt and my love of a good pun.
+
+Originally, the little foxes disappeared, but I was told it looked like I was blowing up foxes, which wasn't my intention, so I've changed it so that they run off to play with each other.",Just click the green flag.,141519,https://cdn2.scratch.mit.edu/get_image/project/237354338_480x360.png,2018-07-25T11:56:51.000Z,2018-07-25T22:14:37.000Z,2018-07-25T12:14:51.000Z,13,9,2,0,0,,
+237080018,GUPA (Invitation to remix) ,"Not all partecipants are present: I'm sorry for that (too much work) but Please, no one feels excluded, I have selected randomly partecipants from last galleries. Consider to remix to add your picture
+NOTE: Partecipants who do not have a personal picture or having an animated GIF are not included
+Getting Unstuck: Day 21","GUPA = Getting Unstuck People Animation; is an animation created with pictures of some scratchers who joined Getting Unstuck Challenge
+
+press SPACE to put in / remove from pause 
+Let's create GUPAs: remix it for creating a new GUPA animation
+",2143382,https://cdn2.scratch.mit.edu/get_image/project/237080018_480x360.png,2018-07-22T17:08:13.000Z,2018-07-25T12:49:17.000Z,2018-07-25T10:58:15.000Z,37,19,7,0,0,,
+237355311,Getting Unstuck Day 21,,,4610900,https://cdn2.scratch.mit.edu/get_image/project/237355311_480x360.png,2018-07-25T12:15:05.000Z,2018-07-25T12:25:00.000Z,2018-07-25T12:25:00.000Z,16,4,0,0,0,,
+237353963,Splat!,"Getting Unstuck Day 21 Prompt: Create a project using the camera control feature (video blocks) - Turn Video On, Turn Video Off, Wait Until Video Motion.
+
+I used the Window Cleaner project in the book Coding Projects in Scratch: A step-by-step visual guide to coding your own animations, games, simulations, and more! by Jon Woodcock @RoboSquid to get me started on my project.
+
+I'd never used the Turn Video on/off blocks before, so I wanted to give it a try.","Clean up the splats with motion detection (wave your hand over the splats).
+
+Get 60 splats within 60 seconds to win. You can change the difficulty with the slider.
+
+Click Allow to enable use of your webcam.",1196430,https://cdn2.scratch.mit.edu/get_image/project/237353963_480x360.png,2018-07-25T11:48:36.000Z,2018-07-25T16:48:41.000Z,2018-07-25T12:32:40.000Z,12,4,1,0,0,,
+237357380,Getting Unstuck: Day 21,"Borrowed most of it from here: https://scratch.mit.edu/projects/19267371/#editor I think I'd prefer to use maths rather than this simple move, rotate trick next time though. Perhaps something like this: https://scratch.mit.edu/projects/237051194/","Drawing a circle is something everyone can do, we do it as children to show the Sun for instance. Even though sometimes those child drawn circles aren't perfectly round we all sort of know what the big ball is in the sky.
+
+Use the Pen tool to create a sun; you can even colour it in if you want. (Remember, if you get stuck, find inspiration and support in the Teaching with Scratch Facebook group, our list of Getting Unstuck strategies, or on Twitter at #CreativeComputing.)",24912473,https://cdn2.scratch.mit.edu/get_image/project/237357380_480x360.png,2018-07-25T12:50:14.000Z,2018-07-25T12:56:14.000Z,2018-07-25T12:54:29.000Z,12,3,0,0,0,,
+237037462,Unstuck Day 21 - Multiplication Machine,"My prompt is ""Create a project that you can share with elementary students.""
+
+ My experience is that kids always want to make games in Scratch. I thought if I could make something fun with math, perhaps the students would be tempted to make something other than a game.",Press the flag to start. Give the young man some numbers to multiply for you. The numbers can be whole or decimals.,10715270,https://cdn2.scratch.mit.edu/get_image/project/237037462_480x360.png,2018-07-21T22:34:52.000Z,2018-07-25T12:50:07.000Z,2018-07-21T23:16:01.000Z,10,3,0,0,0,,
+237357887,21 Days Archive,"Just wanted to access the prompts & quotes from each day in one location. 
+Please help...the day one link is not currently in the archive. I need that information to add to my lists. Thanks!
+Thank you to KPSRm27 for the quote. Now, I just need the prompt from Day 1. Again, thanks to KPSRm27. I'm all set now.
+
+Now...on to the prompt for today!",Press the space bar. Then enter the day number (1-21) to see the prompt and quote from the Getting Unstuck team.,24741621,https://cdn2.scratch.mit.edu/get_image/project/237357887_480x360.png,2018-07-25T12:57:18.000Z,2018-07-29T00:39:24.000Z,2018-07-25T13:31:46.000Z,15,5,1,0,0,,
+12392319,Car Ignition System,"Animated car ignition system.
+Image: Allumage_batterie.svg, author: Frédéric MICHEL from commons.wikimedia.org","Getting Unstuck, Day 21
+Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+------------------------------------------------------------------------------
+Create a project in which the sprites will interact with each other through sending and receiving messages.
+(Remember, if you get stuck, find inspiration and support in the Teaching with Scratch Facebook group, our list of Getting Unstuck strategies, or on Twitter at #CreativeComputing.)
+------------------------------------------------------------------------------",139209,https://cdn2.scratch.mit.edu/get_image/project/12392319_480x360.png,2013-09-14T16:05:08.000Z,2018-07-25T13:47:37.000Z,2013-09-14T16:05:08.000Z,590,18,8,0,0,,
+237356777,Planets,"OK my challenge is to use the sensor of distance, x, y or direction of another sprite or mouse pointer. Today I did another project with the same theme (check ""compasses"") which is beautiful but not very interesting. So I used a routine for elaborating gravity I wrote in my projects ""orbiter"" and ""planet seeder"", and I simplified putting the mouse pointer as an attractor.
+
+The distance between the clones and the pointer is important because gravity force is proportional with it.
+
+Fun fact: if the pointer touch a planet, this will be thrown away. This seems to be a bug, but it's a rough emulation of the gravitational slingshot, exploiting the gravitational pull of a planet but eventually missing it (in my demo, there is no collision) so is possible to increase speed without using rockets.",Planets wanders into space. Your mouse pointer has some gravity. Try to get them into an orbit!,12148328,https://cdn2.scratch.mit.edu/get_image/project/237356777_480x360.png,2018-07-25T12:40:31.000Z,2018-07-25T13:54:55.000Z,2018-07-25T13:44:50.000Z,13,7,1,0,0,,
+237234241,Haring with us,"Little tribute to Haring, I love his murales in Italy. I thought of a simple interaction to reorder a work, I would play on the discrimination of English words to offer this game to Italian children.
+I worked on the graphics  with a bit of patience.
+Some stages are available to continue the animation, but you need to retouch the sprites.","Playing with a simple interaction ""When this sprite clicked"" like children very much, there is always a surprise waiting for them. 
+
+Click on the green flag and following instructions.",11312120,https://cdn2.scratch.mit.edu/get_image/project/237234241_480x360.png,2018-07-24T08:10:37.000Z,2018-07-31T06:46:19.000Z,2018-07-25T13:56:28.000Z,31,11,1,0,0,,
+236971290,Giotto's fame,"Once again I use an idea born at school to work with some blocks, today Pen and Create block, but sometimes it doesn't work...","I like stories, I think that by narrating you can also simply introduce the functions of the various blocks of Scratch: today this is my prompt.
+Green flag  ",11312120,https://cdn2.scratch.mit.edu/get_image/project/236971290_480x360.png,2018-07-20T20:52:04.000Z,2018-07-26T05:57:47.000Z,2018-07-25T13:00:15.000Z,12,4,1,0,0,,
+237363542,3D Car (Getting Unstuck Day 21),"I chose this challenge because making 3D projects in Scratch is more easy then most people think. You can easily stamp different layers of a figure and this can give very cool 3D effects. If you have any questions about this project, please let me know.
+
+If you would like to see more 3D projects using the stamp block, please check out this studio: https://scratch.mit.edu/studios/1969224/
+
+The 3D figures in the following project 
+are made by my students (age 9 - 11): https://scratch.mit.edu/projects/136182317/","Click the green flag and move your mouse around the car.
+
+My prompt for Day 21 of Getting Unstuck: 
+
+Make a 3D project in Scratch, for example by using the stamp block or clones.",11833500,https://cdn2.scratch.mit.edu/get_image/project/237363542_480x360.png,2018-07-25T14:03:12.000Z,2018-07-25T14:31:59.000Z,2018-07-25T14:20:33.000Z,20,11,7,0,0,,
+237361522,PRESENTE INDICATIVO ...,"Progetto creato per GettingUnstuck, giorno 21","Cliccare sulla bandierina verde, poi rispondere alle domande della scimmietta...",14651357,https://cdn2.scratch.mit.edu/get_image/project/237361522_480x360.png,2018-07-25T13:38:48.000Z,2018-07-25T14:28:59.000Z,2018-07-25T14:28:59.000Z,13,2,0,0,0,,
+237366841,day21,,"Getting untuck instruction: create a program using clones
+
+Starry night: Click on the green flag to start",34225248,https://cdn2.scratch.mit.edu/get_image/project/237366841_480x360.png,2018-07-25T14:36:13.000Z,2018-07-25T14:48:14.000Z,2018-07-25T14:47:08.000Z,8,2,0,0,0,,
+237361487,UnStuck Day 21,"Still working out all the kinks but I'm off to do some more Boston sight seeing.  
+I can't seem to get the timer to work and saved my second variable to get me out of any tough spots ...","2 By 2
+Unstuck Project Prompt
+Create a project by using 2 of each of the Block Categories (not sure if 3.0 will still have categories?)
+The exception to the 2 By2 rule can ONLY be applied to the Make Block blocks where you can use any number and any combination of blocks to make your new block.
+Show it to a friend and see if they can guess what blocks you used.",14232182,https://cdn2.scratch.mit.edu/get_image/project/237361487_480x360.png,2018-07-25T13:38:22.000Z,2018-07-25T14:51:48.000Z,2018-07-25T14:51:48.000Z,9,1,0,0,0,,
+237364095,Stella scarabocchiata,"Grazie a @leszpio per Jaggy Star. Il suo lavoro mi è piaciuto e ho provato a replicarlo ""a memoria"", in base a quel che avevo visto. Mi ha divertito provare a utilizzare blocchi matematici diversi, fino a trovare quelli che rendevano più gradevole l'effetto grafico ","My prompt: ispirati a un progetto che ti è piaciuto o remixalo, usa i tuoi blocchi preferiti e divertiti!",17698999,https://cdn2.scratch.mit.edu/get_image/project/237364095_480x360.png,2018-07-25T14:08:13.000Z,2018-07-25T15:08:59.000Z,2018-07-25T14:52:31.000Z,15,4,0,0,0,,
+236866628,PicoBoard Lab,"My self-authored Getting Unstuck Unstuck Day 21 Provocation:
+
+What academic subject(s) or domain(s) are/were confusing or difficult for you in school? Make a Scratch project to explore that/those topic(s). Afterwards, reflect on what you knew, and what you now know and do not know. Did your exploration through Scratch change your understanding of what you think you know?
+
+//
+
+I chose to make this particular project for two reasons: as a teacher I find the PicoBoard to be a powerful tool used in conjunction with MakeyMakey. MakeyMakey is more reliably supported across different platforms, but relies on binary variables and boolean expressions. PicoBoard introduces, in a physical computing context, non-binary variables as well. I like to focus on that distinction.
+
+I also chose to build this reusable ""laboratory"" for PicoBoards, which can be easily used (via ports C and D) for comparing the conductivity of different household substances, and which therefore bridges a gap from electronics to chemistry.  As a high school student I was very disenfranchised by math and science classes, and dropped out of STEM entirely in 10th grade. So, this project is my working through areas of ignorance and confusion.
+
+I used a PicoBoard with students last week to measure the conductivity of liquids found in our school fridge. Mustard was the most conductive substance - more conductive than water! That sent us toward a chemist for some explanations. The school's scientist was out, so I texted my wife (an erstwhile scientist), who explained that mustard has a lot of vinegar in it, and vinegar has lots of free hydrogen ions.  I (believe that I) know that vinegar is frequently used, because of its chemical stability, in homemade batteries.  As part of our semi-systematic investigation, this was exciting because it led our computing class to chemistry and then to physics. We started with a device I think I know well, the PicoBoard, but ended in wonderful domains that are beyond my understanding.
+
+""Cherish your doubt for doubt is the handmaiden of truth"" -Talmud","Connect a PicoBoard to Scratch and install any needed browser extension. Connect port A to a rotary potentiometer (which will be calibrated 0-50, unlike other sensors which are 0-100), port B to a force resistant sensor. Leads from ports C and D can be connected to fruits/vegetables or set into liquids (make sure the leads are not touching) to measure the conductivity/resistance of the substances and liquids.",33815227,https://cdn2.scratch.mit.edu/get_image/project/236866628_480x360.png,2018-07-19T16:57:19.000Z,2018-07-25T17:35:20.000Z,2018-07-25T14:31:10.000Z,7,4,0,0,0,,
+200166231,naves espaciales,,,27268085,https://cdn2.scratch.mit.edu/get_image/project/200166231_480x360.png,2018-01-26T05:11:13.000Z,2018-02-16T04:21:07.000Z,2018-02-11T01:12:10.000Z,11,1,0,0,0,,
+237359039,Getting Unstuck 21,"When I started teaching computer science a couple of years ago I drew off this Beauty and Joy of Computing lesson (which uses Snap, and offshoot of Scratch): https://bjc.edc.org/Jan2017/bjc-r/cur/teaching-guide/U2/lab-pages/4-abstraction.html?topic=nyc_bjc%2F2-teaching-guide.topic&course=bjc4nyc_teacher.html&novideo&noassignment. 
+
+The assignment asks students to write a program that draws a brick wall, making blocks to draw bricks and rows of bricks.
+I modified it to use Scratch instead and used it as a way to introduce the concept of abstraction through the Make a Block tools. 
+
+My prompt for today keeps the original intent of focusing on abstraction but makes it more open by having you create whatever you want by making blocks. 
+
+For my project itself, I wanted to do something that wasn't drawing, so I made a catch-the-thing-while-avoiding-the-other-thing-type game. Creating it with modular blocks was harder than I thought - it was hard to decide which functions of the game needed their own block, and which blocks should control what. I'm also not sure it streamlined my code as much as I thought it would.
+
+
+
+I've had so much fun these three weeks - thank you @paulinah, @alirb, and @karenb!
+
+Turtle image from pngimg","My prompt: Design a project that is modular, using the Make a Block tools. Maybe it could draw a picture, or compute something. How does making your own blocks streamline your program?",18044195,https://cdn2.scratch.mit.edu/get_image/project/237359039_480x360.png,2018-07-25T13:12:28.000Z,2018-07-25T15:26:17.000Z,2018-07-25T15:15:12.000Z,11,4,0,0,0,,
+237361272,Challenge 21 - Trip to Conference,"What a great 21 days this was. I thought I'd throw together a quick tour of Boston as people are getting ready for the Scratch Conference. 
+
+You'll cross see the Freedom Trail, Bunker Hill, Fenway Park, Faneuil Hall and the MIT Media Lab. Planes from Logan and the tall ships also make appearances as does a pesky run away crab. Don't fall into the Boston Harbor
+
+Thank you again to the Getting Unstuck Team. This has been a blast. Enjoy your virtual trip through Boston and enjoy the conference. 
+
+It has been a pleasure meeting, collaborating and sharing ideas with you all. I look forward ""what's next"". 
+
+Music from bensound.com
+crab warning from me :)
+","(just fixed a glitch that didn't appear on my Chromebook but did on my Windows pc at work. Should be smoother now)
+
+arrow keys left / right/ up
+Get to the MIT Media Lab to enjoy the Scratch Conference
+
+My prompt was to create a scrolling game that had items placed in the world. This project features 3 layers of parallax scrolling, the foreground, locations and the background. The plane and ship have their own movement based on the location of the world. ",3158946,https://cdn2.scratch.mit.edu/get_image/project/237361272_480x360.png,2018-07-25T13:35:33.000Z,2018-07-25T22:58:34.000Z,2018-07-25T15:13:31.000Z,80,18,12,0,0,,
+237372210,Unstuck #21,"Challenge: Use ""More Blocks"" to define a new block that can be reused with the code.
+
+This is a remix of the project I did for #6, but this time I defined a block that would draw the design called ""fuzzball"".",Click on the wizard to begin. A design is drawn in random colors and sizes and also in random locations around the screen. The background color changes randomly as well. ,124311,https://cdn2.scratch.mit.edu/get_image/project/237372210_480x360.png,2018-07-25T15:37:01.000Z,2018-07-25T15:42:48.000Z,2018-07-25T15:42:48.000Z,7,4,0,0,0,,
+237365449,Day 21: Roller Coaster Ride,"Being part of this Getting Unstuck challenge has been a very fun adventure!  Thank you, Scratch team and community of ""Scratchers"" for your generous sharing and support!  Look forward to learning more about Scratch in the future.  
+When I was considering ideas for completing the Day 15 project relating to the use of sound (change background depending on volume), I came up with the idea of a roller coaster.  I wanted quieter sounds for images in distance and louder sounds for close-ups.  Started drawing background and roller coaster animation and realized that my priority was making the animation, and that adding in a sound element would have to wait for another time if I was going to finish my challenge that day.
+What I like most about my prompt is that it combines two types of online challenges I have enjoyed this year . . . learning how to draw on my tablet through sketch-noting,  and learning how to code with Scratch during Getting Unstuck.
+
+Drew carts and backdrop on tablet, and uploaded.
+Made ""costumes"" to put different sprites in carts. 
+Coded path of sprites.
+Checked layers - made sure distant path was back one layer, and close up moved to front.
+Made clouds look wispy and float across the sky.
+""Carefree"" mp3 file from https://incompetech.com/music/royalty-free/music.html
+","Day 21: Create an animation which includes modified sprites made by combining digital drawings and costumes from the library.  
+Press the green flag to begin. Enjoy your summer!",18337230,https://cdn2.scratch.mit.edu/get_image/project/237365449_480x360.png,2018-07-25T14:23:02.000Z,2018-07-25T16:04:56.000Z,2018-07-25T15:42:58.000Z,19,8,3,0,0,,
+237369442,hangman-ish,"Challenge to self -  to use more lists, variables and blocks and especially the length operator and to try the backpack to bring across a block from another project. 
+
+
+NB  The backpack is so handy!",This is a quasi hangman game but only manages words of 3 letters and it can't do double vowels or consonants yet.,33472226,https://cdn2.scratch.mit.edu/get_image/project/237369442_480x360.png,2018-07-25T15:05:48.000Z,2018-07-26T09:45:24.000Z,2018-07-26T09:45:24.000Z,3,2,0,0,0,,
+237361800,Day 21 ,"This final day,Gutting unstuck,after 21 days of funand learn,I thanks every body shared in it,about me that is the begening .
+Today i doing simple project like usual :),but it,s big for me.
+and i will do another broject another day,untel be professional like every one here:))
+BIG LOVE AND THANKS EVERY SCRATCHER<3
+",press green flag,34188789,https://cdn2.scratch.mit.edu/get_image/project/237361800_480x360.png,2018-07-25T13:42:12.000Z,2018-07-25T19:15:44.000Z,2018-07-25T16:16:08.000Z,13,7,0,0,0,,
+237370470,"Make a ""Thank You"" card","It took me a long time to figure out what to do.
+
+My prompt is to create a ""Thank You"" card. 
+It was tough but I had such a great time. Thank you.
+","Click green flag to start.
+
+Getting Unstuck #Day21
+",158902,https://cdn2.scratch.mit.edu/get_image/project/237370470_480x360.png,2018-07-25T15:17:25.000Z,2018-07-25T16:44:13.000Z,2018-07-25T16:41:56.000Z,15,9,0,0,0,,
+237373893,Getting Unstuck: Day 21 — Blocks,"Reflection
+
+I decided to base my project around the custom define blocks for a few reason:
+
+1) The green flag script is easier to read as it's kept short.
+2) Define blocks help organize the code in logical units. Descriptive names for define blocks help. 
+3) There's an optional feature called ""Run without screen refresh"" in define blocks that allows blocks, exto run faster.","Game instructions:
+Welcome to the lottery game! Choose 3 numbers between 1 and 10.
+
+My Getting Unstuck Prompt:
+Did you know we you can create your own blocks for your Scratch projects? Go to ""More Blocks"" in the scripts tab and make one or more block to use in your project. Experiment with creating number, string, or boolean inputs. What do you think the ""Run with screen refresh"" does?
+
+
+",26264460,https://cdn2.scratch.mit.edu/get_image/project/237373893_480x360.png,2018-07-25T15:57:55.000Z,2018-07-25T17:20:46.000Z,2018-07-25T17:17:16.000Z,7,3,0,0,0,,
+237381094,Who was POTUS when you were born?_GU_Day21,"What makes you curious? Is it a concept or theme that you have been thinking about? Is it how to use a component of Scratch? Is it where your fellow 21-Days ""GettingUnstuckers"" live? (I'm curious about all of the above.) 
+PROMPT: Create a project in which you explore something about which you are curious.
+Sporadically, I kept track of interactions with Scratchers from other countries. My list includes: Singapore, Taiwan, Sudan, Israel, Brazil, Australia, New Zealand, Slovenia, Ukraine, Greece, Italy, Spain, Portugal, France, Luxembourg, Netherlands, Sweden, Finland, UK, Ireland & Canada. That's 6 continents!
+I am curious about the ages of my fellow 21-Days participants. I want to see if I can gather information from users. I am reading about the cloud variable.   https://en.scratch-wiki.info/wiki/Cloud_Data  
+Hmm... I did not have a list at first. But in thinking about how to avoid a gigantic if-or-or-or...block, I realized that I could put all of the conditions into a list and then use the ""list contains ___"" with my if-else statement. 
+Hmm...I am struggling with figuring out how to convert a string answer to a number b/c cloud variables can only use numbers. Changed my approach.
+Hmm...I just discovered that there is a limit of ten cloud variables in a project. I will have to make some changes b/c currently I need 15. I will use only 10 presidents.","Fingers crossed that this will keep track of everyone's responses!
+Click on the green flag and respond.
+
+POTUS is an acronym which means: President Of The United States
+",24741621,https://cdn2.scratch.mit.edu/get_image/project/237381094_480x360.png,2018-07-25T17:19:33.000Z,2018-07-26T00:39:43.000Z,2018-07-25T17:55:52.000Z,13,6,0,0,0,,
+237383934,Getting Unstuck day 21,"This is an example project I share with students. The prompt is to ""create a project that animates or illustrates a standard"". This project is an animated quiz question from the Texas 5th grade science standards. I have used this type of prompt with standards from all subject areas though. ",Click the green flag,17767933,https://cdn2.scratch.mit.edu/get_image/project/237383934_480x360.png,2018-07-25T17:51:39.000Z,2018-07-25T17:59:06.000Z,2018-07-25T17:59:06.000Z,12,7,2,0,0,,
+237376950,21 giorno,,premi sulla bandierina,28304428,https://cdn2.scratch.mit.edu/get_image/project/237376950_480x360.png,2018-07-25T16:33:59.000Z,2018-07-25T17:59:05.000Z,2018-07-25T17:58:33.000Z,8,1,0,0,0,,
+237381119,day 21 - prompt Use clones to make weather effects,"I used this project to go back and explore more about clones. I still wonder about how to articulate your learning and make sure you are learning enough each time. One problem I have with my students is that if an administrator asks them if what they did was hard. They often say not really. What I just made was not hard. BUT I worked on it for over an hour, read the help blocks about clones, used the wiki, used the paint editor in ways that I had never done before, used clones and adjusted my scripts to get the affects I wanted with the clones... but I would still answer it wasn't really hard. Hummm but then the person says that I am obviously not challenging my students enough... Now what???",Click on the green flag and follow the story line to experiment with clones.,124064,https://cdn2.scratch.mit.edu/get_image/project/237381119_480x360.png,2018-07-25T17:19:53.000Z,2018-07-25T18:05:08.000Z,2018-07-25T18:01:53.000Z,9,4,0,0,0,,
+237385253,Day 21,"This is the introductory Scratch lesson I assign my classes. I never demonstrate more than how to add the first letter, so I am happy to have finally made one! This is based off the ""Animate Your Name"" lesson in the built in tips.
+Images:
+https://commons.wikimedia.org/wiki/File:Mrs._Salzman_Stevens_as_%22Brunhilde%22_LCCN2014683525.tif
+https://commons.wikimedia.org/wiki/Trichechus#/media/File:Hpim0279.jpg
+https://commons.wikimedia.org/wiki/File:Stack_of_Books.jpg",Click the Green Flag and follow the prompts!,18341966,https://cdn2.scratch.mit.edu/get_image/project/237385253_480x360.png,2018-07-25T18:05:57.000Z,2018-07-25T18:16:17.000Z,2018-07-25T18:16:17.000Z,7,2,0,0,0,,
+237388010,Unstuck - Day 21,"I liked being able to create my own Unstuck Challenge.  I thought I would approach this project as a culminating activity.  I can already think of the rubric that I would create to have my students give one another feedback.  What I liked most about my prompt is that it is very open ended - all the students have to do is make an interactive greeting card.  It is a great way for them to demonstrate the skills that they have learned.  I should be able to look at the projects they create and quickly see what skills they have mastered and what skills they can still improve upon  This will give me an idea of how to approach upcoming projects and assignments.
+
+
+""Jingle Bells"" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+http://longwallpapers.com/Desktop-Wallpaper/christmas-tree-wallpapers-mobile-For-Desktop-Wallpaper.jpg
+https://media.giphy.com/media/d3JtMlxXk3PW9og8/giphy.gif
+https://media.giphy.com/media/l41lPNKBBIvaE8Anu/giphy.gif
+https://media.giphy.com/media/3oEduS1mHoEMbfVGaA/giphy.gif
+https://media.giphy.com/media/l41m6kKN7XuQSYbQY/giphy.gif
+https://media.giphy.com/media/3oEdv5tKfKoE889mTu/giphy.gif
+","For your final Unstuck Challenge, create a greeting card. Your greeting card can be a thank you card, a holiday card, a birthday card, or just a ""thinking of you"" card. Make it interactive - not just a card to view.  The recipient of your card can make decisions, click around, or interact in some way with the project.  Use as many of the skills you have practiced in previous Unstuck exercises or projects.",2456527,https://cdn2.scratch.mit.edu/get_image/project/237388010_480x360.png,2018-07-25T18:33:28.000Z,2018-07-25T19:18:45.000Z,2018-07-25T18:38:49.000Z,8,2,0,0,0,,
+236040430,Debug - Pendulum XY: Getting Unstuck Day 21,,"Prompt: Add a mechanism to help debug the script.
+
+Click the green flag to start.
+
+See inside: 
+You can stop the loop to check the value of variables by setting the parameter of the ""break point"" block to 1
+
+",17257831,https://cdn2.scratch.mit.edu/get_image/project/236040430_480x360.png,2018-07-10T18:17:00.000Z,2018-07-25T19:20:35.000Z,2018-07-25T19:15:26.000Z,9,5,0,0,0,,
+237394852,ElementSymbolGame,"On Day 21, I decided I would focus on movement. This project  has brought together a lot of the techniques I learned during these 21 days, including clones, lists and timers. ","This is an element/symbol game. As the elements fall from the sky, shoot the ones that have the incorrect symbol/element pair. ",2190314,https://cdn2.scratch.mit.edu/get_image/project/237394852_480x360.png,2018-07-25T20:04:22.000Z,2018-07-25T20:12:25.000Z,2018-07-25T20:12:25.000Z,9,2,0,0,0,,
+237395547,Getting Unstuck Day 21,,Animate text and hide in the code a easter egg :],14159575,https://cdn2.scratch.mit.edu/get_image/project/237395547_480x360.png,2018-07-25T20:15:18.000Z,2018-07-25T20:17:52.000Z,2018-07-25T20:16:07.000Z,15,7,0,0,0,,
+237396744,Day 21 - 1s1s Maze remix,"Today I was a bit stuck!  I had a look through other's projects and loved the simplicity of 1s1s.  I decided to remix. 
+I didnt think it was possible to create a game with one sprite and one script with a background change!  Its actually amazing how much you can get out of scratch!
+
+Thank you Karen for your inspiration!","Press green flag to initialize, then use the arrow key to navigate through the maze.
+Use the arrow keys to navigate to the end.",24864870,https://cdn2.scratch.mit.edu/get_image/project/237396744_480x360.png,2018-07-25T20:33:30.000Z,2018-07-25T21:11:51.000Z,2018-07-25T21:09:59.000Z,6,3,0,0,0,237349574,237349574
+237391439,GUPA  remix,"I've added a few more participants to Getting Unstuck.
+
+I've slightly modified the code adding a list (named ""all"") that keeps track of all the participants added. There is a new block ""add participants"" that will add the participants username to the list only if it's not already there.
+Still more participant to add for the next remix.","GUPA = Getting Unstuck People Animation; is an animation created with pictures of some scratchers who joined Getting Unstuck Challenge
+
+press SPACE to put in / remove from pause 
+Let's create GUPAs: remix it for creating a new GUPA animation
+",214,https://cdn2.scratch.mit.edu/get_image/project/237391439_480x360.png,2018-07-25T19:16:05.000Z,2018-07-25T21:11:18.000Z,2018-07-25T21:11:18.000Z,6,3,0,0,0,237080018,237080018
+237398854,Day 21 Spiralizer,"Challenge was to use a couple data blocks with the cloning feature along with the pen. I am more interested in teaching my students about cloning since many times they just duplicate a sprite instead of using cloning. Depending on what they are doing there are reasons to use cloning. This project is not too hard to create and you can use the slider to get different types of spirals.
+",Day 21 of Getting Unstuck,588430,https://cdn2.scratch.mit.edu/get_image/project/237398854_480x360.png,2018-07-25T21:05:48.000Z,2018-07-25T21:12:00.000Z,2018-07-25T21:10:10.000Z,11,6,2,0,0,,
+197359931,Gara di tabelline,,"Ripassa le tabelline divertendoti.
+Seleziona una o più tabelline da studiare.
+Seleziona il livello di difficoltà.
+A ogni risposta ricevi un punteggio in base a:
+- numero di risultati indovinati (moltiplicati per il livello di difficoltà)
+- tempo rimanente (moltiplicato per il livello di difficoltà)
+- numero di tabelline scelte (moltiplicato per 10)
+Sfida te stesso e gli altri per nuovi record!",8789156,https://cdn2.scratch.mit.edu/get_image/project/197359931_480x360.png,2018-01-11T18:06:03.000Z,2018-02-02T21:39:28.000Z,2018-01-26T22:31:30.000Z,13,2,1,0,0,13067831,13067831
+237399475,Getting Unstuck [Day 21],This is for the last day of Getting Unstuck! Day 21! It was a lot of fun!  I enjoyed myself! ,Green flag then look inside,13594403,https://cdn2.scratch.mit.edu/get_image/project/237399475_480x360.png,2018-07-25T21:15:59.000Z,2018-07-25T21:31:33.000Z,2018-07-25T21:31:33.000Z,11,3,1,0,0,,
+237400026,Day 21,"I wan't sure what ""use a prompt"" meant for this final challenge. After looking at some of the already posted prompts I still wasn't sure. I decided a ""prompt"" is any time something is told (prompted) to do something. So here the user is told to do something.
+
+I had fun combing unexpected sounds with sprites for this project.
+
+I've really enjoyed this Getting Unstuck 21 day challenge.",Click on a sprite and see what happens.,32833725,https://cdn2.scratch.mit.edu/get_image/project/237400026_480x360.png,2018-07-25T21:24:34.000Z,2018-07-25T21:44:49.000Z,2018-07-25T21:36:01.000Z,3,1,0,0,0,,
+237399601,Day 21 - Transportation scene,"After teaching my students the blocks of Scratch, I challenge them to do a transportation scene.  The sprite must travel at least 2 backdrops, must use say or think blocks, and must have a sound.  This is done with 7th graders after only a few day intro to Scratch.  This helps me assess their knowledge.  This student really enjoyed coding!  If you'd like the instructions and rubric - eave a comment below with contact info.",Click the green flag and see what happens,11885888,https://cdn2.scratch.mit.edu/get_image/project/237399601_480x360.png,2018-07-25T21:17:49.000Z,2018-07-25T21:39:19.000Z,2018-07-25T21:37:52.000Z,8,5,1,0,0,,
+237399516,Unstuck 21 Looks effects,"My solution to my prompt - explored the ""change ___ effect"" and ""set ___ effect"" blocks in my ""Jump"" game. This was a very frustrating exercise today, as I found that sometimes the offline version of scratch does not behave the same as the online version. In the offline version, I successfully had the background changing with a transition effect, after each game level. When I uploaded to the online version, nothing worked, and in fact it caused erratic unexplainable behaviours to appear. After hours of troubleshooting I found the cause was any use of the ""change ___ effect"" block on my stage, when it received a broadcast. So sadly that is left out of this posted project, but it works beautifully on my offline version. I put a comment to show where that code should be, in the stage scripts.
+Would love someone to explain this to me, if they can!
+","Design your own Getting Unstuck prompt. Create a project in response to your prompt! Post your prompt in the comments section for others to see!
+Prompt I created: Use some of the graphics effects in ""Looks"" to improve one of your previous projects.
+",19123745,https://cdn2.scratch.mit.edu/get_image/project/237399516_480x360.png,2018-07-25T21:16:36.000Z,2018-07-25T22:32:44.000Z,2018-07-25T22:32:44.000Z,4,3,0,0,0,,
+237403055,Idea Explosion (Unstuck 21) remix,"Getting Unstuck was truly delightful. Going into this experience, I wasn't sure if it was going to ""click"" with me since I've had a bit of experience with Scratch already. However, each day I was surprised, challenged, excited...well, so many thoughts and emotions that I wanted to capture all of this is a ""Scratchy"" way, starting with remixing the amazing ""Pen Explosion"" that captivated me.","Just press the flag!
+
+This project is my response to the today's ""meta"" prompt:
+
+Make something that reflects your experience during the last 21 days of Getting Unstuck.",27690149,https://cdn2.scratch.mit.edu/get_image/project/237403055_480x360.png,2018-07-25T22:10:14.000Z,2018-07-26T23:15:39.000Z,2018-07-25T22:48:07.000Z,7,4,2,0,0,165451669,165451669
+237394684,Getting Unstuck: Day 21,"Credits:
+images - https://www.flaticon.com
+music - https://www.youtube.com/audiolibrary/music","Clicca sulla bandierina verde.
+Click the green flag.",19789360,https://cdn2.scratch.mit.edu/get_image/project/237394684_480x360.png,2018-07-25T20:01:52.000Z,2018-07-28T15:26:39.000Z,2018-07-25T23:07:40.000Z,17,7,1,0,0,,
+237404694,Getting Unstuck: Day 21,"This is my project for Day 21 (this is sad because it's the last day) of the Getting Unstuck programming challenge. This challenge initiative has covered almost all the Scratch features. The only one I had never tryed was the custom block feature so I decided to motivate myself to try it :P
+Basically this type of blocks represents functions and are a quick way to name a series of instructions and recall them whenever needed within the project. If I had more time I would have added some music and thought of some new effects to add. 
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+
+My prompt: Create a project that uses the custom block feature.
+
+Press A to draw lines
+Press S to draw squares
+Press D to draw petals
+",34314391,https://cdn2.scratch.mit.edu/get_image/project/237404694_480x360.png,2018-07-25T22:35:00.000Z,2018-07-25T23:17:32.000Z,2018-07-25T23:17:31.000Z,13,6,2,0,0,,
+237404868,Unstuck Day 21: Fantastic Flowers,"For my final project, I wanted to learn how use a customized Scratch block. I also wanted to play around a bit more with the stamp block.  My inspiration was found in the Coding projects in Scratch.
+
+One would think it would be easy to just follow directions to create the project, but I managed to make some errors with my values which led to some great debugging work. ","Click the green flag to begin, then click somewhere on the stage to create a flower. Wherever you click, you will generate a new flower.  Press the space bar to clear your field.",34190490,https://cdn2.scratch.mit.edu/get_image/project/237404868_480x360.png,2018-07-25T22:37:30.000Z,2018-07-25T23:21:19.000Z,2018-07-25T23:14:28.000Z,10,4,0,0,0,,
+237407457,Getting Unstuck 21 ,"Getting Unstuck 21
+Grazie!",Clicca sulla bandierina verde,15572972,https://cdn2.scratch.mit.edu/get_image/project/237407457_480x360.png,2018-07-25T23:17:58.000Z,2018-07-27T18:38:22.000Z,2018-07-25T23:40:02.000Z,7,2,0,0,0,,
+237406211,Unstuck My Own Prompt,"Prompt: Create a program using the pen tool. (Very open-ended, not typical of a prompt I would use in my classroom.)
+
+Intro to CS Prompt: Give the students the start of this drawing tool, but without the code to make the shapes. Students should analyze how the program uses broadcast messages to set the color and choose a shape to draw (I would relate this to calling a function.) Students are to write the code to draw the square and rectangle. Students can add another shape sprite and code of their own.","A very simple drawing tool!
+Click flag for directions.
+
+",11305008,https://cdn2.scratch.mit.edu/get_image/project/237406211_480x360.png,2018-07-25T22:58:44.000Z,2018-07-26T00:09:19.000Z,2018-07-25T23:49:52.000Z,10,2,1,0,0,,
+237392816,Dynamic Triangle - Getting Unstuck - Day 21,"I actually had some trouble with this one.  I didn't really have an idea for a prompt but I knew that I wanted to do this project.  So I did this project and about halfway through I thought about a prompt. 
+
+Create a project using the slider variable. 
+
+When I was close to done I thought about another prompt
+
+Create a project using the __ of__ block - the complex math block (bottom of the Operations tab) ","Click on the green flag to see this dynamic triangle in action. 
+
+I had seen something similar to this - but it was just changing the numbers for the angles - I wanted to actually change the angles in the triangle.  
+
+I needed to play with the numbers for the line between the ends of the two side but in the end I picked those numbers based on an Angle of 0 and 90 as the two extremes. 
+
+What kind of triangle is this?  Should I remix this for other triangles?
+
+Enjoy!!",19641362,https://cdn2.scratch.mit.edu/get_image/project/237392816_480x360.png,2018-07-25T19:35:40.000Z,2018-07-26T21:09:48.000Z,2018-07-26T00:06:51.000Z,11,4,2,0,0,,
+237381741,Gobo Drawing Shapes,"Unstuck Challenge 21: Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+
+My prompt: use at least one block from each category.","Click on the green flag to start. 
+Click on the color palette to change the pen color. 
+Click on Gobo to start drawing and move Gobo to different starting point of the shape.",25332755,https://cdn2.scratch.mit.edu/get_image/project/237381741_480x360.png,2018-07-25T17:26:59.000Z,2018-07-26T01:13:21.000Z,2018-07-26T01:03:57.000Z,6,3,1,0,0,,
+237416870,Getting Unstuck Day 21,Thanks to those who put this together. I certainly feel like I'm getting the hang of it!,"Challenge:  Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+
+Create a scene that uses at least four different kinds  of operations and 2 sprites.",34245752,https://cdn2.scratch.mit.edu/get_image/project/237416870_480x360.png,2018-07-26T01:07:07.000Z,2018-07-26T01:29:33.000Z,2018-07-26T01:27:20.000Z,5,2,0,0,0,,
+237418420,Day 21: An Interactive Tale,"So I am cheating a bit here because of time. I traveled all day, but I did not want to miss the last challenge.  This project is one that I made under another one of my accounts( @cspd4me) that I used for CS PD and more recently for a summer camp; I facilitate this summer. 
+I made this project last year; it was a fun one to make.  I liked the idea of using Scratch to tell a story in which the viewer gets to participate.  Depending on how the viewer answers the question there are different possible endings.  
+
+Castle backgrounds from Wikipedia","Click the green flag to get started.   You are in control of the story. Different answers-different outcomes.
+Day 21 Challenge: Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+
+My Prompt:  Storytelling-Tell an interactive tale.
+
+",1294980,https://cdn2.scratch.mit.edu/get_image/project/237418420_480x360.png,2018-07-26T01:27:05.000Z,2018-07-26T01:46:21.000Z,2018-07-26T01:38:58.000Z,10,8,4,0,0,166371172,166371172
+237420238,Choose Your Own Adventure-Day 21,"Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+**I've done this project with my students and it is so fun to see what they come up with!","Press the green flag and answer the duck's questions with Yes or No.
+
+CHOOSE YOUR OWN ADVENTURE STORY
+
+Choose Your Own Adventure is a series of children's gamebooks where each story is written from a second-person point of view, with the reader assuming the role of the protagonist and making choices that determine the main character's actions and the plot's outcome.
+
+The stories are formatted so that, after a couple of pages of reading, the protagonist faces two or three options, each of which leads to more options, and then to one of many endings.
+
+Use the Events blocks (broadcast, when backdrop switches, etc.) to code a project that lets the viewer choose the outcomes of the story.
+
+",25165723,https://cdn2.scratch.mit.edu/get_image/project/237420238_480x360.png,2018-07-26T01:50:22.000Z,2018-07-26T02:05:23.000Z,2018-07-26T02:05:09.000Z,6,4,0,0,0,,
+237420527,Day 21 Functions,"I enjoyed the last 21 days. Looking at my day 1 creations, I have learned a TON!
+
+Thanks! I look forward to the sticker. I did it all for the sticker. (Just kidding)","Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+
+Prompt: Create a simple FUNCTION using the Define block.
+
+Bonus: Make a tool that will draw on the work pane when you move your mouse!",10309968,https://cdn2.scratch.mit.edu/get_image/project/237420527_480x360.png,2018-07-26T01:53:33.000Z,2018-07-26T02:07:30.000Z,2018-07-26T02:05:35.000Z,6,5,2,0,0,,
+237395615,Ducky run,"I've created a simple platformer game where the stage moves across the screen little by little. 
+I used a ""scroll"" variable to do that and I found a way to stop it at a specific moment. 
+I change the color of some platforms to make it more difficult. When you hit a wall you go backwards.
+I experimented with username block too.
+I'd like to modify some elements and add more levels.
+
+Getting Unstuck has been a wonderful experience.
+I've challenged myself many times and I've learned from other projects.
+It has been a pleasure. Thanks a lot @alirb, @karenb, @paulinah and the Getting Unstuck community.
+
+                                        --- Credits ---
++ Song: ""Echo Turbo"" by Labbed is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+","Press the green flag and then the play button to start.
+Space bar to jump.
+*Warning: Be careful with lava or you'll start again.
+
+                            ---Getting Unstuck 21---
+My own prompt: 
+""Create a side scrolling game that uses only one button to move your character""",4413079,https://cdn2.scratch.mit.edu/get_image/project/237395615_480x360.png,2018-07-25T20:16:28.000Z,2018-07-26T19:43:09.000Z,2018-07-26T02:11:06.000Z,15,3,0,0,0,,
+237426396,"Thank you, Susan","For my Day 21 project, I chose to ""make a project that appreciates someone,"" and today I am full of thanks to my mentor, Susan (@L2TT2L2018).
+
+She is a master maker, a brilliant educator, and an uncompromising champion for her students.
+
+Any teacher seeking inspiration to make a difference in his community should check out the work she has done at the South End Technology Center in Boston.",Green Flag,27306974,https://cdn2.scratch.mit.edu/get_image/project/237426396_480x360.png,2018-07-26T02:52:37.000Z,2018-07-26T03:58:47.000Z,2018-07-26T03:56:25.000Z,19,9,1,0,0,,
+237431290,Look for the glow,"I wasn't getting anywhere. I had an idea about trying clones if you were stuck: ""send in the clones,"" but it wasn't right. I went for the oldest trick in the book, and slept on it. This is the result. I hope you find it useful.
+","Gutting Unstuck Day 21 - Invent a new Getting Unstuck prompt
+
+LOOK FOR THE GLOW
+When a stack is running it has a glowing edge. If your code is misbehaving then watch for this and you'll see which stacks are running at each moment in time.",2314547,https://cdn2.scratch.mit.edu/get_image/project/237431290_480x360.png,2018-07-26T04:07:51.000Z,2018-07-26T07:42:40.000Z,2018-07-26T04:56:36.000Z,8,2,0,0,0,,
+237432803,Getting Unstuck Day 21,"Getting Unstuck Day 21 Reflection:
+Coming up with my own prompt idea was harder than I thought - doing these 21 challenges the past 3 weeks (and especially seeing how creative the other participants are) has shown me how shallow my knowledge of Scratch really is.  This just ""scratched"" the surface, pun intended!
+What I wanted to do with my prompt was focus on the duplicate or stamp tool, since it can be used for a lot more than I initially thought.  Not only can you duplicate sprites and scripts, you can duplicate backdrops to modify them.  However,  I didn't use duplicate as much as I wanted to.  Since I had an open-ended question, using a clone script better suited my needs.  I duplicated and combined aspects of 2 backdrops to form one, so I was pleased that that worked.  Anyway, Getting Unstuck was a lot of fun to do.  I really appreciate this opportunity!",Click on the green flag and type in your age for a birthday message.,30095573,https://cdn2.scratch.mit.edu/get_image/project/237432803_480x360.png,2018-07-26T04:25:43.000Z,2018-07-26T05:01:48.000Z,2018-07-26T05:01:48.000Z,5,2,0,0,0,,
+237055837,Challenge 21 Thankyou,"Project  Create your own sprite.
+Make it say something and include a surprise!
+
+Have seen some amazing projects with lovely sprites and wanted to have a go at creating my own.
+I did have inspiration from clipart, but enjoyed using the shapes to replicate the image.
+A little surprise message of thanks to celebrate the end of a lovely challenge!",Click the green flag!,13484475,https://cdn2.scratch.mit.edu/get_image/project/237055837_480x360.png,2018-07-22T06:41:43.000Z,2018-08-03T03:14:04.000Z,2018-07-26T06:11:31.000Z,11,3,0,0,0,,
+237437500,Getting Unstuck #21: Recapitulation,"Soft Piano Music – Piano Zen BY ALEXANDER
+
+Scratch project was created as activity #21 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+
+Day #21 Challenge: Invent a new Getting Unstuck prompt. Create a project in response to your prompt.
+My personal prompt: Create a project that shows at least two different backgrounds and uses the “Make Block” with a number, string, or Boolean input.",Press the green flag and follow the instructions!,1202362,https://cdn2.scratch.mit.edu/get_image/project/237437500_480x360.png,2018-07-26T05:27:36.000Z,2018-07-27T15:43:34.000Z,2018-07-26T06:48:25.000Z,4,1,0,0,0,,
+237444078, Getting Unstuck Day 21GUPA   remix,Thanks for this nice experience. The many shared projects are a precious resource.,"GUPA = Getting Unstuck People Animation; is an animation created with pictures of some scratchers who joined Getting Unstuck Challenge
+
+press SPACE to put in / remove from pause 
+Let's create GUPAs: remix it for creating a new GUPA animation
+",13275782,https://cdn2.scratch.mit.edu/get_image/project/237444078_480x360.png,2018-07-26T07:24:34.000Z,2018-07-26T07:29:07.000Z,2018-07-26T07:25:05.000Z,6,1,0,0,0,237080018,237080018
+237450038,Unstuck-21,"Prompt: Try to use the New Block function in Scratch
+
+I wanted to try to simplify my code using the New Block function. Many children ask me how to make their sprite jumping. They inspired me.",,13846307,https://cdn2.scratch.mit.edu/get_image/project/237450038_480x360.png,2018-07-26T09:06:44.000Z,2018-07-26T09:11:25.000Z,2018-07-26T09:09:46.000Z,4,2,0,0,0,,
+237449718,hangman-ish ,"Challenge to self -  to use more lists, variables and blocks and especially the length operator and to try the backpack to bring across a block from another project. 
+
+
+NB  The backpack is so handy!","This is a quasi hangman game but only manages words of 3 letters and it can't do double vowels or consonants yet.
+
+I have fixed the yes/no issue",33472226,https://cdn2.scratch.mit.edu/get_image/project/237449718_480x360.png,2018-07-26T09:00:57.000Z,2018-07-26T09:14:57.000Z,2018-07-26T09:14:38.000Z,3,1,0,0,0,,
+237443683,Unstuck21,Thank You Machine  is on https://youtu.be/bMNrz8QCh2Q,"My Challenge:Often we sit still for a long time or work just with our brain. Moving your body and making with your hands are important sources to learn something. Create a project with a physical or analog component. Consider a project with MakeyMakey, Lego, Micro:bit, Kinect, Robotics etc…….",1072279,https://cdn2.scratch.mit.edu/get_image/project/237443683_480x360.png,2018-07-26T07:17:44.000Z,2018-07-26T09:49:07.000Z,2018-07-26T09:26:18.000Z,9,2,0,0,0,,
+237372167,getting unstucked day21,"I try to use clone blocks...I can do better
+Thancks for this useful and funny experience! ","click on the green flag and enjoy
+",25103547,https://cdn2.scratch.mit.edu/get_image/project/237372167_480x360.png,2018-07-25T15:36:37.000Z,2018-07-26T09:52:08.000Z,2018-07-26T09:52:06.000Z,11,4,0,0,0,,
+237444685,Day 21 - Getting Unstuck,"My prompt for today is experiment with Turtle Graphics.
+
+From Wikipedia, the free encyclopedia:
+Turtle graphics is a popular way for introducing programming to kids. It was part of the original Logo programming language developed by Wally Feurzig and Seymour Papert in 1966. Imagine a robotic turtle starting at (0, 0) in the x-y plane.
+https://en.wikipedia.org/wiki/Turtle_graphics","Chose the number of sides and the pen.
+Add a draw pressing the space bar and clean the screen touching Angel with the mouse.",26079479,https://cdn2.scratch.mit.edu/get_image/project/237444685_480x360.png,2018-07-26T07:33:22.000Z,2018-07-26T10:50:54.000Z,2018-07-26T09:57:55.000Z,11,5,1,0,0,,
+237381207,Small Planet,"Getting Unstuck day-21
+by Massimo Marletta
+
+My self-assignment is: 
+""Create a game where you use some advanced mathematical functions (such as Sin, Cos, Log, Exp, etc)"".
+
+The items on the planet (trees, mountains, aliens) are sprites that, by using trigonometric functions, rotate about an arbitrary point which is 
+external to the sprite itself (in this case the centre of the planet).
+
+Credits for Images: 
+* Mountains and Tree by Freepik @ www.flaticon.com
+* Asteroid by Nikita Golubev @ www.flaticon.com
+* Alien by Smashicons @ www.flaticon.com
+","
+You have the power to rotate a small planet!
+
+Unfortunately you have two problems: 
+1) Some ugly aliens have invaded your planet
+2) Your little planet is bombed by some asteroids
+
+Rotate the planet (use Left and Right arrows to decide verse and velocity of the rotation) to make the asteroid hit the aliens and not the trees and the mountains of your beautiful little world.
+
+* Note that the asteroid can hit an item only when it is close to the planet (i.e. on the opposite side of the planet respect the point it came from).
+
+* Note that the asteroid can hit an item only when it is close to the planet (i.e. on the opposite side of the planet respect the point it came from).
+* You earn 2 points if the asteroid hits an alien
+* You lose 1 point if it hits a tree
+* You lose 2 points if it hits a mountain
+
+",4804940,https://cdn2.scratch.mit.edu/get_image/project/237381207_480x360.png,2018-07-25T17:20:46.000Z,2018-07-26T10:30:48.000Z,2018-07-26T06:59:05.000Z,29,9,0,0,0,,
+237457123,Day 21 of Getting Unstuck_Costruiamo Lego,Day 21 of Getting Unstuck: spazio alla creatività,Clicca sulla bandierina verde e costruisci tanti Lego,10086796,https://cdn2.scratch.mit.edu/get_image/project/237457123_480x360.png,2018-07-26T11:41:50.000Z,2018-07-26T11:45:32.000Z,2018-07-26T11:44:58.000Z,18,8,2,0,0,,
+237246454,G.U. Day 21 - VOLA BALLERINA,"Ultimo progetto. 
+Grazie a tutti.
+
+",Clicca sulla bandierina verde.,13746945,https://cdn2.scratch.mit.edu/get_image/project/237246454_480x360.png,2018-07-24T11:50:30.000Z,2018-07-26T15:11:24.000Z,2018-07-26T15:07:03.000Z,11,4,0,0,0,,
+237479297,Strategies: Getting Unstuck Day 21,"Getting Unstuck Day 21
+
+The prompt was to create your own prompt.
+For me, I wanted to review the strategies that I had used to Get Unstuck over the previous 20 days.
+
+I didn't use all of the 28 strategies suggested by @paulinah and @karenb at https://gettingunstuck.gse.harvard.edu/strategies.html, but I did use a lot of them!",Click on the green flag.,3485356,https://cdn2.scratch.mit.edu/get_image/project/237479297_480x360.png,2018-07-26T16:38:50.000Z,2018-07-26T17:41:13.000Z,2018-07-26T17:41:13.000Z,7,3,0,0,0,,
+237387914,Un saluto dall'Italia Getting Unstuck #21,"#Getting Unstuck giorno 21
+Usare le transizioni anche con Scratch. Molto utili per le storie.
+Grazie a tutti per questa bella opportunità.",clicca sulla bandierina verde per un saluto dalla bella Italia.,17320587,https://cdn2.scratch.mit.edu/get_image/project/237387914_480x360.png,2018-07-25T18:32:17.000Z,2018-07-26T18:18:14.000Z,2018-07-26T18:14:41.000Z,3,2,0,0,0,,
+237493278,Day 21-Random Birthday gift,"Day 21-Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+
+I decided to create a random birthday gift for my niece. Was fun to use all the things that I learned about variables to make this work.","Green Flag
+Click the gift to open it.",16509596,https://cdn2.scratch.mit.edu/get_image/project/237493278_480x360.png,2018-07-26T19:37:10.000Z,2018-07-26T23:22:03.000Z,2018-07-26T20:53:15.000Z,5,1,0,0,0,,
+237509833,Day 21 - Underwater adventure,"I wanted to investigate different ways of manipulating variables to achieve the same result.
+
+Day 21 - Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+
+",Click the flag.,109272,https://cdn2.scratch.mit.edu/get_image/project/237509833_480x360.png,2018-07-26T23:43:00.000Z,2018-07-28T18:30:13.000Z,2018-07-26T23:44:01.000Z,6,1,0,0,0,,
+237534278,Getting Unstuck Day 21 - prompt,"I know a lot of my students want to create a shooting style game, so I wanted to explore how to shoot/launch objects from another object. The most obvious way to me is a typical Space Invaders style game.
+
+I thought it would be a lot harder, but I actually found it quite easy to code the bullets to appear at the cannon and move from there, as if fired from it.
+
+Of course there is much more that can be done to this project, but I wanted to focus on that particular skill.","Getting Unstuck Day 21: Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+
+Create a project involving shooting, launching, or throwing an object.
+
+Press the green flag to start. Use left/right arrows to aim. Press the space bar to shoot.",2803184,https://cdn2.scratch.mit.edu/get_image/project/237534278_480x360.png,2018-07-27T04:40:51.000Z,2018-07-27T06:13:39.000Z,2018-07-27T06:13:39.000Z,8,1,0,0,0,,
+195183735,Jingle BellsCar remix,,,13575540,https://cdn2.scratch.mit.edu/get_image/project/195183735_480x360.png,2017-12-23T17:25:25.000Z,2018-07-11T08:50:37.000Z,2017-12-26T09:00:28.000Z,12,2,1,0,0,195166317,195166317
+236980827,Rube Goldberg Fan,"Prompt:  Play with ways to show how a force may create motion.
+For years I have been fascinated by Rube Goldberg creations. While considering how to get inspiration for this project I asked myself a series of questions like, ""In what ways are levels in video games similar to parts of a RG machine b/c the path to a goal may be convoluted with many obstacles to conquer.?"" I know that Rube never meant for there to be physical interpretations of his ideas b/c his cartoons were a social commentary about the industrial revolution. This makes me wonder about how a Scratch project may be used to provoke conversation. For now, I'm just playing with my ""how can I make weird things happen"" fascination!
+When I was working with the clone part I got stuck. Everything was working, and then it was not. I was mystified. I finally learned that I had reached the limit of cloning (301 clones) b/c I had not been deleting them as I tested my code. When I clicked on ""stop all"", everything was better!
+Credits:
+https://www.flickr.com/photos/internetarchivebookimages/19905670383/
+","Click the green flag to turn on the fan.
+(Yes, this title is a pun!)
+
+(This took more than a day to create, hence the late entry into Day 21.)",24741621,https://cdn2.scratch.mit.edu/get_image/project/236980827_480x360.png,2018-07-21T00:11:50.000Z,2018-07-28T17:06:48.000Z,2018-07-28T16:43:16.000Z,9,3,1,0,0,,
+237640010,"The ""3 Favorite Things"" Pass-It-On Project! remix Paola",,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",16573108,https://cdn2.scratch.mit.edu/get_image/project/237640010_480x360.png,2018-07-28T17:42:33.000Z,2018-07-28T21:06:59.000Z,2018-07-28T21:06:58.000Z,6,1,0,0,0,236358913,236312698
+237742137,UnStuck Day 21,"I want teach my student about develop creativity with the simple thing. 
+Thanks to Getting Unstuck with team. It's a unforgettable moment, develop creativity, gain knowledge, travel around the scratch world.  ",Try to make project with your own sprite,34216021,https://cdn2.scratch.mit.edu/get_image/project/237742137_480x360.png,2018-07-30T07:50:45.000Z,2018-07-30T07:56:17.000Z,2018-07-30T07:50:56.000Z,5,2,0,0,0,,
+237769813,Getting unstuck day 21 - INTO A CELL ,"Original project in Italian with many more commands but too complicated to translate. Made with the help of Riccardo G..
+",Click on the green flag,19738986,https://cdn2.scratch.mit.edu/get_image/project/237769813_480x360.png,2018-07-30T15:40:16.000Z,2018-07-31T12:08:07.000Z,2018-07-30T17:24:19.000Z,9,1,0,0,0,,
+237851865,Getting Unstuck Day 21,"An interesting, frustrating, exciting project to be part of!",Create a prompt,3297086,https://cdn2.scratch.mit.edu/get_image/project/237851865_480x360.png,2018-07-31T10:57:29.000Z,2018-07-31T11:10:45.000Z,2018-07-31T11:10:19.000Z,5,1,0,0,0,,
+237854277,Day 21 - graphic effects,,,24154277,https://cdn2.scratch.mit.edu/get_image/project/237854277_480x360.png,2018-07-31T11:52:44.000Z,2018-07-31T12:03:46.000Z,2018-07-31T12:03:46.000Z,5,1,0,0,0,,
+237947457,Getting Unstuck Day 21,"This is for Getting Unstuck Day 21, where I had to create my own prompt and then create a project for it.
+My prompt was to create an interactive music room where the user can click on the different instruments to play sounds from that instrument.
+This is linked to my ambition to have a go at learning a musical instrument - something I've not yet done!
+It was a fun way to explore some instruments and explore the sounds they make.
+I think I'll try and use the Makey Makey I bought to create something tangible based on this.",Click the Green Flag and follow the instructions to explore sounds.,287832,https://cdn2.scratch.mit.edu/get_image/project/237947457_480x360.png,2018-08-01T09:13:10.000Z,2018-08-01T12:49:24.000Z,2018-08-01T09:39:44.000Z,4,1,0,0,0,,
+206928371,Poligono stella Day 21 Getting Unstuck,Getting Unstuck Day 21: Design your own Getting Unstuck prompt. Create a project in response to your prompt!,"Choose the lenght of side with the slider, then click on the green flag",8789156,https://cdn2.scratch.mit.edu/get_image/project/206928371_480x360.png,2018-02-28T23:35:04.000Z,2018-08-01T20:25:12.000Z,2018-08-01T20:20:35.000Z,4,2,0,0,0,,
+237952105,#GettingUnstuck21 - New prompt: drawing a chessboard,"Please, feel free to remix and to add your ideas!","Press Green flag and wait.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 21
+
+""Invent a new Getting Unstuck prompt. Create a project in response to your prompt.""
+
+I decided to create a board for a boardgame like, for example, a chessboard. This project will print a chessboard, in the color you want.",1112440,https://cdn2.scratch.mit.edu/get_image/project/237952105_480x360.png,2018-08-01T10:51:32.000Z,2018-08-01T20:31:55.000Z,2018-08-01T20:22:57.000Z,7,1,0,0,0,,
+238039626,#Unstuck 21 Getting Untstuck prompt,,Click the Flag and enjoy.,31492686,https://cdn2.scratch.mit.edu/get_image/project/238039626_480x360.png,2018-08-02T06:47:01.000Z,2018-08-02T07:29:51.000Z,2018-08-02T07:29:24.000Z,4,1,0,0,0,,
+238069857,Who was POTUS when you were born?_GU_Day21 Improved,"What makes you curious? Is it a concept or theme that you have been thinking about? Is it how to use a component of Scratch? Is it where your fellow 21-Days ""GettingUnstuckers"" live? (I'm curious about all of the above.) 
+PROMPT: Create a project in which you explore something about which you are curious.
+Sporadically, I kept track of interactions with Scratchers from other countries. My list includes: Singapore, Taiwan, Sudan, Israel, Brazil, Australia, New Zealand, Slovenia, Ukraine, Greece, Italy, Spain, Portugal, France, Luxembourg, Netherlands, Sweden, Finland, UK, Ireland & Canada. That's 6 continents!
+I am curious about the ages of my fellow 21-Days participants. I want to see if I can gather information from users. I am reading about the cloud variable.   https://en.scratch-wiki.info/wiki/Cloud_Data  
+Hmm... I did not have a list at first. But in thinking about how to avoid a gigantic if-or-or-or...block, I realized that I could put all of the conditions into a list and then use the ""list contains ___"" with my if-else statement. 
+Hmm...I am struggling with figuring out how to convert a string answer to a number b/c cloud variables can only use numbers. Changed my approach.
+Hmm...I just discovered that there is a limit of ten cloud variables in a project. I will have to make some changes b/c currently I need 15. I will use only 10 presidents.","Fingers crossed that this will keep track of everyone's responses!
+Click on the green flag and respond.
+
+POTUS is an acronym which means: President Of The United States
+",24741621,https://cdn2.scratch.mit.edu/get_image/project/238069857_480x360.png,2018-08-02T15:42:37.000Z,2018-08-02T16:18:45.000Z,2018-08-02T16:18:45.000Z,10,3,0,0,0,,
+237645237,Getting Unstuck Day 21,"For Getting Unstuck Day 21 I wanted to try to combine several activities from past activities including broadcast, operational statements, if then, and changing appearance.",Click Scratch sprite to begin.  Press space bar to clear.,34190765,https://cdn2.scratch.mit.edu/get_image/project/237645237_480x360.png,2018-07-28T19:45:53.000Z,2018-08-03T15:49:38.000Z,2018-08-03T15:48:33.000Z,4,1,0,0,0,,
+238164165,Jugando con la cámara Getting Unstuck day 21,"I pretend to design a challenge about using camera as sensor. You can play with your body
+I was inspired by TED talk of Mitch Resnick https://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code
+","Play to catch the balloons.
+Be carefull with bugs. They will take away 5 points if they touch you",2680901,https://cdn2.scratch.mit.edu/get_image/project/238164165_480x360.png,2018-08-03T16:36:05.000Z,2018-08-03T17:20:11.000Z,2018-08-03T17:13:55.000Z,4,1,0,0,0,,
+238164715,getting unstuck 21," I thought that the challenge of this project was to use variables to know if you have collected all the objects
+",,23020553,https://cdn2.scratch.mit.edu/get_image/project/238164715_480x360.png,2018-08-03T16:44:00.000Z,2018-08-03T17:36:40.000Z,2018-08-03T17:30:44.000Z,5,1,0,0,0,,
+238246900,Unstuck Day 21 project,"I really got stuck using the ""not"" during the boolean operator challenge, so I created a challenge where I used a whole bunch of them. Doing so definitely helped me better understand how to use them as well as when I might actually incorporate one into a project. 
+
+#GettingUnstuck #CreativeComputing","Use the arrow keys to move around this strange world!
+",17786521,https://cdn2.scratch.mit.edu/get_image/project/238246900_480x360.png,2018-08-05T01:01:54.000Z,2018-08-05T01:43:14.000Z,2018-08-05T01:39:22.000Z,4,1,0,0,0,,
+238146859,Getting Unstuck: Day 21. Create a shape colored stage.,"Design your own Getting Unstuck prompt. Create a project in response to your prompt!
+My prompt is: create a project in which you can ask to draw a plane geometrical shape between triangle, rectangle, square and circle.",Click on the green flag.,18190669,https://cdn2.scratch.mit.edu/get_image/project/238146859_480x360.png,2018-08-03T11:50:57.000Z,2018-08-05T16:13:02.000Z,2018-08-05T16:13:02.000Z,5,1,0,0,0,,
+237716372,Amazing Mouse - Getting Unstuck Day 21,"Getting Unstuck Day 21 
+
+This was by far a fun project to do. I was inspired by my love of Pac-Man to complete this project. It was fun creating the maze from scratch, but I did struggle with creating the barriers. All in all, it still works. ","Create a game that includes at least two characters - one being a good guy and at least one being the enemy. Include a variable to keep score and track lives. Your project should also include victory sounds for both characters.  
+
+Click the green flag and use the up, down, left, and right arrows to control the mouse. ",10722024,https://cdn2.scratch.mit.edu/get_image/project/237716372_480x360.png,2018-07-30T00:54:32.000Z,2018-08-06T00:39:36.000Z,2018-08-06T00:32:50.000Z,5,1,0,0,0,,
+237354323,Catch a Falling Star,"Last getting unstuck project!
+Music credit - https://www.youtube.com/watch?v=OVUQ8QUDOEI",Press the green flag to start. Move the pocket with the left and right arrow keys.,30508500,https://cdn2.scratch.mit.edu/get_image/project/237354323_480x360.png,2018-07-25T11:56:29.000Z,2018-08-06T09:38:10.000Z,2018-08-06T09:07:32.000Z,7,2,0,0,0,,
+238342322,Getting Unstuck - dag 21,"Create a project, where the background changes.","The background changes, when you touch Gobo with the mouse.",25631396,https://cdn2.scratch.mit.edu/get_image/project/238342322_480x360.png,2018-08-06T11:21:37.000Z,2018-08-06T11:30:51.000Z,2018-08-06T11:29:25.000Z,7,2,0,0,0,,
+237869503,Getting Unstuck: Day 21,"Getting Unstuck: Day 21
+Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+My prompt: create a project that includes the use of the stopwatch. ","Click on green flag to start. Stopwatch will start. Click on each apple, you have time until the stopwatch reaches 5 to capture as many apples as possible. ",17615581,https://cdn2.scratch.mit.edu/get_image/project/237869503_480x360.png,2018-07-31T15:18:41.000Z,2018-08-06T16:33:58.000Z,2018-08-06T15:05:27.000Z,6,1,0,0,0,,
+238353858,day-21,,disegna poligoni,16822769,https://cdn2.scratch.mit.edu/get_image/project/238353858_480x360.png,2018-08-06T14:31:55.000Z,2018-08-06T15:09:33.000Z,2018-08-06T15:09:19.000Z,5,1,0,0,0,,
+238538586,day 21,"Invent a new Getting Unstuck prompt. Create a project in response to your prompt. 
+
+
+use user's input, conditions and variables to create a simple game",,24618980,https://cdn2.scratch.mit.edu/get_image/project/238538586_480x360.png,2018-08-08T12:17:49.000Z,2018-08-08T12:50:09.000Z,2018-08-08T12:47:46.000Z,1,0,0,0,0,,
+238561599,Is Random Random? (Getting Unstuck #21),"Getting Unstuck activity #21 - ""Invent a new Getting Unstuck prompt. Create a project in response to your prompt.""
+
+My prompt would be ""Create a project which makes use of a cloud variable.""
+
+My implementation calculates the average result of a random number between 1 and 100. Will iit be 50?",Click flag to start. Then click on the button to be given a random number between 1 and 100. Will the average random number approach 50 as more runs are done (by both yourself and others)?,15872912,https://cdn2.scratch.mit.edu/get_image/project/238561599_480x360.png,2018-08-08T17:38:27.000Z,2018-08-08T18:07:46.000Z,2018-08-08T18:07:27.000Z,1,0,0,0,0,,

@@ -1,0 +1,818 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+235755466,Polyrhythm Generator,"@scmb1 was a big help here in debugging this project! I was a little slow on figuring out the math (converting bpm --> beats --> seconds) to sync everything up, and also for inexplicable reasons, tying everything to a single broadcast works better than tying it all to program initiation.
+
+If I have 2 more days, I would probably add more color to the background, and perhaps a third instrument!","Press the green flag to start! Gobo will ask you to pick two numbers to create a polyrhythm (where two different rhythms happen simultaneously). I like 2/3 and 7/11, but 3/4 and 4/5 are also fun too!",2745846,https://cdn2.scratch.mit.edu/get_image/project/235755466_480x360.png,2018-07-07T10:24:27.000Z,2018-07-07T10:30:28.000Z,2018-07-07T10:25:34.000Z,30,7,1,0,0,,
+235704592,Piano Lessons,"As I began individually calling on each note, I knew there must be a way to set them to play one after another, though I wasn't sure how. I decided to ask a friend, @asparklekat, who showed me the variable blocks! I also used broadcast for the first time with this project -- both exciting discoveries!
+
+If I were going to continue working on this project, I'd like to invite the audience to play their own song with the piano after hearing the sprite's song! Also maybe I should name the characters I created for day 1 of Getting Unstuck, especially if I'm going to continue to use them (: ","After pressing the green flag, start by pressing the space key!",25705937,https://cdn2.scratch.mit.edu/get_image/project/235704592_480x360.png,2018-07-06T17:31:50.000Z,2018-07-09T10:01:39.000Z,2018-07-07T10:35:46.000Z,31,3,1,0,0,,
+235755867,Dance with the chords,If I had more time I'd actually implement a I-IV-V7-I or perhaps a I-V-vi-IV - maybe later!,"I wanted to think more about chords, so I made this to help me think!
+
++ Press space to start the notes.
++ Press up arrow key to start the drum.
++ Press the right key to freeze the action!",2745846,https://cdn2.scratch.mit.edu/get_image/project/235755867_480x360.png,2018-07-07T10:33:17.000Z,2018-07-07T11:26:15.000Z,2018-07-07T10:43:44.000Z,23,3,1,0,0,,
+226772044,piano,"It gave me a chance to thoroughly explore the notes block range, but it sounds so ominous! With more time I'd probably change the background at certain ranges and perhaps make Gobo dance.",This one's pretty simple - just press the green flag and the notes will play from the very bottom of the range to the very top!,2745846,https://cdn2.scratch.mit.edu/get_image/project/226772044_480x360.png,2018-05-31T18:44:30.000Z,2018-07-07T10:45:05.000Z,2018-05-31T18:58:23.000Z,28,2,1,0,0,,
+235756200,Bottles! remix,"When I first saw @threeships' original Bottles! project created for a class we were taking together, I was blown away -- literally! I was mesmerized by her process and wanted to create a musical project, too! I'm so glad to be remixing the project now!
+
+If I had some more time, I would draw some more instruments and record some weird sounds to put in there, too!","After clicking the green flag...
+The wind is blowing magical powers into the bottles, allowing them to play many instruments! Click the bottles to play! (and click the green flag to reset if you'd like)",25705937,https://cdn2.scratch.mit.edu/get_image/project/235756200_480x360.png,2018-07-07T10:40:37.000Z,2018-07-07T11:04:01.000Z,2018-07-07T10:51:56.000Z,46,6,3,0,0,174648368,174648368
+235701137,Twinkle,"I started with the suggested prompt from today's challenge (i.e., ""you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note"") and used that as the soundtrack to nightfall. I then transitioned to using the ""play note"" blocks to play ""Twinkle, Twinkle"". This was a chance for me to use cloning (which I had aspired to use with my Day 2 project, but didn't make work).
+
+I really like the twinkling effect in my project and the choice of pizzicato for the music. (Thanks to @jsh for introducing me to that instrument choice.) There are currently a couple of star/melody line synchronization issues that I'd like to smooth out!",Press the green flag.,39526,https://cdn2.scratch.mit.edu/get_image/project/235701137_480x360.png,2018-07-06T16:44:26.000Z,2018-07-24T11:27:04.000Z,2018-07-07T10:53:56.000Z,40,14,3,0,0,,
+235757981,Getting Unstuck Day 3,"I had such fun with this!  I haven't quite got the rhythm right, but I'll play some more.
+
+I think my next step would also be to add more instruments, maybe a drum.
+
+I can see how children would love to have a go at this.
+",Click to start the tune,3297086,https://cdn2.scratch.mit.edu/get_image/project/235757981_480x360.png,2018-07-07T11:22:32.000Z,2018-07-07T11:43:02.000Z,2018-07-07T11:43:03.000Z,20,8,1,0,0,,
+235757913,the arrival of Dionysos,Looked up ancient Greek scales - minor Lydian as first then major Phrygian to herald the arrival of Dionysos! The pipes are the aulos. The sound effect when Dionysos arrives  on stage is from NASA - lightning on Jupiter.,,33472226,https://cdn2.scratch.mit.edu/get_image/project/235757913_480x360.png,2018-07-07T11:21:09.000Z,2018-07-07T13:48:36.000Z,2018-07-07T11:43:09.000Z,27,9,2,0,0,,
+235757173,Getting Unstuck Day 3 ,,"Use your arrow keys to move around the screen, and notice what happens to the music as you move. Press space for an alien surprise.
+Can make any well known tunes by moving around the screen?",4610900,https://cdn2.scratch.mit.edu/get_image/project/235757173_480x360.png,2018-07-07T11:03:19.000Z,2018-07-07T11:47:28.000Z,2018-07-07T11:46:01.000Z,19,8,1,0,0,,
+235759003,Getting Unstuck Challenge 3,"What did you like most about your project? 
+My students love to add GIFs to their projects so I thought I would follow their lead. This GIF is from 
+gifsofthe80s.tumblr.com/post/75283130989/robert-palmer-looking-for-clues-1980
+What would you do with it next, if you had more time?
+If I had more time, I would try to figure out what notes he was stepping on and match those.",Press the green flag to get started.,21000359,https://cdn2.scratch.mit.edu/get_image/project/235759003_480x360.png,2018-07-07T11:48:14.000Z,2018-07-07T12:47:14.000Z,2018-07-07T12:36:53.000Z,21,9,2,0,0,,
+235760857,Getting Unstuck: Day 3,"I remixed this project from a version created to use with the MaKey MaKey kit. 
+
+I am not musically inclined, but I am a good keyboarder so this project makes me feel a bit like a musician ;-). 
+
+This might also be an interactive project on a whiteboard or touchscreen. ","Click the green flag to get started.
+
+Click on the keys (rectangles) in the project or use keyboard keys to play Mary Had A Little Lamb.
+
+Press the space bar for a special treat from a fan.
+
+",17807175,https://cdn2.scratch.mit.edu/get_image/project/235760857_480x360.png,2018-07-07T12:32:36.000Z,2018-07-07T13:04:28.000Z,2018-07-07T13:03:05.000Z,14,6,2,0,0,,
+235759475,Unstuck Day 3,Different instruments at different speeds.,"Click the flag. The butterfly will bump his head a lot , until he sees them flying.",33890948,https://cdn2.scratch.mit.edu/get_image/project/235759475_480x360.png,2018-07-07T12:00:01.000Z,2018-07-07T13:13:44.000Z,2018-07-07T13:10:49.000Z,12,3,1,0,0,,
+164194405,day3 ,,"pressthe flag to start
+press  the girle  then  clapping
+press number 1 the girl is dancing 
+press number 2  chahge colors  of her dress
+press number 3 the girle disappears
+press number the girle appears
+press number 5 it plays music
+press number 6 it plays drams
+press number 1 and number 5 the girle is dansing withe the music",23593293,https://cdn2.scratch.mit.edu/get_image/project/164194405_480x360.png,2017-06-01T15:26:46.000Z,2018-07-07T13:23:08.000Z,2017-06-01T15:41:54.000Z,24,4,2,0,0,,
+235761051,Getting Unstuck day 3,"I enjoyed tinkering with notes and colors. It took a while to get the right amount of color change for each note. At first the color didn't change enough to be noticable, then it got to be too much. The colors still don't match the notes to my satisfacton, so that is what I will keep working on.",Mouse over the fruits to play the notes indicated. The apples are naturals and the bananas are the sharps/flats. Use the slider to change instruments.,17767933,https://cdn2.scratch.mit.edu/get_image/project/235761051_480x360.png,2018-07-07T12:37:10.000Z,2018-07-07T13:31:43.000Z,2018-07-07T13:23:49.000Z,15,5,1,0,0,,
+235760065,NOTE E STELLE,"Altra sbirciatina ai progetti già caricati.
+Catturo solo le istruzioni più semplici, poi provo a vedere se funzionano.
+Ci sono dei progetti bellissimi. Ma quanto siete bravi!!!
+",Clicca sulla bandierina verde: le note iniziali della Ninna Nanna di Brams ; se continui a cliccare sullo sfondo  appariranno delle stelline.,13746945,https://cdn2.scratch.mit.edu/get_image/project/235760065_480x360.png,2018-07-07T12:13:46.000Z,2018-07-07T13:30:21.000Z,2018-07-07T13:19:58.000Z,11,4,1,0,0,,
+235757864,GettingUnstuck_#3,"This is for Getting Unstuck Day3. I'm wondering what happens while the rain dropping on the piano. Therefore, I did this experiment. Hopefully it will be the happy and colorful melody on the raining day ;-)",Click the Green Flag and listen to the melody of the rain ♪♪,31325002,https://cdn2.scratch.mit.edu/get_image/project/235757864_480x360.png,2018-07-07T11:19:58.000Z,2018-07-13T08:05:07.000Z,2018-07-07T12:59:30.000Z,18,9,3,0,0,,
+235762442,Day-3,,Click on the green flag to start,34225248,https://cdn2.scratch.mit.edu/get_image/project/235762442_480x360.png,2018-07-07T13:10:51.000Z,2018-07-07T13:36:13.000Z,2018-07-07T13:35:44.000Z,10,2,1,0,0,,
+235762150,Getting Unstuck: Day 3,,Just click the green flag!,34197892,https://cdn2.scratch.mit.edu/get_image/project/235762150_480x360.png,2018-07-07T13:04:17.000Z,2018-07-07T13:33:52.000Z,2018-07-07T13:33:28.000Z,11,2,1,0,0,,
+235760468,Day-3,,"Getting Unstuck - Day 3
+Just sound notes",139209,https://cdn2.scratch.mit.edu/get_image/project/235760468_480x360.png,2018-07-07T12:23:18.000Z,2018-07-07T13:46:04.000Z,2018-07-07T13:43:51.000Z,9,3,1,0,0,,
+235763876,unstuck day 3,"I like create the instrument from the loops. I have tried one by one loop to make a good instrument. Scratch teach how to training the music sense with this way. Absolutely this is important to teach it to students.
+
+If i had more times, i'll make complete song with it... ^_^",,34216021,https://cdn2.scratch.mit.edu/get_image/project/235763876_480x360.png,2018-07-07T13:41:12.000Z,2018-07-07T13:54:32.000Z,2018-07-07T13:44:52.000Z,13,6,1,0,0,,
+235760549,Charging Musical Elephants,"Elephants on a piano?
+","Create
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. For example, you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note. What triggers the playing? What happens while the notes are playing? 
+
+Click on the background or piano for elephants.",399245,https://cdn2.scratch.mit.edu/get_image/project/235760549_480x360.png,2018-07-07T12:25:04.000Z,2018-07-07T22:53:44.000Z,2018-07-07T13:57:23.000Z,21,6,1,0,0,,
+235763057,day 3,"if any one have some notes, be kind and tell me.","press green flag to start the project, and then listen to the Instructions.",34188789,https://cdn2.scratch.mit.edu/get_image/project/235763057_480x360.png,2018-07-07T13:23:19.000Z,2018-07-08T19:15:20.000Z,2018-07-07T13:57:55.000Z,33,3,2,0,0,,
+235764671,Getting Unstuck: Day 3,,Click wisard. Make magic carpet fly.,12775966,https://cdn2.scratch.mit.edu/get_image/project/235764671_480x360.png,2018-07-07T13:56:59.000Z,2018-07-07T14:20:41.000Z,2018-07-07T14:16:49.000Z,9,4,1,0,0,,
+235761619,Unstuck Day 3: Row Row Row Your Boat,"Really enjoyed this - learning so much in just a few days!
+-coded for song
+-added text
+-coordinated text and music
+-made a background and imported it
+-made a rower in a boat and imported it
+-figured out how ""glide"" worked so rower could move gently down the stream
+-would like to learn more about layers so the rower could move over the text, but that's enough for today . . .
+Fun challenge - Thanks Scratch Team!!","Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. ",18337230,https://cdn2.scratch.mit.edu/get_image/project/235761619_480x360.png,2018-07-07T12:50:45.000Z,2018-07-07T14:59:04.000Z,2018-07-07T14:22:57.000Z,21,9,2,0,0,,
+235765316,day 3 the dance,"Big question!
+I noticed that the notes went up in 2s. I created a variable note and set it at 60 and tried to play note +2 the way you would animate movement by incrementing the x or y value but I couldn't put that operator in the sound block! Than I used the next note with an operator and that worked better.
+
+I wonder about the difference between change the tempo and rest...
+
+If I had more time, I would make the dancer dance more in between the music... not sure how.. 
+
+Doing these exercises each day is creating greater empathy in me for when my students want to spend more time on projects!",Just click the green flag for the performance.,124064,https://cdn2.scratch.mit.edu/get_image/project/235765316_480x360.png,2018-07-07T14:09:15.000Z,2018-07-07T14:38:32.000Z,2018-07-07T14:15:06.000Z,13,3,1,0,0,,
+235764785,Getting Unstuck: Day 3,,"Click on the instrument to hear the music, in order to change an instrument press on the blue button and choose another instrument or just click again on another instrument.",24340467,https://cdn2.scratch.mit.edu/get_image/project/235764785_480x360.png,2018-07-07T13:59:11.000Z,2018-07-07T14:45:18.000Z,2018-07-07T14:39:30.000Z,9,3,1,0,0,,
+235760564,Getting Unstuck 3 - Lost Note,"I am not good with music so I used all sounds in this just using the note block and drum block sounds for effects, except for the crowd cheer and game over (i tried to figure out game over for FAR too long so went with the mp3). 
+
+Most thought the Super Mario music was coming....this was the least I could do to get some Super Mario in there. :)
+
+I like it because I never force myself to use those note blocks. ","Click the flag
+
+Challenge 3 was to use the note blocks. 
+
+Would like to add note blocks for Super Mario first few notes and for Super Mario game over song. ",3158946,https://cdn2.scratch.mit.edu/get_image/project/235760564_480x360.png,2018-07-07T12:25:20.000Z,2018-07-08T03:33:20.000Z,2018-07-07T14:44:38.000Z,26,9,2,0,0,,
+235767953,Unstuck Day 03 World Cup 2018 Game Seven Nation Army,"This game was originally made during a summer camp held while World Cup 2014 was being played. I remixed it while watching the 2018 Sweden vs. England quarterfinal match.
+
+To meet the Day 03 Getting Unstuck challenge, I added the stadium chant Seven Nation Army melody to play whenever a goal is scored. The original played the ""triumph"" sound effect.","Score as many points as you can in ten shots! Longer shots and higher goalie difficulty (both randomly selected) = higher points.
+The mouse, when pressed, aims the ball.
+Up and down arrow keys adjust speed up and down, but be careful - too much speed just might send the ball over the goal.
+Left and right arrow keys curve the ball slightly to the left (negative curve) or right (positive curve). It takes a while to get the hang of how much curve you want. I am considering making the curve something you can adjust while the ball is moving towards the goal.
+Space bar shoots the ball. 
+If you use sliders to adjust speed and curve, aim after making the adjustments.",14632339,https://cdn2.scratch.mit.edu/get_image/project/235767953_480x360.png,2018-07-07T15:03:52.000Z,2018-07-07T15:22:48.000Z,2018-07-07T15:19:07.000Z,12,4,2,0,0,24394597,24394597
+235767753,#GettingUnstuck3 - Random piano notes (and colors!),Random notes + colors!,"Press Green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 3
+
+""Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. For example, you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note. What triggers the playing? What happens while the notes are playing?""",1112440,https://cdn2.scratch.mit.edu/get_image/project/235767753_480x360.png,2018-07-07T15:00:13.000Z,2018-07-18T16:12:50.000Z,2018-07-07T15:19:59.000Z,14,4,1,0,0,,
+235768459,Getting Unstuck Day 3,I would like to have students use this with our Makey Makey.,"Up Arrow Plays G String
+Down Arrow Plays C String
+Right Arrow Plays F String
+Left Arrow Plays A String",34190765,https://cdn2.scratch.mit.edu/get_image/project/235768459_480x360.png,2018-07-07T15:12:35.000Z,2018-07-07T16:10:24.000Z,2018-07-07T15:19:47.000Z,11,5,2,0,0,,
+235761629,Scratch-808 Drum Machine,"Reflection
+
+I decided to build a drum machine. I built one in Scratch many years ago, but there was some issues with the timing of sample playback. So I decided to use today's topic as a reason to rebuild it from scratch. While the tempo is still a little janky, it's a major improvement over the original. I'm also hopeful this will run better in Scratch 3, as my experience with it indicates that it is far more strongly timed than Scratch 2.
+
+To make this project work, I make extensive use of variables and cloning.
+
+If I were to spend more time on this, I would use samples from a real Roland-808. The presentation could be improved on. I could also organize this better by placing duplicated code into custom blocks.
+
+Update: Refactored the code which increases the performance of the drum machine. Instead of having 5 step button sprites for each row, only 1 step button is used to spawn all 80.
+
+Originally, each of the 80 step buttons we're responsible for responding to triggers. Hence, 80 if blocks were being run per trigger. Now the trigger logic has been moved into a single sprite, so now only 5 triggers / conditional blocks are used.
+
+The result is a more strongly-timed drum machine. That is, it's less janky.
+
+Update 2: Found a way to improve timing. Inside the clock sprite I created the ""update step"" block and enable ""Run without screen refresh"". Then I moved over the code from the ""When I receive  trigger"".","1) Press the Play button to start.
+2) Control the tempo with the slider.
+3) Press the buttons to activate and de-active which sounds are played.",26264460,https://cdn2.scratch.mit.edu/get_image/project/235761629_480x360.png,2018-07-07T12:51:02.000Z,2018-07-16T14:45:16.000Z,2018-07-07T15:37:49.000Z,32,7,3,0,0,,
+235767051,Memory,"This project was created for Day 3 of Getting Unstuck. Here, we pick up the story of the cat and bear. After an initial chance encounter (https://scratch.mit.edu/projects/235478923), the bear tries to hold on to his fleeting memory of the cat. Could it ever work?
+
+It was a lot of fun exploring some of the limits of music generation with Scratch. If I had more time, I would transcribe more of the epic soundtrack. But I think my simple music player might quickly be overwhelmed by more simultaneous notes or more complex rhythms. 
+
+The implementation of rotational motion used in this project was borrowed from another project that I made several years ago. 
+
+Music: Ludwig van Beethoven, ""Moonlight Sonata""","Help the bear focus his memory by moving your mouse cursor (like, a lot).",56239,https://cdn2.scratch.mit.edu/get_image/project/235767051_480x360.png,2018-07-07T14:45:35.000Z,2018-07-11T00:18:28.000Z,2018-07-07T16:05:25.000Z,35,8,2,0,0,194782,194151
+235769746,Getting Unstuck Day3,"What did you like most about your project? Messing around with the costumes and the notes. 
+
+What would you do with it next, if you had more time? Finish the tune. Do something with the singers. Perhaps change the position of the keys slightly when they're in play. ",,17809789,https://cdn2.scratch.mit.edu/get_image/project/235769746_480x360.png,2018-07-07T15:38:11.000Z,2018-07-13T11:54:17.000Z,2018-07-07T16:04:30.000Z,13,2,1,0,0,,
+235766612,Unstuck Day 3: Making Music,"Things I got stuck on:
+-first started with a single button to toggle pick & play and a finger sprite to click it. discovered that a sprite can't detect it is clicked if another sprite is following your mouse.
+-toggle system got complicated so I changed to separate buttons for pick and play
+-adding note values to the list based on the y position was pretty simple except last item was always played as a low boom, realized first item is 1 not 0 so had to start playing on item 1 not 0 as in lists and arrays.
+-had to get a mapping function from here an adapt it https://scratch.mit.edu/projects/3266303/
+-kept adding another note when I click the PLAY button so had to add condition that X position is > 0","Click the bar on the right to choose some notes, then click PLAY to play your melody. Pick more notes when you want a different melody by clicking the PICK button.",214174,https://cdn2.scratch.mit.edu/get_image/project/235766612_480x360.png,2018-07-07T14:36:05.000Z,2018-07-08T00:46:30.000Z,2018-07-07T16:09:33.000Z,7,3,1,0,0,,
+235770556,Getting Unstuck Day 3,I have never used the play note script before. I can see how my musical students would love exploring this!,Click for random sounds.,16010675,https://cdn2.scratch.mit.edu/get_image/project/235770556_480x360.png,2018-07-07T15:54:53.000Z,2018-07-07T16:12:42.000Z,2018-07-07T16:11:50.000Z,12,3,1,0,0,,
+235768998,Gettting Unstuck Day 3 World Cup Fever,,,11634746,https://cdn2.scratch.mit.edu/get_image/project/235768998_480x360.png,2018-07-07T15:23:38.000Z,2018-07-07T16:38:52.000Z,2018-07-07T16:22:25.000Z,18,3,1,0,0,,
+235770236,Unstuck 03 - Sound exploration (with sprites),I searched for some animated sprites (sprites with costumes already made). I started with a remix of a project by @kevin11111 that holds many sprites with animations (costumes). I wanted to try sound effects that would happen while a sprite was moving (changing costumes). The challenge was figuring out how to stop the animation effect once the sound effect was done.,"Click the green flag to start, then you'll see instructions.",19123745,https://cdn2.scratch.mit.edu/get_image/project/235770236_480x360.png,2018-07-07T15:48:49.000Z,2018-07-07T16:32:57.000Z,2018-07-07T16:31:54.000Z,18,7,3,0,0,1488551,1486189
+235770322,Unstuck Day 3,"Inspired by ""Lounge Act"" and ""Close Encounters of the Third Kind"". Tempo changes within a loop. Unfortunately there's a limit on how fast the music can be played.","Modify tempo, the increase in tempo, and size of the loop using the sliders. Then click the green flag.
+
+I recommend setting the tempo change to 50 and loops to 10.",33815227,https://cdn2.scratch.mit.edu/get_image/project/235770322_480x360.png,2018-07-07T15:50:19.000Z,2018-07-07T21:17:59.000Z,2018-07-07T16:40:14.000Z,14,4,1,0,0,,
+235771472,Musical Instrument,"I wasn't feeling very creative today, so I went with the basic marimba-style instrument. I wrote the scripts for the first block, then duplicated it 7 times and just changed the letter displayed and the note played.",Click the bars to play the steel drum!,13189460,https://cdn2.scratch.mit.edu/get_image/project/235771472_480x360.png,2018-07-07T16:12:07.000Z,2018-07-09T19:54:57.000Z,2018-07-07T16:48:15.000Z,7,2,1,0,0,,
+235769357,Day 3,"I reused part of an old project here - I had already worked out this exceptionally rough rendition of ""Girl From Ipanema"", I added movement, tried a variety of other instruments and tried working out ""I Go to Rio"" - I also added text so no one would have to try to figure out what that noise was!
+I started working on letting the kids have fun exploring sound the last nine weeks - to be honest, I rarely allow them to use it in class because I cannot take 6 straight classes of non-stop meowing! I find that headsets cut collaboration drastically, so I almost never have kids use those either. ",Click green flag and then click on sprites,18341966,https://cdn2.scratch.mit.edu/get_image/project/235769357_480x360.png,2018-07-07T15:30:24.000Z,2018-07-07T17:00:19.000Z,2018-07-07T16:51:49.000Z,12,7,2,0,0,,
+235761085,3 year Old playing Mozarts Ode to Joy (Postmodern Constructivist View)  Getting Unstuck day 3,Good lesson for learning how to implement variables in my scratch code and learning that the variable must be pulled in from the menu and cannot be just written into the box. ,Run the program and answer the question.  Sit back and listen to the postmodern constructivist version of Mozart's Ode to Joy  (Note the emphasis is on postmodern and constructivist and NOT on ODE TO JOY. ,34141039,https://cdn2.scratch.mit.edu/get_image/project/235761085_480x360.png,2018-07-07T12:38:06.000Z,2018-07-07T17:33:37.000Z,2018-07-07T16:53:19.000Z,12,5,1,0,0,,
+235771495,Getting Unstuck Day 3 Music,,"To get started, press the Space Bar, Letter A, Letter S and Letter D in that order and backwards. (Space, A, S, D, S, A, Space) Try and guess what song you are playing the opening notes to. Give up? Press the Scratch's guitar and give it a listen. Once you figure it out, you can play along for the rest of the song. Turn up the volume for a stage trick!",18558561,https://cdn2.scratch.mit.edu/get_image/project/235771495_480x360.png,2018-07-07T16:12:23.000Z,2018-07-07T17:37:28.000Z,2018-07-07T16:54:37.000Z,11,3,1,0,0,,
+235773646,Getting Unstuck Day 3,,,14159575,https://cdn2.scratch.mit.edu/get_image/project/235773646_480x360.png,2018-07-07T16:57:10.000Z,2018-07-07T17:07:08.000Z,2018-07-07T16:57:49.000Z,17,4,1,0,0,,
+235768882,Musical Fruit (Unstuck 3),"This is meant to be connected to a Makey Makey board that looks like a bass. For remixes of this project, I would like to add photos of the MGs and replace the backdrop with a custom stage. 
+
+Looking at the other submissions, it's both inspiring and intimidating to to see the what people have created (ie the incredible 808 drum machine!).","Press Up, Down, Left, Right arrow keys to play the bass line from Green Onions by Booker T. & the MGs.",27690149,https://cdn2.scratch.mit.edu/get_image/project/235768882_480x360.png,2018-07-07T15:21:05.000Z,2018-07-07T17:05:26.000Z,2018-07-07T16:56:04.000Z,12,4,2,0,0,,
+235694882,Getting Unstuck Day #2: Flowers Dance,"Getting Unstuck: Day 2 - Display a flower each time that the user clicks on the background.
+I remixed an old project to adapt it to the Day#2 challenge, making it interactive. It was not easy because there were so many sprites to control. 
+The original project was made inspired by a wonderful e-card I received from a friend.
+I tried to explore, wondering how could we make an e-card using Scratch. To give originality, I used a picture from an oil work made by myself.
+From the picture, each small group of flowers was cut off to became a separated sprite. 
+Each one goes into the valse ""dancing"".
+Music:  Tchaikovsky's ""Flowers Valse"". 
+
+
+","click on the green flag to start.
+Then click on the ground to add flowers to the vase.
+
+
+
+",2176961,https://cdn2.scratch.mit.edu/get_image/project/235694882_480x360.png,2018-07-06T15:19:53.000Z,2018-07-10T00:30:56.000Z,2018-07-06T21:27:55.000Z,18,6,1,0,0,,
+235766518,Getting Unstuck Day #3: Singing Birds,"Getting Unstuck: Day 3 - Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category
+
+I love using different features images, sounds, drawing Scratch features provide. 
+If I had more time I would add a lot of other characters, sounds and effects.
+
+Original picture from Google Images, by Kaytee. 
+I explored brightness blocks on the background to better show the sprites. Also, use color block to give color to one of the birds.
+Nice play time!  :)
+
+Water drop from Clipart.","Click on the green flag to start.
+Pass the mouse pointer on each birdie to make them sing. 
+Pass the mouse on the center of the water and see what happens. :)",2176961,https://cdn2.scratch.mit.edu/get_image/project/235766518_480x360.png,2018-07-07T14:34:29.000Z,2018-07-10T00:39:53.000Z,2018-07-07T16:23:52.000Z,20,9,2,0,0,,
+235701265,Getting Unstuck Day 3: Bouncy Ball Piano,"I spent *way* too much time working on yesterday's project, so I wanted to keep today's simple. I went with the suggestion of playing notes in succession, and went back to look at a project by @karenb to remind myself how to use variables and increase them each time. I thought about doing a more complicated animation, but liked the idea of a little ball moving around space while music plays.
+
+I didn't get nearly as stuck today as I did yesterday, but I did utilize the strategy of looking at another project to see how they tackled this idea!",Click the green flag to hear the piano play piano notes 1 to 120.,19163721,https://cdn2.scratch.mit.edu/get_image/project/235701265_480x360.png,2018-07-06T16:46:17.000Z,2018-07-08T11:09:04.000Z,2018-07-07T17:06:26.000Z,16,2,1,0,0,,
+235772741,Getting Unstuck Day 3 - music,"Music intimidates me, so I was already off my game when I saw the directions. I had never explored the music blocks before so this pushed me to explore a new area.
+
+I borrowed ogranatedu's (https://scratch.mit.edu/projects/235760857/#player) idea to play Mary Had a Little Lamb and added the option of choosing which instrument to play it in.","Click the green flag to start.
+
+Click an instrument to play. 
+
+Then click either the letters on the screen or they keyboard letters to play Mary Had a Little Lamb.",2803184,https://cdn2.scratch.mit.edu/get_image/project/235772741_480x360.png,2018-07-07T16:38:07.000Z,2018-07-07T17:06:50.000Z,2018-07-07T17:02:38.000Z,14,4,2,0,0,,
+235757254,GettingUnstuck-03,,"I ""play"" cello and I'm really curious about video-sensing, so I mixed them in this project.
+Green flag to start, move in front of the camera: the direction of your movement affects the tone you play.
+Still a draft since I want to better calibrate sensing and add (maybe) dependence between tempo and movement.",25876369,https://cdn2.scratch.mit.edu/get_image/project/235757254_480x360.png,2018-07-07T11:05:19.000Z,2018-07-09T07:15:52.000Z,2018-07-07T17:19:43.000Z,13,5,2,0,0,,
+235764173,Dancing to the Music,"The song being played is ""Alouette"" by Unknown",Click the green flag.,8909132,https://cdn2.scratch.mit.edu/get_image/project/235764173_480x360.png,2018-07-07T13:47:20.000Z,2018-07-07T19:53:22.000Z,2018-07-07T17:30:45.000Z,9,2,1,0,0,,
+235767912,Getting Unstuck: Day 3. Bright piano.,,Click on the background to let Scratch play the piano.,18190669,https://cdn2.scratch.mit.edu/get_image/project/235767912_480x360.png,2018-07-07T15:03:12.000Z,2018-07-07T22:14:45.000Z,2018-07-07T17:39:26.000Z,22,4,2,0,0,,
+235776359,GU_Day3,"Day 3 of Getting Unstuck: I had already started experimenting with this project. 
+Music and math :) Piano key string lengths are: 1, 8/9, 4/5, 3/4, 2/3, 3/5, 8/15 and 1/2 (no sharps or flats are included).
+The least common denominator is 180.
+The numbers used for each string length represent the numerators with 180 as the common denominator.","Click on the green flag to begin. After the piano strings and black circles appear, you may start playing!",24741621,https://cdn2.scratch.mit.edu/get_image/project/235776359_480x360.png,2018-07-07T17:52:19.000Z,2018-07-12T01:52:57.000Z,2018-07-07T18:08:24.000Z,15,2,1,0,0,,
+235777204,Xilophone (Getting Unstucked D£3),Soo funny! Thanks to Getting Unstucked for inspiring this project!!,"This is the cutest xilophone I've ever created!!
+Click on the green flag and then use the drum stick to play the sprites!!",6030800,https://cdn2.scratch.mit.edu/get_image/project/235777204_480x360.png,2018-07-07T18:09:17.000Z,2018-07-07T18:12:15.000Z,2018-07-07T18:09:48.000Z,14,5,3,0,0,,
+235776775,Fleurs musicales: Getting Unstuck Day 3 Notes,"Getting Unstuck Day 3 Notes
+
+Quickie remix of my own project, adding a piano note every time a flower is produced. The tone of the note is determined by the same variable as the size of the flower (between about 100 and 25). Had to round the variable, as tones in between whole numbers were not super pretty.",Move the mouse around and click anywhere on the green grass!,3485356,https://cdn2.scratch.mit.edu/get_image/project/235776775_480x360.png,2018-07-07T18:01:10.000Z,2018-07-07T18:12:35.000Z,2018-07-07T18:12:35.000Z,13,4,1,0,0,,
+235774969,Getting Unstuck #3: Playing a musical instrument,"I wish I knew how to play piano! I had though so much fun running similar scratch projects and seeing so many unique projects!
+
+Scratch project was created as activity #3 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+Day #3 Challenge: Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. What triggers the playing? What happens while the notes are playing? ",Press the green flag.,1202362,https://cdn2.scratch.mit.edu/get_image/project/235774969_480x360.png,2018-07-07T17:23:31.000Z,2018-07-08T17:41:20.000Z,2018-07-07T18:14:04.000Z,9,2,1,0,0,,
+235777845,unstuck day 3,Nothing fancy as I spent too much time on yesterdays challenge.,,25095252,https://cdn2.scratch.mit.edu/get_image/project/235777845_480x360.png,2018-07-07T18:22:50.000Z,2018-07-07T18:30:33.000Z,2018-07-07T18:30:08.000Z,6,1,1,0,0,,
+235774999,My Ukulele,"Unstuck Day 3: Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. ",Click the green flag to start. Click the crab to tune your ukulele (G-A-E-A). Click the ukulele to play the chords (C-F-G),25332755,https://cdn2.scratch.mit.edu/get_image/project/235774999_480x360.png,2018-07-07T17:24:08.000Z,2018-07-07T18:58:39.000Z,2018-07-07T18:38:05.000Z,17,3,2,0,0,,
+235735798,Silly Sliding Scale Singer,"I harvested the costume assets from a previous ScratchX + Micro:Bit project to make this 'instrument.'
+
+Scratch cleverly provides a dropdown keyboard in the 'play note' block to show which notes you are choosing, and I used this tool to build lists of notes in the scales I wanted to play.","Slide the 'Note Picker' variable to sing up and down the scale.
+
+Press the buttons to pick a different scale to sing.
+
+Made for Day 3 of Getting Unstuck: Using the 'play note' block",27306974,https://cdn2.scratch.mit.edu/get_image/project/235735798_480x360.png,2018-07-07T03:05:58.000Z,2018-07-08T03:53:15.000Z,2018-07-07T18:39:23.000Z,29,14,2,0,0,,
+235779028,Day 3 Dance Music,,Press the green flag. Ballerina will dance to music and both should stop at the same time.,17846897,https://cdn2.scratch.mit.edu/get_image/project/235779028_480x360.png,2018-07-07T18:48:51.000Z,2018-07-07T18:58:24.000Z,2018-07-07T18:57:31.000Z,8,3,1,0,0,,
+235765669,Drumtastic,"I used the book 'Coding Projects in Scratch - A step-by-step visual guide to coding your own animations, games, simulations, and more!' by Jon Woodcock @RoboSquid to help me create this project. I bought this book for use with my students with the intention of checking it out this summer. 
+
+I used the 'play a drum' block instead of 'play a note' block. I'd like to tinker around further and try to use the 'play a note' block in the project instead. ","Click the Green Flag to begin and type letters, words (or whatever you'd like) to turn the letters into repeating drum sounds.
+
+Use the up or down arrows to change the tempo. Use the space bar to reset the tempo.",1196430,https://cdn2.scratch.mit.edu/get_image/project/235765669_480x360.png,2018-07-07T14:16:53.000Z,2018-07-25T16:46:28.000Z,2018-07-07T18:21:37.000Z,10,4,1,0,0,,
+235780980,Untitled-3,Getting Unstuck Day 3.,,3485356,https://cdn2.scratch.mit.edu/get_image/project/235780980_480x360.png,2018-07-07T19:29:09.000Z,2018-07-07T19:36:29.000Z,2018-07-07T19:36:04.000Z,10,2,1,0,0,,
+235775865,Getting Unstuck Day 3,"Song being played is ""Under the Sea"" by Samuel E. Wright from Disney's The Little Mermaid 
+
+This was a fun challenge to do! I was excited to mix my love of music, Disney and the ocean all into one project. Thanks to StephanieLing for the assistance in making the sprites dance! 
+
+I'm learning more and more each day, especially from others. 
+",Click the green flag.,10722024,https://cdn2.scratch.mit.edu/get_image/project/235775865_480x360.png,2018-07-07T17:42:48.000Z,2018-07-07T19:26:48.000Z,2018-07-07T19:19:25.000Z,26,3,1,0,0,,
+235779094,penguin piano,"You wanted our inner kindergartener?  You got it with this one.  I really had fun with this.  
+I really wanted to have the notes scroll across the screen - but opted for the faster version of a phrase of notes on the screen at one time.  ",Click on a penguin to play a note.  To play a song - click the button. ,2876976,https://cdn2.scratch.mit.edu/get_image/project/235779094_480x360.png,2018-07-07T18:50:10.000Z,2018-07-07T19:41:07.000Z,2018-07-07T19:38:57.000Z,28,13,4,0,0,,
+235766968,Getting Unstuck 3,"Original video: https://www.youtube.com/watch?v=b9viv_A60Mk
+Source for music notes: https://pianoletternotes.blogspot.com/2017/10/swan-lake-op-20-dance-of-little-swans.html
+
+I used giphy.com to turn 10 seconds of the video into a gif. Then I used and animated that gif for the backdrops.
+
+My year of piano lessons at the age of 10 stood me in good stead when translating the notes from pianoletternotes.com into the tones in Scratch. The timing is still a little off, but that's okay.
+
+This project was a lot of fun, if frustrating at times. I enjoyed playing with blocks I haven't used much before.",Click the green flag to start.,18044195,https://cdn2.scratch.mit.edu/get_image/project/235766968_480x360.png,2018-07-07T14:43:39.000Z,2018-07-07T20:03:21.000Z,2018-07-07T19:44:38.000Z,22,5,1,0,0,,
+235782348,#003 - Getting Unstuck Musical Note,,"Not too fancy.
+I did learn how to make my own block for some repeatable parts!  I think it's a function.",20126730,https://cdn2.scratch.mit.edu/get_image/project/235782348_480x360.png,2018-07-07T20:03:03.000Z,2018-07-07T20:24:04.000Z,2018-07-07T20:19:09.000Z,10,2,1,0,0,,
+16676557,Music from Words,"Is something like a musical alphabet. Here I have used an easy algorithm: the A letter plays the note 48 (that is C), B plays 49( C#)  and so on in sequence. More complex algorithms can be experimented.
+
+updated for Getting Unstuck challenge
+","Insert the word to be transformed into music
+you can change the Instrument to play, the number of times it repeats the music and the BPM, moving the slider on the corrispective items
+
+Play Again button to listen again the musc
+New Word button to insert a new word",2143382,https://cdn2.scratch.mit.edu/get_image/project/16676557_480x360.png,2014-01-16T14:47:54.000Z,2018-07-07T20:22:08.000Z,2014-01-16T17:15:59.000Z,330,12,9,0,0,,
+235777333,Piano Music (Getting Unstuck Day 3),This was my favorite script so far. ,"Click the up, down, left, or right arrows.  Each plays a familiar song.  Pressing the space bar place a small melody from a recent song from a popular artist.",34198395,https://cdn2.scratch.mit.edu/get_image/project/235777333_480x360.png,2018-07-07T18:11:58.000Z,2018-07-15T04:04:21.000Z,2018-07-07T20:19:20.000Z,8,2,1,0,0,,
+235782863,GettingUnstuck#3 - Basic Piano,"Written as part of challenge#3 of ""Getting Unstuck"" - ""Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category""
+
+Didn't have much time today so went with a basic keyboard with specific buttons to play the notes. Would have loved to have made the whole key play the note when clicked (and include the black keys). 
+
+Maybe other people's projects will give clues for maybe making a section of background act like a sprite and respond to clicks? Or fire a click event just on the background as a whole but the code know what section it was in based on co-ordinates (tricky with odd shapes).",Click the play buttons to play the white keyboard notes.,15872912,https://cdn2.scratch.mit.edu/get_image/project/235782863_480x360.png,2018-07-07T20:14:55.000Z,2018-07-07T20:33:15.000Z,2018-07-07T20:33:15.000Z,13,2,1,0,0,,
+235780174,Take Me Out to the Ballgame (Unstuck #3),"I'm a baseball fan so I used the ""play note"" keys to code a rendition of ""Take Me Out to the Ballgame"".",Click on the green flag to begin.,124311,https://cdn2.scratch.mit.edu/get_image/project/235780174_480x360.png,2018-07-07T19:11:43.000Z,2018-07-08T02:00:47.000Z,2018-07-07T20:53:18.000Z,15,6,3,0,0,,
+235782804,Day 3,,,34214776,https://cdn2.scratch.mit.edu/get_image/project/235782804_480x360.png,2018-07-07T20:13:44.000Z,2018-07-07T21:13:40.000Z,2018-07-07T21:12:38.000Z,9,2,1,0,0,,
+235784262,Unstuck Day 3 Rushing,This project was created for Day 3 of Getting Unstuck with Scratch. Our challenge was to use the play note blocks in the Sounds.  I had fun importing the sheep sprite (https://www.kisspng.com/png-sheep-lamb-and-mutton-free-content-clip-art-hot-sh-201284/) and tweaking that with the drawing tools.  I also had fun changing the instrument and coding the songs.  ,Directions are on the main screen.  Just click on the star or the sheep.,7525698,https://cdn2.scratch.mit.edu/get_image/project/235784262_480x360.png,2018-07-07T20:48:24.000Z,2018-07-07T21:39:44.000Z,2018-07-07T21:35:42.000Z,16,7,1,0,0,,
+235783644,Day 3 - notes,Day 3: playing notes. I don't know music; so I do get unstuck? Be inspired by others. https://www.jesseheines.com/~heines/academic/papers/2012amu/AMU_2012-05-17_v02.pdf - page 18,Click on the drum and sax to play.,214,https://cdn2.scratch.mit.edu/get_image/project/235783644_480x360.png,2018-07-07T20:32:47.000Z,2018-07-07T22:01:44.000Z,2018-07-07T22:01:44.000Z,10,4,1,0,0,,
+235760845,Getting Unstuck: Day 3 - version 1,,Click on the green flag.,19789360,https://cdn2.scratch.mit.edu/get_image/project/235760845_480x360.png,2018-07-07T12:32:19.000Z,2018-07-07T21:50:07.000Z,2018-07-07T15:00:17.000Z,22,4,1,0,0,,
+235768398,Getting Unstuck: Day 3 - version 2,"Ispirata dal progetto di #carlapoppi, ho realizzato una versione diversa da quella che avevo creato precedentemente.",Click on the green flag.,19789360,https://cdn2.scratch.mit.edu/get_image/project/235768398_480x360.png,2018-07-07T15:11:36.000Z,2018-07-07T22:16:03.000Z,2018-07-07T17:16:18.000Z,13,3,1,0,0,,
+235786720,Musical treasure chest,"I've created a mini game where a sound effect (making with some musical notes) sounds where the character touches a treasure chest while earns a treasure. 
+I was wondering how to play an easy song or an effect from my favourite video game soundtracks. I realized that it was very difficult, so I decided to make a sound effect from the ""Legend Of Zelda: A Link to the past"" when you get a treasure.
+
+--Questions--:
+-What did you like most about your project? 
+I love the idea to use the webcam to create a more interactive game and the choice of making an easy sound effect with a different instrument.
+
+-What would you do with it next, if you had more time?
+I'd like to make more musical effects.
+
+--Credits--
+Some images like treasures and treasure chest are from pixabay:
+https://pixabay.com/en/
+The main character is created with the Scratch paint editor.","Use your hand to move the duck towards a treasure chest.
+Try to get as many treasures as possible in 30 seconds.
+Good luck!
+
+*You can play with others and try to earn more points than them.
+
+--Getting Unstuck Day 3--:
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category.
+",4413079,https://cdn2.scratch.mit.edu/get_image/project/235786720_480x360.png,2018-07-07T21:55:06.000Z,2018-07-19T19:25:06.000Z,2018-07-07T21:55:51.000Z,9,3,1,0,0,,
+147470303,Frere Jacques remix day 3,,,11349852,https://cdn2.scratch.mit.edu/get_image/project/147470303_480x360.png,2017-02-27T23:44:24.000Z,2018-07-07T22:26:34.000Z,2017-02-27T23:51:01.000Z,10,4,1,0,0,118349633,118349633
+235733034,Unstuck Day 3: Make Some Music,"I used the tips in Scratch to help me with the coding piece.  My son, who played flute for 8 years, helped me with the beats of the notes.","Click on the cat sprite first.  When it is finished walking and playing, click on the dinosaur sprite.  After it finishes, click on the butterfly.",34190490,https://cdn2.scratch.mit.edu/get_image/project/235733034_480x360.png,2018-07-07T02:10:58.000Z,2018-07-07T22:26:33.000Z,2018-07-07T22:24:29.000Z,9,2,1,0,0,,
+235787163,Unstuck #3,"This is my project for Getting Unstuck day 3. 
+If it weren't for my children needing me to entertain them I could have played with this for hours. I may well come back to it later.
+I did struggle with the timing. I tried to add a bass line, but it couldn't keep time with the drums. ",Press the green flag then run our mouse over the red dots.,141519,https://cdn2.scratch.mit.edu/get_image/project/235787163_480x360.png,2018-07-07T22:08:12.000Z,2018-07-07T22:38:32.000Z,2018-07-07T22:33:48.000Z,13,8,2,0,0,,
+235763226,Day 3 - Brazil,"I quickly deviated from my initial plan and became interested in trying to simulate a tune using sheet music equivalents. I took the sheet music for Brazil and entered the notes into a spreadsheet to calculate the numeric equivalents and assigned formatting to note values such as whole notes were bold, quarter notes italic, etc. When I plotted the notation into Scratch, however, it didn't really hold up. Not sure if it's my shortcomings in music or in Scratch. :) Fun, all the same.
+
+Day 3 - Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. For example, you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note. What triggers the playing? What happens while the notes are playing? ",Click flag to start,109272,https://cdn2.scratch.mit.edu/get_image/project/235763226_480x360.png,2018-07-07T13:26:44.000Z,2018-07-25T01:13:04.000Z,2018-07-07T23:09:42.000Z,10,4,1,0,0,,
+235779014,Day 3 Unstuck: Random Bubbles,"I love bubbles so I decided that I wanted to use bubbles in this project. Random block used to change size, look, note and the instrument that will play.  Again I used the clone blocks to make lots of bubbles!
+What did you like most about your project? I like the bubble graphic which I found with a quick search on Scratch.  Thanks to @naimora for a beautifully drawn bubble!  What would you do with it next, if you had more time? I would like to have added another costume or 2 to animated the bubble popping. ","Move the cursor over the bubbles to hear the notes.  
+If you click the bubbles they will pop!   
+Press the Space Bar to change the instrument-you never know what instrument you will get as it set to random!
+
+Getting Unstuck Day 3: Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category.
+",1294980,https://cdn2.scratch.mit.edu/get_image/project/235779014_480x360.png,2018-07-07T18:48:35.000Z,2018-07-08T22:38:23.000Z,2018-07-07T22:48:43.000Z,20,9,1,0,0,,
+235775581,Gordon_Day 3 Getting Unstuck,just playing with sound.,Click flag to run program,18900622,https://cdn2.scratch.mit.edu/get_image/project/235775581_480x360.png,2018-07-07T17:36:57.000Z,2018-07-07T18:11:30.000Z,2018-07-07T18:11:30.000Z,5,2,1,0,0,,
+235782025,Musical Fish - Challenge #3,"This was based on the scratch challenge #3 -- to add music through the ""make note"" block.",All is lovely under the sea... or is it?,34185712,https://cdn2.scratch.mit.edu/get_image/project/235782025_480x360.png,2018-07-07T19:55:34.000Z,2018-07-07T23:32:31.000Z,2018-07-07T23:32:30.000Z,5,2,1,0,0,,
+235789811,Unstuck Day 3,,,8448794,https://cdn2.scratch.mit.edu/get_image/project/235789811_480x360.png,2018-07-07T23:21:12.000Z,2018-07-07T23:32:38.000Z,2018-07-07T23:32:37.000Z,6,3,1,0,0,,
+235790469,Day 3:Let's jam!,,"1. Click the green flag.
+2. Listen to the cat play the guitar by clicking on it. 
+3. Press any key to stop the music.",14143361,https://cdn2.scratch.mit.edu/get_image/project/235790469_480x360.png,2018-07-07T23:38:30.000Z,2018-07-07T23:49:20.000Z,2018-07-07T23:48:02.000Z,6,2,1,0,0,,
+235790063,Getting Unstuck Day 3,,Drag (i.e. left mouse click and hold) the cat onto the keys to make a note.,18198558,https://cdn2.scratch.mit.edu/get_image/project/235790063_480x360.png,2018-07-07T23:27:46.000Z,2018-07-07T23:57:53.000Z,2018-07-07T23:53:03.000Z,7,3,1,0,0,,
+235789588,Day 3 Unstuck Music Notes,I looked for the notes for part of mary had a little sheep off another project.  I liked that they recorded their own bah noise so I did the same and made my own sprite and tried to time it to change to the notes.  I used trial and error with the wait blocks but there must be a better way maybe putting the change size after each note but that seems repetitive.,"Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. For example, you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note. What triggers the playing? What happens while the notes are playing? ",20446522,https://cdn2.scratch.mit.edu/get_image/project/235789588_480x360.png,2018-07-07T23:15:07.000Z,2018-07-08T00:07:05.000Z,2018-07-08T00:07:05.000Z,12,3,1,0,0,,
+235791451,Day 3-Make Music with play block- Wind instruments,"This is day 3 of getting unstuck to have scratch make music using the play script. I created my ""wind instruments"" to have different visual effects and sounds when clicked. I would like create a script where they all play at the same time - click? variable? or a broadcast.",,16509596,https://cdn2.scratch.mit.edu/get_image/project/235791451_480x360.png,2018-07-08T00:03:38.000Z,2018-07-18T01:18:05.000Z,2018-07-08T00:30:28.000Z,21,6,1,0,0,,
+235792652,Unstuck Day 3,I would love to know how to get the piano and trumpet to play different notes each time they are pressed.  Can anyone help me?,Just click on the different instruments to play.,24826697,https://cdn2.scratch.mit.edu/get_image/project/235792652_480x360.png,2018-07-08T00:32:31.000Z,2018-07-08T00:52:44.000Z,2018-07-08T00:43:13.000Z,7,2,1,0,0,,
+235793354,Day 3,,,24884035,https://cdn2.scratch.mit.edu/get_image/project/235793354_480x360.png,2018-07-08T00:47:23.000Z,2018-07-08T00:50:53.000Z,2018-07-08T00:50:52.000Z,15,3,1,0,0,,
+235771271,Getting Unstuck day 3: Piano Happy birthday,,,25859435,https://cdn2.scratch.mit.edu/get_image/project/235771271_480x360.png,2018-07-07T16:08:19.000Z,2018-07-08T00:54:57.000Z,2018-07-07T16:09:37.000Z,23,7,3,0,0,,
+235790642,More Cowbell!,"This project is for Getting Unstuck: Day 3 and focuses on the ""play note"" block. For some reason, this old Saturday Night Live skit came to mind, so I thought it would be fun to interactively click Will Farrell's cowbell during the intro to Blue Oyster Cult's ""Don't Fear the Reaper."" One problem I'm having is that the guitar and bass go out of sync after a while, even though the total number of beats and rests are identical. Hopefully I can fix that. I might also add more lines from Christopher Walken.","Click the green flag to start. Once you hear the ""Don't Fear the Reaper"" opening riff, wait for the right moment to click the cowbell. You will, of course, be reminded to provide MORE COWBELL.",17801875,https://cdn2.scratch.mit.edu/get_image/project/235790642_480x360.png,2018-07-07T23:43:31.000Z,2018-07-08T01:04:32.000Z,2018-07-08T01:04:32.000Z,17,9,2,0,0,,
+235793870,Getting Unstuck: Day 3,"Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category.",Click on the piano keys to play music.,86693,https://cdn2.scratch.mit.edu/get_image/project/235793870_480x360.png,2018-07-08T00:58:45.000Z,2018-07-10T11:06:58.000Z,2018-07-08T01:14:39.000Z,8,3,1,0,0,,
+235789612,Unstuck Day 3 - Dancing Girl,"Challenge: Explore playing a musical instrument with the play note block.
+It was fun trying to match the dance to the music. I would like to make a better song and try different instruments.
+
+Update: I added an introduction sign. I added new code for the song ""I Could Have Danced All Night."" It's a little rough still. I also randomized the instrument and added applause at the end.",Click the flag to begin the music and dancing.,10715270,https://cdn2.scratch.mit.edu/get_image/project/235789612_480x360.png,2018-07-07T23:15:48.000Z,2018-07-28T15:08:00.000Z,2018-07-08T01:15:42.000Z,5,2,1,0,0,,
+235794050,Mary and her little lamb,"This was the most fun project so far.  I'm a piano player, so it was fun to see how the music I knew would translate into computer code.",Start by pressing green flag.,34205973,https://cdn2.scratch.mit.edu/get_image/project/235794050_480x360.png,2018-07-08T01:02:23.000Z,2018-07-08T01:16:15.000Z,2018-07-08T01:14:45.000Z,8,2,1,0,0,,
+235795106,Challenge3Music,"This is an AP Chemistry quiz on pH. Each note is connected to a pH. I'm not a music person, so the notes are kind of odd, but they work.",This is a chemistry quiz. The notes on the piano correspond to a pH value. The quiz gives 10 questions. Clicking on a pH plays the note for that pH and tells you whether you are right or wrong. ,2190314,https://cdn2.scratch.mit.edu/get_image/project/235795106_480x360.png,2018-07-08T01:25:52.000Z,2018-07-08T11:13:17.000Z,2018-07-08T01:26:57.000Z,15,2,1,0,0,,
+235795273,LightLogo Colors and Sounds,"Scratcher https://scratch.mit.edu/users/jjburker/ made the original project by generating 60,000 random number with LightLogo and importing the csv of them into Scratch to be represented as colors.
+I just put in a random instrument and added the note block so it plays a note based on the color each time!","Click the flag. There are over 65,000 colors in the list. It loops back to the beginning when it reaches the end.",214174,https://cdn2.scratch.mit.edu/get_image/project/235795273_480x360.png,2018-07-08T01:29:57.000Z,2018-07-08T01:41:45.000Z,2018-07-08T01:30:17.000Z,13,5,2,0,0,235720085,235720085
+235795052,Unstuck Day 3,,Use the homerow keys to play different notes. One has a surprise. ,266894,https://cdn2.scratch.mit.edu/get_image/project/235795052_480x360.png,2018-07-08T01:24:49.000Z,2018-07-08T01:44:13.000Z,2018-07-08T01:41:54.000Z,8,2,1,0,0,,
+235783028,Getting Unstuck Day 3 - Ukulele,"I am so proud of this project! 
+The first time I taught using Scratch was during our sound unit. During this sound unit we typically show students a youtube video of vibrating strings on a guitar while a song is being played. This program is inspired by these youtube videos and programs designed by StephanieLing and angiulina84 for Getting Unstuck Day 3.",Start the program by clicking on the green flag. Then move the red pick to each ukulele string and click to play the note.,22156688,https://cdn2.scratch.mit.edu/get_image/project/235783028_480x360.png,2018-07-07T20:18:38.000Z,2018-07-08T02:00:57.000Z,2018-07-08T01:37:58.000Z,16,9,4,0,0,,
+235795234,Unstuck Day 3,I made use of the 'backpack' to copy the code from one star to the next.,Click the green flag for directions.,11305008,https://cdn2.scratch.mit.edu/get_image/project/235795234_480x360.png,2018-07-08T01:28:52.000Z,2018-07-10T01:07:49.000Z,2018-07-08T02:12:46.000Z,13,6,1,0,0,,
+235776611,#GettingUnstuck Day 3,"I really liked this project. It was not too easy nor too hard. I had prior experience with some of the codes, so I was able to apply those codes to this project. ",Click the green flag to start the action. Then click on the birthday cake to begin the music.,18062705,https://cdn2.scratch.mit.edu/get_image/project/235776611_480x360.png,2018-07-07T17:57:33.000Z,2018-07-08T02:31:11.000Z,2018-07-08T02:29:05.000Z,5,2,1,0,0,,
+235797337,Colour Piano - Getting Unstuck Day 3,"At first, I was going to have a bunch of different sprites because maybe they would change colours, but I changed my mind and went with one sprite to move along and stamp the different colours. ","Click the green flag and watch the ball move around the screen when it touches a different colour, a different note will play.  
+
+Enjoy!!",19641362,https://cdn2.scratch.mit.edu/get_image/project/235797337_480x360.png,2018-07-08T02:17:53.000Z,2018-07-08T02:42:39.000Z,2018-07-08T02:40:12.000Z,20,8,2,0,0,,
+235768319,Getting Unstuck Day 3: Xantolo ,"This projects is based in a Mexican tradition in the city of Tempoal, Veracruz, México. It is celebrated on the Day of the Dead, November 2nd. People wear masks and dance all night as they say wearing masks will fool the Death so it doesn't take their soul. This is part of a research project with my students. 
+
+Definitely this is my weak side. I'm a terrible musician so I just experimented with changing notes randomly. What I would change in my project is to at least simulate in simple notes the real music you can hear at the end :D
+
+Music: ","Play the Green flag and enjoy the show.
+
+",32493591,https://cdn2.scratch.mit.edu/get_image/project/235768319_480x360.png,2018-07-07T15:10:18.000Z,2018-07-08T02:47:52.000Z,2018-07-08T02:47:52.000Z,16,5,1,0,0,,
+235759051,abstract sequencer,,Space bar resets the scrolling bars. Move the smaller rectangles to change notes.,19031046,https://cdn2.scratch.mit.edu/get_image/project/235759051_480x360.png,2018-07-07T11:49:29.000Z,2018-07-08T15:15:12.000Z,2018-07-08T02:51:56.000Z,13,6,2,0,0,,
+235796793,Happy Birthday (Getting Unstuck Day 3),,Click the green flag for a birthday song.,34198395,https://cdn2.scratch.mit.edu/get_image/project/235796793_480x360.png,2018-07-08T02:04:42.000Z,2018-07-15T04:19:00.000Z,2018-07-08T02:58:35.000Z,8,4,2,0,0,,
+235799438,Getting Unstuck Day 3 - Musical Flowers,"I reused the project from Day 2 for this... Have not really used the play notes block before, so this is kind of fun... but not too fun when the pitch goes to the extreme high end. Felt like my monitor would crack ","Getting Unstuck Day 3
+
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. For example, you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note. What triggers the playing? What happens while the notes are playing? ",31281136,https://cdn2.scratch.mit.edu/get_image/project/235799438_480x360.png,2018-07-08T03:11:55.000Z,2018-07-08T03:39:11.000Z,2018-07-08T03:26:48.000Z,7,3,1,0,0,,
+235795105,Faucet tune,"This project responds to the prompt for Getting Unstuck:  Day 3:  ""Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. For example, you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note. What triggers the playing? What happens while the notes are playing?'""  I decided to take it in a slightly different direction, using faucets rather than instrument sprites.
+
+Today's strategy was ""Take a Break.""  I started with a concept, but didn't know in which way to take it.  I let my ideas ""percolate"" until the end of the day, and then they flowed easily (pun intended!).
+
+Faucet image:  www.pixabay.com","Click on the green arrow to start, then use the up arrow and down arrow to hear the tune!",527557,https://cdn2.scratch.mit.edu/get_image/project/235795105_480x360.png,2018-07-08T01:25:51.000Z,2018-07-08T04:00:45.000Z,2018-07-08T03:27:45.000Z,9,3,1,0,0,,
+235796138,Day 3: That Red Red Robin Song,"I got the gifs on the internets!  I used sheet music to get the song. 
+
+I learned about the range of the notes and how to choose a key that includes all the scratch notes.  I also learned about tempo!!!  #HardFun",Just click on the green flag and enjoy!,27658530,https://cdn2.scratch.mit.edu/get_image/project/235796138_480x360.png,2018-07-08T01:49:47.000Z,2018-07-08T04:43:51.000Z,2018-07-08T04:42:08.000Z,14,7,2,0,0,,
+235762541,Getting Unstuck:Day 3 - Play Notes,"Background picture of Switzerland:
+Dennis Jarvis from Halifax, Canada",Click green flag and see the lambs sing a song for you.,17257831,https://cdn2.scratch.mit.edu/get_image/project/235762541_480x360.png,2018-07-07T13:13:04.000Z,2018-07-08T04:47:45.000Z,2018-07-08T04:46:20.000Z,12,6,2,0,0,,
+235767042,Getting Unstuck Day #3,,Click the green flag to start. Click the red stop sign to stop.,17824064,https://cdn2.scratch.mit.edu/get_image/project/235767042_480x360.png,2018-07-07T14:45:20.000Z,2018-07-08T05:09:24.000Z,2018-07-08T04:29:34.000Z,8,2,1,0,0,,
+235802201,Getting Unstuck: Day 3,,Click on an ocean animal to play sounds. ,9505598,https://cdn2.scratch.mit.edu/get_image/project/235802201_480x360.png,2018-07-08T04:33:23.000Z,2018-07-08T05:05:10.000Z,2018-07-08T05:04:35.000Z,8,2,1,0,0,,
+235771035,Getting Unstuck: Day 3,"Getting Unstuck: Day3
+Challenge: Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. For example, you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note. What triggers the playing? What happens while the notes are playing? 
+
+Music: ""Musica Jazz Allegra Per Ritrovare Il Buonumore"" on Youtube.
+I try for the first time to use the ""play note"" block in the Sound category. Funny!",Do you like jazz music? Click the green flag.,17615581,https://cdn2.scratch.mit.edu/get_image/project/235771035_480x360.png,2018-07-07T16:04:09.000Z,2018-07-22T15:03:57.000Z,2018-07-09T09:20:57.000Z,3,0,0,0,0,,
+235804041,Musical Spinner,"Today I was stuck. I've spent a lot of time deciding what to do, and went back and forth among multiple projects ideas. Maybe it was also because it was late at night and I was exhausted and jetlagged. But I really didn't want to break the chain! So I had a look to the strategies on the website and choose to ""make a small goal today"".
+
+I already had the pinwheel spinning project, so I decided to add the sound playing with the tempo and the pitch of the notes, according to the spinning speed. If I had more time I would tinker more with tempo, notes and instrument to make it sound better.
+
+Enjoy!",Click multiple times on the pinwheel to make it spin and make music!,2286560,https://cdn2.scratch.mit.edu/get_image/project/235804041_480x360.png,2018-07-08T05:30:31.000Z,2018-07-19T01:49:12.000Z,2018-07-08T06:12:38.000Z,16,8,3,0,0,,
+81506118,Banana Piano,"I'm a teacher who's trying to learn as much Scratch as some of my 6th graders know.  I'm also introducing them to the use of littleBits (http://littlebits.cc). Watch my sons use bananas to try and play this game: https://youtu.be/8D4JgkU6JWU
+You can easily remix this game to change the sounds, colors, effects, and if you have a MakeyMakey, keys. The littleBits MakeyMakey only offers three keys as far as I know.
+
+I used this as part of my #GettingUnstuck Day 3 challenge because I'm a day behind and thought I'd catch up by using an existing Scratch program of mine.","If you want to play this game, you can just click the green flag to start and use the left and right arrows and the space bar to make crazy colors, effects, and random sounds.
+This was intended however to explore some of the ways to use the MakeyMakeyBit from littleBits. This bit allows you to touch any conductive surface instead of the keys. Check the videos in the credits to see my sons playing this game with bananas.",4737145,https://cdn2.scratch.mit.edu/get_image/project/81506118_480x360.png,2015-10-10T05:33:49.000Z,2018-07-08T06:24:01.000Z,2015-10-11T00:12:48.000Z,112,6,2,0,0,,
+235804742,Unstuck 3,,you can play notes with the up and down arrow,1072279,https://cdn2.scratch.mit.edu/get_image/project/235804742_480x360.png,2018-07-08T05:52:12.000Z,2018-07-08T06:55:33.000Z,2018-07-08T06:43:04.000Z,5,2,1,0,0,,
+235807566,Unstuck 3,I liked to mix up many blocks to create something that expressed how I perceive music,"Press Space to start
+Premi il tasto spazio per iniziare",13846307,https://cdn2.scratch.mit.edu/get_image/project/235807566_480x360.png,2018-07-08T07:09:01.000Z,2018-07-10T06:38:41.000Z,2018-07-08T07:24:37.000Z,8,4,1,0,0,,
+235789543,Duet,"Getting unstuck #Day 3
+
+Credits: These lion drawings were inspired by Ian Dutton's lion print which I saw in a book, ""Print & Pattern Kids Bowie Style"" 2013 on pg 138. 
+http://www.ianduttondesigns.com
+
+I had fun drawing the lions and making this project. ","Click green flag to start.
+
+Click stage to get the lions to play their instruments.",158902,https://cdn2.scratch.mit.edu/get_image/project/235789543_480x360.png,2018-07-07T23:14:04.000Z,2018-07-09T21:25:13.000Z,2018-07-08T07:23:49.000Z,23,5,1,0,0,,
+235807742,Getting Unstuck: Day 3,"Questa volta è stata dura. Non avevo mai usato i blocchi musica e non riuscivo a capire in che maniera poter creare un progetto. Ho provato a guardare gli altri progetti, ma non essendo esperta di musica li ho trovati difficili da poter remixare. Spero nella prossima sfida.",Clicca la bandierina verde e segui le istruzioni.,10086796,https://cdn2.scratch.mit.edu/get_image/project/235807742_480x360.png,2018-07-08T07:13:47.000Z,2018-07-08T07:46:08.000Z,2018-07-08T07:40:54.000Z,5,3,1,0,0,,
+235760877,Getting Unstuck: Day 3,,Click each frog to help them sing the song (frog's song in Japanese) in rounds :),599612,https://cdn2.scratch.mit.edu/get_image/project/235760877_480x360.png,2018-07-07T12:33:05.000Z,2018-07-07T22:10:49.000Z,2018-07-07T22:08:06.000Z,9,3,1,0,0,,
+235807333, Getting Unstuck: Day 3,,"Balloons are C, D, E, ...and C' notes.
+(From left to right.)
+
+They sound when hitting the
+red line above.
+
+Pop them with the left mouse click.
+(Continuously press = multi pop.)
+
+Spacebar = pause the balloon flood.",26997619,https://cdn2.scratch.mit.edu/get_image/project/235807333_480x360.png,2018-07-08T07:02:10.000Z,2018-07-08T10:25:35.000Z,2018-07-08T08:20:38.000Z,9,3,2,0,0,,
+235807755,SIMON,Reto 3: Hacer un juego utilizando algun bloque de sonido.,"Juego de Simon. Repite los colores en el mismo orden.
+Pulsa la bandera para empezar.
+
+Falta aumentar nivel de dificultad.
+Falta logaritmo para cuando pierdes.
+Falta contador.",26161450,https://cdn2.scratch.mit.edu/get_image/project/235807755_480x360.png,2018-07-08T07:14:10.000Z,2018-07-08T11:50:16.000Z,2018-07-08T08:29:47.000Z,13,4,1,0,0,,
+235772421,Getting Unstuck Day 3,"Everything set at random, so different result every time you press the green flag!
+
+I started just doodling with sound blocks and random numbers. Then I though about something I'd seen in a Sonic Pi tutorial where you restart the random number generator to create a repeating sequence to give a repeating rhythm. I like Scratch Cat so for visuals I just keyed Size to the pitch. I ran out of time, but would like to find ways to make the note sequence more musical.","Getting Unstuck Day 3
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. For example, you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note. What triggers the playing? What happens while the notes are playing? ",2314547,https://cdn2.scratch.mit.edu/get_image/project/235772421_480x360.png,2018-07-07T16:31:17.000Z,2018-07-08T21:25:41.000Z,2018-07-08T09:04:46.000Z,10,2,1,0,0,,
+235806758,Day 3 - Getting Unstuck,"Stars from:
+
+Stella Maris Trio
+www.stellamaristrio.com
+Stella Maris Trio is an ensemble formed by three professional musicians living in Devon and Somerset. ","Move your mouse quickly. Click to change petals' colours.
+
+Random 
+- rhythms and notes 
+- instruments
+- petals and stars",26079479,https://cdn2.scratch.mit.edu/get_image/project/235806758_480x360.png,2018-07-08T06:47:29.000Z,2018-07-24T22:22:03.000Z,2018-07-08T09:32:57.000Z,16,6,2,0,0,,
+235813583,Drum Solo Cacophony,"This took me a whole day to think of! Music and the beat aren't things I am good at! It usually takes me a lot of mental effort to even clap to the beat with a crowd! So making any scratch projects that include music isn't something I generally think about. I know plenty of my students are interested in it though, so I really need to keep it in mind. ","Click the green flag, give scratch a second to collect his thoughts, then start music! Whenever Scratch is touching a drum, it will play, and he can add to the background music!",22706156,https://cdn2.scratch.mit.edu/get_image/project/235813583_480x360.png,2018-07-08T09:42:27.000Z,2018-07-08T09:59:28.000Z,2018-07-08T09:57:16.000Z,7,3,1,0,0,,
+235791682,Play the Stage,"I created this project in response to Challenge #3 in the ""Getting Unstuck"" initiative from the ScratchEd Team https://gettingunstuck.gse.harvard.edu
+
+The core of the program includes calculations for ""scaling"" the x and y positions of the mouse to the appropriate inputs for the pitch and instrument of the note. Also, I created a list of midi-notes so that the notes would be constrained to the white keys on the piano keyboard (a major scale). See the comments in the code for an explanation of how I did the calculations for the scaling.","Click on the stage to hear a musical note. As you move left and right (x position), the pitch changes. As you move up and down (y position), the instrument changes.
+
+To explore the space of possible notes and instruments, hold down the mouse button as you move the mouse around the stage.",167,https://cdn2.scratch.mit.edu/get_image/project/235791682_480x360.png,2018-07-08T00:08:56.000Z,2018-07-08T17:39:25.000Z,2018-07-08T10:14:14.000Z,124,16,9,0,0,,
+235815013,Play the Stage remix,"Thanks @mres for music algorithm based on screen coordinates. Here instead of moving the mouse to generate notes, a polygon with random side and angle is drawn and played.",Click on the stage to hear musical notes while the Scratch cat draws a polygon.,214,https://cdn2.scratch.mit.edu/get_image/project/235815013_480x360.png,2018-07-08T10:20:10.000Z,2018-07-08T10:55:30.000Z,2018-07-08T10:50:07.000Z,16,4,4,0,0,235791682,235791682
+235787146,Day 3: The musical elephant,"With this project I got truly stuck and started over multiple times! It's still not fully working how I wanted it to, BUT it's pretty close to what I planed and I got unstuck! ;) 
+",,24957617,https://cdn2.scratch.mit.edu/get_image/project/235787146_480x360.png,2018-07-07T22:07:45.000Z,2018-07-08T12:24:45.000Z,2018-07-08T09:30:59.000Z,10,2,1,0,0,,
+235817588,unstuck3_RandomTune,"I tried changing pitch to y position of bat
+The math got a bit tricky
+So its a random tune instead
+
+there is a weird glitch when close to edge 
+but it makes an interesting noise.
+And Bat freezes sometimes",Use Arrow keys to move bat,17651534,https://cdn2.scratch.mit.edu/get_image/project/235817588_480x360.png,2018-07-08T11:29:06.000Z,2018-07-08T11:41:38.000Z,2018-07-08T11:35:05.000Z,9,3,2,0,0,,
+235815816,Uke Tuner - Getting Unstuck 3,"Look! A useful thing! Well sorta...
+
+Still left to figure out: make sound and graphic happen together rather than sequentially.",Click on the string to hear the note!,34228007,https://cdn2.scratch.mit.edu/get_image/project/235815816_480x360.png,2018-07-08T10:42:22.000Z,2018-07-08T11:40:17.000Z,2018-07-08T11:15:26.000Z,16,3,1,0,0,,
+235816437,Day 3 - Yellow Submarine,"I am not musically inclined and had no idea what I would do for this day, but decided to try to play Yellow Submarine. It still needs a little tweaking and it'd be cool to add a drum beat, but not too bad for my first try, I think! Again, it was SO much fun!",Just click on the green flag to hear Yellow Submarine,31044612,https://cdn2.scratch.mit.edu/get_image/project/235816437_480x360.png,2018-07-08T11:00:52.000Z,2018-07-08T12:42:10.000Z,2018-07-08T12:24:00.000Z,12,5,1,0,0,,
+235790210,TheChase,,Press the Green Flag to Start!,10859938,https://cdn2.scratch.mit.edu/get_image/project/235790210_480x360.png,2018-07-07T23:31:07.000Z,2018-07-08T12:59:41.000Z,2018-07-08T12:37:30.000Z,7,3,1,0,0,,
+235782416,Getting Unstuck - Day 3 - My Piano,,,5400214,https://cdn2.scratch.mit.edu/get_image/project/235782416_480x360.png,2018-07-07T20:04:18.000Z,2018-07-07T21:16:33.000Z,2018-07-07T21:16:32.000Z,13,3,1,0,0,,
+235820966,ballerina ,,,16804071,https://cdn2.scratch.mit.edu/get_image/project/235820966_480x360.png,2018-07-08T12:53:25.000Z,2018-07-08T13:25:50.000Z,2018-07-08T13:21:38.000Z,5,2,1,0,0,,
+235701444,Getting Unstuck Day 3: the opera,"My favorite part about this project was figuring out how to make the bell continue to move while the notes went down! Next, I've added more instruments to see how to make a harmony!
+
+I love how you can turn anything into a story here. We started wanting to play with harmonies and then got ourselves here!","Press the bell to start!
+...Wait for it!!",24267830,https://cdn2.scratch.mit.edu/get_image/project/235701444_480x360.png,2018-07-06T16:49:07.000Z,2018-07-09T01:24:54.000Z,2018-07-08T14:00:08.000Z,18,3,1,0,0,,
+235826600,Getting unstuck day 3: It's coming home,"Getting unstuck day 3
+
+I enjoy using music blocks in my activities and it seemed timely to create a musical football project","Click on one of the three instruments 
+
+It's coming home!! ",3284151,https://cdn2.scratch.mit.edu/get_image/project/235826600_480x360.png,2018-07-08T15:07:21.000Z,2018-07-10T15:05:01.000Z,2018-07-08T15:19:57.000Z,38,6,2,0,0,,
+235792107,Play the piano Day 3 Getting Unstuck ,"Getting Unstuck Day 3: Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category",Click on the green flag and read the balloons,8789156,https://cdn2.scratch.mit.edu/get_image/project/235792107_480x360.png,2018-07-08T00:19:30.000Z,2018-08-01T20:04:52.000Z,2018-07-08T00:51:01.000Z,10,3,1,0,0,,
+235828654,Unstuck 3: Music Make You Crazy,,,25417130,https://cdn2.scratch.mit.edu/get_image/project/235828654_480x360.png,2018-07-08T15:55:24.000Z,2018-07-08T16:25:03.000Z,2018-07-08T16:25:01.000Z,7,2,1,0,0,,
+235828881,Visual Song (Getting Unstuck 3 and 4),"Really don't know anything about music: i let the computer invent a random sequence of notes for me.
+It has been a really random exploration of sound and effects, I will come back later and try to learn more about tempo, beats and so on :)",Press the arrow keys to find out what effects they produce!,2417641,https://cdn2.scratch.mit.edu/get_image/project/235828881_480x360.png,2018-07-08T16:01:09.000Z,2018-07-09T05:18:47.000Z,2018-07-08T16:44:46.000Z,17,5,1,0,0,,
+235830889,Unstuck Day 3 - Play Note Block,"I thought about adding the x coordinate as well. Actually tested this out, but with both going on it was difficult to distinguish sounds. Also thought about adding a keystroke to switch between Y and X values.
+
+This project helped me to realize that Scratch can be such a terrific simulator for science and math applications if you plan it well.
+
+Much to add here potentially. Allow for adjustment of volume, speed of ball (by adjusting beat value), gravity effect, more.","Challenge:
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. 
+
+Click the flag to begin. A random instrument will play and its tone will change based on the height of the ball. 
+
+Click on the ""i"" key to change to another random instrument.",25286049,https://cdn2.scratch.mit.edu/get_image/project/235830889_480x360.png,2018-07-08T16:50:03.000Z,2018-07-15T15:43:03.000Z,2018-07-08T17:12:06.000Z,4,1,1,0,0,,
+235833219,Fiori musicali,"Ho apportato lievi modifiche al progetto originale per ottenere figure meno regolari, lasciare un po' di spazio al caso e rendere il cambio di colore più marcato. Ho anche spostato alcune istruzioni all'interno della funzione che disegna il fiore.
+Ho aggiunto i suoni come richiesto da #gettingunstuck3
+
+Grazie a Papami-chan, @MoonCrater, @zeluano, @amaexpert","Clicca sulla bandierina verde, poi muovi il mouse e clicca per disegnare i fiori; usa i tasti freccia destra e sinistra per modificare i colori; premi la barra di spazio per cancellare tutto. Quando viene disegnato il fiore vengono emesse note musicali casuali
+",17698999,https://cdn2.scratch.mit.edu/get_image/project/235833219_480x360.png,2018-07-08T17:41:21.000Z,2018-07-08T17:50:51.000Z,2018-07-08T17:50:51.000Z,22,4,2,0,0,149839739,149839739
+235833992,"Day Three - Random Sounds, Random Strokes","I got the idea from looking at 5Bics1's creation, Fiori Musicali","I decided that I wanted to play random notes, each time, a pen draws. 
+
+Once I get better at this, maybe I can draw real shapes with music.",10309968,https://cdn2.scratch.mit.edu/get_image/project/235833992_480x360.png,2018-07-08T17:58:45.000Z,2018-07-08T18:08:43.000Z,2018-07-08T18:05:47.000Z,10,1,1,0,0,,
+235837682,Getting Unstuck  Day 3,"Made for Getting Unstuck Day 3.
+Music has never been a strong point and it often intimidated me when I was younger, so this project was a challenge.
+I decided to use maths to alter the note played, allowing the user to create a different note by interacting with the project.
+
+I wonder if it's possible to add more instruments?","Click the green flag.
+Use the up or down arrow keys to move Scratch up and down.
+What do you notice about the note produced?",287832,https://cdn2.scratch.mit.edu/get_image/project/235837682_480x360.png,2018-07-08T19:20:15.000Z,2018-07-08T19:46:22.000Z,2018-07-08T19:45:43.000Z,7,2,1,0,0,,
+235732500,Unstuck Day 3 - Music,"I suspect this is the first of many ""late"" projects as I am in the mountains of NC and internet is spotty at best! 
+
+I wanted to make something that was somewhat controlled and somewhat random. I got stuck and started over a few times on this one, and am not super happy with the end result, but it could turn into something great in another version!",,7902,https://cdn2.scratch.mit.edu/get_image/project/235732500_480x360.png,2018-07-07T02:02:22.000Z,2018-07-08T20:12:23.000Z,2018-07-08T20:08:28.000Z,15,2,1,0,0,,
+235839899,musicball,,Just press the green flag,11482292,https://cdn2.scratch.mit.edu/get_image/project/235839899_480x360.png,2018-07-08T20:13:17.000Z,2018-07-08T21:05:21.000Z,2018-07-08T21:03:55.000Z,10,2,1,0,0,,
+235842212,Play Note,,,25706025,https://cdn2.scratch.mit.edu/get_image/project/235842212_480x360.png,2018-07-08T21:12:41.000Z,2018-07-08T21:24:09.000Z,2018-07-08T21:24:09.000Z,6,1,1,0,0,,
+235842133,Drum set,"For this project, I used When This Sprite Clicked for each instrument and associated a sound with each. I didn't spend as time on this as the previous two projects because no motion or sensing of sprites was involved.",Click on the instruments to hear their sound.,34179488,https://cdn2.scratch.mit.edu/get_image/project/235842133_480x360.png,2018-07-08T21:10:11.000Z,2018-07-08T21:32:15.000Z,2018-07-08T21:32:15.000Z,6,1,1,0,0,,
+235840615,Getting Unstuck: Day 3,The code I used for the chords is code we used with students when they designed an instrument and then coded the instrument to play with a Makey Makey board.  I tried adding 3 instruments and wanted to be able to have each instrument play its own sound.  I am still working on that part of the code.,"To play the various chords press and hold the following letters for each chord and then the numbers 1-6 for the notes.
+
+Chord A press the letter a while tapping the 2-6 number keys
+Chord C press the letter c while tapping the 2-6 number keys
+Chord D press the letter d while tapping the 3-6 number keys
+Chord E press the letter e while tapping the 1-6 number keys
+Chord G press the letter g while tapping the 1-6 number keys
+
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. For example, you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note. What triggers the playing? What happens while the notes are playing? ",25043750,https://cdn2.scratch.mit.edu/get_image/project/235840615_480x360.png,2018-07-08T20:32:05.000Z,2018-07-08T21:47:21.000Z,2018-07-08T20:32:59.000Z,2,1,1,0,0,,
+235843037,03 Getting Unstuck - Music,I am not musical and I don't play the piano as I am sure you can tell from this project!  :P,"Play the keyboard piano and watch the animals dance!
+
+Use keys A, S, D, F & E, R, T (left hand) and H, J, K, L & Y, U (right hand).",5401184,https://cdn2.scratch.mit.edu/get_image/project/235843037_480x360.png,2018-07-08T21:33:47.000Z,2018-07-08T21:54:55.000Z,2018-07-08T21:53:00.000Z,5,2,1,0,0,,
+235842570,Dance party ,"Pretty proud of this one. Only thing I can't fix is the order of the arrows. It seems you can only press them in order of Up, Down, Right, Left. ",Press the green flag. Use the arrows to change the party scene and the music!,34227265,https://cdn2.scratch.mit.edu/get_image/project/235842570_480x360.png,2018-07-08T21:21:53.000Z,2018-07-08T21:58:40.000Z,2018-07-08T21:58:40.000Z,5,2,1,0,0,,
+235846077,Music Note,,Move the mouse over a bar to play a note.,32833725,https://cdn2.scratch.mit.edu/get_image/project/235846077_480x360.png,2018-07-08T22:54:04.000Z,2018-07-08T23:09:20.000Z,2018-07-08T23:09:20.000Z,14,5,0,0,0,,
+230482936,Frere Jacques remix,Day 3 Getting Unstuck.  This is a project that I was working in scratch from a class I took.  I changed it a little and saved it here to share.,Click on each instrument to hear a song.,33988811,https://cdn2.scratch.mit.edu/get_image/project/230482936_480x360.png,2018-06-25T13:22:16.000Z,2018-07-09T01:11:08.000Z,2018-06-25T13:22:18.000Z,5,0,0,0,0,118349633,118349633
+235850098,Getting Unstuck Day 3,"I got my inspiration from my son's Baby Einstein Piano book and one of my favorite tunes from playing the flute in high school, Ode to Joy. 
+The notes are a little weird and I will continue to tweek them - I do not have the most musical ear.
+I liked this project. I made it simple with the music being the centerpiece with some information along the way. ",Click green flag for the song to start.,24781756,https://cdn2.scratch.mit.edu/get_image/project/235850098_480x360.png,2018-07-09T00:22:56.000Z,2018-07-09T01:19:40.000Z,2018-07-09T01:09:52.000Z,6,0,0,0,0,,
+235846287,Unstuck - Day 3,"When I first read this challenge, I was immediately excited!  I have been wanting to sit and compose an electronic piece of music using Scratch, but never really sat down to do it.  I took the ending line from a song that has sentimental value to me and my family and arranged it using Scratch.  I assigned the Scratch Cat the soprano line and gave Giga the descant.  My daughter helped out (and practiced her music reading skills) by reading off the notes to me while I coded them.  When we finished, we experimented with the instruments and adjusted the tempo.  Not bad for our first attempt with creating harmony.  In the future we'll play around with changing the tempo at the end and adjusting the volume level of each voice.
+
+""My Home Among the Hills"" was written by E.W. James.
+
+My Home Among the Hills Picture: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiv1omt75DcAhUSU98KHarxDVoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZDZeioiCHWY&psig=AOvVaw0Y2lYM0o-vchFI9Y84YTmE&ust=1531186230932837
+
+",Click the green flag for music!,2456527,https://cdn2.scratch.mit.edu/get_image/project/235846287_480x360.png,2018-07-08T22:59:56.000Z,2018-07-09T02:04:48.000Z,2018-07-09T02:04:47.000Z,2,0,0,0,0,,
+235858795,Getting Unstuck - Day 3,"Inspired by Young the Giant's hit single ""Cough Syrup"" from their self-titled debut album. Some of the times the music didn't line up, even after checking the music score for mistakes. I would go through again to fix the tiny details if I get the time.",Press the green flag and enjoy!,25334812,https://cdn2.scratch.mit.edu/get_image/project/235858795_480x360.png,2018-07-09T03:11:31.000Z,2018-07-09T06:05:09.000Z,2018-07-09T04:03:38.000Z,3,0,0,0,0,,
+235868711,Getting Unstuck - Day 3 (Notes),"I remixed my Day 2 project to include notes, a little randomness, and a bit of color change. The sound kind of reminds me of a psychedelic dystopian scene in a movie... If I had more time, I'd want to create something inspired by that image!
+
+Flower: http://www.pngpix.com/","Click on the green flag, then click on the background to display a flower and play a note every time you click!",2752403,https://cdn2.scratch.mit.edu/get_image/project/235868711_480x360.png,2018-07-09T06:52:46.000Z,2018-07-09T06:57:34.000Z,2018-07-09T06:54:48.000Z,8,0,0,0,0,,
+235866030,Instrument Audition,I had an idea but I'm not sure if was my coding or the software that struggled with the sounds so it's a very simple version.,Each instrument practices its scales when clicked. Can you find the secret song?,30508500,https://cdn2.scratch.mit.edu/get_image/project/235866030_480x360.png,2018-07-09T06:06:53.000Z,2018-07-09T07:19:21.000Z,2018-07-09T07:17:24.000Z,9,1,0,0,0,,
+235870285,Unstuck_3,The loop helped make this song easier to build,This program will play a simple childhood song,9694576,https://cdn2.scratch.mit.edu/get_image/project/235870285_480x360.png,2018-07-09T07:17:45.000Z,2018-07-09T07:23:05.000Z,2018-07-09T07:18:29.000Z,4,0,0,0,0,,
+235873228,day_3,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/235873228_480x360.png,2018-07-09T08:02:44.000Z,2018-07-09T08:41:15.000Z,2018-07-09T08:41:15.000Z,14,0,0,0,0,,
+235883944,Getting Unstuck: Day 3,"Not bad for a theremin, but needs more thought in terms of the sounds",,24912473,https://cdn2.scratch.mit.edu/get_image/project/235883944_480x360.png,2018-07-09T10:41:45.000Z,2018-07-16T16:39:56.000Z,2018-07-09T10:59:56.000Z,4,0,0,0,0,,
+235881698,#GettingUnstuck_3,"I like of this project its colors, and simplicity to make music.
+I´d like to improve time between notes, and It´d better adding costumes to different notes","When Clic ""Green Flag"", select drumstick and use it to play music with the Xilophone",16962202,https://cdn2.scratch.mit.edu/get_image/project/235881698_480x360.png,2018-07-09T10:03:26.000Z,2018-07-09T11:29:04.000Z,2018-07-09T11:19:42.000Z,15,3,0,0,0,,
+235870338,Melody - Getting Unstuck Day 3,"Sprite characters come from the film: Shaun the Sheep.
+Animated character is drawn in Scratch.
+
+","Click on the green flag.
+Small animation with background melody - Mary had a little lamb.
+
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->
+Getting Unstuck: Day 3 - #CreativeComputing
+
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category.
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->",24583107,https://cdn2.scratch.mit.edu/get_image/project/235870338_480x360.png,2018-07-09T07:18:35.000Z,2018-07-09T12:57:20.000Z,2018-07-09T12:48:16.000Z,18,1,0,0,0,,
+138991024,Getting Unsuck - Day 3,During this project I learned about the importance of timing and synchronization.  Using More Blocks to create functions makes the code look less cumbersome.,"Assignment: Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category.
+
+This is a project that I worked on about a year ago, but perfected during this assignment. The Scratch Cat will play the knuckles song that I learned to play as a kid. Easy to play on the piano, but took awhile to figure out on Scratch. ",14400846,https://cdn2.scratch.mit.edu/get_image/project/138991024_480x360.png,2017-01-07T18:29:24.000Z,2018-07-09T12:51:22.000Z,2018-07-09T12:49:29.000Z,11,0,2,0,0,10937523,10937523
+235893938,Getting Unstuck day3,,clic on green flag and enjoy the music!,25103547,https://cdn2.scratch.mit.edu/get_image/project/235893938_480x360.png,2018-07-09T13:00:26.000Z,2018-07-09T14:17:43.000Z,2018-07-09T14:16:51.000Z,8,0,0,0,0,,
+235914416,Noise Machine,"It really threw me off that the numbers used for notes don't correspond to any meaningful musical representation. My initial plan was to map positions to a blues scale, but instead went for the simpler approach of a maping of note values to position.",Move your mouse and make some noise!,1092342,https://cdn2.scratch.mit.edu/get_image/project/235914416_480x360.png,2018-07-09T15:59:32.000Z,2018-07-09T16:07:09.000Z,2018-07-09T16:04:06.000Z,3,0,0,0,0,,
+235917146,Unstuck: Day 3,"Por Filipe Mendes
+#GettingUnstuck",O tambor português,2980392,https://cdn2.scratch.mit.edu/get_image/project/235917146_480x360.png,2018-07-09T16:27:10.000Z,2018-07-09T16:55:19.000Z,2018-07-09T16:54:54.000Z,5,0,0,0,0,,
+235911821,Beach Band Day #3 Getting Unstuck,"What did you like most about your project? I like how Tera slides up and down the bass while it's playing. 
+What would you do with it next, if you had more time?  I would get the drum beat to play for the whole choir part. ",Click the Green arrow. Then click on the bass for more music.,28676433,https://cdn2.scratch.mit.edu/get_image/project/235911821_480x360.png,2018-07-09T15:34:40.000Z,2018-07-09T17:45:25.000Z,2018-07-09T17:42:11.000Z,10,1,0,0,0,,
+235929941,Music!  -- Unstuck Challenge 3,"This took a lot of work and experimenting.  Getting instruments to click on or off with the mouse was a difficult proposition for me.  The final code ended up being much simpler than when I first started.  It became so easy, in fact, that I went back and added more animations.  
+
+I may still go back and and animate the instruments while they are playing.","Click the flag to start
+
+Click the stage to summon the musicians
+
+Click the instruments on or off",11608238,https://cdn2.scratch.mit.edu/get_image/project/235929941_480x360.png,2018-07-09T18:23:55.000Z,2018-07-09T19:27:07.000Z,2018-07-09T19:24:47.000Z,8,0,0,0,0,,
+235929361,Getting Unstuck Day 3 - Piano Man ,"I found this very tricky. 
+Super Mario took some time which is why the end of the tune is not completed.  My son loves Super Mario so was very impressed!
+Any suggestions are very welcome!
+I liked the colours and how the dancer moved.  Writing this code is handy as I have it now to come back to!","Getting Unstuck Day 2
+#CreativeComputing
+#GettingUnstuck
+Click on the dancer to make her move
+Click on each instrument to have it play a series of notes.
+#GettingUnstuck",24864870,https://cdn2.scratch.mit.edu/get_image/project/235929361_480x360.png,2018-07-09T18:19:16.000Z,2018-07-15T15:05:45.000Z,2018-07-09T19:42:01.000Z,7,0,0,0,0,,
+235904518,#creativecomputing Day 3,,,23419026,https://cdn2.scratch.mit.edu/get_image/project/235904518_480x360.png,2018-07-09T14:30:41.000Z,2018-07-09T21:32:58.000Z,2018-07-09T21:32:58.000Z,7,0,0,0,0,,
+235844979,Getting Unstuck Day 3,I really really wanted the sound of a cowbell. But there's not one. The time that took me the longest was putting the letters on the cowbells and getting them in the right place and trying to figure out if there was ANY way to make a cowbell song with instrument. I can't find one.,Getting unstuck - Day 3. This is my rebellions against Scratch for not having a sound of a cowbell. Click on a cowbell and you will get a random instrument for that musical note in the key of middle c to an octave c.,2360384,https://cdn2.scratch.mit.edu/get_image/project/235844979_480x360.png,2018-07-08T22:24:12.000Z,2018-07-09T23:07:30.000Z,2018-07-09T23:02:38.000Z,14,0,0,0,0,,
+235914802,Happy Birthday to You!,"This is the first project I have ever created and finished with my own original idea!  I am so excited to share.  I found it really challenging and rewarding to be in the position of a ""learner"" and ""creator"".  I did get some inspiration from the ""Unstuck"" page. One time I deleted my whole script and had to start over!  I walked away and came back several hours later and recreated it, much faster and much easier the second time around!",Use the letters on the key board to play the tune!,29834388,https://cdn2.scratch.mit.edu/get_image/project/235914802_480x360.png,2018-07-09T16:03:27.000Z,2018-07-09T23:31:29.000Z,2018-07-09T23:27:02.000Z,13,4,0,0,0,,
+235953190,Getting Unstuck Day 3,"To continue with this particular challenge would take some time, and there may be an easier way to do it. I liked that I could put a number of different elements into the project.","Challenge: Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. 
+
+Click the green flag for the beginning of the ""masterpiece""",34245752,https://cdn2.scratch.mit.edu/get_image/project/235953190_480x360.png,2018-07-09T23:54:41.000Z,2018-07-10T00:23:10.000Z,2018-07-10T00:23:10.000Z,7,0,0,0,0,,
+235894098,Getting_Unstuck_Day3,"Reflection:
+This isn't exactly what was asked for but I did play around with sound.
+
+I wanted to have a series of frogs and when you clicked on each frog it played a different note.  But I couldn't find different frog noises and I wasn't able to change the pitch from within Scratch.
+
+The main difficulty I had was trying to get the frogs to sound off together.  It seems that you can't have the one sound starting multiple times.  So used a random start time to at least have the sound happen a couple of times.
+
+If I had time, I would upload a few different sounds so we can have a true chorus!","Frog Chorus!
+
+Click on a frog to have his friends join him on the wall.
+
+But watch out! If there are too many frogs on the wall, the flies might get cranky!!",13763665,https://cdn2.scratch.mit.edu/get_image/project/235894098_480x360.png,2018-07-09T13:02:05.000Z,2018-07-10T00:29:09.000Z,2018-07-10T00:25:11.000Z,15,1,0,0,0,,
+235774542,Ode to Joy,,"Press the green flag twice for best results.
+",4909710,https://cdn2.scratch.mit.edu/get_image/project/235774542_480x360.png,2018-07-07T17:14:02.000Z,2018-07-10T04:52:10.000Z,2018-07-10T02:43:08.000Z,14,4,2,0,0,,
+235975358,Getting Unstuck - Day 3 Activity,"This is my project for Day 3 of the Getting Unstuck programming challenge.
+
+I am sure that there must be a way of using CLONE to have more than one of my notes dropping at the same time to add complexity to my note playing game but I have not yet discovered this. Always more to learn.
+
+Maybe another thing to try would be slowing the drop each time the balloon is played.","Click the green flag to start.
+
+Wave the magic wand over the balloons to play music. The balloons will pop when they reach the bottom of the screen.",15946,https://cdn2.scratch.mit.edu/get_image/project/235975358_480x360.png,2018-07-10T06:37:15.000Z,2018-07-10T07:40:59.000Z,2018-07-10T07:35:57.000Z,4,0,0,0,0,,
+235980913,Getting Unstuck: Day 3,,Clicca sulla bandierina per sentire Smoke on the water,19738986,https://cdn2.scratch.mit.edu/get_image/project/235980913_480x360.png,2018-07-10T07:55:34.000Z,2018-07-14T16:05:22.000Z,2018-07-10T08:12:19.000Z,7,0,0,0,0,,
+235794012,Insomnia - Getting Unstuck day 3,"I didn't get to far trying to explore the world of sound, so resorted to try generative music and stumble on a pair of video using music to explore the digits of PI and the Fibonacci sequence.
+
+I HAD to try to do something in that direction and here there is the awful result. Though after several listenings it still does feel a little weird, I start to appreciate it.
+
+What I would do it I had more time
+=========================
+Lear to play an isntrument, but it is really too time consuming, at present.
+
+","Just press the gree flag and try to enjoy the music (at the end I start to find it a little hypnotic, expecially the Fibonacci section.",2458985,https://cdn2.scratch.mit.edu/get_image/project/235794012_480x360.png,2018-07-08T01:01:34.000Z,2018-07-11T16:36:33.000Z,2018-07-10T09:45:11.000Z,13,1,0,0,0,,
+236007150,Getting Unstuck #3,,,18174236,https://cdn2.scratch.mit.edu/get_image/project/236007150_480x360.png,2018-07-10T13:29:10.000Z,2018-07-10T13:32:43.000Z,2018-07-10T13:32:43.000Z,6,0,0,0,0,,
+236024893,Getting Unstuck #3 magia di suoni,"#GettingUnstuck
+Non sono una musicista, spero di non aver commesso errori e se così fosse chiedo perdono sin da ora. :-)","clicca sulla bandierina verde e buon ascolto.
+",17320587,https://cdn2.scratch.mit.edu/get_image/project/236024893_480x360.png,2018-07-10T15:51:49.000Z,2018-07-10T16:44:51.000Z,2018-07-10T16:42:05.000Z,11,2,1,0,0,,
+236036307,Unstuck3,,Click the green flag and listen to the masterpiece,23449511,https://cdn2.scratch.mit.edu/get_image/project/236036307_480x360.png,2018-07-10T17:40:32.000Z,2018-07-10T18:15:03.000Z,2018-07-10T18:10:31.000Z,8,0,0,0,0,,
+236045457,3 : Starwars ,"Noder found at https://www.noteflight.com/
+
+This is a copy of a project I made last year 
+
+Starwars - played on saxofon and a piano. It took some time to find out that the easiest way to get the two instruments to play together was adding a third sprite (the conductor) who decides when to go on to the next part.","Hør Starwars - spillet på saxofon og klaver. Det tog et par dage at finde den smarteste måde at lave dette projekt på, og jeg lærte rigtigt meget om musik-brikkerne. Efter 1 dags arbejde fandt jeg ud af, at hvis man vil lave musik med melodi og akkorder er det lettest at bryde musiksstykket op i de enkelte takter og så sætte en dirigent ind til at styre værket. 
+
+Experiment with Starwars, music blocs and my own blocks.. Enjoy. 2 days work. If you want to hear the music played on other instruments - use the code to change them.",1252137,https://cdn2.scratch.mit.edu/get_image/project/236045457_480x360.png,2018-07-10T19:01:37.000Z,2018-07-10T19:07:15.000Z,2018-07-10T19:07:15.000Z,16,3,0,0,0,,
+236036011,Getting Unstuck Day 3 LK,If I had more time I would have added in more costumes.,Click on the green flag to begin.,27094795,https://cdn2.scratch.mit.edu/get_image/project/236036011_480x360.png,2018-07-10T17:37:56.000Z,2018-07-10T19:51:39.000Z,2018-07-10T19:51:39.000Z,4,0,0,0,0,,
+236072840,Music- Day 3,I had so much fun with this project!  I have a lot of different ideas of how I want to use the Sound block with my students next school year!,Click the green flag to start and click on each instrument to help the band tune up before their summer concert on the beach!,25165723,https://cdn2.scratch.mit.edu/get_image/project/236072840_480x360.png,2018-07-11T02:00:31.000Z,2018-07-11T02:26:28.000Z,2018-07-11T02:26:28.000Z,9,0,0,0,0,,
+236070496,Getting Unstuck Day 3 - Scratch Musical Scales,,Click on Scratch to practice your musical scales.,27535268,https://cdn2.scratch.mit.edu/get_image/project/236070496_480x360.png,2018-07-11T01:25:07.000Z,2018-07-11T03:25:52.000Z,2018-07-11T03:22:40.000Z,2,2,1,0,0,,
+236074994,Pastel Pentatonics,"""Oh! Susanna"" music from
+https://en.wikipedia.org/wiki/Pentatonic_scale
+
+The hope was to have an animated character sing each note of a particular type of scale; as the characters emerged in pastel colors, the scale alliteratively became the pastel pentatonic scale.... A 'creative constraint' was to try to get to bed at a reasonable time. ;)
+","Click the green flag to reset starting positions, if needed.
+Click each soloist of the Pastel Pentatonics choir to have it sing a note in the Pentatonic scale.
+Click the background to see the first two phrases of the music 'Oh, Susanna' -- which is written using a pentatonic scale.
+",52693,https://cdn2.scratch.mit.edu/get_image/project/236074994_480x360.png,2018-07-11T02:38:04.000Z,2018-07-11T04:10:25.000Z,2018-07-11T03:51:40.000Z,27,10,2,0,0,,
+236079387,Getting Unstuck - Day 3,,,17812875,https://cdn2.scratch.mit.edu/get_image/project/236079387_480x360.png,2018-07-11T04:25:09.000Z,2018-07-11T04:57:15.000Z,2018-07-11T04:57:15.000Z,7,0,0,0,0,,
+236090389,day-3,"Getting Unstuck Day-3
+by Massimo Marletta
+
+Click on screen to grow bananas!
+Sample using notes from 1 to 120",Click on screen to grow bananas!,4804940,https://cdn2.scratch.mit.edu/get_image/project/236090389_480x360.png,2018-07-11T07:35:02.000Z,2018-07-11T07:49:20.000Z,2018-07-11T07:44:12.000Z,12,1,0,0,0,,
+195183735,Jingle BellsCar remix,,,13575540,https://cdn2.scratch.mit.edu/get_image/project/195183735_480x360.png,2017-12-23T17:25:25.000Z,2018-07-11T08:50:37.000Z,2017-12-26T09:00:28.000Z,12,2,1,0,0,195166317,195166317
+236094170,getting unstuck day 3,"I've learned that the note block is interesting for musical projects or to include piano sound in your projects.
+Sequence the music is difficult to me. 
+Colour effects are interesting to display touch detect.",Clic the fruits to piano play.,2680901,https://cdn2.scratch.mit.edu/get_image/project/236094170_480x360.png,2018-07-11T08:25:39.000Z,2018-08-03T17:23:47.000Z,2018-07-11T09:02:03.000Z,5,0,0,0,0,,
+236094356,getting and unstuck day 3 piano bug,"I have learn to put notes with note block.
+",touch bug to play music.Espace to quit efects.,23020553,https://cdn2.scratch.mit.edu/get_image/project/236094356_480x360.png,2018-07-11T08:28:20.000Z,2018-08-03T17:42:50.000Z,2018-07-11T09:18:55.000Z,9,1,0,0,0,,
+236096110,unstuck day 3,,"Raindrops fall and ping in the pool.
+
+A bit of faffing around with broadcasts and clones, to make sure the correct clone splashes and pings at the right place and time. I'm not sure it's too successful.",1165375,https://cdn2.scratch.mit.edu/get_image/project/236096110_480x360.png,2018-07-11T08:52:34.000Z,2018-07-11T09:38:46.000Z,2018-07-11T09:37:03.000Z,11,4,2,0,0,,
+236108273,day3,"Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. For example, you could play piano notes 1 to 120 at 240 bpm, with 0.5 beats per note. What triggers the playing? What happens while the notes are playing? ","Click on the green flag to listen to Pico playing a song in the piano
+Click on the keys to play music",24618980,https://cdn2.scratch.mit.edu/get_image/project/236108273_480x360.png,2018-07-11T11:46:43.000Z,2018-08-07T15:45:58.000Z,2018-07-11T12:06:11.000Z,13,1,0,0,0,60608666,60608666
+236130023,Unstuck #3 Heart and Soul,Wanted to see if I could get the piano to play a tune.  Looked up notes on Google for Heart and Soul and kind of got the tune right,Click the green flag to begin,24269220,https://cdn2.scratch.mit.edu/get_image/project/236130023_480x360.png,2018-07-11T15:11:18.000Z,2018-07-11T15:31:58.000Z,2018-07-11T15:31:04.000Z,6,0,0,0,0,,
+236139035,Getting Unstuck Day 3,,,3089308,https://cdn2.scratch.mit.edu/get_image/project/236139035_480x360.png,2018-07-11T16:31:41.000Z,2018-07-11T16:47:53.000Z,2018-07-11T16:47:53.000Z,5,0,0,0,0,,
+236138038,BATTITO D'AMORE!    DAY 3,"NON LO SO COME HO FATTO. 
+HO GUARDATO QUALCOSA, MA MI E' SEMBRATO COSI' DIFFICILE. 
+ALLORA HO DECISO DI METTERMI ALLA PROVA
+
+                           SENZA ""AIUTINI"" DA CASA!!!!","BASTA CLICCARE SULLA BANDIERINA....
+E CHE LA MAGIA ABBIA INIZIO!!!!",34259094,https://cdn2.scratch.mit.edu/get_image/project/236138038_480x360.png,2018-07-11T16:23:16.000Z,2018-07-11T17:11:18.000Z,2018-07-11T17:09:19.000Z,11,1,0,0,0,,
+179200263,keyboard,,"
+",8592734,https://cdn2.scratch.mit.edu/get_image/project/179200263_480x360.png,2017-10-11T03:12:12.000Z,2017-10-13T01:30:34.000Z,2017-10-13T01:30:34.000Z,8,0,0,0,0,10012676,10012676
+236041298,Unstuck Day 3!,This was hard for me because I don't know anything about music. But Gobo kept me motivated.,Click on Gobo to make a sound. Keep clicking and see where he goes next!,24710888,https://cdn2.scratch.mit.edu/get_image/project/236041298_480x360.png,2018-07-10T18:23:32.000Z,2018-07-11T18:27:16.000Z,2018-07-11T18:04:29.000Z,4,0,0,0,0,,
+235779266,Unstuck Day 3 project,Unstuck Challenge Day 3 #CreativeComputing,Drag Scratch cat along the black line to change the note!,17786521,https://cdn2.scratch.mit.edu/get_image/project/235779266_480x360.png,2018-07-07T18:53:39.000Z,2018-07-11T19:56:32.000Z,2018-07-07T18:53:51.000Z,8,2,0,0,0,,
+236163997,Unstuck Day 3,"What did you like most about your project? I liked finding an idea that was appealing to my students.  I have the women sprite playing the piano backwards and the crowd cheering when it is over.  What would you do with it next, if you had more time?  Add more instruments.",Unstuck Day 3,11885888,https://cdn2.scratch.mit.edu/get_image/project/236163997_480x360.png,2018-07-11T21:08:25.000Z,2018-07-11T21:18:00.000Z,2018-07-11T21:18:00.000Z,6,0,0,0,0,,
+236166468,Getting Unstuck [Day 3],"This is getting unstuck day 3 
+
+I want to work on this more to make it sound better. :-)",Click the green flag to hear my 'music',13594403,https://cdn2.scratch.mit.edu/get_image/project/236166468_480x360.png,2018-07-11T21:51:20.000Z,2018-07-11T22:02:49.000Z,2018-07-11T22:02:49.000Z,3,0,0,0,0,,
+236056880,unstuck day 3,I know I am 3 days behind - but this is so much fun - I get carried away! ,Click on the green flag,32864221,https://cdn2.scratch.mit.edu/get_image/project/236056880_480x360.png,2018-07-10T21:34:47.000Z,2018-07-11T02:15:17.000Z,2018-07-11T02:14:39.000Z,6,0,0,0,0,,
+236174726, Getting Unstuck: Day 3,,"Click on the Green Flag
+Playing a Music",34283191,https://cdn2.scratch.mit.edu/get_image/project/236174726_480x360.png,2018-07-12T00:33:21.000Z,2018-07-12T00:41:28.000Z,2018-07-12T00:40:34.000Z,6,2,1,0,0,,
+236143453,Unstuck 3,"Since I am still in San Francisco on vacation, I am using the events that are going on now. This seemed appropriate for this assignment.",,746233,https://cdn2.scratch.mit.edu/get_image/project/236143453_480x360.png,2018-07-11T17:14:43.000Z,2018-07-12T01:25:29.000Z,2018-07-12T01:24:46.000Z,3,0,0,0,0,,
+236177115,Unstuck day 3,"Imported a map created in google drawings. 
+The piano notes are costumes for the sprite.
+Would be good to collaborate with others who want to do a section. Could use the backpack to pass me the good stuff.",A little bit of the New Zealand National Anthem,10852184,https://cdn2.scratch.mit.edu/get_image/project/236177115_480x360.png,2018-07-12T01:14:32.000Z,2018-07-12T10:42:59.000Z,2018-07-12T07:31:16.000Z,4,0,0,0,0,,
+236226325,Getting unstuck day3,,Music! click on the green flag.,17636749,https://cdn2.scratch.mit.edu/get_image/project/236226325_480x360.png,2018-07-12T14:04:47.000Z,2018-07-12T14:27:16.000Z,2018-07-12T14:26:20.000Z,8,0,0,0,0,,
+236134686,Getting Unstuck3: random notes!,,Press the green flag,16573108,https://cdn2.scratch.mit.edu/get_image/project/236134686_480x360.png,2018-07-11T15:51:09.000Z,2018-07-25T14:41:57.000Z,2018-07-12T15:25:44.000Z,3,0,0,0,0,,
+236237995,getting unstuck 3,,,16426717,https://cdn2.scratch.mit.edu/get_image/project/236237995_480x360.png,2018-07-12T15:53:07.000Z,2018-07-12T16:09:19.000Z,2018-07-12T16:09:19.000Z,6,1,0,0,0,,
+236186462,Getting Unstuck: Day 3,Andrés Gil Ruiz.,"It's so new for me. 
+
+For tune the piano, click on it.",27636310,https://cdn2.scratch.mit.edu/get_image/project/236186462_480x360.png,2018-07-12T04:21:36.000Z,2018-07-12T17:20:46.000Z,2018-07-12T17:19:49.000Z,6,0,0,0,0,,
+236242560,Getting Unstuck Day 3,"Image from the MET Public Domain Images
+The Spanish Singer
+Edouard Manet
+
+Melody is an excerpt from the 1800's Spanish song What Enchantment (found sheet music from Library of Congress)
+
+",Click on the green flag to hear the Spanish Singer play a Spanish tune from the 1800's,1353497,https://cdn2.scratch.mit.edu/get_image/project/236242560_480x360.png,2018-07-12T16:39:37.000Z,2018-07-12T17:41:54.000Z,2018-07-12T17:39:24.000Z,7,1,0,0,0,,
+236262461,tribute to England soccer,"Very depressing week for England soccer fans. 
+Also very depressing as Scratch crashed just as I finished the whole ""I'm forever blowing bubbles "" song and I hadn't saved! so this is only the opening.
+Music credit Jaan Kenbrovin and John William Kellete",Click green flag,34099462,https://cdn2.scratch.mit.edu/get_image/project/236262461_480x360.png,2018-07-12T20:24:30.000Z,2018-07-12T21:47:43.000Z,2018-07-12T21:42:27.000Z,9,1,0,0,0,,
+236288535,Musical keyboard with a keyboard,,"Use the keyboard to play a song.
+
+Experimenting with tuned sounds in Scratch.
+
+#Unstuckday3 #",3669917,https://cdn2.scratch.mit.edu/get_image/project/236288535_480x360.png,2018-07-13T04:51:14.000Z,2018-07-13T05:11:20.000Z,2018-07-13T05:09:25.000Z,5,0,0,0,0,,
+236297588,Getting Unstuck 3,"Getting Unstuck Day 3 
+",Clicca sui tasti del pianoforte,15572972,https://cdn2.scratch.mit.edu/get_image/project/236297588_480x360.png,2018-07-13T07:49:16.000Z,2018-07-24T13:59:56.000Z,2018-07-13T08:19:15.000Z,7,0,0,0,0,,
+236316422,Unstuck 2,,,18827386,https://cdn2.scratch.mit.edu/get_image/project/236316422_480x360.png,2018-07-13T12:52:32.000Z,2018-07-13T13:36:21.000Z,2018-07-13T13:36:21.000Z,6,0,0,0,0,,
+236320942,Unstuck 3,,,18827386,https://cdn2.scratch.mit.edu/get_image/project/236320942_480x360.png,2018-07-13T13:40:18.000Z,2018-07-13T13:47:05.000Z,2018-07-13T13:47:05.000Z,2,0,0,0,0,,
+236317573,Music,Getting Unstuck day 3.,"Click on the green flag and then on the sprite. To stop, press the space key.",22217887,https://cdn2.scratch.mit.edu/get_image/project/236317573_480x360.png,2018-07-13T13:05:33.000Z,2018-07-13T14:09:20.000Z,2018-07-13T14:01:31.000Z,2,0,0,0,0,,
+236142330,Getting Unstuck Day 3,Book Imparare a prgrammare di Boscaini,"Play the piano, click the buttons with the numbers from 1 to 6",13275782,https://cdn2.scratch.mit.edu/get_image/project/236142330_480x360.png,2018-07-11T17:03:46.000Z,2018-07-13T14:38:49.000Z,2018-07-13T14:38:49.000Z,10,0,0,0,0,,
+132468502,Unstuck 4,,,18827386,https://cdn2.scratch.mit.edu/get_image/project/132468502_480x360.png,2016-11-23T19:30:07.000Z,2018-07-13T14:45:12.000Z,2018-07-13T14:45:11.000Z,3,0,0,0,0,,
+236334806,Unstuck 3,"Beginner in training: Even though I am moving slow, I am learning and having fun. Today I know so much more about Scratch then I did a week ago. ",Click the flag for the intro message! Then click instruments to complete a sound check.,840815,https://cdn2.scratch.mit.edu/get_image/project/236334806_480x360.png,2018-07-13T16:20:24.000Z,2018-07-26T15:15:17.000Z,2018-07-13T19:05:13.000Z,4,1,0,0,0,,
+236367027,Instrument matrix,"I'd like to thank Getting Unstuck for this one. I really wanted to recreate this thing in Scratch but I always postponed.
+
+A good remix would be, for example, different colours for different instruments. Maybe one day... on another challenge... ","This is a reproduction of that thing with a matrix of buttons, I don't know its name! Click on buttons and then space to listen your composition.
+Instruments:
+1) Piano 2) Electric Piano 3) Organ 4) Guitar 5) Electric Guitar 6) Bass 7) Pizzicato 8) Cello 9) Trombone 10) Clarinet 11) Saxophone 12) Flute 13) Wooden Flute 14) Basoon 15) Choir 16) Vibraphone 17) Music Box 18) Steel Drum 19) Marimba 20) Synth Lead 21) Synth Pad",12148328,https://cdn2.scratch.mit.edu/get_image/project/236367027_480x360.png,2018-07-14T01:09:59.000Z,2018-07-14T01:56:44.000Z,2018-07-14T01:34:09.000Z,9,1,0,0,0,,
+236376800,Getting Unstuck Day 3,"Getting Unstuck Day 3 Reflection:
+I liked that I could showcase different types of instruments and their sounds, but the types of instrument sounds didn't match up too well with the Scratch sprite library.  If I had more time, I would have looked elsewhere for clip art.  I also would have written out scripts for the whole song instead of just the first line, and added some sort of a hint for when to start the next instrument.",Click each instrument to start the song.  See if you can figure out when to start the next instrument to play Row Row Row Your Boat in a round.,30095573,https://cdn2.scratch.mit.edu/get_image/project/236376800_480x360.png,2018-07-14T04:49:20.000Z,2018-07-14T05:07:41.000Z,2018-07-14T05:07:41.000Z,4,1,0,0,0,,
+236387672,Musical sounds,I had some fun with this project and found out there is a not block so that I had some control over the sounds played.,"Help Abby play around with the instruments.  Click on her to move her, press the space bar when you are finished.",18512618,https://cdn2.scratch.mit.edu/get_image/project/236387672_480x360.png,2018-07-14T09:26:11.000Z,2018-07-14T10:15:02.000Z,2018-07-14T10:15:02.000Z,6,1,0,0,0,,
+236389908,Getting Unstuck: Day 3,"This is my project for Day 3 of the Getting Unstuck programming challenge.
+
+I I tried to recreate the main song of the Addams family. I use scratch for several years but I've never tried to develop this kind of program. It's very funny I must say! If I had more time I would have added the percussion
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category.",34314391,https://cdn2.scratch.mit.edu/get_image/project/236389908_480x360.png,2018-07-14T10:17:07.000Z,2018-07-14T20:13:19.000Z,2018-07-14T10:44:21.000Z,14,2,0,0,0,,
+163551688,Getting Unstuck Day 3: Play Me A Round,"I originally created this project under another account (StMComputers) This was an account that I used to use for projects my students created & my examples prior to Teacher accounts.
+
+I remixed this awhile ago and tweaked it a bit today. The timing is still off a bit on the round but the general idea is there.
+
+Playing with the timing using a broadcast block to start the song on both sprites. It seems a bit better, I think.",,5271542,https://cdn2.scratch.mit.edu/get_image/project/163551688_480x360.png,2017-05-29T04:28:00.000Z,2018-07-20T19:43:36.000Z,2018-04-19T17:04:26.000Z,8,1,0,0,0,103435010,103435010
+236420236,Happy Birthday!,,,34102687,https://cdn2.scratch.mit.edu/get_image/project/236420236_480x360.png,2018-07-14T22:01:23.000Z,2018-07-15T01:48:20.000Z,2018-07-15T01:48:20.000Z,2,0,0,0,0,,
+236422889,Getting Unstuck - Day 3,"This one was much easier for me than the first two! I just needed to find a tune and I was able to use the keyboard on the ""play note"" block.  I opened up a few projects with longer tunes because I didn't want to write the entire song, and that was how I figured out how to break it up into ""messages"".  I was super happy that my daughter started singing the right song while I was piecing it out!",Click the green arrow to hear my daughter's favorite song!,24696341,https://cdn2.scratch.mit.edu/get_image/project/236422889_480x360.png,2018-07-14T23:09:38.000Z,2018-07-15T03:55:42.000Z,2018-07-15T03:47:27.000Z,9,0,0,0,0,,
+236089754,IL FANTASMA PIANISTA,"Progetto creato per la partecipazione a Getting Unstuck, 3 giorno.","PER ASCOLTARE IL FANTASMA CHE SUONA: cliccare sulla bandierina verde, attendere 2 secondi e poi cliccare la barra SPAZIO.",14651357,https://cdn2.scratch.mit.edu/get_image/project/236089754_480x360.png,2018-07-11T07:26:40.000Z,2018-07-15T05:24:15.000Z,2018-07-14T05:38:32.000Z,4,0,0,0,0,,
+236473966,Happy Birthday Candles (Getting Unstuck #3),"Getting Unstuck: Day 3
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. 
+
+Used C major scale with candles to play the happy birthday song. ","Click on the candles to play Happy Birthday!
+Click on the green flag to reset candle colors.",22105327,https://cdn2.scratch.mit.edu/get_image/project/236473966_480x360.png,2018-07-15T21:23:12.000Z,2018-07-16T18:09:43.000Z,2018-07-15T22:19:49.000Z,5,0,0,0,0,,
+236522827,piano keyboard with black keys,"Original keyboard (no black keys) came from Gerard Keena, my colleague at CoderDojo Mullingar.","Start of a piano keyboard project, which is a development of a script we use in CoderDojo",3094436,https://cdn2.scratch.mit.edu/get_image/project/236522827_480x360.png,2018-07-16T12:25:05.000Z,2018-07-16T12:28:34.000Z,2018-07-16T12:26:52.000Z,3,0,0,0,0,,
+236023124,Day 3 - Music,,,24154277,https://cdn2.scratch.mit.edu/get_image/project/236023124_480x360.png,2018-07-10T15:35:09.000Z,2018-07-16T12:50:50.000Z,2018-07-16T12:50:49.000Z,4,1,0,0,0,,
+236525589,Digital Piano,I created the keyboard using different sprites because I wanted to give the program versatility.  I added the keyboard element so that a Makey Makey could be connected and used in our paper circuit piano project.  I would like to add more keys to make is 2 octaves for more playability.,"There are two ways to play this piano.  You can click on the actual keys (great for a touch screen) or you can use the keyboard (see chart)
+
+Click on the pink box for a simple Demo song",2502473,https://cdn2.scratch.mit.edu/get_image/project/236525589_480x360.png,2018-07-16T13:00:09.000Z,2018-07-16T14:07:55.000Z,2018-07-16T13:53:42.000Z,6,1,0,0,0,,
+236544610,Getting Unstuck - dag 3,Nice to try out new stuff :),Use the letters on your keyboard to play the piano.,25631396,https://cdn2.scratch.mit.edu/get_image/project/236544610_480x360.png,2018-07-16T15:56:13.000Z,2018-07-16T16:34:31.000Z,2018-07-16T16:31:02.000Z,8,2,1,0,0,,
+236552558,UntitGetting Unstuck: Day 3,,,28439839,https://cdn2.scratch.mit.edu/get_image/project/236552558_480x360.png,2018-07-16T17:16:51.000Z,2018-07-16T20:07:14.000Z,2018-07-16T20:07:14.000Z,5,0,0,0,0,,
+236588450,Day 3 - Getting Unstuck,"Buya Omar - Mansur Bin Nisan
+Grow and Grow .... ",Enjoy and Let's Dance Together!!!,34222154,https://cdn2.scratch.mit.edu/get_image/project/236588450_480x360.png,2018-07-17T01:28:55.000Z,2018-07-17T01:30:46.000Z,2018-07-17T01:29:44.000Z,9,0,0,0,0,,
+236551884,Getting Unstuck Day 3,,"Press the flag to start the project. (after watching it, please turn off the AC!)
+",21887196,https://cdn2.scratch.mit.edu/get_image/project/236551884_480x360.png,2018-07-16T17:09:48.000Z,2018-07-20T09:22:00.000Z,2018-07-17T16:48:19.000Z,12,1,0,0,0,,
+236687284,Getting Unstuck Day 3 - Adding Music,"I liked that we are able code music into our Scratch programs. If I had more time, I would have spent time searching for the correct temp with the notes. While, I'm happy with what I created there is always room for improvment. ",Click on the green flag and then press the spacebar to begin the program. ,30595057,https://cdn2.scratch.mit.edu/get_image/project/236687284_480x360.png,2018-07-17T23:05:43.000Z,2018-07-18T20:10:42.000Z,2018-07-18T20:06:14.000Z,4,0,0,0,0,,
+236799442,UnStuck Day 4,"Working through the challenges for Unstuck and seeing a reverse in my role from a teacher to that of a student and how my debugging ""fits"" with the sophistication level of my coding.","Click on Green flag to start.
+Try the Space Bar, and all four arrows to see what happens.  Note that the opposite arrows (up/down and right/left) do the opposite actions.",14232182,https://cdn2.scratch.mit.edu/get_image/project/236799442_480x360.png,2018-07-19T00:59:14.000Z,2018-07-19T16:17:02.000Z,2018-07-19T01:39:40.000Z,5,0,0,0,0,,
+235916288,Fantasia Getting unstuck 3,,Click the flag,3602053,https://cdn2.scratch.mit.edu/get_image/project/235916288_480x360.png,2018-07-09T16:19:11.000Z,2018-07-19T08:59:24.000Z,2018-07-19T08:43:12.000Z,9,0,0,0,0,,
+236842531,Getting Unstuck Day 3,"Credit:  Beginning Notes of Silent Night by Gruber
+
+Worked on timing and positioning.
+Really enjoyed 'play note' block","Click Green Flag to Clear
+Click Background to Start",26730957,https://cdn2.scratch.mit.edu/get_image/project/236842531_480x360.png,2018-07-19T12:38:17.000Z,2018-07-19T21:51:47.000Z,2018-07-19T21:51:46.000Z,4,0,0,0,0,,
+236311745,musical toy - musical radar,"Getting Unstuck: Day 3
+https://gettingunstuck.gse.harvard.edu/
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. What triggers the playing? What happens while the notes are playing?
+
+Some ideas are by Marceau.
+
+I got stuck on this, and decided to abandon this circular version and pivot towards a more traditional (but also more usable) horizontal version instead. cf https://scratch.mit.edu/projects/236954426/","It's a sequencer, in circular form.
+
+Click anywhere on the stage to add a new note to be played by the ""musical radar"".
+
+Press space to start with a clean sheet.
+
+(See https://scratch.mit.edu/projects/236954426/ for a newer version)",34248043,https://cdn2.scratch.mit.edu/get_image/project/236311745_480x360.png,2018-07-13T11:40:26.000Z,2018-07-27T09:53:40.000Z,2018-07-20T12:35:05.000Z,6,3,1,0,0,,
+236967941,Unstuck Day 3,Day 3 Challenge.   ,Click on green flag to hear four chord porgression,14232182,https://cdn2.scratch.mit.edu/get_image/project/236967941_480x360.png,2018-07-20T19:55:55.000Z,2018-07-20T20:08:31.000Z,2018-07-20T20:08:31.000Z,3,0,0,0,0,,
+236954426,musical toy - sequencer,"Getting Unstuck: Day 3
+https://gettingunstuck.gse.harvard.edu/
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. What triggers the playing? What happens while the notes are playing?
+
+Some ideas are by Marceau and Sara.
+
+I got stuck for a while because the collision detection (notes&line) was not triggering anymore. I debugged this by taking the whole code apart, but in the end it turned out to be the line's costume! When the line is too thin (as lines tend to be!) then for some reason the ""touching line"" block reports false :(","It's a note sequencer.
+
+Click anywhere on the stage to add a new note.
+Notes are played once the moving line gets to it. 
+
+Click a note to delete it.
+
+Press space to show some settings, or T for some test notes.",34248043,https://cdn2.scratch.mit.edu/get_image/project/236954426_480x360.png,2018-07-20T16:45:35.000Z,2018-07-27T09:53:49.000Z,2018-07-20T20:34:46.000Z,4,0,0,0,0,,
+236311759,musical toy - musical tiles,"Getting Unstuck: Day 3
+https://gettingunstuck.gse.harvard.edu/
+Explore playing a musical instrument with Scratch through the ""play note"" block in the Sound category. What triggers the playing? What happens while the notes are playing?
+","Press the green flag and wait until all tiles have appeared.
+
+9 octaves at your disposal :)
+
+Then move your mouse anywhere to play some music :)
+Press space to change the instrument.",34248043,https://cdn2.scratch.mit.edu/get_image/project/236311759_480x360.png,2018-07-13T11:40:39.000Z,2018-07-27T10:02:37.000Z,2018-07-20T22:01:30.000Z,5,2,1,0,0,,
+237047023,Unstuck #3 Making Music,"Unstuck #3 - music
+
+Thanks to @welfringer for the code on making an array!!","Press the green flag and wait until all tiles have appeared.
+
+The hippo and butterfly will play piano.
+",26618044,https://cdn2.scratch.mit.edu/get_image/project/237047023_480x360.png,2018-07-22T02:31:16.000Z,2018-07-22T13:50:25.000Z,2018-07-22T03:13:53.000Z,2,0,0,0,0,236311759,236311759
+237071973,OwlMorton-Unstuck3,,,21214926,https://cdn2.scratch.mit.edu/get_image/project/237071973_480x360.png,2018-07-22T13:59:01.000Z,2018-07-22T14:16:20.000Z,2018-07-22T14:15:25.000Z,4,0,0,0,0,,
+237076105,Play Music,,,22657077,https://cdn2.scratch.mit.edu/get_image/project/237076105_480x360.png,2018-07-22T15:35:46.000Z,2018-07-23T12:18:23.000Z,2018-07-23T12:18:22.000Z,6,0,0,0,0,,
+236062452,UnGU03- l'albero della musica,,Push the green button ... and then push the green balls to play different notes...,34279311,https://cdn2.scratch.mit.edu/get_image/project/236062452_480x360.png,2018-07-10T23:20:51.000Z,2018-07-23T13:21:04.000Z,2018-07-23T13:16:50.000Z,1,0,0,0,0,,
+237187533,Getting Unstuck - Day 3,"
+
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621
+
+""A problem is a chance for you to do your best.""—Duke Ellington",Press the number keys at top of keyboard.,8880372,https://cdn2.scratch.mit.edu/get_image/project/237187533_480x360.png,2018-07-23T20:52:14.000Z,2018-07-29T21:01:56.000Z,2018-07-23T20:52:33.000Z,3,0,0,0,0,,
+236037608,Día 3,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/236037608_480x360.png,2018-07-10T17:52:47.000Z,2018-07-10T17:53:23.000Z,2018-07-10T17:53:23.000Z,2,0,0,0,0,,
+237138133,Day3:Play it!,,,34128835,https://cdn2.scratch.mit.edu/get_image/project/237138133_480x360.png,2018-07-23T11:19:27.000Z,2018-07-25T09:46:04.000Z,2018-07-25T09:46:04.000Z,5,1,0,0,0,,
+237467299,music training,Simple listening project ,"Click on the green flag and touch coloured squares. 
+The piano plays for you.",11312120,https://cdn2.scratch.mit.edu/get_image/project/237467299_480x360.png,2018-07-26T14:13:20.000Z,2018-07-26T16:44:06.000Z,2018-07-26T15:08:46.000Z,5,1,0,0,0,,
+237270424,Untitled-22,"A mia figlia Maria, che mi aiutato a correggere un bug musicale che il  mio orecchio non avvertiva.",Clicca sulla bandierina ed ascolta.,14096918,https://cdn2.scratch.mit.edu/get_image/project/237270424_480x360.png,2018-07-24T16:27:18.000Z,2018-07-27T22:03:09.000Z,2018-07-26T16:42:48.000Z,26,4,1,0,0,,
+237483198,Orchestra,,Clicca sullo strumento musicale per sentirlo suonare. Puoi anche utilizzare più strumenti contemporaneamente! Per fermare lo strumento e sceglierne un altro clicca su di esso.,34169307,https://cdn2.scratch.mit.edu/get_image/project/237483198_480x360.png,2018-07-26T17:26:39.000Z,2018-07-27T13:51:34.000Z,2018-07-26T17:47:14.000Z,3,1,0,0,0,,
+236491952,Day 1- Getting Unstuck,What I liked most about my project is that it allowed me to do something that I hadn't really done before. If I had more time I would have added more sprites and made it more complex.,,10530584,https://cdn2.scratch.mit.edu/get_image/project/236491952_480x360.png,2018-07-16T03:05:54.000Z,2018-07-27T02:00:52.000Z,2018-07-16T03:30:38.000Z,2,1,0,0,0,,
+237539052,Instrument Player/Getting Unstuck Day 3,"instruments
+piano
+guitar
+cello
+flute","press a-g keys to play notes on the instrument
+press space to change instrument",28402186,https://cdn2.scratch.mit.edu/get_image/project/237539052_480x360.png,2018-07-27T06:28:54.000Z,2018-07-27T06:42:13.000Z,2018-07-27T06:42:13.000Z,3,1,0,0,0,,
+237551457,Getting unstuck 3 day,getting unstuck 3 day,"usa i colori per suonare:
+DO marrone
+RE rosso
+MI arancione
+FA azzurro
+SOL verde
+LA giallo
+SI viola",11617672,https://cdn2.scratch.mit.edu/get_image/project/237551457_480x360.png,2018-07-27T11:01:27.000Z,2018-07-27T13:23:42.000Z,2018-07-27T12:27:27.000Z,4,1,0,0,0,,
+237115812,#unstuck 3 Music,I love music so this one was easier but I found adding the speed tricky. There must be a quicker way.,Click on the flag and be surprised or not!,31492686,https://cdn2.scratch.mit.edu/get_image/project/237115812_480x360.png,2018-07-23T04:27:50.000Z,2018-07-23T05:15:01.000Z,2018-07-23T05:14:05.000Z,4,1,0,0,0,,
+238152338,Getting Unstuck 3: My First Music Attempts,"http://scratched.gse.harvard.edu/sites/default/files/scratch2012-workshophandout.pdf - I used this tutorial. 
+
+I plan to eventually try and learn to read sheet music again.","Click on the awkwardly edited French scratch cat to hear ""Frere Jacques""
+
+Click on the boat to hear ""Row Row Row Your Boat""
+",7665372,https://cdn2.scratch.mit.edu/get_image/project/238152338_480x360.png,2018-08-03T13:36:22.000Z,2018-08-03T15:09:13.000Z,2018-08-03T15:08:39.000Z,4,1,0,0,0,,

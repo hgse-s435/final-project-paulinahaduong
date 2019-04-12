@@ -1,0 +1,677 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+236345220,Cat Radio,"This project was created for Day 10 of Getting Unstuck. The purpose of today's challenge was to create a project that makes use of time-related blocks. 
+
+If I had more time, I'd work on the script and playlist a bit more. But the time-related part was very fun to build and worked out better than I imagined. 
+
+Spoken words: 
+http://shtooka.net
+https://en.wiktionary.org
+https://www.tolearnenglish.com/free/words/findwords.php
+
+Illustrations:
+https://pixabay.com/en/radio-old-fashioned-retro-vintage-1293101/
+
+Music: Lizzie Miles, Me and My Pillow
+
+","Cleaning out the closet one day, you come across an old radio. Does it still work? Find out by clicking the radio to turn it on. ",56239,https://cdn2.scratch.mit.edu/get_image/project/236345220_480x360.png,2018-07-13T18:32:43.000Z,2018-07-23T17:54:17.000Z,2018-07-14T10:25:42.000Z,54,20,11,0,0,,
+236347564,The Time Laboratory,"Ugh! I definitely took on more than I anticipated with this project. I thought it would be really cool to know how long I've been alive. But calculating the number of days is SO complicated! So I did a very crude estimate. I marked this as draft because it's kind of a mess. It's hard to share work that I feel so uncertain about—but I think it's good for me. :) #learning
+
+Images from https://commons.wikimedia.org/
+Laboratory: https://commons.wikimedia.org/wiki/Laboratory#/media/File:Photographing_Sound_in_1884._A_rare_photograph_taken_at_Volta_Laboratory_by_J._Harris_Rogers,_a_friend_of_Bell_and_Tainter_(Smithsonian_photo_44312-E)_i009.jpg
+
+Scientist:
+https://upload.wikimedia.org/wikipedia/commons/f/f7/MARK_TWAIN%281883%29_p213_-_A_SCIENTIST.jpg","The Time Laboratory is run by a nefarious cat named Sparkles, who wants all of your personal data! Sparkles has her assistant, Jeff, working late in the lab to collect data from you.
+
+Press the green flag to meet Jeff and learn how long you've been alive.",39526,https://cdn2.scratch.mit.edu/get_image/project/236347564_480x360.png,2018-07-13T19:05:46.000Z,2018-07-17T00:40:52.000Z,2018-07-14T10:22:34.000Z,38,11,4,0,0,,
+236156343,Getting Unstuck Day 10: Digital Clock,"Thanks to @jsh for lots of support on the original project, and for moral support from @asparklekat and @karenb!
+
+I tried to keep this pretty simple! I started by trying to make a digital clock. Then, I decided I wanted to make an analog clock—that's where things got tricky! I used the dots from my last project to make a little circle, and then incorporated the arrow keys. I figured out the angle for each by dividing 360 (degrees in the circle) by the number of seconds/minutes/hours. I had some difficulty with the initial direction the lines were facing, but eventually got it figured out!","Press the green flag to see the current time.
+Press a for analog mode.
+Press d to go back to digital mode.",19163721,https://cdn2.scratch.mit.edu/get_image/project/236156343_480x360.png,2018-07-11T19:22:29.000Z,2018-07-21T20:59:08.000Z,2018-07-11T19:44:50.000Z,28,8,3,0,0,,
+226772513,Digital Clock,"This was actually my first time using the ""current time"" blocks - thank you to @karenb and @jsh for early time-related design challenges.",Press the green flag to find out what time it is! Complete with some fun (but maybe irritating longterm) sound. ,2745846,https://cdn2.scratch.mit.edu/get_image/project/226772513_480x360.png,2018-05-31T18:46:34.000Z,2018-07-14T10:37:08.000Z,2018-05-31T18:57:22.000Z,26,10,0,0,0,,
+236354120,Drops remix,"I LOVED @jsh's project so much that I both wanted to understand how it was working and also see how the sounds might shift over time. Remixing was a wonderful way to explore both of those! 
+
+Shoutout to @paulinah and @karenb for helping me Get Unstuck! I had most difficulty getting the new bars and the ball objects to interact (change visually, create sound). My first strategy was to look for these features in the code, which brought me to a list which organized the sound structure. I'd never used lists before, so it was fun to explore to see what I could discover. What I discovered was that it wasn't the list I needed to be tinkering with at all. The buggy color sensing with ghost effects proved to be the culprit. Once that bug was isolated, and I was having difficulty remedying, I
+SEARCHED ONLINE, 
+TALKED IT OUT, 
+and ASKED FRIENDS.
+With their help, I was able to create the features I'd imagined for this remix! 
+
+I added a few more bars, of decreasing size, that appear over time. I'm still fooling around with details, but am excited with where this is going (:",Press the green flag and enjoy!,25705937,https://cdn2.scratch.mit.edu/get_image/project/236354120_480x360.png,2018-07-13T20:49:45.000Z,2018-07-14T12:32:35.000Z,2018-07-13T21:51:15.000Z,25,8,2,0,0,236290500,236290500
+236390309,Time Lab redux,"When @karenb shared her project on our ScratchEd group chat, I loved the idea and the sounds. It's a fairly straightforward project, and I've done things like this before, but when I looked inside, I was surprised to see that her code looked completely different from what I had been expecting. It's a reminder that there are many different ways to get things done. so I decided that my project for today would be a remix of Karen's, but I would add a few things to make it more organized. Once I reorganized the code, though, I was playing with the project and wondering if I was ""done,"" a concept which I have been thinking about a lot. Was it enough? Did I put enough of ""me"" into this project?
+
+But then an idea struck, and I was excited about how suddenly goofy the project was <-- that's definitely part of my style. ^_^","Press the green flag and follow along with the prompts. If you wait long enough, other Time Lab friends might appear...",2745846,https://cdn2.scratch.mit.edu/get_image/project/236390309_480x360.png,2018-07-14T10:28:06.000Z,2018-07-15T10:13:03.000Z,2018-07-14T10:28:24.000Z,27,8,0,0,0,,
+173509179,My better alarm clock ,"This is one of my favorite projects b/c I actually use the alarm clock feature from time to time in real life! (I created it last summer.)
+I changed the orientation of the hand sprites so they can be coded while pointing in direction 0. I made adjustments for setting the alarm  by changing military time to standard time. I added code for the hour hand to change its position every minute. I cut the sound file so that it would end closer to exactly 60 seconds.","Click the green arrow to turn on the clock.
+Use the sliders to set the alarm clock.
+   
+ ",24741621,https://cdn2.scratch.mit.edu/get_image/project/173509179_480x360.png,2017-09-07T02:12:07.000Z,2018-07-14T11:16:20.000Z,2017-09-07T14:25:19.000Z,29,11,2,0,0,,
+236393237,Unstuck 10 Maze Challenge with time,"Another quick game. So much fun! 
+
+I added a timer to this project. ",Use the arrow keys to navigate through the maze!,25417130,https://cdn2.scratch.mit.edu/get_image/project/236393237_480x360.png,2018-07-14T11:46:01.000Z,2018-07-14T11:46:53.000Z,2018-07-14T11:46:29.000Z,12,1,2,0,0,,
+236391675,Just a second...,"I use this game as a sequence exercise for the BBC Microbit. Never written it in Scratch before. Reminds me how annoying it is that Scratch has no easy text on the screen tools, but the Cat does the job just fine! ","This a time game. 
+
+See how good your second counting is.
+
+Just click the green flag and follow the cat's instructions.",7393328,https://cdn2.scratch.mit.edu/get_image/project/236391675_480x360.png,2018-07-14T11:05:21.000Z,2018-07-14T11:54:25.000Z,2018-07-14T11:52:10.000Z,14,3,0,0,0,,
+236392994,day10,,"Click on the green flag to start.
+You have 6 seconds to multiply the two numbers displayed.",34225248,https://cdn2.scratch.mit.edu/get_image/project/236392994_480x360.png,2018-07-14T11:39:42.000Z,2018-07-18T18:56:11.000Z,2018-07-14T12:19:44.000Z,12,3,2,0,0,,
+236393258,Getting Unstuck Day 10,I would love to slow down the motion of the Frisbee.  How do I do this?,"Press green flag to start, space bar to throw the Frisbee, and ""x"" to reset.",24826697,https://cdn2.scratch.mit.edu/get_image/project/236393258_480x360.png,2018-07-14T11:46:30.000Z,2018-07-14T12:43:16.000Z,2018-07-14T12:38:19.000Z,7,1,0,0,0,,
+236392498,Getting Unstuck- Day 10,Borrowed the idea from here: http://chromawoods.com/binclock/,,24912473,https://cdn2.scratch.mit.edu/get_image/project/236392498_480x360.png,2018-07-14T11:27:40.000Z,2018-07-16T07:36:06.000Z,2018-07-14T12:46:49.000Z,24,7,1,0,0,,
+236395417,Unstuck Day 10 Scratchy Bounce w/Timer,"The time-related blocks have always been one of my biggest stuck places, so thank you for this opportunity to Get Unstuck. I created this game for day 5 (jumping), but with a timer bar that I designed specifically to avoid using the timer. Today I went back to the project and replaced the bar with a variable that counts down from 100 by subtracting the timer. There is another script that waits until the timer is greater than 100 to end the game. Piece of cake!
+
+ This is based on the Hasee Bounce game from the neopets web site: http://www.neopets.com/games/game.phtml?game_id=368","Press the space bar to bounce one cat down and the other cat up. Time the jumping to catch the apples!
+You can move each cat to the right and left with the right and left arrow keys.
+Time is up when the timer reaches zero.
+The apples speed up throughout the game!
+",14632339,https://cdn2.scratch.mit.edu/get_image/project/236395417_480x360.png,2018-07-14T12:38:29.000Z,2018-07-14T20:13:13.000Z,2018-07-14T12:51:12.000Z,21,10,2,0,0,,
+236390602,Getting Unstuck: Day 10,,"Simple math quiz, you have only 5 seconds to answer the question....",24340467,https://cdn2.scratch.mit.edu/get_image/project/236390602_480x360.png,2018-07-14T10:35:45.000Z,2018-07-14T12:58:02.000Z,2018-07-14T12:57:22.000Z,14,5,0,0,0,,
+236393576,Getting Unstuck #10,"I think I've invented the world's most annoying and inaccurate clock.
+
+I was trying to think of alternative ways to represent time. This is hardly an exhaustive pair of approaches. If I had more time I'd think of a way to represent seconds. I'd also like the whole thing to be more musical. I'd try to get the breaths blowing up the balloon, and the frog's bounces to be in time with the ticking of the pendulum. 
+
+PS- It's just turned midnight here, and at 00:00 it's a pretty uninteresting clock.",Just click the green flag.,141519,https://cdn2.scratch.mit.edu/get_image/project/236393576_480x360.png,2018-07-14T11:54:24.000Z,2018-07-15T04:00:10.000Z,2018-07-14T13:48:24.000Z,20,4,0,0,0,,
+191237169,Catch 5 Flies,"When a player 'wins' your game, do they want to play again?
+
+'Replay value' is a big deal in game design. Even simple games take significant time and effort to code, and the we hopes the hours we put in will create, at least, minutes of fun for the players. This is a challenge, especially when we're new to making games.
+
+I thought of this for Day 10 because the 'timer' block might be the lowest-hanging fruit for adding 'replay value' to a game. Playing a game with a timer changes the challenge from ""can you do XYZ?"" to ""how well can you do XYZ?"" Can you improve on your last performance? Will your time be faster than hers? The clock creates a relationship between each time you've clicked the Green Flag, and an incentive to do it again!
+
+(I adapted this project from a game I wrote with @L2TT2L2018 last year)","Jump with the UP ARROW
+Catch flies with SPACE
+
+How fast can you catch 5 flies?",27306974,https://cdn2.scratch.mit.edu/get_image/project/191237169_480x360.png,2017-12-06T03:52:42.000Z,2018-07-15T00:54:06.000Z,2018-07-14T13:51:54.000Z,28,9,2,0,0,,
+236034686,Getting Unstuck: Day 10 — Binary Counter,"Reflection
+
+I wanted to recreate an old Arduino project I once assembled that acted as a binary counter. It included 8 LEDs that represented the state of an byte, or 8-bit value, in memory.
+
+The challenge for this project is that there are no bitwise operators (that I'm aware of) in Scratch. In order to simulate changing of the bits, I used a list so that each element of the list represents a bit. Building this 8-bit memory, along with the supporting functions, took most of the time.
+
+Update: I went ahead a fixed the things I would have done if I had more time. Mostly refactoring and reorganizing. This involved rearranging and deleting unnecessary blocks, and separating and organizing the logic within the 4 sprites.",Move the slider to change the delay time of the binary counter.,26264460,https://cdn2.scratch.mit.edu/get_image/project/236034686_480x360.png,2018-07-10T17:25:22.000Z,2018-07-14T21:58:50.000Z,2018-07-14T14:15:12.000Z,13,2,2,0,0,,
+236397754,Day 10 time,"The thing that took the longest time was to use the help sections for the blocks and see where to use forever and where forever was not needed.
+
+With more time, I would like to round the days to an even number. 
+Also, this would probably be a great exercise in Mapping. I wonder how to get 7 to say July and 8 to say August.","When I think of time, I thought of how long I'd been doing something.",124064,https://cdn2.scratch.mit.edu/get_image/project/236397754_480x360.png,2018-07-14T13:33:37.000Z,2018-07-18T00:57:47.000Z,2018-07-14T14:24:27.000Z,10,3,0,0,0,,
+236395501,Getting Unstuck: Day 10,"Thinking about Seymour Papert inspired me to create this timeline. 
+
+If I had more time I would add images and more interactivity.
+
+Credits: 
+https://en.scratch-wiki.info/wiki/
+https://en.wikipedia.org/wiki/Logo_(programming_language)
+https://en.wikipedia.org/wiki/Scratch_(programming_language)
+By John Phelan [CC BY 3.0  (https://creativecommons.org/licenses/by/3.0)], from Wikimedia Commons
+","Press the green flag.
+
+Press the red dots to find out some facts abut MIT, Logo and Scratch.
+",17807175,https://cdn2.scratch.mit.edu/get_image/project/236395501_480x360.png,2018-07-14T12:40:59.000Z,2018-07-14T14:31:40.000Z,2018-07-14T14:31:40.000Z,9,3,1,0,0,,
+236395308,Binär klocka,,Binary clock,2229155,https://cdn2.scratch.mit.edu/get_image/project/236395308_480x360.png,2018-07-14T12:35:29.000Z,2018-07-14T14:31:22.000Z,2018-07-14T14:30:12.000Z,9,4,0,0,0,,
+236398550,day10,,,23593293,https://cdn2.scratch.mit.edu/get_image/project/236398550_480x360.png,2018-07-14T13:52:00.000Z,2018-07-14T14:39:13.000Z,2018-07-14T14:32:23.000Z,14,1,0,0,0,,
+236395620,unstuck10,,"Start with green flag 
+Exciting things happen in deep space. Watch a blackhole eating a red giant today.",1072279,https://cdn2.scratch.mit.edu/get_image/project/236395620_480x360.png,2018-07-14T12:43:44.000Z,2018-07-14T14:31:40.000Z,2018-07-14T14:29:47.000Z,17,6,0,0,0,,
+236396212,Unstuck Day 10: Using Time blocks,"I made this project in response to the prompt for Challenge #10-time blocks- of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+This looks simple but was hard to figure out! I wanted to use timer to control a day/night cycle with the sine function. At first I thought there wasn't a sin block but then I found it. Then I had to figure out how to keep the tint of the sky, made by drawing with a big pen, in a positive value, as well as the brightness of the desert sprite. So I realized the absolute value block came in handy there. 
+Math is hard so this was a good challenge!","Day/night cycle using sin & cos of timer.
+The lighting is good but as you can see I'm having a tough time with the rotation of the sun and moon. It's getting there...currently I have to figure out why they go clockwise sometimes in their cycle.
+Eventually I figured out why but I can't fix it...",214174,https://cdn2.scratch.mit.edu/get_image/project/236396212_480x360.png,2018-07-14T12:58:01.000Z,2018-07-15T03:22:31.000Z,2018-07-14T14:32:32.000Z,13,1,0,0,0,,
+91309658,Back home,"Ho aggiunto il cronometro, posso azzerarlo ma come lo fermo?
+ Ho aggiunto una variabile, ma è un po' troppo...
+
+I added the chronometer, I can reset it but how to stop it?
+ I added a variable, but it's a bit too much...
+
+
+
+
+","Clicca la bandiera e gioca con le frecce per muovere il pinguino.
+Click on the green flag and play moving the penguoin with arrows.
+I
+",11312120,https://cdn2.scratch.mit.edu/get_image/project/91309658_480x360.png,2015-12-12T16:52:55.000Z,2018-07-14T15:00:33.000Z,2015-12-14T13:59:17.000Z,30,4,2,0,0,63458540,63458540
+236398393,Caccia..in dispensa!,"Idea presa da http://www.buzzland.it/2016/03/riesci-a-trovare-questi-9-oggetti-nascosti-tra-gli-scaffali-del-supermercato-guarda.html
+
+","Hai un minuto di tempo per trovare i cibi nella lista. Occhio al cronometro quindi!!
+Ogni cibo trovato vale 1 punto.",34169307,https://cdn2.scratch.mit.edu/get_image/project/236398393_480x360.png,2018-07-14T13:48:14.000Z,2018-07-14T14:57:28.000Z,2018-07-14T14:56:04.000Z,17,7,3,0,0,,
+236393890,Getting Unstuck 10 - Travel,"Spent way more time on this than I planned. Headed to Red Sox game so out of time. I have a few things to add, days of trip, cat saying final time, etc. 
+
+Had fun using those blocks and working out ways to convert the time. One note, had the arrival time clock go hour by hour to show the travel but taking a duck to California took a long time to spin. So I went without screen refresh. If you want to see the clock animate, edit that block on the arrival clock and watch that hour hand spin","click the flag and answer the cat's questions. He'll give you your arrival time at your location of choice by your transportation choice.
+
+",3158946,https://cdn2.scratch.mit.edu/get_image/project/236393890_480x360.png,2018-07-14T12:02:41.000Z,2018-07-14T23:38:54.000Z,2018-07-14T14:57:37.000Z,15,7,1,0,0,,
+236399764,Getting Unstuck Day10,,Click on the green,13275782,https://cdn2.scratch.mit.edu/get_image/project/236399764_480x360.png,2018-07-14T14:19:18.000Z,2018-07-14T15:08:55.000Z,2018-07-14T15:08:55.000Z,6,1,0,0,0,126591654,126591654
+236399971,Day 10,,"press green flag, then move using the right arrow and (D) key.",34188789,https://cdn2.scratch.mit.edu/get_image/project/236399971_480x360.png,2018-07-14T14:24:22.000Z,2018-07-15T06:45:19.000Z,2018-07-14T15:06:55.000Z,6,1,0,0,0,,
+236400749,Unstuck Day 10,This was tough.  Used a data variable more than a timer.  Could use some more help trying to do this with just a timer.  Any ideas?,Hit the green flag to see the sand empty,11885888,https://cdn2.scratch.mit.edu/get_image/project/236400749_480x360.png,2018-07-14T14:41:13.000Z,2018-07-14T15:17:44.000Z,2018-07-14T15:16:43.000Z,14,2,0,0,0,,
+236397698,Getting Unstuck day 10,"This project was a huge challenge and I have no doubt there is a much more elegant way to achieve this end. I have not used the time sensing blocks much before and I had a number of false starts as I tried to make several different ideas work. 
+
+I created a list for each month containing the ordinal number for eachs day's place in the year. I left an example snippet of the list set up code on the stage.
+
+With more time I would need to work out a fix for leap years.",Click the green flag,17767933,https://cdn2.scratch.mit.edu/get_image/project/236397698_480x360.png,2018-07-14T13:32:20.000Z,2018-07-14T15:22:06.000Z,2018-07-14T15:19:52.000Z,16,5,0,0,0,,
+236400747,Getting Unstuck: Day 10,I wanted to calculate the day of the week but the algorithm is too complicated,Click on the flag and answer the question,19738986,https://cdn2.scratch.mit.edu/get_image/project/236400747_480x360.png,2018-07-14T14:41:05.000Z,2018-07-14T16:11:12.000Z,2018-07-14T15:07:30.000Z,4,0,0,0,0,,
+236398115,getting unstuked day10,"THANKS @RoboSquid for your Help!!! 
+
+thanks to @mrbeasley: Your maze has been very helpful for me!!!
+
+grazie a @mrbeasley: il tuo labirinto mi è stato molto d'aiuto!!!
+
+HELP: why in the script the single parts work, but not together?
+I'm frustrated!!!
+AIUTO: perchè nello script le singole parti funzionano, ma tutto insieme no?
+sono frustrata!","click on the green flag and guide the ball into the maze using arrows. Reach red. how many time do you spend?
+
+clicca sulla bandierina verde e guida la pallina del labirinto con lefrecce. Raggiungi il rosso. quanto tempo ci hai messo?
+
+ORA FUNZIONA!",25103547,https://cdn2.scratch.mit.edu/get_image/project/236398115_480x360.png,2018-07-14T13:42:05.000Z,2018-07-16T10:06:24.000Z,2018-07-14T15:12:59.000Z,9,2,0,0,0,,
+236398594,10 Second Maths Challenge (Unstuck#10),"Getting Unstuck challenge/activity #10 - ""Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000)""
+
+Timer is used to set a 10 second limit on answering questions. Would be interesting to know if a ""ask and wait"" could be interrupted based on a timer or other event (at present as long as the question is within 10 seconds the user can take any length of time to answer due to the wait).",Click the flag to begin. Then click the button to start the challenge. How many questions can you get correct in 10 seconds?,15872912,https://cdn2.scratch.mit.edu/get_image/project/236398594_480x360.png,2018-07-14T13:53:09.000Z,2018-07-14T15:53:38.000Z,2018-07-14T15:50:47.000Z,11,1,0,0,0,,
+236401569,Charlene's Timed Closet,"A remix of my Charlene's Closet https://scratch.mit.edu/projects/99536620/ based on a Math Forum Problem of the Week scenario.
+
+Reflection: I thought it would be great to have your outfit chosen for you based on the day of the week and the weather.  I've tried to simulate that here a bit with one day lasting 60 seconds. Some choices are random, other more considered, like wear a hat when the sun is out or black socks at night (?). 
+
+Getting Unstuck: I used a variable to help me set up the formula to choose which shirt to wear.  More time could be spent making the project more accurate, but I'm happy with the way it turned out.
+
+It was nice to remix an project where all the costumes were set already.","Getting Unstuck #10: Use the timer/ time sensing block.  
+
+Time will tell Charlene what to wear when you click the Choose for me button.
+
+Use the other buttons to make your own choice for Charlene.
+Hats must be worn when the sun is out!
+",399245,https://cdn2.scratch.mit.edu/get_image/project/236401569_480x360.png,2018-07-14T14:58:22.000Z,2018-07-14T16:00:32.000Z,2018-07-14T16:00:32.000Z,13,2,0,0,0,,
+236400265,Time is Material (Unstuck 10),I think this is a good start but definitely want to go back and play around with the idea the colors change being linked to minutes and hours.,Just press the flag to start.,27690149,https://cdn2.scratch.mit.edu/get_image/project/236400265_480x360.png,2018-07-14T14:30:51.000Z,2018-07-14T17:01:00.000Z,2018-07-14T16:01:58.000Z,15,2,1,0,0,,
+236398097,Cat on a desert island,"There are so many details I would like to work on but the project itself broadcasted ""evening"". Wow!
+
+The idea behind this project is the handheld game ""Tamagotchi"". One day maybe I'll complete with some interaction. For the moment, it just sits here...","Show and modify variable ""hour"" to see the different states of this scene.
+
+The starting position should reflect the time of the day. The cat goes to bed at 22 o'clock and gets up at 7 in the morning.",12148328,https://cdn2.scratch.mit.edu/get_image/project/236398097_480x360.png,2018-07-14T13:41:48.000Z,2018-07-15T00:51:46.000Z,2018-07-14T16:15:20.000Z,17,7,2,0,0,,
+236398675,Getting Unstuck Day 10,"The Digi-Clock 2000 is an LED clock from the 1970's. It is hard to read and is decidedly clunky but now looks insanely cool.
+
+I started just trying to make some sort of unusual linear/barchart clock, but it evolved over about 30 minutes' coding into this retro-silliness. Spent most of the time trying to get the right bar lit with silly 0/1 59/60 errors.","Getting Unstuck Day 10
+
+Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).",2314547,https://cdn2.scratch.mit.edu/get_image/project/236398675_480x360.png,2018-07-14T13:54:58.000Z,2018-07-14T19:51:11.000Z,2018-07-14T16:38:09.000Z,14,4,0,0,0,,
+236404852,Counter,"for day 10 of Getting Unstuck
+
+I got really stuck in this project, and eventually abandoned the idea of making a new kind of clock. Even building a counter or stop watch was confusing until I succumbed to using the ""glide"" block. In the end I'm aesthetically pleased and mathematically disappointed by my efforts.","Green flag,
+
+Deciseconds at the top, seconds in the middle, minutes at the bottom",33815227,https://cdn2.scratch.mit.edu/get_image/project/236404852_480x360.png,2018-07-14T16:06:53.000Z,2018-07-14T17:07:35.000Z,2018-07-14T16:34:11.000Z,12,2,0,0,0,,
+236405090,Gordon_Getting Unstuck Day 10,,click on the green flag and then watch the bird closely.,18900622,https://cdn2.scratch.mit.edu/get_image/project/236405090_480x360.png,2018-07-14T16:11:40.000Z,2018-07-14T16:52:53.000Z,2018-07-14T16:52:53.000Z,8,0,0,0,0,,
+236391724,I'm Late - Getting Unstuck! - Day 10,"I have never used the current time blocks before so this is a fun little project with them. 
+",Looks like Harold is late again!!,19641362,https://cdn2.scratch.mit.edu/get_image/project/236391724_480x360.png,2018-07-14T11:06:34.000Z,2018-07-14T17:47:02.000Z,2018-07-14T12:54:52.000Z,13,5,1,0,0,,
+236405077,Is it Friday? -- Unstuck Challenge 10,"This is just a silly little application that delights in its utter impractability. 
+
+My original idea was to have the cat come out and report how many days left until the start of school, then after school started, the days left until the end of the year.  I decided that project was more than I could take on -- yet.  
+
+Instead, I scaled down the idea to experiment with some of the blocks and concepts that might be necessary to make my original idea happen.  I think I have a better idea of how to go about it after playing with this project, but I may need to see what others have done first before I attempt my own project.  
+",Just follow the on-screen instructions,11608238,https://cdn2.scratch.mit.edu/get_image/project/236405077_480x360.png,2018-07-14T16:11:26.000Z,2018-07-14T17:51:21.000Z,2018-07-14T17:30:37.000Z,3,2,0,0,0,,
+171544113,Quadrati rotanti,"Mio lavoro remixato per Getting Unstuck Day 10: ho aggiunto il cronometro per fermare l'animazione dopo 30 secondi
+
+Grazie a Papami-chan per avermi ispirato con Meditation ",Basta cliccare sulla bandierina verde,17698999,https://cdn2.scratch.mit.edu/get_image/project/171544113_480x360.png,2017-08-18T09:53:13.000Z,2018-07-14T17:56:51.000Z,2017-08-18T10:24:41.000Z,15,1,0,0,0,,
+236404589,Unstuck Day 10: Circles are on the Radar!,"Seem to be exploring geometry concepts in my projects . . . 
+Working with circles is much more challenging than I expected!  Yesterday taught me to keep track of lines of code that I have tried, so today I created a new spite for each trial. 
+Started by looking at ""Digital Clock"" by @mizzpeters and ""My better alarm clock"" by @Curious_AEF.  Curious to see how they created their circles.
+When I got the project to work, I wasn't actually using the time-related blocks to accomplish the main task. Wanted solid radar colour to change when line pointing up, but haven't quite got that yet. Unfortunately, ""time"" is up for today!  May revisit.
+Any suggestions and tips from experienced coders would be greatly appreciated!",Create a project that uses one or more of the time-related blocks in the Sensing category.  My idea was to create a radar-style circle effect and have the colour change once the circle is complete.  ,18337230,https://cdn2.scratch.mit.edu/get_image/project/236404589_480x360.png,2018-07-14T16:01:03.000Z,2018-07-14T18:09:59.000Z,2018-07-14T18:09:59.000Z,10,2,0,0,0,,
+236395519,GU_Day10_PoisonIvy,"Lots of trial and error to figure out how to serrate the leaves! 
+In this project I combined:  drawing with pen, color sensing, timing, and importing a photo (taken in my yard).
+The user decides for how long to run around touching and/or avoiding poison ivy. Arrow keys are controlled by the user. I decided not to hide the person sprite at the end b/c I like how she is pointing up at the morals. In order to not have her speech bubble hide the morals, I needed to ditch the stop other scripts in this sprite block. 
+","Click the green flag.
+When prompted, enter for how long to play. Use the arrow keys to move. ",24741621,https://cdn2.scratch.mit.edu/get_image/project/236395519_480x360.png,2018-07-14T12:41:17.000Z,2018-08-02T15:28:52.000Z,2018-07-14T18:23:22.000Z,8,1,0,0,0,,
+236410872,Clock (Getting Unstuck Day 10),"I've used the timer blocks quite often, but I hardly ever use the current time blocks.
+
+At first I wanted to make a water clock like the one I had seen in a Science Museum, but that turned out to be too complicated. Then I decided to go for this easier alternative and somehow it was a kind of magical moment that while I was still making this project another pink ball turned into a dark one because it was 8 o'clock overhere.
+
+This only took me half an hour to make, but I enjoyed taking the challenge again. This is my third Unstuck project. One of my unstuck projects can be found on my main account @PinkyPepper.","Just click the green flag and try to find out what time it is.
+
+This project is made for day 10 of the Getting Unstuck Challenge:
+Create a project that uses one or more of the time-related blocks in the Sensing category.
+
+gettingunstuck.gse.harvard.edu",11833500,https://cdn2.scratch.mit.edu/get_image/project/236410872_480x360.png,2018-07-14T18:14:09.000Z,2018-07-14T18:37:49.000Z,2018-07-14T18:23:43.000Z,19,6,0,0,0,,
+236408702,Getting Unstuck Day 10.1,"The Digi-Clock 2000 was an imaginary LED clock from the 1970's (https://scratch.mit.edu/projects/236398675/). It was hard to read. In response to complaints, the Digi-Clock Corporation made the Digi-Clock 2001 released in 1980 just in time for a new decade.
+
+Just couldn't stop fiddling. This time I think you could actually use this clock.","Getting Unstuck Day 10.1 - new and improved!
+
+Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).",2314547,https://cdn2.scratch.mit.edu/get_image/project/236408702_480x360.png,2018-07-14T17:27:35.000Z,2018-07-14T19:52:07.000Z,2018-07-14T18:29:43.000Z,20,9,3,0,0,,
+236410660,Getting Unstuck: Day 10,"This is my project for Day 10 of the Getting Unstuck programming challenge. I've been using scratch for a long time but I've never tried these blocks.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000)",34314391,https://cdn2.scratch.mit.edu/get_image/project/236410660_480x360.png,2018-07-14T18:09:42.000Z,2018-07-15T13:34:21.000Z,2018-07-14T18:35:04.000Z,3,1,0,0,0,,
+236410498,Day 10 - Happy Birthday! copy,"I should have named this ""Nightmare of Nests"". I didn't include many comments because it is such a spaghetti bowl I already couldn't see what I was doing. 
+It is actually fairly simple, but it took what feels like thousands of iterations to get it to work*
+
+*It is sometimes off by a day and for February may be off by 2
+
+music - Monk Turner + Fascinoma - It's Your Birthday! via free music archive
+
+Many thanks to @MrQuentin for being the world's most patient and helpful guinea pig
+This project was inspired by @karenb ""The Time Laboratory""  - I *thought* I was going to whip up something much simpler!",click the green flag and answer the questions,18341966,https://cdn2.scratch.mit.edu/get_image/project/236410498_480x360.png,2018-07-14T18:06:16.000Z,2018-07-14T21:29:32.000Z,2018-07-14T18:31:40.000Z,10,3,1,0,0,,
+173029197,Today's Moon Phase,"The Moon Phase in real time for Northern Hemisphere
+
+Getting Unstuck ""Time""",,2143382,https://cdn2.scratch.mit.edu/get_image/project/173029197_480x360.png,2017-09-02T19:47:31.000Z,2018-08-06T08:10:49.000Z,2017-09-14T07:55:43.000Z,51,11,2,0,0,,
+236410428,Getting Unstuck #10: Have a nice day! (working with time related blocks),"I am glad that due to challenge #10, I investigated the time-related blocks with which I was not very familiar!
+
+Scratch project was created as activity #10 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+
+Day #10 Challenge: Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).",Press the green flag and watch a short conversation between the dragon and the little prince!,1202362,https://cdn2.scratch.mit.edu/get_image/project/236410428_480x360.png,2018-07-14T18:04:38.000Z,2018-07-16T17:23:45.000Z,2018-07-14T18:46:17.000Z,18,2,0,0,0,,
+236412191,Your Timer,Getting Unstuck: Day 10,to set Your Timer click on the white arrows and click on START,2143382,https://cdn2.scratch.mit.edu/get_image/project/236412191_480x360.png,2018-07-14T18:42:07.000Z,2018-07-14T19:09:06.000Z,2018-07-14T18:59:07.000Z,12,4,0,0,0,,
+236413345,Uncommon Teacher - Getting Unstuck Day 10 ,"I started looking for Historic important facts to make this project. This reindeer was a loose sprite that appeared every time I changed the background. I found it funny and then a whole other story appeared behind. 
+I thought it was a good way of playing and avoiding only serious information. We can learn and play, and we can be a bit as the deer as teachers too. :)
+",Click on the green flag to learn about some Historic facts and about a very uncommon teacher. :),2176961,https://cdn2.scratch.mit.edu/get_image/project/236413345_480x360.png,2018-07-14T19:07:26.000Z,2018-07-14T19:15:26.000Z,2018-07-14T19:07:54.000Z,33,17,0,0,0,,
+236411647,GettingUnstuck 10,"I like the concept for my project, having had many staring contests with my own cats.
+
+I am a little stuck at the moment with the sensitivity on the video motion. If I set it to 99 or less, I can't get past a single second of the contest no matter how still I am, unless I actually hold my thumb over the webcam. But if I set it to 100, it doesn't pick up any motion at all. I tried varying whether it was measuring the motion on the stage or the sprite, and the result was the same. Maybe I'm just jittery?
+
+Cat image by Thomas Wolfson via Pixabay.
+Music is Home by Komiko via the Free Music Archive.",Click the green flag to have a staring contest with this cat.,18044195,https://cdn2.scratch.mit.edu/get_image/project/236411647_480x360.png,2018-07-14T18:30:57.000Z,2018-07-14T20:13:00.000Z,2018-07-14T19:12:15.000Z,5,2,0,0,0,,
+236411909, Getting Unstuck Day 10,"bezier pen text engine (bpte) from @TheMachinumps
+bpte used for year and time","just press green flag
+
+shows: (from top to bottom, left to right)
+year
+month
+day
+time (hours, minutes, seconds)",28402186,https://cdn2.scratch.mit.edu/get_image/project/236411909_480x360.png,2018-07-14T18:36:02.000Z,2018-07-14T19:19:27.000Z,2018-07-14T19:16:47.000Z,6,3,0,0,0,,
+236410584,Day 10: What day is it?,"Still a work in progress.  Plan to get back to this evening to finish but I thought I share now in case I don't, BBQ time!  
+
+I rarely work with these blocks, I should I just forget they are there!
+
+I took the sleeping Scratch Cat from the Conference website page. ",Click the green flag. ScratchCat has a lot to do to get ready for the Conference.  Help him out by following his requests!,1294980,https://cdn2.scratch.mit.edu/get_image/project/236410584_480x360.png,2018-07-14T18:08:13.000Z,2018-07-15T01:15:17.000Z,2018-07-14T19:25:44.000Z,12,8,0,0,0,,
+236412132,G.U.- Day 10,"Volevo collegare il cambio dello sfondo al conteggio, ma non ci sono riuscita.","Uso minimo dei blocchi ""cronometro"" e ""azzera cronometro"" (usati per la prima volta).
+",13746945,https://cdn2.scratch.mit.edu/get_image/project/236412132_480x360.png,2018-07-14T18:40:48.000Z,2018-07-14T19:50:08.000Z,2018-07-14T19:47:18.000Z,16,2,0,0,0,,
+236412912,Scratch O'Clock And All is Well! - Getting Unstuck Day 10,"I have NEVER used the time blocks before. I honestly didn't quite realize they were even there. Once I messed around with the blocks I realized they were MUCH more useful than I had anticipated. However, my first idea was one i stuck with, having Scratch on guard duty, and letting everyone know all is well, with a bell tolling in the background. I am really looking forward to the other projects, because I believe there are a lot of uses for those time blocks.","Just wait a second, Scratch will tell you what to do.",22706156,https://cdn2.scratch.mit.edu/get_image/project/236412912_480x360.png,2018-07-14T18:57:53.000Z,2018-07-14T19:46:35.000Z,2018-07-14T19:43:35.000Z,9,2,0,0,0,,
+236402577,GUS-clock,,Getting Unstuck Clock,139209,https://cdn2.scratch.mit.edu/get_image/project/236402577_480x360.png,2018-07-14T15:19:15.000Z,2018-07-14T19:06:17.000Z,2018-07-14T16:35:51.000Z,27,12,6,0,0,,
+202714156,Day 9 of Getting Unstuck Maze Levels game ,"This was a fun project and I like to teach building mazes several ways, whether doing drawings like this, or using other maze type backgrounds. This simple game is any easy way to have kids draw their own backgrounds to create a project. I find kids really enjoy making starting projects like this.","Use the arrow keys to move through the mazes.
+
+Day 9 of Getting Unstuck project using color",588430,https://cdn2.scratch.mit.edu/get_image/project/202714156_480x360.png,2018-02-07T20:18:25.000Z,2018-07-24T13:01:09.000Z,2018-07-14T18:24:14.000Z,4,0,0,0,0,,
+236412496,Day 10 Challenge,"I looked for inspiration within the studio because I was having a hard time deciding what to do. I got inspiration from @maths77680 project on multiplication. I have always wanted to do some type of Math quizzes. 
+
+This was fun to do, but took me a while to debug and figure out how to do some of the things I wanted to do such as keeping track or correct vs incorrect answers. ",Day 10 of Getting Unstuck,588430,https://cdn2.scratch.mit.edu/get_image/project/236412496_480x360.png,2018-07-14T18:48:41.000Z,2018-07-15T21:55:07.000Z,2018-07-14T20:35:07.000Z,6,1,0,0,0,,
+236411485,Getting Unstuck Day 10: Let's Chat,"My project is a chat bot that uses the current month and day to calculate how many months until someone's birthday when they answer questions during the ""chat"". It also uses a timer to have the chat end after 1 minute. I ran out of time to work on this so the first 3 questions are more interactive than the remaining questions.
+
+Sprite images created with https://www.bitmoji.com/",,5271542,https://cdn2.scratch.mit.edu/get_image/project/236411485_480x360.png,2018-07-14T18:27:22.000Z,2018-07-14T22:24:33.000Z,2018-07-14T20:34:42.000Z,8,5,1,0,0,,
+236410433,"Getting Unstuck Day 10 Timer, Penguin and Rotating Fruit",,,11634746,https://cdn2.scratch.mit.edu/get_image/project/236410433_480x360.png,2018-07-14T18:04:44.000Z,2018-07-14T20:56:15.000Z,2018-07-14T20:56:15.000Z,7,0,0,0,0,,
+236403605,Where are my kittens?,"My mini game was inspired on some elements of the ""DK"" arcade game.
+
+                                     ---Questions---
++What took you the most time? 
+I took me more time how to move the yarn ball along the stage and stop it at a certain time. I have also problems with the random position of each clone kitten.
+
++What would you do next with your project, if you had more time?
+I'd like to move the yarn ball differently together with more levels.
+
+                                       ---Credits---
++ Art design: characters and backgrounds are made with scratch paint editor.","Press the start button.
+Use RIGHT and LEFT arrow keys to move your cat.
+Use SPACE key to jump.
+Use UP arrow key to climb.
+Try to get your kittens as quickly as possible.
+When you get all kittens, don't forget to touch the other cat once and he will say you your time.
+Enjoy it!!
+
+---Getting Unstuck Day 10---
+""Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).""",4413079,https://cdn2.scratch.mit.edu/get_image/project/236403605_480x360.png,2018-07-14T15:40:44.000Z,2018-07-19T19:26:59.000Z,2018-07-14T21:08:49.000Z,12,4,0,0,0,,
+236418605,Unstuck 10 Timers,"I wanted to create a project I could see student making in conjunction with Makey Makey. I used a timer to count down the number of seconds allowed for the answer button to be pressed. I also wanted to use a ""list"" variable to hold all the questions and answers. I still have the timing a bit off for the ""say"" commands, and I would have liked more time to include some animations to make it more interesting. Happy that I learned a bit about list variables and how to set them and check them.","Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000). ",19123745,https://cdn2.scratch.mit.edu/get_image/project/236418605_480x360.png,2018-07-14T21:18:04.000Z,2018-07-14T21:22:44.000Z,2018-07-14T21:18:30.000Z,14,1,0,0,0,,
+236417878,Getting Unstuck Day10,"What took you the most time? Originally I was going to edit Nano's costumes to go from baby to child, teen etc but it was taking ages. I've not used timing blocks before so I was too excited to get coding so I changed my plan.
+
+What would you do next with your project, if you had more time? I think the idea is good but the execution is a bit poor. If I had more time I'd make this as a historical project 'Britain through the ages' or something with costume and background changes and a greater spread out timeline. ",,17809789,https://cdn2.scratch.mit.edu/get_image/project/236417878_480x360.png,2018-07-14T20:58:59.000Z,2018-07-14T21:29:25.000Z,2018-07-14T21:27:07.000Z,11,0,0,0,0,,
+236412654,Getting Unstuck - Day 10 (time),"Oh man. This was the hardest project yet. I've been trying to imagine my own ideas first before checking out other people's work for Getting Unstuck...but I've never used time-related blocks before! (gasp) So I broke my own rule and poked around a bit — and I saw a lot of numbers, which typically scare me off. But I wanted to push myself, so I looked for a basic structure to remix.
+
+I knew one of my all-time favorite projects from 
+@crazynimbus (https://scratch.mit.edu/projects/19013498/#editor) used a countdown, so I examined the scripts inside. Then I asked myself -- what date am I excited about? And realized I'm just happy that it's Saturday. And voila! I made a simplified time project that doesn't really use a countdown, but is a good start to thinking about computing with time.
+
+Since I ask myself ""Is it the weekend?"" pretty much every day, I used my own sprite :)",How many days until the weekend? Click the green flag to find out!,2752403,https://cdn2.scratch.mit.edu/get_image/project/236412654_480x360.png,2018-07-14T18:52:09.000Z,2018-07-14T21:42:09.000Z,2018-07-14T21:32:24.000Z,27,3,2,0,0,,
+236418047,Day 10,,"Click the green flag to start. Do not click until the green ball appears. The ""time"" will record your reaction time. Click anywhere on the screen to stop the time. See if you can get the best time. ",7505824,https://cdn2.scratch.mit.edu/get_image/project/236418047_480x360.png,2018-07-14T21:03:57.000Z,2018-07-14T21:34:46.000Z,2018-07-14T21:31:46.000Z,10,2,0,0,0,,
+236414708,Pizza success,I  realized when I had submitted the project that it was supposed to be time related. Oh well- it took a long time! I found out that you can download and edit images in the costumes part of the sprites using a combination of eraser and remove background. It works best if the background is fairly uniform. Next time I will take my own images though if possible as it will be quicker!  I suspect I can simplify the script for setting the variable counters if I look more closely at the operators and use some ratios.,I am always forgetting how many cups of flour I have added when making pizza so I made this counter to keep track! click on green flag and select the number of pizzas you wish to make. click on the flour and water cups to add the correct ratio of flour to water.,34099462,https://cdn2.scratch.mit.edu/get_image/project/236414708_480x360.png,2018-07-14T19:40:02.000Z,2018-07-14T22:22:03.000Z,2018-07-14T22:00:53.000Z,8,1,0,0,0,,
+236416604,birth and death of a galaxy,"I realise I haven't used the sensing time functions at all! And my galaxy  should live for billions not millions of years.
+Will try again tomorrow.
+",,33472226,https://cdn2.scratch.mit.edu/get_image/project/236416604_480x360.png,2018-07-14T20:27:08.000Z,2018-07-14T22:30:15.000Z,2018-07-14T22:20:10.000Z,2,0,0,0,0,,
+236421486,Getting Unstuck Day 10,,Click the geen flag to ses how does the cat take to complete a loop.,14159575,https://cdn2.scratch.mit.edu/get_image/project/236421486_480x360.png,2018-07-14T22:34:28.000Z,2018-07-14T22:35:21.000Z,2018-07-14T22:34:40.000Z,13,1,0,0,0,,
+236421441,Getting Unstuck Day 10 Sensing,,The event is pressing the green flag. It is a very simple usage of timer.,2356410,https://cdn2.scratch.mit.edu/get_image/project/236421441_480x360.png,2018-07-14T22:33:02.000Z,2018-07-14T22:43:26.000Z,2018-07-14T22:42:41.000Z,9,0,0,0,0,,
+236422059,Getting Unstuck - Day 10 ,"I'm still working through this scratch project. For instance, the divide operation gives back the full decimal number instead of the tens digit place of a number. I'm working to make this more accurate and hopefully expand the world times.
+
+This was inspired by my recent arrival in Tokyo, Japan!! ","Click the green flag to display the current time in Tokyo. Click the other buttons to check the time in San Francisco, CA and Boston, MA respectively.",25334812,https://cdn2.scratch.mit.edu/get_image/project/236422059_480x360.png,2018-07-14T22:48:39.000Z,2018-07-14T23:32:20.000Z,2018-07-14T23:30:17.000Z,4,0,0,0,0,,
+236399609,Unstuck Day 10 - Bug on a Donut,"I had a tough time figuring out the sensing timer. I realized that it constantly runs, and that I'd be best off keeping it hidden. It does restart every time the flag is clicked. By having the donut say the time, the player knows how long it took the bug to land on the donut. The timer resets after each time the bug lands on the donut. I'd like to include a list of the last 5 times, but I'm not sure how to do that.",Press the flag. A timer is running. See how long it takes the bug to land on the donut. The timer will reset each time he leaves the donut.,10715270,https://cdn2.scratch.mit.edu/get_image/project/236399609_480x360.png,2018-07-14T14:15:49.000Z,2018-07-25T13:06:49.000Z,2018-07-14T23:37:42.000Z,13,3,0,0,0,,
+236406641,7 segment clock,"I had a lot of fun with this one. I started out with an analog clock, but decided it might be more fun to try and replicate a classic LED 7 segement display based clock. The toughest part of getting this right is trying to create a 2d array for the truth table that dictates which combination of LEDs to use for each number. While I couldn't create a true 2d array, I got around the limitation by storing an array of strings and then using each character of the strings to represent an LED in the display.",,1092342,https://cdn2.scratch.mit.edu/get_image/project/236406641_480x360.png,2018-07-14T16:44:42.000Z,2018-07-15T00:30:54.000Z,2018-07-15T00:08:04.000Z,8,5,0,0,0,,
+236426583,Challenge10Time,,Very simple program today. I want to add a loop so more dates can be added. I did learn how to deal with dates and did some list work. ,2190314,https://cdn2.scratch.mit.edu/get_image/project/236426583_480x360.png,2018-07-15T00:46:52.000Z,2018-07-15T00:48:34.000Z,2018-07-15T00:47:37.000Z,2,0,0,0,0,,
+236421687,Day 10 - Marvin,"Brief experimentation with timer. Will explore more.
+
+Day 10 - Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000). 
+",Click Flag and move mouse.,109272,https://cdn2.scratch.mit.edu/get_image/project/236421687_480x360.png,2018-07-14T22:39:25.000Z,2018-07-25T01:17:50.000Z,2018-07-16T13:27:11.000Z,9,0,0,0,0,,
+236423150,Getting Unstuck Challenge 10,"Oh wow!
+I thought this was going to be easier than it was!
+I tried many variations of using the blue sensing timer, but didn't like how I couldn't stop the timer - any ideas ?
+So I resorted to the variable timer.
+I am still not sure if it completely works or I would do again in this way, but I had fun and was certainly challenged!
+Credit for images from clipartpanda.com","Press green flag to start.
+Answer the questions before time runs out.",13484475,https://cdn2.scratch.mit.edu/get_image/project/236423150_480x360.png,2018-07-14T23:16:26.000Z,2018-07-15T01:22:51.000Z,2018-07-15T01:19:49.000Z,8,1,0,0,0,,
+236426689,Day 10 Unstuck,"I looked at others unstuck timer but I couldn't find anyone that used the blue timer to set a timer in their game.  Time is a critical element in game design.  I wish I could have figured out how to utilize the built in blue timer but ultimately like others I just created a variable called timer.
+
+I would like to have reset it in program so that they didn't have to click the green flag.  I would have also like to add a little movement to the lemons.","You have 10 seconds to collect 6 lemons otherwise you must try again.
+
+Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).",20446522,https://cdn2.scratch.mit.edu/get_image/project/236426689_480x360.png,2018-07-15T00:49:23.000Z,2018-07-15T01:46:52.000Z,2018-07-15T01:46:52.000Z,3,0,0,0,0,,
+236429346,Who will win? (Getting Unstuck Day 10),Trying to figure out how to make it only say the time of the winner.  I'd also like all scripts to end once one runner reaches the finish line.,"Click the green flag to begin.
+
+Use the space bar to move the runners.
+
+The first place runner's time will be shown.",34198395,https://cdn2.scratch.mit.edu/get_image/project/236429346_480x360.png,2018-07-15T01:49:37.000Z,2018-07-15T22:10:17.000Z,2018-07-15T02:19:06.000Z,6,0,0,0,0,,
+236432442,Time- Day 10,"Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000). ","Press the green flag.
+
+**I can't figure out why my dog appears to be glitching at the end??  This is my first time using the ""time"" blocks so I'll have to practice!",25165723,https://cdn2.scratch.mit.edu/get_image/project/236432442_480x360.png,2018-07-15T03:07:27.000Z,2018-07-15T03:22:36.000Z,2018-07-15T03:21:40.000Z,5,0,0,0,0,,
+236420608,Getting Unstuck Day 10 Challenge,borrowed some of the mechanics from various multiplication practice projects. I added a visual of moving up and down to mine to show progress towards objective.,"Try to move the crab up to 100 on the X axis by answering these multiplication problems. You have 60 seconds. Correct answers move the crab up, incorrect answers move the crab down. I did not use the timer function that is built in because it seems to go up, and I wanted to count down the time. ",17824064,https://cdn2.scratch.mit.edu/get_image/project/236420608_480x360.png,2018-07-14T22:10:57.000Z,2018-07-15T03:45:03.000Z,2018-07-14T22:29:16.000Z,10,4,1,0,0,,
+236420282,US Time Zone,"Unstuck Challenge 10: Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000). 
+
+",Click the green flag to start. Follow the instruction to find the current time of your selected time zone.,25332755,https://cdn2.scratch.mit.edu/get_image/project/236420282_480x360.png,2018-07-14T22:02:29.000Z,2018-07-16T15:42:30.000Z,2018-07-15T04:11:08.000Z,16,5,1,0,0,,
+236433808,Getting Unstuck Day 10,"This project represents a Mexican tradition called ""Breaking the Piñata"". We have this at birthdays, celebrations and Christmas at the Posadas. The music you are hearing would be the traditional song for the Posadas.
+
+Music: https://www.youtube.com/watch?v=RQ3uagK9AAI
+
+I was very happy (but sometimes frustrated) to use variables, chronometers and operators one more time. And this time I made it myself! 
+
+I hope it works all the times, as it sometimes gets stuck, but just click the green flag to start.
+
+Images: Posadas navideñas/romper piñata (IMSS)/ candies (Ricolino, Dulces de la Ros)","Click on the green flag to start. Even if you want to try again. Green flag :)
+
+You have 20 seconds to put your maximum strength (100) to break the ""piñata"".",32493591,https://cdn2.scratch.mit.edu/get_image/project/236433808_480x360.png,2018-07-15T03:47:32.000Z,2018-07-15T17:09:36.000Z,2018-07-15T05:53:08.000Z,33,6,2,0,0,,
+236437926,Day 10 - Getting Unstuck,I added some time-based city sounds to the original project.,A weather station that can keep a record of the lightning that falls during a storm. ,26079479,https://cdn2.scratch.mit.edu/get_image/project/236437926_480x360.png,2018-07-15T05:52:59.000Z,2018-07-24T22:21:08.000Z,2018-07-15T06:59:31.000Z,7,0,0,0,0,174176343,174176343
+236428285,The Tube Challenge_ Unstuck Day 10,"Many iterations. I was inspired while watching my boys swim in the hot summer sun. I began by making a swimming pool and inner tubes, then remixing a sprite to make Maya in a tube.  I had fun trying to figure out a method of keeping the floating tubes inside of the pool.  Even though Maya can go outside of the pool, the tubes can not. At first, I had the tubes with a set angle and move, but then I made them random. When I tried to play, I would never win, so I adjusted the random range to make the game possible. I still am wondering how to record all three tubes have entered the green space as a success.  (i just figured out how to do this).  I also want to add bonus coconuts that will fall from the trees.  If Maya gets these, in the next level, she will have super powers. 
+
+Music from Incompetech by Kevin McLeod  Undaunted.mp3",Use your keyboard arrows to move Maya's tube around to get all the floating tubes to the green space in the swimming pool.  You have 60 seconds to do so!  Good luck. ,31144646,https://cdn2.scratch.mit.edu/get_image/project/236428285_480x360.png,2018-07-15T01:25:27.000Z,2018-07-20T02:12:07.000Z,2018-07-15T02:20:46.000Z,10,2,1,0,0,,
+236440170,Getting Unstuck: Day 10,"Getting Unstuck: Day 10.
+Challenge: Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).
+
+I used those block for the first time!",Click on green flag to start.,17615581,https://cdn2.scratch.mit.edu/get_image/project/236440170_480x360.png,2018-07-15T06:59:39.000Z,2018-07-22T14:54:06.000Z,2018-07-15T07:15:21.000Z,10,0,0,0,0,,
+236434877,Mouse Clock,Found it hard to move the sprites according to the current time. Need more time to play with it.,Press the green flag to start,30508500,https://cdn2.scratch.mit.edu/get_image/project/236434877_480x360.png,2018-07-15T04:21:09.000Z,2018-07-15T07:58:30.000Z,2018-07-15T07:52:52.000Z,13,0,0,0,0,,
+236439096,Messing About with Time,"Today I finally had more time to spend on my project, and yet this is the most unfinished, messy, experimental, uncomfortable thing I've shared so far.
+
+In my countless experiments I came up with clocks that made much more sense and looked better than this one. I've saved some of them, and took apart many others. But I choose to share this one because is the one I learned the most from.
+
+If you look inside at the code you'll see an explosion of blocks all over the place.. I think they are sound evidence of a deep tinkering process and a rich creative learning experience, something that should be valued rather than stigmatized when we assess students' work.
+
+I also learned a lot about clones and performance, continuously pushing the boundaries to see what was possible to achieve, instead of changing strategies, even when I could see a better alternative solution.
+
+I prioritized inquiry, exploration and investigation over efficiency and getting ""right answers"" or making the ""right project"", in the spirit described in the wonderful article shared today: http://www.papert.org/articles/ComputerAsMaterial.htm
+
+Anyway, I have many other reflections about time.. but I'll share them another time. Now it's time for me to go to bed! I hadn't noticed because my clock here only counts seconds.. at this time! :)
+
+Until next time!",Click the green flag and... see the result of more than 4 hours of messing about with time.,2286560,https://cdn2.scratch.mit.edu/get_image/project/236439096_480x360.png,2018-07-15T06:28:25.000Z,2018-07-19T01:47:18.000Z,2018-07-15T09:03:55.000Z,10,1,0,0,0,,
+236443098,Fruitworm Christmas Edition v3 remix-2,"Credits to ninja35 who helped me a lot with this remix of his project.
+I have always loved this project and I thought of setting a time limit to see how many fruits the worm can gobble in a minute.
+However, this set of blocks are kind of beyond me, so I asked for help.
+THANK YOU ninja35!
+My wish is to be able to announce the total but with the stop all block, I cannot do that. 
+I will have to revisit this again when time permits.","Click green flag to start.
+Instructions as follows.
+1. The worm will follow your mouse. Try to gobble up as many fruits as possible. 
+2.Gobbling the bomb slows the speed but eating the blue sprite speeds the worm up.
+3. Gobbling the special fruit increases the worm's size.
+4. Post your best scores in a message.
+My best is 54.",158902,https://cdn2.scratch.mit.edu/get_image/project/236443098_480x360.png,2018-07-15T08:20:11.000Z,2018-07-15T09:05:41.000Z,2018-07-15T09:05:41.000Z,5,1,0,0,0,14635243,14635243
+236444667,Vengeful Ghoul,"I found this challenge to use the blue timer blocks really hard. This project would have been much more straight forward if I has used the variable timer. It was only when I looked at others' projects and saw that they were finding it hard too that I decided to persevere with the blue blocks. Shout out to iloveCS312 and their The Tube Challenge project for the tips, although I still don't know how to get the timer to show on the screen.",Click on the green flag and enjoy. Be sure to watch right to the end.,32833725,https://cdn2.scratch.mit.edu/get_image/project/236444667_480x360.png,2018-07-15T09:03:16.000Z,2018-07-15T09:37:45.000Z,2018-07-15T09:32:13.000Z,3,0,0,0,0,,
+236404164,Getting Unstuck: Day 10(Time),,"Save the flower bed from evil bugs. Eat 10 bugs.
+ Use arrow keys to move.",12775966,https://cdn2.scratch.mit.edu/get_image/project/236404164_480x360.png,2018-07-14T15:51:28.000Z,2018-07-15T10:10:33.000Z,2018-07-15T10:10:33.000Z,2,0,0,0,0,,
+236447656,Unstuck Day 10,This is a little collaboration with my son @RangerCO1 and @battlehack,"This project lets you set a timer using the arrow keys, then start a count down using the buttons.",4610900,https://cdn2.scratch.mit.edu/get_image/project/236447656_480x360.png,2018-07-15T10:26:18.000Z,2018-07-15T10:54:56.000Z,2018-07-15T10:54:56.000Z,2,0,0,0,0,,
+236447072,concentration and reaction test with timer,I tried to use yhe blue time blocks with dates but my screen is small and the code just got too complex.,Click on the green flag. Really concentrate as you will be asked a question about what you see.,33472226,https://cdn2.scratch.mit.edu/get_image/project/236447072_480x360.png,2018-07-15T10:09:29.000Z,2018-07-15T11:01:33.000Z,2018-07-15T11:01:32.000Z,12,1,1,0,0,,
+236445991,Getting Unstuck - Day 10 Activity,"Day 10 - Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current time, days since).
+
+I tried creating a reaction timing activity. It sort of works but contains a few bugs that I have not yet figured out.",Click the green flag and the cat will tell you what to do,15946,https://cdn2.scratch.mit.edu/get_image/project/236445991_480x360.png,2018-07-15T09:40:28.000Z,2018-07-15T11:17:37.000Z,2018-07-15T11:17:37.000Z,5,1,0,0,0,,
+236449772,#010 Getting Unstuck - Timer,"Had a hard time with the timer.  I don't like how it keeps going...if anyone knows how I can debug, let me know.
+
+I referred to my PONG tutorial from Scratch A LOT for this one.",See how many times the paddle can hit the ball in 5 seconds.,20126730,https://cdn2.scratch.mit.edu/get_image/project/236449772_480x360.png,2018-07-15T11:26:37.000Z,2018-07-15T12:35:20.000Z,2018-07-15T12:21:17.000Z,3,1,0,0,0,,
+236451594,day 10 - Under the sea,,,214,https://cdn2.scratch.mit.edu/get_image/project/236451594_480x360.png,2018-07-15T12:18:48.000Z,2018-07-15T12:44:12.000Z,2018-07-15T12:44:12.000Z,9,0,0,0,0,,
+236449503,Day 10: A-Maze Me! See how fast you can get to the rainbow,"For my friend Mel, who loves rainbows, too!
+I added a timer and a low time score to Day 9 project.
+
+I wanted to display the time at the end and that was a bit of a challenge until I figured out how to create a variable to hold the value of the timer and how to hide and create a variable","Help the banana get his rainbow connection!
+See how fast you can make him go & if you beat the lowest time!
+Eat watermelon on the way! Touch it & see what happens!
+Use the arrow keys to move!
+Put your speaker on for music & sound effects!
+
+Don't touch the nyan cat or the strawberry!
+Don't touch the walls!
+(Or you have to start over again!)",27658530,https://cdn2.scratch.mit.edu/get_image/project/236449503_480x360.png,2018-07-15T11:19:16.000Z,2018-07-15T12:58:09.000Z,2018-07-15T12:58:09.000Z,13,5,2,0,0,,
+236418856,Scratch Cat Dance Contest! v0.2,This is my second version of this game.  This one adds levels.,"Press the Green Flag to Start.
+
+Scratch Cat Dance Contest!  Press F and then J alternately to do 20 dance moves in 5 seconds!  See how many levels you can beat!",18198558,https://cdn2.scratch.mit.edu/get_image/project/236418856_480x360.png,2018-07-14T21:26:01.000Z,2018-07-14T22:23:18.000Z,2018-07-14T22:21:27.000Z,5,0,0,0,0,,
+236458730,unstuck day 10,Amazing with Scratch as always,Touch the blue line faster...,34216021,https://cdn2.scratch.mit.edu/get_image/project/236458730_480x360.png,2018-07-15T15:17:07.000Z,2018-07-15T15:18:25.000Z,2018-07-15T15:17:27.000Z,5,0,0,0,0,,
+236457643,4 times remixed - Getting Unstuck Day 11,"Some days ago I remixed @TimTheTinker project to make the string move. Today, the remix day, I received his remixed project. While seeing it some other ideas come to my mind and I started to remixed just a bit. But then, as always happens to me, many other ideas came up and what was something simple became a challenge - What if I made this?  How to make that? And so I have played and learned more! :)","Click on the string to hear the note or a group of notes.
+Thanks to TimTheTinker!",2176961,https://cdn2.scratch.mit.edu/get_image/project/236457643_480x360.png,2018-07-15T14:51:06.000Z,2018-07-15T15:31:53.000Z,2018-07-15T15:25:56.000Z,21,4,1,0,0,236447321,235815816
+203326404,Rainbow Alarm Clock! ,This was fun! I'm still trying to figure out how to make the circle continuous - it starts to get big at some point and doesn't stop! Why won't it just continue to stay around the original ring?,"I love rainbows and often use the pomadoro method for working. In this project I thought, why not combine them!?
+
+Press start to go!",24267830,https://cdn2.scratch.mit.edu/get_image/project/203326404_480x360.png,2018-02-10T16:35:38.000Z,2018-07-15T16:17:51.000Z,2018-07-15T16:13:26.000Z,9,0,0,0,0,,
+236462795,10 DAY - LA SCIMMIETTA HA FAME!  ,"
+TUTTA FARINA DEL MIO SACCO!!!!
+
+PERO' NON RIESCO A BLOCCARE IL CRONO...QUANDO LA SCIMMIA RAGGIUNGE LE BANANE...","
+CLICCARE SULLA BANDIERA PER INIZIARE IL GIOCO
+FAR MUOVERE LA SCIMMIETTA CON LE FRECCE DIREZIONALI
+ATTENTI ALLE...BESTIE FEROCI...E AL ROSSO DEL LABIRINTO.",34259094,https://cdn2.scratch.mit.edu/get_image/project/236462795_480x360.png,2018-07-15T16:53:11.000Z,2018-07-15T16:56:38.000Z,2018-07-15T16:53:11.000Z,8,1,0,0,0,,
+236457433,Make Donuts Unstuck #10,"The inspiration from this came from an old Dunkin Donuts commercial called ""Time to Make the Donuts"". I wanted to do something different with the timer rather than a game. I started thinking about cooking timers and somehow ended up with this. 
+
+I actually spent far more time on importing sound than I did with the timer. The timer is set for 5 seconds. When the timer ends a bell rings to indicate the donuts are ready. ",Click the green flag to begin,124311,https://cdn2.scratch.mit.edu/get_image/project/236457433_480x360.png,2018-07-15T14:45:34.000Z,2018-07-16T02:11:44.000Z,2018-07-15T18:56:22.000Z,8,0,0,0,0,,
+236473747,Bouncing ball vers.2 Day 10  Getting Unstuck ,"Getting Unstuck Day 10: Create a project that uses one or more of the time-related blocks in the Sensing category
+I remixed my project for Day 9. Thanks to @augusto, who inspired me with Day 10 Under the sea, and @antonellamazzobel who inspired me with Getting Unstack Day 10",Click on the green flag,8789156,https://cdn2.scratch.mit.edu/get_image/project/236473747_480x360.png,2018-07-15T21:17:26.000Z,2018-08-01T19:59:51.000Z,2018-07-15T22:39:51.000Z,5,1,0,0,0,,
+236418183,Time Dilation: Getting Unstuck Day 10 Time sensing,"Getting Unstuck Day 10:
+
+I wanted to use rapid mouse movements to make time go faster, and slower mouse movements to make time go slower.... 
+
+I didn't really accomplish my goals  ¯\_(ツ)_/¯","Hit the green flag. Then use the up and down key to make ""time"" go faster or slower.",3485356,https://cdn2.scratch.mit.edu/get_image/project/236418183_480x360.png,2018-07-14T21:07:34.000Z,2018-07-16T00:03:39.000Z,2018-07-15T23:30:23.000Z,5,0,0,0,0,,
+236477292,Unstuck Day 10: Adventures in Space,I looked at augusto's scripts in the Under the Sea project to learn how to set the timer- thanks augusto!!!,"To start the game, click on the green flag. Your object is to use the spaceship to capture the sun, the earth and the planet by touching them.  Each object is worth a different point value depending on difficulty. You have 60 seconds to see how you can score.",34190490,https://cdn2.scratch.mit.edu/get_image/project/236477292_480x360.png,2018-07-15T22:52:05.000Z,2018-07-15T23:48:47.000Z,2018-07-15T23:46:05.000Z,5,1,0,0,0,,
+236448596,Getting Unstuck: Day 10 ,"Credits images: 
+https://www.flaticon.com - https://www.vecteezy.com
+
+Ho creato un progetto simile ad uno già creato in precedenza (https://scratch.mit.edu/projects/155748913).
+Ho aggiunto il cronometro e ho usato sia la lingua italiana sia la lingua inglese.
+Mi sono trovata molto in difficoltà con l'inserimento del tempo/cronometro.
+
+","Fare clic sulla bandierina verde e seguire le istruzioni.
+Click the green flag and follow the instructions.",19789360,https://cdn2.scratch.mit.edu/get_image/project/236448596_480x360.png,2018-07-15T10:53:29.000Z,2018-07-18T19:00:59.000Z,2018-07-15T17:09:38.000Z,20,3,1,0,0,,
+236403730,Reaction Time Test - Getting Unstuck Day 10,,"Would you like to test how fast you can react to light/sound cue?
+Click the green flag to start.",17257831,https://cdn2.scratch.mit.edu/get_image/project/236403730_480x360.png,2018-07-14T15:42:58.000Z,2018-07-16T00:29:57.000Z,2018-07-16T00:28:39.000Z,2,1,0,0,0,,
+236487612,Unstuck Day 10 Rushing,Modified from from many other project ideas that I have seen on the scratch site -- and from some of the project books that I have purchased over the years.  ,"Click the Green Flag to Start.  Use the Left and Right arrow keys to move and the Space Bar to shoot.  Avoid getting hit by the aliens or the asteroids.  
+
+You have 30 seconds.  How high of a score can you get?  ",7525698,https://cdn2.scratch.mit.edu/get_image/project/236487612_480x360.png,2018-07-16T01:59:21.000Z,2018-07-16T02:03:12.000Z,2018-07-16T02:01:45.000Z,2,0,0,0,0,,
+236496856,Unstuck day 10,,,33890948,https://cdn2.scratch.mit.edu/get_image/project/236496856_480x360.png,2018-07-16T04:50:53.000Z,2018-07-16T04:56:56.000Z,2018-07-16T04:56:55.000Z,6,0,0,0,0,,
+236460260,Getting Unstuck Day 10 - Time This,,,18558561,https://cdn2.scratch.mit.edu/get_image/project/236460260_480x360.png,2018-07-15T15:54:00.000Z,2018-07-15T21:20:36.000Z,2018-07-15T21:20:36.000Z,8,0,0,0,0,,
+236521841,Day 10 Supermarket Dash - Using timer,"Note to self.  Dont get behind on scratch projects!  
+I hate trying to catch up on myself.
+
+I found the time element hard.  And could not for the life of me work out how to stop the timer once it reached 0.  Im sure its straightforward, but couldnt get it!
+
+I couldnt stop the main character Abby from flashing when she gets the food.  grrrhhh!!!!
+
+I also think I started to make this a little complicated.  Simple is sometimes best.","Day 10 - usng time
+Click the green flag and watch the character glide to the location of the appearing supermarket items.
+
+**OOPS realised my code was broken. It's fixed now!",24864870,https://cdn2.scratch.mit.edu/get_image/project/236521841_480x360.png,2018-07-16T12:09:57.000Z,2018-07-18T20:04:53.000Z,2018-07-16T12:43:09.000Z,6,0,0,0,0,,
+236524918,Day 10 - time,,Just playing around with time,24154277,https://cdn2.scratch.mit.edu/get_image/project/236524918_480x360.png,2018-07-16T12:51:49.000Z,2018-07-16T13:00:40.000Z,2018-07-16T13:00:40.000Z,5,0,0,0,0,,
+178819466,Orologio analogico,,"I numeretti indicano ore, minuti e secondi.
+Numbers below are hours, minutes and seconds",24154277,https://cdn2.scratch.mit.edu/get_image/project/178819466_480x360.png,2017-10-09T11:43:46.000Z,2018-07-16T13:03:31.000Z,2017-10-09T12:45:08.000Z,13,3,0,0,0,,
+236515835,mechanical clock,"Getting Unstuck day 10
+by Massimo Marletta
+
+In this project I simulated how a mechanical clock works.
+The project is not intended to be a precise clock (there are obviously better ways to do it).
+A pendulum is used as oscillator, performing a regular motion depending on its length (physics tells us how the period is related to the length and it is unrelated to the mass). At each 1/4 of period the pendulum raise an impulse (actually a broadcast message to the needles). Each needle when receive the impulse rotates of a fixed amount, depending on the period of the pendulum and the ""role"" of the needle (hours, minutes, seconds). In reality it depends on the gears that connect needles to the mechanism.
+The user can change the length of the pendulum and see the results.
+The pendulum block uses the Timer to establish at which time raise the broadcast message.
+","In this project I simulated how a mechanical clock works.
+The project is not intended to be a precise clock (there are obviously better ways to do it).
+
+Select the length of the oscillating pendulum that giver the impulse to the needles to rotate.
+
+A pendulum is used as oscillator, performing a regular motion depending on its length (physics tells us how the period is related to the length and it is unrelated to the mass). At each 1/4 of period the pendulum raise an impulse (actually a broadcast message to the needles). Each needle when receive the impulse rotates of a fixed amount, depending on the period of the pendulum and the ""role"" of the needle (hours, minutes, seconds). In reality it depends on the gears that connect needles to the mechanism.
+
+*** Update ***
+- Now the clock synchronizes with the real time clock when the green flag is pressed (seconds excluded so that orange needle always starts at 00).
+- Seconds counter added (it counts pendulum ticks and scales to seconds)
+- Press Space Bar the follow the clock of 100 pendulum ticks
+",4804940,https://cdn2.scratch.mit.edu/get_image/project/236515835_480x360.png,2018-07-16T10:31:36.000Z,2018-07-18T09:00:49.000Z,2018-07-16T15:15:27.000Z,26,5,2,0,0,,
+236530461,Getting Unstuck 10,Utilizzo del timer e reset timer ,Clicca sulla barra spaziatrice,15572972,https://cdn2.scratch.mit.edu/get_image/project/236530461_480x360.png,2018-07-16T13:49:35.000Z,2018-07-18T07:53:07.000Z,2018-07-16T15:24:25.000Z,2,0,0,0,0,,
+236543324,Day 10 TIMER,I'm pretty proud of this little timer. It took thinking!,"This may not look like work, but it took me a long time.
+
+First I set up a variable to run down from 60 seconds. Then I got numbers, and added costumes for each digit place and had them switch costumes every second.",10309968,https://cdn2.scratch.mit.edu/get_image/project/236543324_480x360.png,2018-07-16T15:42:37.000Z,2018-07-16T16:03:48.000Z,2018-07-16T16:02:36.000Z,8,2,0,0,0,,
+236549461,Getting Unstuck Day 10,This is a remix from my Day 8 so now the characters go further to even say the time they took to get to the finish line.,"Challenge: Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current time, days since).
+
+Hit the green arrow to start, and then the space bar to see who reaches the finish line faster.",34245752,https://cdn2.scratch.mit.edu/get_image/project/236549461_480x360.png,2018-07-16T16:46:14.000Z,2018-07-16T17:00:09.000Z,2018-07-16T17:00:09.000Z,3,0,0,0,0,,
+236553735,Getting Unstuck: Day 10,"Semplice progetto dove ho sperimentato l'istruzione ""More blocks"" e creato il blocco Mesi.",Un calendario sempre a portata di mano....meglio di click,10086796,https://cdn2.scratch.mit.edu/get_image/project/236553735_480x360.png,2018-07-16T17:28:48.000Z,2018-07-16T17:43:22.000Z,2018-07-16T17:41:16.000Z,20,3,0,0,0,,
+236551630,Getting Unstuck Day 10 - Timed Mouse Catch,"The challenge to day was to create a project that uses one or more of the time-related blocks in the Sensing category. I chose to use the timer block for this project. 
+
+Does anyone know how to stop the timer without resetting it?","Use the green flag to start/ reset the game. Then use the arrow keys to move around the screen and catch the mice. *Note: There is a slight delay making it harder to ""catch"" the mice so stay with them until they disappear. Your time will display once all mice are caught.",22156688,https://cdn2.scratch.mit.edu/get_image/project/236551630_480x360.png,2018-07-16T17:07:22.000Z,2018-07-16T18:00:46.000Z,2018-07-16T17:56:32.000Z,6,1,0,0,0,,
+236568225,Simple timed wordsearch,,"Find the words in the list within the allotted time.  Click on any letter of the word to mark it as found. 
+Hurry - be sure to find all the words before time runs out. ",2876976,https://cdn2.scratch.mit.edu/get_image/project/236568225_480x360.png,2018-07-16T19:58:46.000Z,2018-07-16T20:03:31.000Z,2018-07-16T20:00:42.000Z,3,0,0,0,0,,
+236576387,Butterfly's birthday blow-out!,"This project responds to the prompt for Getting Unstuck Day 10: ""Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).""
+
+I'm catching up on Unstuck challenges following a weekend trip!  Today's strategy was ""Check out what's trending""...in the Unstuck Day 10 Studio, of course!  I had a hard time coming up with an idea, and was inspired by several projects involving doing something before the timer ran out (@cs352885 @okpeery and others).","Click the green flag, then follow Butterfly's instructions.",527557,https://cdn2.scratch.mit.edu/get_image/project/236576387_480x360.png,2018-07-16T22:09:34.000Z,2018-07-17T02:16:55.000Z,2018-07-17T02:16:55.000Z,6,0,0,0,0,,
+236610704,Analog Clock - Getting Unstuck Day 10,,"Click on the green flag.
+It is yet another analog clock.
+
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->
+Getting Unstuck: Day 10 - #CreativeComputing
+
+Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->",24583107,https://cdn2.scratch.mit.edu/get_image/project/236610704_480x360.png,2018-07-17T08:01:06.000Z,2018-07-19T10:50:30.000Z,2018-07-17T09:06:26.000Z,9,3,0,0,0,,
+236629030,Unstuck 10,"This Project would definitely need a revision. I would really love to make music with instruments!
+",,13846307,https://cdn2.scratch.mit.edu/get_image/project/236629030_480x360.png,2018-07-17T12:30:51.000Z,2018-07-26T09:03:16.000Z,2018-07-17T12:49:33.000Z,5,0,0,0,0,,
+236626857,Calculadora de Tempo (Time Calc),Autor: Jocemar do Nascimento,,1734014,https://cdn2.scratch.mit.edu/get_image/project/236626857_480x360.png,2018-07-17T12:00:52.000Z,2018-07-18T11:08:05.000Z,2018-07-17T13:21:44.000Z,9,0,1,0,0,,
+236649226,Getting Unstuck #10 Pronti Viaaaaa!,,"Clicca sulla bandierina verde
+usa i tasti : A D W S per far muovere la macchinina nel labirinto 
+e i tasti: freccia destra per aumentare la velocità e freccia sinistra per diminuire la velocità.
+Chi impiegherà meno tempo?
+",17320587,https://cdn2.scratch.mit.edu/get_image/project/236649226_480x360.png,2018-07-17T15:36:05.000Z,2018-07-17T17:58:52.000Z,2018-07-17T17:51:55.000Z,9,0,0,0,0,,
+236631278,BUON COMPLEANNO,PROGETTO CREATO PER IL GIORNO 10 DI GettingUnstuck,CLICCA SULLA BANDIERINA VERDE...,14651357,https://cdn2.scratch.mit.edu/get_image/project/236631278_480x360.png,2018-07-17T12:57:12.000Z,2018-07-17T19:17:39.000Z,2018-07-17T19:16:34.000Z,3,1,0,0,0,,
+236584176,Getting Unstuck Day 10,,Press green flag to begin.  When countdown timer reaches 0 watch the ghost fly.,34190765,https://cdn2.scratch.mit.edu/get_image/project/236584176_480x360.png,2018-07-17T00:27:57.000Z,2018-07-28T19:54:54.000Z,2018-07-17T13:39:18.000Z,5,0,0,0,0,,
+236694023,Day 10 - Current Scratch Time,"Day 10-Create a project that uses one or more of the time-related blocks in the Sensing category 
+
+Not too creative with this one, but I was trying to define my own block for the first time. Wondering why the defined blocks within a forever loop don't come back to the original script? ""Tricked it"" by putting the other defined blocks nested outside the if statements. Doesn't seem like an elegant solution.",Click the green flag and Scratch will explain how the calendar works.,16509596,https://cdn2.scratch.mit.edu/get_image/project/236694023_480x360.png,2018-07-18T00:42:04.000Z,2018-07-18T01:13:09.000Z,2018-07-18T01:11:05.000Z,10,0,0,0,0,,
+236593995,#Getting Unstuck Day 10,I'm not sure how to make the timer stop.,"Click the green flag, then try to capture 10 starfish in 10 seconds. This was a remix of Butterfly's Birthday Blowout ",18062705,https://cdn2.scratch.mit.edu/get_image/project/236593995_480x360.png,2018-07-17T02:51:30.000Z,2018-07-18T01:39:06.000Z,2018-07-18T01:35:53.000Z,5,1,0,0,0,236576387,236576387
+236681968,Getting Unstuck - Day 10,"The sensing block for the current month sets the original state of this project. 
+I struggled to decide on a way to use the time/date sensing blocks.  This is not the most creative use.  
+The most difficult part of this particular project was duplicating all of the letters for the words and then having all the costumes for each sprite. It was time-consuming for little effect.","Getting Unstuck Day 10 - Create a project that uses one or more of the time-related blocks in the Sensing category 
+
+Click on the Month block to change the backgrounds for the meteorological calendar.",14400846,https://cdn2.scratch.mit.edu/get_image/project/236681968_480x360.png,2018-07-17T21:33:18.000Z,2018-07-18T02:11:23.000Z,2018-07-18T02:07:24.000Z,5,0,0,0,0,,
+236753556,Getting Unstuck Day 10,"Credits
+Images: https://www.flaticon.com","Fare clic sulla bandiera verde.
+Click the green flag.",18667079,https://cdn2.scratch.mit.edu/get_image/project/236753556_480x360.png,2018-07-18T14:52:01.000Z,2018-07-18T15:11:09.000Z,2018-07-18T15:10:14.000Z,4,0,0,0,0,,
+236820093,Unstuck 10,,"Use up, down, left and right arrows to move the cat away from the dog(s)",18827386,https://cdn2.scratch.mit.edu/get_image/project/236820093_480x360.png,2018-07-19T06:38:44.000Z,2018-07-19T06:39:04.000Z,2018-07-19T06:39:04.000Z,5,0,0,0,0,,
+236733428,Getting Unstuck: Day 10,"Andrés Gil Ruiz.
+
+My first game with crono.","Help Hanah to eat donut.
+
+Use the arrows. You only have 10 seconds.
+
+Be careful with walls.",27636310,https://cdn2.scratch.mit.edu/get_image/project/236733428_480x360.png,2018-07-18T10:50:52.000Z,2018-07-23T09:07:25.000Z,2018-07-19T07:09:09.000Z,8,0,0,0,0,,
+236713222,REMIXQUANDOSEINATOCAR,,"Trasformato in 5 lingue
+",13575540,https://cdn2.scratch.mit.edu/get_image/project/236713222_480x360.png,2018-07-18T05:45:11.000Z,2018-08-02T06:42:13.000Z,2018-07-18T06:06:56.000Z,9,1,1,0,0,236626857,236626857
+236846448,day 10,,Cat is in a hurry .. it keeps telling that and thinking on current time.,771142,https://cdn2.scratch.mit.edu/get_image/project/236846448_480x360.png,2018-07-19T13:23:24.000Z,2018-07-19T13:28:52.000Z,2018-07-19T13:27:26.000Z,5,0,0,0,0,10007873,10007873
+236912064,Unstuck Day 10 project,It was fun to play with blocks I've never used before! #gettingunstuck,Click the flag to see how many days are left until the 2018 Scratch Conference in Boston begins!,17786521,https://cdn2.scratch.mit.edu/get_image/project/236912064_480x360.png,2018-07-20T04:45:14.000Z,2018-07-20T04:59:29.000Z,2018-07-20T04:58:12.000Z,4,0,0,0,0,,
+236922995,Getting Unstuck - dag 11,"#GettingUnstuck
+
+Added music",The cat will tell you what year we have.,25631396,https://cdn2.scratch.mit.edu/get_image/project/236922995_480x360.png,2018-07-20T08:18:52.000Z,2018-07-22T08:19:03.000Z,2018-07-20T08:29:53.000Z,2,0,0,0,0,,
+236937045,Happy New Year!,"I found it a bit tricky to sync the timer count down, scratch cat's count down and the ball dropping.  But I think I got them matched up ok now.  ",Click on the Green Flag to begin.,1196430,https://cdn2.scratch.mit.edu/get_image/project/236937045_480x360.png,2018-07-20T12:46:39.000Z,2018-07-20T13:36:07.000Z,2018-07-20T13:29:33.000Z,4,2,0,0,0,,
+236950809,#GettingUnstuck10 - Each N secs,"All sprites and costumes taken from the Scratch repository.
+
+Should be easy to remix and introduce new sprites to dance (and also sounds!)","Press green flag and follow the instructions
+- Program will ask you for a No. of Seconds.
+- Introduce a number. Each N seconds, the sprite will ""dance""
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 10.
+
+""Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).""
+
+This project will use your system clock's time and will start the dance using the 'mod' function.",1112440,https://cdn2.scratch.mit.edu/get_image/project/236950809_480x360.png,2018-07-20T15:57:02.000Z,2018-07-20T16:23:21.000Z,2018-07-20T16:23:21.000Z,6,0,0,0,0,,
+236966890,Getting unstuck day 10,,green flag,17636749,https://cdn2.scratch.mit.edu/get_image/project/236966890_480x360.png,2018-07-20T19:37:47.000Z,2018-07-20T20:00:48.000Z,2018-07-20T20:00:24.000Z,3,0,0,0,0,,
+236943020,Time Jump Day #10 Getting Unstuck,"What took you the most time?  Figuring out how to use the counting blocks
+What would you do next with your project, if you had more time? I would make it more interactively smooth rather than having to start and stop to get new numbers.
+","Move Scratch to touch one or more of the colored circles. Then, press the green arrow. Use the space bar to reset all numbers. ",28676433,https://cdn2.scratch.mit.edu/get_image/project/236943020_480x360.png,2018-07-20T14:10:36.000Z,2018-07-25T19:28:03.000Z,2018-07-20T14:58:15.000Z,5,0,0,0,0,,
+236980406,Unstuck Day 10,"I originally made it so the information would be displayed as you see it on the first screen.  I then figured out how to ""say"" the days of the week and the month in words rather than just numbers. ",Click on the cat to read the instructions for the project.,14232182,https://cdn2.scratch.mit.edu/get_image/project/236980406_480x360.png,2018-07-21T00:02:20.000Z,2018-07-21T00:45:30.000Z,2018-07-21T00:45:30.000Z,7,0,0,0,0,,
+237010258,Orologio analogico remix day-10,,scrivi l'orario in formato digitale e apparirà in formato analogico,16822769,https://cdn2.scratch.mit.edu/get_image/project/237010258_480x360.png,2018-07-21T11:56:01.000Z,2018-08-05T14:09:55.000Z,2018-07-21T12:15:52.000Z,5,1,0,0,0,178819466,178819466
+236543349,Unstuck - Day 10,"For this project, my daughter and I still have some questions. We kept this simple - we only asked ""What year were you born?"" and gave an estimated age as the answer.  To determine the actual age, we would need the day, month and year. We will be checking out other people's projects to see if anyone else figured out how to tell the exact age.  I predict that you would need to use if-then blocks, and possibly some variables.  
+",Click on the green flag and answer the question.,2456527,https://cdn2.scratch.mit.edu/get_image/project/236543349_480x360.png,2018-07-16T15:42:54.000Z,2018-07-21T17:42:31.000Z,2018-07-21T16:32:21.000Z,6,0,0,0,0,,
+236910544,Getting Unstuck Day 10,"Getting Unstuck Day 10 Reflection:
+These challenges are definitely getting harder!  I'm not thrilled with how this turned out, but after a lot of trial and error I figured out how to get the timer to show up.  I don't see how to stop it at the end of the race though.  It just keeps tracking time until you start the game over again (or hide the timer, but I wanted to freeze it on the time.  If that had worked, I would have had the player ""drive"" the car and play against my self-driving car.  :)  ","Click the green flag to start the timer, then click on the car to start the race.  (Don't worry, it's a self-driving car, so just sit back and enjoy the ride!).",30095573,https://cdn2.scratch.mit.edu/get_image/project/236910544_480x360.png,2018-07-20T04:13:51.000Z,2018-07-22T04:14:19.000Z,2018-07-22T04:13:38.000Z,4,0,0,0,0,,
+237077874,10 : Julekalenderen - Christmas calendar,"I have wanted to make a Christmas calendar for some years now - it is so great with these tasks - now I know how after getting the idea from CompTeacherK5s project with the count down to Happy New Year! 
+
+I found this beautiful background here: https://pixabay.com/da/julen-juletr%C3%A6-baggrund-struktur-3029496/ 
+The stop sprite here: https://pixabay.com/da/knapper-multimedie-pause-afspilning-150350/
+Christmas music was found here: http://www.freexmasmp3.com/
+And Santa Claus from here https://opengameart.org/content/christmas-charactes-zombie-santa-weapons
+
+","Det er en julekalender, som er lavet i meget god tid. Du kan kun åbne lågerne, når vi når til december 2018 - medmindre du klikker 2 gange på lågen. Der sker noget særligt ved lågerne 1, 2, 9 og 24. Husk lyd.
+
+You can only open the boxes in December 2018. But if you can't wait - click on the box twice. So far it only works with the boxes 1,2,9 and 24. Remember sound. Work-in-progress - new fully version will be made before December in Scratch 3.0.
+",1252137,https://cdn2.scratch.mit.edu/get_image/project/237077874_480x360.png,2018-07-22T16:18:19.000Z,2018-07-26T07:11:22.000Z,2018-07-22T17:52:12.000Z,11,1,0,0,0,,
+237092330,Getting Unstuck: Day 10,"Getting Unstuck: Day 10 
+
+This one was fun! I need to play around more with the actual timer functions, but I think I'm off to a good start so far. 
+
+Shout out to CompTeacherK5 for the countdown idea!  ",Click the green flag. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/237092330_480x360.png,2018-07-22T21:57:58.000Z,2018-07-22T22:33:29.000Z,2018-07-22T22:14:53.000Z,5,0,0,0,0,,
+237143205,Getting Unstuck Day 10 Car Game,"Made for day 10 of getting unstuck creative computing.
+I quite like the controls for this game, using the left and right to steer with acceleration.
+I'd like to look into making this into a game with a cloud variable and a high score list. I've never used them before but I think they have always been a feature of Scratch 2.0.","Click the Green Flag to start and reset the timer.
+Use the arrow keys to control the car.
+Left and right rotate the car.
+Up and down accelerate and decelerate.
+Space acts as a break.
+See how quickly you can get to the finish line.",287832,https://cdn2.scratch.mit.edu/get_image/project/237143205_480x360.png,2018-07-23T12:55:16.000Z,2018-07-23T13:28:43.000Z,2018-07-23T13:03:46.000Z,8,0,0,0,0,,
+237164874,Unstuck Day 10 - Using Time,"This project creates a different design using different colors depending on when you start it. It uses current time and date data, so in theory it will never create the same design twice.",Just hit the green flag.,7902,https://cdn2.scratch.mit.edu/get_image/project/237164874_480x360.png,2018-07-23T16:15:40.000Z,2018-07-23T16:19:56.000Z,2018-07-23T16:17:44.000Z,4,1,0,0,0,,
+237181606,Getting Unstuck: Day10,,"Click the green flag to start!
+
+The cake grows for 25 seconds and then the timer beeps!",34197892,https://cdn2.scratch.mit.edu/get_image/project/237181606_480x360.png,2018-07-23T19:22:38.000Z,2018-07-24T07:14:55.000Z,2018-07-23T19:23:17.000Z,7,1,2,0,0,,
+237291309,Getting unstuck day 10,"I've learned to operate with question-answer and years. 
+I've try to compose text chains and mix with variables.
+",El proyecto calcula de forma sencilla la edad a partir del año de nacimiento.,2680901,https://cdn2.scratch.mit.edu/get_image/project/237291309_480x360.png,2018-07-24T20:40:46.000Z,2018-07-24T20:47:00.000Z,2018-07-24T20:45:12.000Z,1,0,0,0,0,,
+237263807,occhio al colore!!!," Getting Unstuck, day 10
+
+Create
+Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).",Usa le frecce per muoverti,21462276,https://cdn2.scratch.mit.edu/get_image/project/237263807_480x360.png,2018-07-24T15:16:19.000Z,2018-07-25T09:28:39.000Z,2018-07-25T09:27:11.000Z,1,0,0,0,0,,
+237345806,Unstuck: Day 10,"By Filipe Mendes
+Getting Unstuck
+#CreativeComputing","Press the green flag and follow the instructions.
+Have a countdown for the new year",2980392,https://cdn2.scratch.mit.edu/get_image/project/237345806_480x360.png,2018-07-25T09:09:14.000Z,2018-07-25T10:14:57.000Z,2018-07-25T10:13:27.000Z,3,0,0,0,0,,
+237389635,Getting Unstuck [Day 10],This is getting unstuck day 10!,Green Flag,13594403,https://cdn2.scratch.mit.edu/get_image/project/237389635_480x360.png,2018-07-25T18:52:17.000Z,2018-07-25T18:54:08.000Z,2018-07-25T18:54:08.000Z,5,0,0,0,0,,
+237377463,Unstuck #10 Keyboarding Speed,I want to add more phrases to this game.,"Click on the green flag. Scratchy wil give you instructions. 
+
+Try to beat your previous score.",26618044,https://cdn2.scratch.mit.edu/get_image/project/237377463_480x360.png,2018-07-25T16:39:30.000Z,2018-07-26T00:03:16.000Z,2018-07-25T20:22:50.000Z,2,0,0,0,0,,
+237402367,Día 10,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/237402367_480x360.png,2018-07-25T21:59:51.000Z,2018-07-25T22:00:44.000Z,2018-07-25T22:00:44.000Z,2,1,0,0,0,,
+237407996,Beat Beetle - GettingUnstuck-10,"It always plays a regular beat, so I'd like to add different rhythms and make things funnier. It may also declare that you've missed a beat.
+In this period I'm really interested in musical experimentation decided that the request for day10 may be a good way to start working on rhythms","Green flag to start.
+Change the beat with the cursor: you will hear a drum playing the rhythm. Click the beetle at the correct instant to get a point, it gets more difficult as the tempo gets slower.
+The drum changes with the value of the second at which it's played (to get things harder)",25876369,https://cdn2.scratch.mit.edu/get_image/project/237407996_480x360.png,2018-07-25T23:25:38.000Z,2018-07-25T23:40:14.000Z,2018-07-25T23:29:28.000Z,2,1,0,0,0,,
+237412369,unstuck day 10,Needed my thinking cap on for this. I am better when I am told exactly what needs to be done. ,Hit the space bar when the background changes.,16426717,https://cdn2.scratch.mit.edu/get_image/project/237412369_480x360.png,2018-07-26T00:17:52.000Z,2018-07-26T01:04:25.000Z,2018-07-26T00:56:18.000Z,4,1,0,0,0,,
+237417507,Day 10 - Getting Unstuck - Timer Game!,,,17812875,https://cdn2.scratch.mit.edu/get_image/project/237417507_480x360.png,2018-07-26T01:15:22.000Z,2018-07-26T14:45:17.000Z,2018-07-26T02:20:07.000Z,3,1,0,0,0,,
+237573941,getting unstuck day 10,"I have learn to use timer 
+
+
+
+
+
+
+
+
+",,23020553,https://cdn2.scratch.mit.edu/get_image/project/237573941_480x360.png,2018-07-27T17:11:32.000Z,2018-08-03T17:44:22.000Z,2018-07-27T17:52:05.000Z,2,1,0,0,0,,
+237396366,Getting Unstuck Day 10 - Time Related Blocks,"I like how we are able to perform math task related tasks using this program. Also, this was a type of question I would ask my students towards the end of the year. ","Click on the green flag. Allow the sprite time to complete their assigned task. Click on the Butterfly, the Scratch Cat, the penguin ad the lion. After the lion is done with his task, click the space bar. ",30595057,https://cdn2.scratch.mit.edu/get_image/project/237396366_480x360.png,2018-07-25T20:27:39.000Z,2018-08-02T19:07:34.000Z,2018-07-26T22:56:57.000Z,4,1,2,0,0,,
+237650427,Getting Unstuck - Day 10,"Today's challenge is to ""Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000)"".
+
+I knew I wanted to be able to move my sprite around and have it catch a regenerating object.  I had to search a lot to figure out the timer.  All the YouTube videos I watched used a variable for the timer, which was NOT the challenge.  I finally began searching the scratch wikis and that helped me figure out that the timer will not stop, it will only reset.  So then I just had to program the score variable to stop after 15 seconds and make sure when the game started that everything reset to 0.  Then it was a little bit of a struggle to get the start/during/end backgrounds to do what I wanted.
+
+Credit my daughter for the idea of creating Scratch's cape!
+
+If I could change it... I would write a script to either stop the timer or make it hide after 15 seconds.","Click the Green Arrow to show the starting screen.
+
+Then click the space bar to start the game.
+Use the arrows to move and change the directions of the cat.
+
+How many tacos can you catch in 15 seconds?",24696341,https://cdn2.scratch.mit.edu/get_image/project/237650427_480x360.png,2018-07-28T22:01:42.000Z,2018-07-29T02:01:42.000Z,2018-07-29T00:54:51.000Z,3,1,1,0,0,,
+237703185,Getting Unstuck - Day 10 - timer blocks,"Getting Unstuck - Day 10 - Timer Blocks
+
+https://us18.campaign-archive.com/?u=5dd4d8b32f719a30cbde507c6&id=9c3583d38b
+
+""We must use time creatively.""—Martin Luther King, Jr.",Try to touch all 20 starts with your mouse pointer. ,8880372,https://cdn2.scratch.mit.edu/get_image/project/237703185_480x360.png,2018-07-29T21:02:46.000Z,2018-07-29T21:28:06.000Z,2018-07-29T21:28:06.000Z,2,1,0,0,0,,
+237813460,Getting Unstuck: Day 10,,"Press the arrow keys to move the cat
+Get food with time running",34283191,https://cdn2.scratch.mit.edu/get_image/project/237813460_480x360.png,2018-07-31T01:06:53.000Z,2018-07-31T02:29:47.000Z,2018-07-31T02:29:47.000Z,3,2,1,0,0,,
+237708741,# Unstuck ten attempt 2 maths Quizz,Looked at tutorial on how to add a timer.,You could add more questions but answer question when click on green flag. When finished click green flag again to go back to the beginning.,31492686,https://cdn2.scratch.mit.edu/get_image/project/237708741_480x360.png,2018-07-29T23:07:07.000Z,2018-07-30T01:15:05.000Z,2018-07-30T01:13:53.000Z,2,1,0,0,0,,
+237372217,Getting Unstuck: Day 10. Touch the flowers.,"For this project I had got stuck, thanks to @g_menegoz e @casx for helping me to go on! <3",Click on the green flag to start to play and let the butterfly keep a flower quickly.,18190669,https://cdn2.scratch.mit.edu/get_image/project/237372217_480x360.png,2018-07-25T15:37:04.000Z,2018-07-31T11:42:45.000Z,2018-07-31T11:09:34.000Z,5,1,0,0,0,,
+237996321,colorful cat (#10),,,34510119,https://cdn2.scratch.mit.edu/get_image/project/237996321_480x360.png,2018-08-01T21:22:47.000Z,2018-08-01T21:29:02.000Z,2018-08-01T21:29:02.000Z,2,1,0,0,0,,
+238215500,day10,"inspired by CSFirst project
+
+Create a project that uses one or more of the time-related blocks in the Sensing category (i.e., timer, reset timer, current [year/month/date/etc.], days since 2000).","click on the missile to move it.. (follows the mouse)
+you have 30 sec to complete each level
+",24618980,https://cdn2.scratch.mit.edu/get_image/project/238215500_480x360.png,2018-08-04T11:44:31.000Z,2018-08-07T15:49:25.000Z,2018-08-04T11:45:02.000Z,2,1,0,0,0,,

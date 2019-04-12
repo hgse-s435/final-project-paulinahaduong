@@ -1,0 +1,576 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+236181324,Getting Unstuck Day 11: Gusbear remix,"For today's challenge, I've remixed my *first ever* Scratch project from 2015. It took me over a week to make this project work how I wanted, at the time!
+
+I specifically chose to remix this project because one of the biggest things I was stuck on when I originally made it was ""how to get everything to disappear at once."" @karenb happened to come by as I was working, and showed me how to use the broadcast block!
+
+I also want to challenge myself to spend more time thinking about how to integrate Scratch into content-area classrooms for the second and third weeks of Getting Unstuck. When I first encountered Scratch, my main goal was to figure out how to incorporate creative computing into my 6th grade math classroom.",Click on the green flag and let Gusbear help you practice fractions.,19163721,https://cdn2.scratch.mit.edu/get_image/project/236181324_480x360.png,2018-07-12T02:25:27.000Z,2018-07-21T21:00:18.000Z,2018-07-12T23:21:03.000Z,14,4,0,0,0,76778164,76778164
+236346600,"The ""3 Favorite Things"" Pass-It-On Project! remix","theremin image:
+https://www.flaticon.com/free-icon/theremin_173309
+
+Was reminded of my theremin dreams this morning from @jsh who used sounds from here, so I brought them into my project (: 
+
+Vibraphone samples courtesy of University of Iowa Electronic Music Studios (http://theremin.music.uiowa.edu/index.html)
+
+in this gorgeous project:
+https://scratch.mit.edu/projects/236290500","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",25705937,https://cdn2.scratch.mit.edu/get_image/project/236346600_480x360.png,2018-07-13T18:50:31.000Z,2018-07-13T21:08:04.000Z,2018-07-13T19:50:28.000Z,21,3,0,0,0,236312698,236312698
+236350649,"The ""3 Favorite Things"" Pass-It-On Project! remix remix","I was tagged by @alirb to add my 3 favorite things! 
+I'm now tagging @jsh to add his 3 favorite things!","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",39526,https://cdn2.scratch.mit.edu/get_image/project/236350649_480x360.png,2018-07-13T19:53:59.000Z,2018-07-14T00:36:30.000Z,2018-07-13T20:03:29.000Z,19,2,0,0,0,236346600,236312698
+236353544,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix","I was tagged by @karenb to add my 3 favorite things! 
+I'm now tagging @paulinah to add her 3 favorite things!","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",56239,https://cdn2.scratch.mit.edu/get_image/project/236353544_480x360.png,2018-07-13T20:39:41.000Z,2018-07-13T22:09:35.000Z,2018-07-13T22:09:35.000Z,28,3,0,0,0,236350649,236312698
+236358913,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix",Drew all my own sprites! ,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",2745846,https://cdn2.scratch.mit.edu/get_image/project/236358913_480x360.png,2018-07-13T22:20:23.000Z,2018-07-13T22:59:33.000Z,2018-07-13T22:59:14.000Z,409,12,4,0,0,236353544,236312698
+236431334,Drops (lullabye remix),"Remix of a beautiful Getting Unstuck project by @jsh
+
+I made this to better understand the very clever key changing script used in the original. It uses a list ('chords') to define sets of four-note chords, and plays a few random notes from each as it cycles through the sequence of sets. The effect is a structured harmonic progression that uses new notes on each loop.
+
+I couldn't make sense of the original code, but @jsh answered the question I put in the comments and got me unstuck!",Green Flag and enjoy.,27306974,https://cdn2.scratch.mit.edu/get_image/project/236431334_480x360.png,2018-07-15T02:37:51.000Z,2018-07-21T12:24:56.000Z,2018-07-15T03:27:09.000Z,21,8,3,0,0,236290500,236290500
+236451984,#011 Getting Unstuck Remix - Broadcast remix,,I didn't take a lot of time with this one.  Just changed a few things.  I feel like remixing is cheating...stealing someone else's stuff.,20126730,https://cdn2.scratch.mit.edu/get_image/project/236451984_480x360.png,2018-07-15T12:29:23.000Z,2018-07-15T12:32:33.000Z,2018-07-15T12:32:03.000Z,5,0,0,0,0,13987093,13987093
+236453426,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix",,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",34188789,https://cdn2.scratch.mit.edu/get_image/project/236453426_480x360.png,2018-07-15T13:07:50.000Z,2018-07-15T13:08:04.000Z,2018-07-15T13:08:03.000Z,5,2,0,0,0,236358913,236312698
+236453540,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix",,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",34225248,https://cdn2.scratch.mit.edu/get_image/project/236453540_480x360.png,2018-07-15T13:10:52.000Z,2018-07-15T13:10:58.000Z,2018-07-15T13:10:57.000Z,5,1,0,0,0,236358913,236312698
+236451979,Free Draw! Unstuck Day 11: Broadcast Remix,"I made this project in response to the prompt for Challenge #11-remix a broadcast project- of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+For this I remixed one of my 6th grade students' projects. She used broadcast to set the pen color and an erase mode. I added a paintbrush and different pen sizes. I encountered what seems like a Scratch bug where the pen size won't change if triggered by ""if this sprite clicked"" so instead had to use a variable to set the pen to different sizes. I made the eraser work better by just setting the pen color to white.",Use the drawing tools to free draw!,214174,https://cdn2.scratch.mit.edu/get_image/project/236451979_480x360.png,2018-07-15T12:29:13.000Z,2018-07-15T13:14:06.000Z,2018-07-15T13:09:59.000Z,9,1,0,0,0,213498398,213498398
+236452266,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix...","Quick and simple addition to this project for Getting Unstuck Day 11
+
+RoboSquid's Music by EliteFerrex http://www.newgrounds.com/audio/listen/603536","Getting Unstuck Day 11
+Find a project that uses broadcasting and remix it. 
+
+Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",2314547,https://cdn2.scratch.mit.edu/get_image/project/236452266_480x360.png,2018-07-15T12:37:56.000Z,2018-07-15T13:43:01.000Z,2018-07-15T13:29:51.000Z,10,3,0,0,0,236358913,236312698
+236452351,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix","This was tough, thanks for the challenge.  I hope I did it right.","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",24826697,https://cdn2.scratch.mit.edu/get_image/project/236452351_480x360.png,2018-07-15T12:39:59.000Z,2018-07-15T13:32:34.000Z,2018-07-15T13:32:04.000Z,12,1,0,0,0,236358913,236312698
+236453028,Getting Unstuck: Day 11,"This is my project for Day 11 of the Getting Unstuck programming challenge. I found this project and I decided to remix it since it is very simple but cool al the same time. The remix is a very useful feature because it allows you to take the work done by others and modify it according to your needs. It can also be interesting for the author to see which interpretations others have of their own idea.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621",Find a project that uses broadcasting and remix it,34314391,https://cdn2.scratch.mit.edu/get_image/project/236453028_480x360.png,2018-07-15T12:57:16.000Z,2018-07-16T20:53:44.000Z,2018-07-15T13:27:49.000Z,9,2,1,0,0,177768853,177768853
+236453940,"The ""3 Favorite Things"" Pass-It-On Project! remix^5","My spirit food is an avocado so I decided to create an animation with the avocado and my favorite things. Creating the animation using the remix wasn't difficult, but if I had more time, I would make the structure and actions more engaging and complex!","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",25334812,https://cdn2.scratch.mit.edu/get_image/project/236453940_480x360.png,2018-07-15T13:21:08.000Z,2018-07-15T13:37:07.000Z,2018-07-15T13:35:49.000Z,9,1,0,0,0,236358913,236312698
+236454767,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix","Added to the original project. Thought I'd take a little different direction to start. I thought, what if 10 people remix the same one, the last person will have to wait the entire show to see theirs. So I created a menu system and added instruction inside the selection sprite on how to add to it. ","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!
+
+Click on the Scratcher to See their favorite things!",3158946,https://cdn2.scratch.mit.edu/get_image/project/236454767_480x360.png,2018-07-15T13:42:19.000Z,2018-07-15T13:57:32.000Z,2018-07-15T13:42:21.000Z,7,3,1,0,0,236358913,236312698
+236454880,Getting Unstuck Day11,"How did remixing help you? I remixed this project from CodeClubRik. I added some more broadcasting to introduce pickles bringing the cup out when the player reaches 5 goals. Remixing meant I had the project foundation to build on, it let me expand what I had time to do beyond the usual basics. 
+
+ What questions do you still have about remixing? None. I love remixing, it's a great way to find answers, get new ideas and understanding/building on someone else's code is a great skill to develop. 
+","Player 1:
+Use 'space' to kick the ball towards the goal. You have 30 seconds to score as many goals as possible.
+
+Player 2:
+Use the left and right arrows to try and stop goals being scored.",17809789,https://cdn2.scratch.mit.edu/get_image/project/236454880_480x360.png,2018-07-15T13:45:27.000Z,2018-07-15T13:49:19.000Z,2018-07-15T13:45:48.000Z,6,2,0,0,0,57437924,55662222
+236453976,IL SIMPATICO TOPO UE remix,"Original project by a group of 5th graders. I've added a few subtitles, and translated the text.",Click the green flag,214,https://cdn2.scratch.mit.edu/get_image/project/236453976_480x360.png,2018-07-15T13:22:20.000Z,2018-07-15T14:04:19.000Z,2018-07-15T14:04:19.000Z,12,6,0,0,0,212016659,212016659
+236453787,dice simulator remix,"This is a remix of a project I did years ago on my original (non-teacher) Scratch account. I added a way to do 30 quick rolls so the user does not need to click ""roll"" 30 times. I also added a button to see the current sum of the list.
+
+I love the ability to remix projects! It is a great way to learn how the code for a project works by tinkering with it.
+
+Does anyone teach lessons on remixing? I have not, but I am wondering now if perhaps it would be a good idea to show students how to go about looking inside a remix to learn how it works.","Click the green flag to start
+The colored boxes allow you to roll the dice or examine the accumulated data.
+""clear list"" lets you start over",17767933,https://cdn2.scratch.mit.edu/get_image/project/236453787_480x360.png,2018-07-15T13:17:29.000Z,2018-07-15T14:12:32.000Z,2018-07-15T14:12:32.000Z,6,5,2,0,0,113206602,113206602
+93054073,Scratch Parade 1 (final),"I would love to share an old project for this Getting Unstuck Challenge, because it really shows the power of cooperation and remixing. To me, this was a very special project. 
+
+Scratch Parade 2 and 3 can be found here:
+
+https://scratch.mit.edu/projects/93959612/
+
+https://scratch.mit.edu/projects/95715008/
+
+Thanks to @schittering06, owner of the Scratch Parade studio, for the great idea to make a Carnival parade. And thanks to these Scratchers for joining: @Dan0510 (3rd wagon), @robnoo (4th), @naccho (5th), @BSGrkdprincess (6th), @bubble103 (7th), @LiFaytheGoblin (8), @vargcity123 (9), @hugmyster (10), @puffleEBP (11), @haras5 (12), @more_bagels (13), @-robox- (14), @schittering06 (15), @moekaroe (16), @Superbatman007 (17), @goodluckchloe (18). @ffred (19), @KeVeg (20), @Silvertail_Studios (21), @RileyPsych (22), @BB8 (23), @yorissen (24), @DerpyLord7 (25), @genny7 (26), @PeanutGuy03 (27), @pixiedus30 (28), @memowpie (29), @Caitlingt3 (30), @chokoji (31), @leszpio (32), @Digitaldesigngirl (33), @scream101 (34) and @suyann (35).
+
+Thanks to the Scratch Team for putting our studio on the frontpage.
+
+Thanks to @ffred, @the_grits and @vargcity123 for the people and to Sergio van Pul en Jessica Chiang for the idea for the robot (I found it in the book Scratch 2.0 Game Development).
+
+
+","Scratch is celebrating Carnival with a Scratch Parade, featuring wagons/floats from Scratchers from all over the world! 
+A big thanks to everybody who's has made a project for the Scratch Parade. There are contributions from every continent (except Antarctica)! Scratchers from 23 countries have joined!
+
+This is a parade with about 30 wagons. If you want to increase the speed of the parade, please use the slider at the bottom on the right. At the regular speed the whole parade takes about 7 minutes (on my computer - the speed of the Parade depends on the speed of your computer). I hope you enjoy watching it! Making it, together with so many Scratchers, was lots of fun.
+
+Untill January the 29th, the closing date, everybody who wanted could make his or her own wagon and I've added all those floats to my three Scratch Parade. Besides this @schittering06 will share his own Carnival Parade on February the 7th, the first day of Carnival in 2016.",2676515,https://cdn2.scratch.mit.edu/get_image/project/93054073_480x360.png,2016-01-05T12:51:52.000Z,2018-07-15T14:22:59.000Z,2016-01-05T17:09:34.000Z,3170,251,175,0,0,,
+236456557,Fire Breathing Dragon remix,"We were big HP and dragon fans in the day so this early project by daaiyahw6 really caught my eye. I did think that the dragon would be a bit upset at being in the crossfire of the wands so added another broadcast and a click counter to change its response to being pig in the middle. Thanks for the inspriration daaiyahw6!
+Remixing is a great way to validate the work of the originator and generating an environment of collaboration.",Use the magic wands to grow or shrink your dragon! Just press on each wand and see the magic,34099462,https://cdn2.scratch.mit.edu/get_image/project/236456557_480x360.png,2018-07-15T14:26:15.000Z,2018-07-15T14:52:34.000Z,2018-07-15T14:26:24.000Z,11,4,0,0,0,236019375,236019375
+236456854,drumbeatz remix,"thanks to @tyee1 for the original basis of this project.  tyee pointed out that the instruments in one of his projects - drums 2, 6, and 1 -  were falling out of synch. we experimented with different ways of understanding and solving this problem.  although we don't know why it was happening, a solution we discovered was to use broadcast message in order to keep the percussive instruments in synch. Here the project is remixed with new graphix remixed from one of my other old projects for GettingUnstuck day 11.","Click the green flag
+Adjust the tempo while the music is playing",33815227,https://cdn2.scratch.mit.edu/get_image/project/236456854_480x360.png,2018-07-15T14:32:42.000Z,2018-07-16T00:45:23.000Z,2018-07-15T14:58:59.000Z,8,4,0,0,0,199411160,199411160
+236456681,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix remix","I LOVE this kind of ""remixing"" to another scratcher. I narrowed the ""things"" on videogames of my childhood. Funnily, 2 out of 3 are games where you have to program something. The games that I like today (Shenzhen I/O, Manufactoria, Silicon Zeroes, Konstruktor, Jahooma's Logic Box, etc. ) are in fact programming puzzles.
+
+I prefer to talk about vg because I feel a bit awkward about speaking about myself, hope you will forgive my shyness :)","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",12148328,https://cdn2.scratch.mit.edu/get_image/project/236456681_480x360.png,2018-07-15T14:28:49.000Z,2018-07-15T15:01:44.000Z,2018-07-15T15:00:19.000Z,15,3,0,0,0,236453540,236312698
+236449871,Day 11 - Remix using broadcasting - Rambeau,"Thanks to everyone before me who have inspired me to cook, bake, do yoga, take some walks, (feed my cat), hang out with friends!
+
+Day 11 - Find a project that uses broadcasting and remix it. ","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",109272,https://cdn2.scratch.mit.edu/get_image/project/236449871_480x360.png,2018-07-15T11:28:53.000Z,2018-07-25T01:18:35.000Z,2018-07-15T15:19:36.000Z,7,2,0,0,0,236358913,236312698
+236457643,4 times remixed - Getting Unstuck Day 11,"Some days ago I remixed @TimTheTinker project to make the string move. Today, the remix day, I received his remixed project. While seeing it some other ideas come to my mind and I started to remixed just a bit. But then, as always happens to me, many other ideas came up and what was something simple became a challenge - What if I made this?  How to make that? And so I have played and learned more! :)","Click on the string to hear the note or a group of notes.
+Thanks to TimTheTinker!",2176961,https://cdn2.scratch.mit.edu/get_image/project/236457643_480x360.png,2018-07-15T14:51:06.000Z,2018-07-15T15:31:53.000Z,2018-07-15T15:25:56.000Z,21,4,1,0,0,236447321,235815816
+236455909,Mushroom friends remix,"Credits: Thanks to takeontheworld for the mushroom idea.
+
+I thought the mushroom looked lonely and decided to  create a friend for it. Then the story grew on its own. ","Click green flag to start.
+
+Getting Unstuck #Day11",158902,https://cdn2.scratch.mit.edu/get_image/project/236455909_480x360.png,2018-07-15T14:10:49.000Z,2018-07-15T15:18:42.000Z,2018-07-15T15:12:33.000Z,12,4,1,0,0,208493805,208493805
+236458717,Unstuck 11 Broadcasting (starting with a remix)-2,"Remix of https://scratch.mit.edu/projects/77208674/ by @ECS_Scratcher 
+Changes:
+Created a sprite to control HeroStartPosition for each level (isolate start position to not repeat x,y coordinates).
+Defined blocks for repeated code: MoveByArrows, BlinkAndStartAgain.
+I love the structure used by @ECS_Scratcher, with lives, levels, obstacle sprites, etc. One day I will spend more time to add more abstractions, so it could be easily changed with different backdrops for each level and different ""obstacle paths"" of deadly sprites.
+Thanks @ECS_Scratcher for sharing!
+","Find a project that uses broadcasting and remix it. For example, you could remix this pass-it-on project that we started. ",19123745,https://cdn2.scratch.mit.edu/get_image/project/236458717_480x360.png,2018-07-15T15:16:52.000Z,2018-07-15T15:29:27.000Z,2018-07-15T15:25:29.000Z,5,3,0,0,0,,
+236460031,Unstuck Day 11 - Broadcast Sample remix,Thank you delliotthk for the original work upon which this is built!,"Challenge:
+Find a project that uses broadcasting and remix it. For example, you could remix this pass-it-on project that we started.
+
+Click the green flag to see four separate sprites draw different geometric figures at the same time",25286049,https://cdn2.scratch.mit.edu/get_image/project/236460031_480x360.png,2018-07-15T15:48:36.000Z,2018-07-15T16:00:47.000Z,2018-07-15T15:58:45.000Z,12,6,0,0,0,74983532,74983532
+236425155,Seasons_of_Scratch,"First, I thought about the timing of a year in minutes (yesterday's challenge); then, the song from ""Rent"". Finding downloadable music proved to be a challenge. I purchased the MP3 on Amazon. While viewing the lyrics, I created costumes for some of them. (To get the timing right, I inserted a reset timer block and noted the seconds at different places.) I invested a lot of minutes in working on the timing. 
+Credits:
+https://www.flickr.com/photos/mwichary/2398136060
+https://www.publicdomainpictures.net/en/view-image.php?image=28953&picture=sunset-15
+https://pxhere.com/en/photo/1271329
+https://pxhere.com/en/photo/851236","Click the green flag to begin.
+Remixing ideas: 
+1) There is a 13 sec photo of a toddler. You could use more photos of people within this time duration. 
+2) Add what you would like to do with your remaining minutes.
+",24741621,https://cdn2.scratch.mit.edu/get_image/project/236425155_480x360.png,2018-07-15T00:10:12.000Z,2018-07-15T16:02:09.000Z,2018-07-15T16:02:08.000Z,36,9,3,0,0,,
+236461419,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix remix remix",,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",34169307,https://cdn2.scratch.mit.edu/get_image/project/236461419_480x360.png,2018-07-15T16:21:35.000Z,2018-07-15T16:21:42.000Z,2018-07-15T16:21:41.000Z,12,4,1,0,0,236456681,236312698
+236459085,Unicorn Maze remix,"Credits: This is a remix of the showcase project https://scratch.mit.edu/projects/219998074/ by one of my 4th grade Code Club members.
+
+Reflection:  Perfect timing.  I am gathering examples of my students' work to use in my Scratch@MIT 2018 Conference workshop: Project Management from Design to Showcase. This was a project that struggled to stay on track and be completed in time for the Showcase. I'm reworking it and taking it to a more finished state in order to see how I could have supported the student better.
+
+I tried to stay true to the student's ideas and added some flair of my own.","Getting Unstuck #11: Remix a project that uses broadcast.
+
+Click the green flag.  Help the Unicorn get his wings.",399245,https://cdn2.scratch.mit.edu/get_image/project/236459085_480x360.png,2018-07-15T15:25:38.000Z,2018-07-15T16:27:06.000Z,2018-07-15T16:27:06.000Z,8,2,0,0,0,,
+236462919,fill the bucket (shoot the rocket) remix,"I remixed an independent project created by one of my students who is passionate about creating in Scratch.
+
+I have been streamlining the code to a basic aim and fire game and will start adding features back later today, when I have more time. I understand someone else's code more when I deconstruct it and focus on one component at a time. 
+
+The other project I considered doing this for war the Sunflower Garden (pen) project by Scratcher scmb1: https://scratch.mit.edu/projects/235674874/","Use arrow keys to target
+S to increase strength
+D to decrease strength
+Space bar to shoot
+Find the secret!
+-------------------------------------------------------------------------------
+",14632339,https://cdn2.scratch.mit.edu/get_image/project/236462919_480x360.png,2018-07-15T16:56:10.000Z,2018-07-16T02:41:22.000Z,2018-07-15T17:25:25.000Z,7,4,0,0,0,228336114,228336114
+236462301,Tumbleweeds in the wind remix,"Mi scuso con l'autrice del progetto ma l'ultima pallina di paglia non si riusciva a prenderla per farla tornare alla situazione di partenza.
+Ciao",Press the green flag and watch the weeds blow.,28304428,https://cdn2.scratch.mit.edu/get_image/project/236462301_480x360.png,2018-07-15T16:41:25.000Z,2018-07-15T17:46:11.000Z,2018-07-15T17:44:15.000Z,7,2,0,0,0,236051936,236051936
+236454810,Scratch Cat Interview,,"Scratch Cat wants to know more about you?
+Answer ""Done"" when you are done playing the game
+Press the green flag to start",18198558,https://cdn2.scratch.mit.edu/get_image/project/236454810_480x360.png,2018-07-15T13:43:34.000Z,2018-07-15T17:48:05.000Z,2018-07-15T15:59:54.000Z,11,0,0,0,0,,
+236462497,Snake remix,"I found this snake game on the home page that used a pretty neat cloning method to draw the snake, but had some bugs that I wanted to address - most importantly it didn't fail when the snake ran into itself. It's always a fun challeng to try and dig into someone else's code and suss out their logical assumptions. Over the course of adding the functionality I initally wanted I also did a bunch of refactoring to simplify the scoring and speeding-up mechanism.",,1092342,https://cdn2.scratch.mit.edu/get_image/project/236462497_480x360.png,2018-07-15T16:46:05.000Z,2018-07-16T00:50:36.000Z,2018-07-15T17:52:24.000Z,5,1,0,0,0,229453941,229453941
+236458859,"Getting Unstuck - Day 11 ""3 Favorite Things"" Pass-It-On Project! remix",,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",11634746,https://cdn2.scratch.mit.edu/get_image/project/236458859_480x360.png,2018-07-15T15:20:22.000Z,2018-07-15T18:00:03.000Z,2018-07-15T18:00:02.000Z,7,3,0,0,0,236358913,236312698
+236465734,5 times remixed - Getting Unstuck Day 11 remix,"remixed from @HeloisaZal
+changes I made:
+the background; added the bouncing ball, added one more cord, added the paddle, deleted the guitar. modified the way notes are played","when the ball touches the cords, a random note is played. Move the paddle left-right to make the ball bounce (if the ball touches the bottom edge the project stops)",2143382,https://cdn2.scratch.mit.edu/get_image/project/236465734_480x360.png,2018-07-15T17:59:46.000Z,2018-07-15T18:08:16.000Z,2018-07-15T18:07:09.000Z,13,6,0,0,0,236457643,235815816
+236466533,Impatient Cow Knock Knock (using Broadcast) remix,I added another cow joke! ,Click the green flag to begin/start the animation,11305008,https://cdn2.scratch.mit.edu/get_image/project/236466533_480x360.png,2018-07-15T18:18:36.000Z,2018-07-15T18:31:46.000Z,2018-07-15T18:31:46.000Z,13,7,1,0,0,88072803,338497
+236466531,magic pencil with broadcast and block functions,"I took my day 7 magic pencil game and added
+ broadcast and block functions",click the green flag to start,33472226,https://cdn2.scratch.mit.edu/get_image/project/236466531_480x360.png,2018-07-15T18:18:26.000Z,2018-07-16T08:33:51.000Z,2018-07-15T19:10:54.000Z,3,2,0,0,0,,
+236464713,Unstuck Day 11 - Crazy Pineapple (remix),"This is a remix. I found this awesome pineapple art/animation with really cool music. I changed some of the graphic effects. I also added the four stars in the corners. Finally I changed the beginning so the pineapple changed size 10 times then added a countdown.
+
+I'm not sure that I completely understand all the variables that were used. I played around with them and saw how the animation changed if I changed numbers in the blocks. That made sense, but I'm not sure that I could have created this code in the first place. I've never created new blocks like Offbeat did, so it was a good learning experience.
+
+Thank you for creating such a cool project, Offbeat. ","Press the flag then press the spacebar.
+",10715270,https://cdn2.scratch.mit.edu/get_image/project/236464713_480x360.png,2018-07-15T17:37:15.000Z,2018-07-25T12:51:25.000Z,2018-07-15T19:03:55.000Z,12,2,0,0,0,235142129,235142129
+10927080,Appearing plants,"2018 Getting Unstuck: Day 11
+remix of remix made in 2013 during #CCOW 
+Changes made: a new plant appear the mouse's position when you click on the stage
+
+
+2013 this is related to Week 3 activity: Interations,  for Creative Computing Online Workshop #ccow
+
+Based on my previous preoject SpryThePlantet that was based on pandalecteur project: &quot;white peacock&quot;
+I have added colors and the possibility to spry color over the drawing","Whenever you click on the stage, a flower appears  at the  mouse position",2143382,https://cdn2.scratch.mit.edu/get_image/project/10927080_480x360.png,2013-06-18T12:28:57.000Z,2018-07-15T19:40:52.000Z,2013-06-18T12:59:21.000Z,175,38,12,0,0,120091,104625
+236456443,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix","I remixed a project of my own for today, but this is so cool that I wanted to join in!","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",17767933,https://cdn2.scratch.mit.edu/get_image/project/236456443_480x360.png,2018-07-15T14:23:41.000Z,2018-07-15T20:05:14.000Z,2018-07-15T19:58:07.000Z,6,3,0,0,0,236358913,236312698
+236451371,GU#11 - GU Day 10 — Binary Counter (remix),"GettingUnstuck#11 said - ""Find a project that uses broadcasting and remix it"".
+
+I looked for cool looking projects in GettingUnstuck#10 studio and looked to see what used broadcast. I like the idea of a controller in the original project this is based on. It made me realised that remixing is a good way to look closer at other projects.
+
+My edits are sprite costume based only. This is mainly to add 0 or 1 above the dot so that the binary number is displayed in digit form. More minor - the ""on"" costume for a bit has a different color.",Move the slider to change the delay time of the binary counter.,15872912,https://cdn2.scratch.mit.edu/get_image/project/236451371_480x360.png,2018-07-15T12:12:53.000Z,2018-07-15T19:59:31.000Z,2018-07-15T19:57:54.000Z,3,3,0,0,0,236034686,236034686
+236471856,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix remix remix remix","Reflection
+
+Thanks to all the other remixers of the project that did this before me. It was fun and challenging working inside the same space as others while trying not to break existing work. The most difficult part in doing this remix is that I wanted all my added material to exist within a single sprite so that I wouldn't convolute the project with lots of additional sprites.
+
+One thing I did which was extremely helpful was that I developed most of my contribution in a separate project. Then I moved everything over using the backpack. I had to make a few extra modifications to make it work once it was in this project, but it sped up development quite a bit.","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",26264460,https://cdn2.scratch.mit.edu/get_image/project/236471856_480x360.png,2018-07-15T20:27:48.000Z,2018-07-15T20:41:58.000Z,2018-07-15T20:32:53.000Z,9,3,0,0,0,236461419,236312698
+236471633,Spider Web (Unstuck 11),"For this I wanted a light-hearted yet""spooky"" type of computational art for this project, and went looking on the Day 11 Studio for inspirations to remix. ""Appearing Plants"" was such a delight to play and it seemed like the perfect place to start. 
+
+The idea of the ""remix"" is so liberating, especially with my students, as it totally changes the dynamic of creating and sharing. Rather than being concerned with ""getting it right"" and being cautious with sharing (or even getting defensive when someone incorporates their solution), they take delight in seeing their creativity and ingeniuity reflected in the projects of their classmates.",Press the green flag to start.,27690149,https://cdn2.scratch.mit.edu/get_image/project/236471633_480x360.png,2018-07-15T20:21:54.000Z,2018-07-15T22:34:46.000Z,2018-07-15T21:11:47.000Z,12,3,0,0,0,10927080,104625
+236471638,Remix -- Unstuck Challenge 11  ,"This project originally had the cat controlled by the keyboard. This remix alters the controls so that the cat follows the mouse.(I also made minor cosmetic changes to the princesses, giving them each different hair and dress colors.)
+
+Originally, I tried adding a mouse control script from a previous project I created.  I thought it would be a simple drag and drop fix, but it didn't work with the number of sensing scripts in the project.  Instead, I had t develop a new method to have the sprite follow the mouse on click and stop following on clicking the background all while still making use of the color and sprite sensing scripts.  Ultimately, I followed the example of the original project and used the custom block control, which made it much easier to add the necessary code to several scripts.
+
+Remixing was rather fun, as the original creators -  @ECS_Scratcher and rbotero - already had great animations and sensing scripts.  ","Click on Scratch cat and use your mouse to save princess!
+
+
+From Remix challenge: Find a project that uses broadcasting and remix it. For example, you could remix this pass-it-on project that we started. ",11608238,https://cdn2.scratch.mit.edu/get_image/project/236471638_480x360.png,2018-07-15T20:22:00.000Z,2018-07-15T22:04:51.000Z,2018-07-15T21:40:47.000Z,6,3,1,0,0,236458717,236458717
+236475289,Getting Unstuck Day 11,"Remix the pass-it-on project created by karenb. Very fun :)
+Thanks!",,14159575,https://cdn2.scratch.mit.edu/get_image/project/236475289_480x360.png,2018-07-15T21:58:32.000Z,2018-07-15T22:06:42.000Z,2018-07-15T22:05:00.000Z,8,3,0,0,0,,
+236470823,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix remix","I love this and cannot wait to have my students do this next year!
+images from wikimedia commons
+music
+Around the World by Daft Punk via Soundcloud
+Reading Rainbow Theme (Butterfly in the Sky) via FM music
+Bark Your Head Off - 1812 via cduniverse.com","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",18341966,https://cdn2.scratch.mit.edu/get_image/project/236470823_480x360.png,2018-07-15T19:59:10.000Z,2018-07-15T22:13:55.000Z,2018-07-15T22:04:34.000Z,5,3,1,0,0,236456443,236312698
+236474749,Unstuck Day11,Click the green flag and see what happens.  Great idea to show students that they do not always have recreate the wheel and start from Scratch...no pun intended!,"Remixed
+switch background with broadcast
+by Silver437",11885888,https://cdn2.scratch.mit.edu/get_image/project/236474749_480x360.png,2018-07-15T21:43:45.000Z,2018-07-15T22:05:37.000Z,2018-07-15T22:05:37.000Z,16,1,0,0,0,1193292,1193292
+236474994,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix remix remix remix remix",Thanks to all for passing this along wasn't sure what I was going to do and then I saw this project. It was fun to do something different and add my piece onto it. I have never done anything like this before so this was a great way to explore remixing and adding on.,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",588430,https://cdn2.scratch.mit.edu/get_image/project/236474994_480x360.png,2018-07-15T21:50:33.000Z,2018-07-15T23:11:28.000Z,2018-07-15T22:59:06.000Z,9,3,0,0,0,236471856,236312698
+236478947,"Day 11:""3 Favorite Things"" Pass-It-On Project! remix","I always loved the about me projects and learning about about my students and my peers!  So I knew right away that I was going to remix this project.  I included my portion to the project and I also added everyone to the intro screen who had contributed to this project so far!
+If I had more time I would change it up so that the viewer could just click on our pictures and view in any order they like.  
+Ok, after I submitted to the studio, I started to look around and saw multiple remixes, so using the backpack, I think I grabbed all the remixes and brought them into this one.  ","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",1294980,https://cdn2.scratch.mit.edu/get_image/project/236478947_480x360.png,2018-07-15T23:32:22.000Z,2018-07-27T03:07:35.000Z,2018-07-15T23:54:54.000Z,13,1,1,0,0,236471856,236312698
+236460512,Dance Party-2 remix,Remix di un tutorial Scratch con broadcasting per Getting Unstuck Day 11,I added two sprites to the dance party,17698999,https://cdn2.scratch.mit.edu/get_image/project/236460512_480x360.png,2018-07-15T15:59:52.000Z,2018-07-15T16:03:05.000Z,2018-07-15T16:02:38.000Z,13,5,1,0,0,10128067,10015007
+236476702,Getting Unstuck  #11 - Day 8 Activity remix,"This was really difficult. I found it hard finding just the project to remix. Eventually I found this one by @Topsie that I really liked, and thought that I'd just change what it does. 
+What I learned from this is that a great way of learning how a project works is to remix it and change one thing at a time. It's certainly a strategy I'll be using with my students.","Press the green flag to start. Use A, D and Space keys to play the drums, but don't play too fast.",141519,https://cdn2.scratch.mit.edu/get_image/project/236476702_480x360.png,2018-07-15T22:35:59.000Z,2018-07-24T11:13:07.000Z,2018-07-15T22:45:49.000Z,4,2,0,0,0,236373294,236373294
+236480695,balls and bricks remix,"In my remix, I tried to make a sound play when the block disappeared.  I need to work on the timing, because the sound plays when I press the letter key, not when the ball hits the block.  I'll keep at it!  Thanks CyberParra for the original project!","14 balls fall from the sky and must reach the ground (when this happens the ball become yellow). But there are bricks that block them. You have to click the right letter to make the brick disappear and allow the ball to reach the ground.
+At the end all the bricks should be replaced by yellow balls
+",34190490,https://cdn2.scratch.mit.edu/get_image/project/236480695_480x360.png,2018-07-16T00:08:11.000Z,2018-07-16T00:27:02.000Z,2018-07-16T00:25:14.000Z,5,1,0,0,0,235872371,235872371
+236479171,Fire Breathing Dragon remix (Getting Unstuck Day 11),The dragon now flies around and will say a message.  I changed the wands to wizards that disappear when they touch the dragon.,Use the magic wands to grow or shrink your dragon! Just press on each wand and see the magic,34198395,https://cdn2.scratch.mit.edu/get_image/project/236479171_480x360.png,2018-07-15T23:37:09.000Z,2018-07-16T02:50:28.000Z,2018-07-16T00:27:31.000Z,6,2,0,0,0,236019375,236019375
+236479965,Memory remix Time Dilation: Getting Unstuck Day 11,"Getting Unstuck Day 11 Remix
+
+I liked the idea of ""energy"" as a variable in a project. Yesterday, I tried to implement this idea from scratch in my project but I didn't get very far and abandoned it.
+This new project starts as a remix of jsh's Memory project, where I first got the idea for ""energy."" Rather than trying to remake his wheel, I used his energy variable and applied it to the passage of time and the movement of the Sun across the sky.
+Still loving the music, too!","When you move your mouse around a lot, time advances quickly. When you are still, time advances slowly.",3485356,https://cdn2.scratch.mit.edu/get_image/project/236479965_480x360.png,2018-07-15T23:53:40.000Z,2018-07-16T00:35:41.000Z,2018-07-16T00:32:38.000Z,5,3,1,0,0,235767051,194151
+236482803,Appearing plants remix - Getting Unstuck Day 11,I added sound to this beautiful program.  ,"Whenever you click on the stage, a flower appears  at the  mouse position",17257831,https://cdn2.scratch.mit.edu/get_image/project/236482803_480x360.png,2018-07-16T00:43:53.000Z,2018-07-16T00:53:45.000Z,2018-07-16T00:53:01.000Z,6,3,0,0,0,10927080,104625
+236483454,Chemistry Lab v1.5 remix-2,This is a remix of Chemistry Lab 1.5 by DylTech. ,This is a chemistry quiz where the player has to identify the charge on the ion. ,2190314,https://cdn2.scratch.mit.edu/get_image/project/236483454_480x360.png,2018-07-16T00:54:58.000Z,2018-07-16T02:05:41.000Z,2018-07-16T00:56:16.000Z,11,0,0,0,0,,
+236482716,Talking Fish/Evolution Remix Unstuck #11,I really liked how HeloisaZal created the bubbles in Pokemon evolution so I remixed my Talking Fish by adding her bubbles,Click on the green flag to start.,124311,https://cdn2.scratch.mit.edu/get_image/project/236482716_480x360.png,2018-07-16T00:42:20.000Z,2018-07-16T01:00:31.000Z,2018-07-16T01:00:31.000Z,4,3,0,0,0,236313319,236313319
+236478608,Find the Duck! - remix,"Remixed from @karenb.
+I've made a few changes:
++The background, the character, more costumes and the music are different.
++Coding:  I've added 3 variables: time+ right +wrong choices to make it more challenging; I've added a pixelate effect to make it harder too. 
+When you finished it, you can start again if you press the space key.
+
+++This project helped me to understand better how to combine the cloning with variables and randomness. Thanks a lot @karenb for your useful comments.++
+","Press the green flag to start.
+Find the random duck.
+You have limited time.
+Correct duck= + between 5 and 10 secs.
+Wrong duck= - 5 secs.
+
+
+Press the Green Flag to start playing!",4413079,https://cdn2.scratch.mit.edu/get_image/project/236478608_480x360.png,2018-07-15T23:24:56.000Z,2018-07-19T19:27:13.000Z,2018-07-16T01:58:32.000Z,13,3,2,0,0,226711372,226711372
+236488095,Unstuck Day 11 Rushing,I made this a few years ago and have incorporated it a number of times into my elementary Computer Science curriculum.  I have also included it in a few coding presentations at State and National tech conferences.  ,"Click the Green Flag to start an interpretation of Little Miss Muffet.  
+
+Students in my 4th grade classes were asked to created a Scratch project that tells an original story -- or ""remixes"" a classic tale or nursery rhyme.  To give them an idea -- I created this.",7525698,https://cdn2.scratch.mit.edu/get_image/project/236488095_480x360.png,2018-07-16T02:06:28.000Z,2018-07-16T02:09:21.000Z,2018-07-16T02:09:21.000Z,3,0,0,0,0,88558851,84863720
+236489626,Platformer Remix- Day 11,"Find a project that uses broadcasting and remix it. 
+
+*Thank you to one of my students who created this Platformer Game!  My students use w, a, s, d, to move through games, but I find it easier to use the arrow keys so that is what I changed.","!!!ALMOST DONE!!!
+Use the left and right arrow
+w to jump
+you have to get to the exit sign",25165723,https://cdn2.scratch.mit.edu/get_image/project/236489626_480x360.png,2018-07-16T02:31:37.000Z,2018-07-16T02:42:29.000Z,2018-07-16T02:42:29.000Z,5,2,0,0,0,226958363,226958363
+236458648,"The ""3 Favorite Things"" Pass-It-On Project! Peachy Keen Remix","Had fun exploring the drawing and picture editing tools when creating costumes.  I drew many of these pictures earlier this year when trying sketchnote challenges on Twitter.
+Wondered when the broadcast block and was used . . . now I know!  Like the way the remix tree shows how and when changes were made compared to the original.
+Code followed pattern of scripts used by @alirb, @jsh, and @paulinah (and original project from @karenb.)  
+","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",18337230,https://cdn2.scratch.mit.edu/get_image/project/236458648_480x360.png,2018-07-15T15:15:18.000Z,2018-07-16T16:57:56.000Z,2018-07-16T02:40:57.000Z,1,0,0,0,0,236358913,236312698
+236461285,"""The 3 favourite things"" remix project","Haha.. had lots of fun drawing this time!
+Nice remix and idea. Thank you!","Getting Unstuck Day 11
+Find a project that uses broadcasting and remix it. 
+
+Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",32493591,https://cdn2.scratch.mit.edu/get_image/project/236461285_480x360.png,2018-07-15T16:18:19.000Z,2018-07-16T03:29:19.000Z,2018-07-16T03:29:19.000Z,7,2,0,0,0,236452266,236312698
+236492430,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix remix remix remix r… remix","I added a bunch of peoples' remixes together! I think I included projects from the following people, but it's getting late so forgive me if I've excluded someone! Message me a link to your remix and I'll add you in :)
+
+This turned out to be a little more time-consuming than I thought, but I think I figured out a good way to keep the clickable icons doing what I want. I didn't actually have time to add myself in, but I'll do that tomorrow!
+
+@karenb
+@jsh
+@alirb
+@paulinah
+@fun-timeonly
+@maths77680
+@heyjessi
+@MrQuentin
+@MmeWasag
+@PolyPrep
+@RoboSquid
+@sleifer
+@Mattioli2
+@ClaudiaEconimo
+@JacobAtInnovEd
+@chrise07
+@MEStech
+@PinkGoldPeachyKeen
+@DotheScratch
+@kboyceq
+@mabaluca","Click the green flag to see all of the characters, then choose a person to learn more about by clicking on their icon!",19163721,https://cdn2.scratch.mit.edu/get_image/project/236492430_480x360.png,2018-07-16T03:12:41.000Z,2018-07-17T16:06:39.000Z,2018-07-16T04:43:17.000Z,7,1,1,0,0,236478947,236312698
+236496242,switch background with broadcast remix_ Unstuck Day 11,Many iterations. ,This project was a remix using the broadcast block. I imagined Cat is Forest Gump running a marathon. I added a couple of elements to the animation to communicate the message of a long marathon. ,31144646,https://cdn2.scratch.mit.edu/get_image/project/236496242_480x360.png,2018-07-16T04:39:09.000Z,2018-07-16T05:06:32.000Z,2018-07-16T05:05:00.000Z,1,0,0,0,0,1193292,1193292
+236496030,"""The 3 favourite things"" remix project remix","Sorry I arrived late to this party - different time zone!
+I remixed this morning but have only just got back to complete.
+Love this idea of sharing and adding to a remix - will trial in class for sure.
+I was inspired by the drawing abilities of my collaborators - will be something to try myself thats for sure.  I relied on my bitmoji from bitmoji.com","Getting Unstuck Day 11
+Find a project that uses broadcasting and remix it. 
+
+Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",13484475,https://cdn2.scratch.mit.edu/get_image/project/236496030_480x360.png,2018-07-16T04:35:20.000Z,2018-07-16T05:05:23.000Z,2018-07-16T05:02:31.000Z,4,0,0,0,0,236461285,236312698
+236498375,Unstuck 11,"Thanks to paulinah for:
+The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix (Project Remixed)","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",33890948,https://cdn2.scratch.mit.edu/get_image/project/236498375_480x360.png,2018-07-16T05:21:04.000Z,2018-07-16T05:21:34.000Z,2018-07-16T05:21:14.000Z,4,0,0,0,0,236358913,236312698
+236499302,Fire Breathing Dragon remix,I saw some other remixes of this and it seemed like a good one to remix.,Use the magic wands to change your dragon! Just press B or R or click on the dragon.,30508500,https://cdn2.scratch.mit.edu/get_image/project/236499302_480x360.png,2018-07-16T05:43:45.000Z,2018-07-16T06:30:10.000Z,2018-07-16T06:28:05.000Z,7,1,0,0,0,236019375,236019375
+236502145,Impatient Cow Knock Knock (using Broadcast) remix remix,"Thanks nbblasko. I liked your cow, the beach setting and the idea of telling jokes.",Click the green flag to begin the animation. Prepare to laugh!,32833725,https://cdn2.scratch.mit.edu/get_image/project/236502145_480x360.png,2018-07-16T06:41:51.000Z,2018-07-16T07:00:46.000Z,2018-07-16T06:59:14.000Z,8,2,1,0,0,236466533,338497
+236503268,"""The 3 favourite things"" remix project remix remix","I really enjoyed seeing what other people had done and using that as inspiration for my own section.  I think this would be a great intro for a beginning of year project to introduce each other.  Although I think I'd break it up into groups because it would get a little tedious to sit through 30!  I wasn't sure how to add my sprite to the backdrop.  I fudged it a bit, I'm sure there's an easier way.  Thank to the people who went before me for your inspiration.","Getting Unstuck Day 11
+Find a project that uses broadcasting and remix it. 
+
+Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",3297086,https://cdn2.scratch.mit.edu/get_image/project/236503268_480x360.png,2018-07-16T07:02:43.000Z,2018-07-16T07:34:45.000Z,2018-07-16T07:34:45.000Z,4,1,0,0,0,236496030,236312698
+236462175,mini mahjongg v0.1 remix,,Mini mahjongg v0.1 Remix,139209,https://cdn2.scratch.mit.edu/get_image/project/236462175_480x360.png,2018-07-15T16:39:03.000Z,2018-07-16T08:34:56.000Z,2018-07-16T08:34:18.000Z,10,2,0,0,0,361213,361213
+236501086,Where I do put it?,"Grazie Carmelo per lo spunto educativo sulla raccolta diffrenziata: mi è piaciuta l'idea di classficare e differenziare i rifiuti domestici con un gioco.
+Ho aggiunto un bidone RAEE e qualche altro esempio di rifiuto. Svilupperò in seguito con qualche altra interazione, ad esempio con domande.","Usa i tasti 1, 2, 3, 4, 5 e 6 per muovere i bidoni e riciclare i rifiuti, in questo modo il materiale di cui sono fatti non andrà sprecato.
+
+E ricorda che a volte puoi aggiustare o riutilizzare gli oggetti invece di buttarli.",11312120,https://cdn2.scratch.mit.edu/get_image/project/236501086_480x360.png,2018-07-16T06:18:17.000Z,2018-07-16T08:46:29.000Z,2018-07-16T08:40:05.000Z,8,1,0,0,0,14644036,14644036
+236497744,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix remix remix remix r… remix","However, the file has reached the maximum size ...
+
+","Click the green flag to see all of the characters, then choose a person to learn more about by clicking on their icon!",19738986,https://cdn2.scratch.mit.edu/get_image/project/236497744_480x360.png,2018-07-16T05:07:53.000Z,2018-07-16T10:21:45.000Z,2018-07-16T07:52:54.000Z,6,1,0,0,0,236492430,236312698
+236507424,"The ""3 Favorite Things"" remix Gettingunstucked day11",I enjoy remixing! thank you!,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",25103547,https://cdn2.scratch.mit.edu/get_image/project/236507424_480x360.png,2018-07-16T08:09:30.000Z,2018-07-16T09:18:55.000Z,2018-07-16T09:15:44.000Z,4,0,0,0,0,236358913,236312698
+236511558,#GettingUnstuck11,,,16962202,https://cdn2.scratch.mit.edu/get_image/project/236511558_480x360.png,2018-07-16T09:14:27.000Z,2018-07-16T09:28:00.000Z,2018-07-16T09:17:22.000Z,7,0,0,0,0,,
+236512343,Getting Unstuck: Day 11 (Broadcasting Sample1 remix),Remixed from Broadcasting Sample 1 -  not rocket science but fun enough,,24912473,https://cdn2.scratch.mit.edu/get_image/project/236512343_480x360.png,2018-07-16T09:27:44.000Z,2018-07-16T16:36:18.000Z,2018-07-16T09:35:24.000Z,4,0,0,0,0,147560462,147560462
+236511583,Day 11 - Getting Unstuck,"Grazie a @jumekuboteacher per: 
+Unstuck Day 11 - Broadcast Sample remix https://scratch.mit.edu/projects/236460031/
+
+Grazie a @delliotthk per:
+Broadcast Sample https://scratch.mit.edu/projects/74983532/",When you click on the stage flowers and leafs appear ,26079479,https://cdn2.scratch.mit.edu/get_image/project/236511583_480x360.png,2018-07-16T09:14:56.000Z,2018-07-24T22:21:26.000Z,2018-07-16T10:20:11.000Z,9,5,1,0,0,10927080,104625
+236511545,Getting Unstuck: Day 11,"Ho fatto il remix di ""Speed Lines Experiment"".
+I did the remix of ""Speed Lines Experiment"".
+Ho aggiunto:
+- rimbalza quando tocchi il bordo
+- porta effetto colore a...
+- dire...
+I added:
+- if on edge, bounce
+- set color-effect to ...
+- say...
+Sorry for the use of the english language (Google translation :-o)","Usa i tasti freccia per far volare il Gatto Scratch sullo schermo.
+Use the arrow keys to fly Scratch Cat around the screen.",19789360,https://cdn2.scratch.mit.edu/get_image/project/236511545_480x360.png,2018-07-16T09:14:03.000Z,2018-08-04T13:16:40.000Z,2018-07-16T10:22:53.000Z,7,2,1,0,0,236129247,236129247
+236517089,Knock-Knock Joke remix - Getting Unstuck - Day 11,Thought I would add a little bit to this one.. ,Click the green flag to play the joke. Then take a look inside at the code. Create one of your own. Have fun!,19641362,https://cdn2.scratch.mit.edu/get_image/project/236517089_480x360.png,2018-07-16T10:52:04.000Z,2018-07-16T11:51:32.000Z,2018-07-16T11:50:26.000Z,8,0,0,0,0,140689615,3061540
+236521632,Knock-Knock Joke remix - Getting Unstuck - Day 11 remix,Thanks for the inspiration @McSc,Click the green flag to play the joke. Then take a look inside at the code. Create one of your own. Have fun!,4610900,https://cdn2.scratch.mit.edu/get_image/project/236521632_480x360.png,2018-07-16T12:06:08.000Z,2018-07-16T12:09:32.000Z,2018-07-16T12:09:18.000Z,7,1,0,0,0,236517089,3061540
+236523995,Knock-Knock Joke remix - Getting Unstuck - Day 11 remix remix,,Click the green flag to play the joke. Then take a look inside at the code. Create one of your own. Have fun!,18190669,https://cdn2.scratch.mit.edu/get_image/project/236523995_480x360.png,2018-07-16T12:41:13.000Z,2018-07-16T12:50:13.000Z,2018-07-16T12:44:05.000Z,11,0,0,0,0,236521632,3061540
+236522437,unstuck day 11,So fun to remix it!! thanks @paulinah,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",34216021,https://cdn2.scratch.mit.edu/get_image/project/236522437_480x360.png,2018-07-16T12:18:38.000Z,2018-07-16T12:49:08.000Z,2018-07-16T12:47:47.000Z,3,0,0,0,0,236358913,236312698
+236527917,"Day 11 - The ""3 Favorite Things"" Pass-It-On Project!",,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",24154277,https://cdn2.scratch.mit.edu/get_image/project/236527917_480x360.png,2018-07-16T13:25:25.000Z,2018-07-16T13:26:37.000Z,2018-07-16T13:26:04.000Z,2,0,0,0,0,236358913,236312698
+236527427,Day 11 - Broadcast and Receive remix,"Thanks to those below for your project. 
+
+I was way behind today, so made this simple.  I tried other projects but they were too complicated.  I felt that this would be simple for my students to use and reference if they needed help when using Scratch.","This project demonstrated the broadcast and receive event blocks. 
+
+I use them as cues for the sprites and stage. Notice how I use comments to keep track of what's going on. 
+
+Pay attention also to how I reset everything back to the start with the green flag. ",24864870,https://cdn2.scratch.mit.edu/get_image/project/236527427_480x360.png,2018-07-16T13:20:24.000Z,2018-07-16T13:51:06.000Z,2018-07-16T13:28:04.000Z,3,0,0,0,0,177768853,177768853
+236523574,Tick Tock remix Day 11 Getting Unstuck ,"Getting Unstuck Day 11: Pass it on! Explore the broadcast blocks of Scratch through the practice of remixing.
+
+Thank you very much to @funwithscratch",Click on the green flag,8789156,https://cdn2.scratch.mit.edu/get_image/project/236523574_480x360.png,2018-07-16T12:35:56.000Z,2018-08-01T19:56:51.000Z,2018-07-16T13:21:28.000Z,21,3,0,0,0,2099615,2099547
+236540737,Unstuck Day 4 Rushing Remix,"Great original project. It was fun remixing. My only concern with my remix is that if you get the answer wrong there is no prompt to fix it. I think the If-Then-Else block, though I am not sure sure what the else would be. ","Finished! I remixed this to do words instead of letters. Just follow the instructions to build a snowman. 
+",22706156,https://cdn2.scratch.mit.edu/get_image/project/236540737_480x360.png,2018-07-16T15:18:23.000Z,2018-07-16T16:44:28.000Z,2018-07-16T15:18:28.000Z,5,0,0,0,0,235849021,235849021
+236544003,Dance Party-2 remix remix,Let's keep the party going!,I added another sprite to the dance party,16010675,https://cdn2.scratch.mit.edu/get_image/project/236544003_480x360.png,2018-07-16T15:49:45.000Z,2018-07-16T15:54:27.000Z,2018-07-16T15:54:02.000Z,2,0,0,0,0,236460512,10015007
+236542908,day 11,"photo credit : http://www.spacesafetymagazine.com/iss-nobel-peace-prize/
+",Click on the green flag for Earth to call ISS .. ,771142,https://cdn2.scratch.mit.edu/get_image/project/236542908_480x360.png,2018-07-16T15:38:24.000Z,2018-07-16T16:18:22.000Z,2018-07-16T15:55:11.000Z,6,2,0,0,0,236527427,177768853
+236409344,Caccia..in dispensa! remix  - DAY 11,"Ho utilizzato il progetto di  ClaudiaEconimo per: 
+ Caccia..in dispensa!  (Progetto Originale)
+
+Ho remixato anche un mio progetto ""CHEESE-CAKE EXPRESS!"" 
+","Hai un minuto di tempo per trovare gli ingredienti della cheese-cake. Occhio al cronometro quindi!!
+Ogni cibo trovato vale 1 punto.",34259094,https://cdn2.scratch.mit.edu/get_image/project/236409344_480x360.png,2018-07-14T17:41:25.000Z,2018-07-16T16:35:11.000Z,2018-07-16T16:24:02.000Z,5,0,0,0,0,236398393,236398393
+236545191,Liana's Pet remix,Unstuck Challenge 11: remix Liana's Pet project. Added more features when Meri is taking a walk in the soccer field and brought in a surprise at the end of the walk.,Click the Green Flag to start. Click on the dog Meri and follow the instruction to play. EXTRA FUN: press the space bar to take a walk!,25332755,https://cdn2.scratch.mit.edu/get_image/project/236545191_480x360.png,2018-07-16T16:02:43.000Z,2018-07-16T19:06:38.000Z,2018-07-16T16:39:28.000Z,7,2,0,0,0,211667707,211667707
+236545802,Getting Unstuck 11: Pass it On Bees remix,"I remixed a project that I did on a different account. I changed it so that instead of telling the jokes in the same order every time, the jokes go in a random order. There were a lot of broadcast blocks in the original project, so it took some thinking to get everything to make sense and make sure that the same joke doesn't repeat. I also love that the first bee leaves and is hidden after the second bad joke gets told, so you can't see its reply and the joke-telling bee is just left shouting the punchline. ",Click the green flag to start. Hope you like bad puns!,18044195,https://cdn2.scratch.mit.edu/get_image/project/236545802_480x360.png,2018-07-16T16:09:06.000Z,2018-07-16T16:44:36.000Z,2018-07-16T16:41:18.000Z,5,1,0,0,0,10835667,10835667
+236552829,Scratch Cat Interview remix Day 11 of Getting Unstuck,Il remix mi piace tantissimo ;-),"Scratch Cat wants to know more about you?
+Answer ""Done"" when you are done playing the game
+Press the green flag to start",10086796,https://cdn2.scratch.mit.edu/get_image/project/236552829_480x360.png,2018-07-16T17:19:45.000Z,2018-07-16T17:25:46.000Z,2018-07-16T17:25:21.000Z,5,1,0,0,0,236454810,236454810
+236516071,Getting Unstuck #11: remix and broadcasting,"Thanks to @alirb. Her code in the original project was inspiring. 
+This activity improved my familiarity with ""broadcast and wait"" block and demonstrated alternative uses of sprite costumes!
+ 
+Scratch project was created as activity #11 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+
+Day #11 Challenge: Find a project that uses broadcasting and remix it. For example, you could remix this pass-it-on project that we started.","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",1202362,https://cdn2.scratch.mit.edu/get_image/project/236516071_480x360.png,2018-07-16T10:35:34.000Z,2018-07-18T06:49:56.000Z,2018-07-16T13:39:39.000Z,4,0,0,0,0,236498375,236312698
+236543420,G.U. - Day 11,"Semplici effetti con uso del blocco invia messaggio a tutti gli sprite.
+Non ho remixato un progetto in particolare, ho modificato il progetto base del tutorial ""Balliamo"" (? in Scratch)",Clicca sulla bandierina verde.,13746945,https://cdn2.scratch.mit.edu/get_image/project/236543420_480x360.png,2018-07-16T15:43:37.000Z,2018-07-16T19:12:26.000Z,2018-07-16T19:08:07.000Z,4,0,0,0,0,,
+236567494,Conta le bandiere remix Getting Unstuck Day 11,"Ho remixato il progettoConta le bandiere. 
+Ho aggiunto un a bandiera e cambiato lo sfondo
+Thank you to  @ScratchLibro
+Conta le bandiere (Progetto Originale)",Click on the green flag,18667079,https://cdn2.scratch.mit.edu/get_image/project/236567494_480x360.png,2018-07-16T19:49:56.000Z,2018-07-16T20:20:50.000Z,2018-07-16T20:06:07.000Z,3,0,0,0,0,217142345,106283599
+236570109,Malibu beach crab,I only made minor changes to the original project - this was a great project to begin with.  I only slowed things down a wee bit so you could get a chance to enjoy the graphics and the sound effects. ,follow the on screen instructions.,2876976,https://cdn2.scratch.mit.edu/get_image/project/236570109_480x360.png,2018-07-16T20:25:36.000Z,2018-07-16T20:30:25.000Z,2018-07-16T20:29:13.000Z,4,0,0,0,0,2226536,1072591
+236555221,Getting Unstuck Challenge Day 11,"Music
+Angelique Kidjo ""Once in a Lifetime""
+Fantastic Negrito none yet
+Residente ""El Futuro Es Nuestro""","I tried the pass it along challenge but it was a pain to have to listen to everyone's projects before me to test and debug mine, so I gave up. I made this project, my 3 favorite concerts of this year. There's some more work to do, and find a Fantastic Negrito song I can use. I'm probably done though, this took too long. Interestingly enough, I didn't use pseudo code for this one, and I was going back and forth without a plan too much. Note to self *always use pseudo code*",17824064,https://cdn2.scratch.mit.edu/get_image/project/236555221_480x360.png,2018-07-16T17:43:57.000Z,2018-07-16T20:43:07.000Z,2018-07-16T20:00:13.000Z,14,2,0,0,0,,
+236572916,Getting Unstuck Day 11: MET Art Remix,"Images are from the public domain.  Artists are included in the project.
+
+This project was a remix from another project I created.  I went back to tinker with some of the broadcast buttons so the introduction image would appear.  I also added the ""HERE"" button on the screen.",Exploring different ways to use the newly released pieces of art work from the MET.  Click on the Green Flag to start.,1353497,https://cdn2.scratch.mit.edu/get_image/project/236572916_480x360.png,2018-07-16T21:08:27.000Z,2018-07-16T21:27:44.000Z,2018-07-16T21:26:17.000Z,3,2,0,0,0,,
+236577265,Broadcasting Sample1 remix,"Getting Unstuck: Day 11
+Challenge: Find a project that uses broadcasting and remix it. 
+
+I remixed this project because it contained the broadcasting blocks. I changed stage, the position and interaction between sprites and I added some sounds.",Click on green flag to start.,17615581,https://cdn2.scratch.mit.edu/get_image/project/236577265_480x360.png,2018-07-16T22:26:34.000Z,2018-07-22T14:52:26.000Z,2018-07-16T22:55:11.000Z,2,0,0,0,0,147560462,147560462
+236577861,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix-2",REMIIIIXXX,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",25417130,https://cdn2.scratch.mit.edu/get_image/project/236577861_480x360.png,2018-07-16T22:38:29.000Z,2018-07-16T23:04:54.000Z,2018-07-16T23:04:44.000Z,4,0,0,0,0,236358913,236312698
+236579738,"Getting Unstuck Day 11 - The ""3 Favorite Things"" Pass-It-On Project!",,Click the green flag to learn about my three favorite things!,34245752,https://cdn2.scratch.mit.edu/get_image/project/236579738_480x360.png,2018-07-16T23:16:40.000Z,2018-07-16T23:49:40.000Z,2018-07-16T23:49:39.000Z,4,1,0,0,0,236358913,236312698
+236581629,"#011Remix The ""3 Favorite Things"" Pass-It-On Project!","Got the coffee clip art from here:  http://www.clipartpanda.com/categories/coffee-clip-art-free
+And thanks to mrbeasley for making this a little easier for me to understand!
+","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",20126730,https://cdn2.scratch.mit.edu/get_image/project/236581629_480x360.png,2018-07-16T23:49:38.000Z,2018-07-17T00:10:19.000Z,2018-07-17T00:03:47.000Z,2,0,0,0,0,236577861,236312698
+236581915,"Day 11? - The ""3 Favorite Things"" Pass-It-On ",I want to do this at the beginning of school with kids to get to know them! So fun!,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",10309968,https://cdn2.scratch.mit.edu/get_image/project/236581915_480x360.png,2018-07-16T23:53:46.000Z,2018-07-26T02:11:18.000Z,2018-07-17T00:47:00.000Z,4,0,0,0,0,236358913,236312698
+236630895,Spider Web (Unstuck 11) remix,"I wanted to create a spider net and although t is not perfect, now I am closer to my goal.",Press the green flag to start.,13846307,https://cdn2.scratch.mit.edu/get_image/project/236630895_480x360.png,2018-07-17T12:53:31.000Z,2018-07-17T12:57:46.000Z,2018-07-17T12:56:47.000Z,2,0,0,0,0,236471633,104625
+236109873,Labirinto,Autor: Jocemar do Nascimento,"Para jogar, use o Mouse, clicando nas Setas ou as Setas do Teclado.",1734014,https://cdn2.scratch.mit.edu/get_image/project/236109873_480x360.png,2018-07-11T12:10:10.000Z,2018-07-11T15:09:04.000Z,2018-07-11T15:08:25.000Z,19,7,0,0,0,,
+236632399, Getting Unstuck 11 remix,"Day 11 of Getting Unstuck
+Grazie al progetto remixato di jpcaldwell e di
+Wandering the globe (Progetto Originale), mi è venuto in mente un gioco  chiamato ""Strega comanda colore"" e l'ho remixato in:
+""Scratch comanda colore...!""",Clicca sulla bandierina e scegli freccia destra o freccia sinistrasinistra,15572972,https://cdn2.scratch.mit.edu/get_image/project/236632399_480x360.png,2018-07-17T13:09:01.000Z,2018-07-18T07:51:24.000Z,2018-07-17T16:07:23.000Z,3,1,0,0,0,236556821,236556821
+236658817,Getting Unstuck Day 11 - remix,"I changed the background and sprite (costume). I don't actually understand the code 100%. @ilabformaking Where is the ""angle of spiral"" variable used in the program?",Press the green flag to start.,22156688,https://cdn2.scratch.mit.edu/get_image/project/236658817_480x360.png,2018-07-17T17:10:56.000Z,2018-07-18T01:12:02.000Z,2018-07-17T17:20:17.000Z,3,0,0,0,0,236471633,104625
+236682343,Day 11  Broadcast Remix - Nutty Knock Knock Joke,"Day 11 Remix Getting unstuck- Find a project that uses broadcasting and remix it. 
+
+Knock knock jokes with nuts.",Press green flag,16509596,https://cdn2.scratch.mit.edu/get_image/project/236682343_480x360.png,2018-07-17T21:39:32.000Z,2018-07-18T01:19:31.000Z,2018-07-17T22:01:06.000Z,9,0,0,0,0,338497,338497
+236702922,Fire Breathing Dragon remix (Getting Unstuck Day 11) remix,This was remix from Fire Breathing Dragon @jockel830,Use the magic wands to grow or shrink your dragon! Just press on each wand and see the magic.,18062705,https://cdn2.scratch.mit.edu/get_image/project/236702922_480x360.png,2018-07-18T02:53:44.000Z,2018-07-18T03:22:28.000Z,2018-07-18T03:21:13.000Z,3,0,0,0,0,236479171,236019375
+236754942,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix","Progetto remixato
+#GettingUnstuck giorno 11","Clicca sulla bandiera verde per conoscere le mie tre cose preferite! 
+Quindi remixare il progetto per aggiungere te e le tue tre cose preferite!",17320587,https://cdn2.scratch.mit.edu/get_image/project/236754942_480x360.png,2018-07-18T15:05:10.000Z,2018-07-18T16:49:07.000Z,2018-07-18T16:28:18.000Z,2,0,0,0,0,236358913,236312698
+236674833,"SCRIGNO42-The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix","Progetto creato per Getting Unstuck, giorno 11.","Cliccare sulla bandierina verde, poi cliccare sul tasto spazio per vedere la presentazione di diversi...personaggi. La parte che ho inserito io è quella relativa alla bicicletta. Non ho modificato gli altri script, ma ho lavorato solo sul mio.",14651357,https://cdn2.scratch.mit.edu/get_image/project/236674833_480x360.png,2018-07-17T19:50:36.000Z,2018-07-18T19:57:06.000Z,2018-07-18T19:54:27.000Z,1,0,0,0,0,236358913,236312698
+236808871,Getting Unstuck Day 11 - broadcast,Love the idea of this Pass-It-On Project! Wish we had all done this!,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",2803184,https://cdn2.scratch.mit.edu/get_image/project/236808871_480x360.png,2018-07-19T03:11:12.000Z,2018-07-19T03:48:29.000Z,2018-07-19T03:48:05.000Z,7,0,0,0,0,236577861,236312698
+236822013,6 SCENES remix  day 11 Getting Unstuck,Thanks to CyberParra,"Click on the flag to start
+to see the knight at the Globo Theatre ",3602053,https://cdn2.scratch.mit.edu/get_image/project/236822013_480x360.png,2018-07-19T07:10:57.000Z,2018-07-19T08:34:03.000Z,2018-07-19T07:36:30.000Z,2,1,0,0,0,60205368,60205368
+236831142,Knock-Knock Joke remix - Getting Unstuck - Day 11 remix remix,"Andrés Gil Ruiz.
+
+Thanks for all.",Click the green flag to play the joke. Then take a look inside at the code. Create one of your own. Have fun!,27636310,https://cdn2.scratch.mit.edu/get_image/project/236831142_480x360.png,2018-07-19T09:27:28.000Z,2018-07-19T09:32:49.000Z,2018-07-19T09:31:44.000Z,4,0,0,0,0,236521632,3061540
+236837772,Getting Unstuck - Day 11,"This project ended up very different than the one I started remixing.  When I was looking for clipart to use for a sprite I was inspired by ""Paint Splat Tree Clipart"".
+
+I learned to think and plan ahead.  I made many timely mistakes while stumbling upon the result.
+
+The part that I found the hardest was using the background editor.  I'm not sure when to use Bitmap vs Vector.  I was originally putting the tree and the grass on the background and was pulling in transparent clipart, but the editors were doing funky things.  Later I figured out that I needed the tree to be a sprite so that I could keep it in front of the paint splats.","Getting Unstuck Day 11 - Find a project that uses broadcasting and remix it.
+
+Instructions are included in the project.",14400846,https://cdn2.scratch.mit.edu/get_image/project/236837772_480x360.png,2018-07-19T11:17:50.000Z,2018-07-19T13:14:25.000Z,2018-07-19T13:09:36.000Z,1,0,0,0,0,1820523,1820523
+236843661,S stands for Spelling,"Getting Unstuck - day 11
+by Massimo Marletta
+
+I remixed the very nice project by @Ladyra with the following improvements:
+
+- Translated the messages in English.
+- Added not Italian letters (J, K, W, X, Y)
+- Simplified the word-search routine (it checked manually for all the letters instead of using a cycle).
+- Added a second sprite (the Dinosaurs), so now the Cat say the first part of the sentence and the dino say the second part.
+- The control is alternated by the two sprites by means of broadcast messages.
+- There is a little chance that the Dino say the wrong word. In this case the Cat asks him to repeat the answer and counts the errors.
+","Write you name and the characters will play spelling your name with words. 
+Don't expect the Dino is perfect.. maybe if he have known the alphabet, he would not be extinguished now :(
+",4804940,https://cdn2.scratch.mit.edu/get_image/project/236843661_480x360.png,2018-07-19T12:53:42.000Z,2018-07-24T11:47:24.000Z,2018-07-19T13:17:26.000Z,16,2,0,0,0,23537953,23537953
+236854966,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix","This was a fun project to participate in.  Thanks to all those who contributed before me. I used mostly photographs in mine, but given more time, I'd try to illustrate my own sprites like others in the group.  All of the drawings are beautiful!
+
+I couldn't figure out how to get my picture on the intro page.  If anyone has advice for that, I'd appreciate it.","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",1196430,https://cdn2.scratch.mit.edu/get_image/project/236854966_480x360.png,2018-07-19T14:53:09.000Z,2018-07-19T16:46:45.000Z,2018-07-19T16:46:45.000Z,3,0,0,0,0,236358913,236312698
+236910981,"Getting Unstuck Day 11-The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix",Remixed ,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",18558561,https://cdn2.scratch.mit.edu/get_image/project/236910981_480x360.png,2018-07-20T04:21:29.000Z,2018-07-20T04:31:07.000Z,2018-07-20T04:22:42.000Z,1,0,0,0,0,236358913,236312698
+236913319,Unstuck Day 11 remix,"Pug images from:
+https://www.pngarts.com/explore/44736 
+https://www.pngarts.com/explore/44740
+https://www.pngarts.com/explore/45148
+
+Pug song from:
+https://www.youtube.com/watch?v=nOKosIipxms","Click on the green flag and let Thor help you practice fractions.
+
+I remixed this project from @mizzpeters and changed the Corgis to pugs. I was mostly excited about what happens at the end and remixed the project so I could learn how to do it, too!
+
+(Protip: click on the pug after he finishes giving instructions if you don't want to do any math problems!)",17786521,https://cdn2.scratch.mit.edu/get_image/project/236913319_480x360.png,2018-07-20T05:11:38.000Z,2018-07-20T05:48:43.000Z,2018-07-20T05:12:18.000Z,11,3,1,0,0,236181324,76778164
+236695108,"Day 11 remix  The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix","I used this as an excuse to play around in the paint editor. At one point in the project there is a flashing effect that comes from changing only some of the costumes in the person's sprite. I'm rushing to catch up with the challenges now because I did an intensive week of Bootstrap Dat Science that I can't wait to combine with Scratch but for now, that's all!","Click the green flag to learn about my three favorite things!
+",124064,https://cdn2.scratch.mit.edu/get_image/project/236695108_480x360.png,2018-07-18T00:59:35.000Z,2018-07-20T23:04:35.000Z,2018-07-20T23:02:54.000Z,1,0,0,0,0,236358913,236312698
+236988245,UnStuck Day 11,Broadcasting messages from one friend to the next,Click on the Green Flag and see Friends out walking.,14232182,https://cdn2.scratch.mit.edu/get_image/project/236988245_480x360.png,2018-07-21T02:29:49.000Z,2018-07-21T03:49:35.000Z,2018-07-21T03:49:35.000Z,5,0,0,0,0,,
+237012113,Knock-Knock Joke remix - Getting Unstuck - Day 11 remix remix remix,,Click the green flag to play the joke. Then take a look inside at the code. Create one of your own. Have fun!,16822769,https://cdn2.scratch.mit.edu/get_image/project/237012113_480x360.png,2018-07-21T12:43:38.000Z,2018-07-21T13:09:07.000Z,2018-07-21T13:06:28.000Z,3,0,0,0,0,236831142,3061540
+237023653,"Unstuck - Day 11 The ""3 Favorite Things"" Pass-It-On Project! remix et al","This was another fun project to do with my daughter.  We had the opportunity to talk about and share fun things we like to do together.  We enjoyed using make a block to define specific actions.  This makes our code look a lot neater as well.  Can't wait to check out the remix tree on this one.
+
+Images: https://giphy.com/gifs/movie-images-camera-YjnCbynP9FqVy
+","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",2456527,https://cdn2.scratch.mit.edu/get_image/project/237023653_480x360.png,2018-07-21T17:00:09.000Z,2018-07-21T17:39:58.000Z,2018-07-21T17:33:49.000Z,5,0,0,0,0,236358913,236312698
+237044124,Unstuck #11,"I didn't change this much, just added a little color effect.",Just click the green flag!,124311,https://cdn2.scratch.mit.edu/get_image/project/237044124_480x360.png,2018-07-22T01:25:52.000Z,2018-07-23T16:01:57.000Z,2018-07-22T01:31:50.000Z,8,0,0,0,0,236158713,236158713
+237052686,Getting Unstuck Day 11,"Getting Unstuck Day 11 Reflection:
+I started this project for a Scratch class a month or so ago, but I didn't get a chance to finish it.  Is it cheating to remix your own project?!  Remixing helped me save different versions of my project, so I felt a little more comfortable trying different things with it.  I didn't get quite as tangled up in my scripts as I have in other projects.  I don't know how I feel about remixing other projects - I looked for a water cycle one to remix instead of using my own, but I didn't see one I wanted to tinker with.  How do people find projects to remix?  I can see the value in remixing, both for myself and my students, but I didn't find a good search strategy for finding something to remix.
+Background image from https://pmm.nasa.gov/education/sites/default/files/article_images/Water-Cycle-Art2A.png.","Click on the green flag to start, then click on each stage of the water cycle to see what it is..",30095573,https://cdn2.scratch.mit.edu/get_image/project/237052686_480x360.png,2018-07-22T05:11:22.000Z,2018-07-22T05:49:05.000Z,2018-07-22T05:49:05.000Z,4,0,0,0,0,237051640,230118656
+236922995,Getting Unstuck - dag 11,"#GettingUnstuck
+
+Added music",The cat will tell you what year we have.,25631396,https://cdn2.scratch.mit.edu/get_image/project/236922995_480x360.png,2018-07-20T08:18:52.000Z,2018-07-22T08:19:03.000Z,2018-07-20T08:29:53.000Z,2,0,0,0,0,,
+237096402, Day 11: Broadcasting Sample1 remix remix,"Getting Unstuck: Day 11 
+
+I thought this was a great project to remix. For a healthier option, I used a fruit bowl instead of a taco. I added a piano and changed the girl's name to Ava. I also had her express her love of music. ",Click on green flag to start.,10722024,https://cdn2.scratch.mit.edu/get_image/project/237096402_480x360.png,2018-07-22T23:28:59.000Z,2018-07-22T23:47:27.000Z,2018-07-22T23:44:00.000Z,2,0,0,0,0,236577265,147560462
+237121980,Unstuck #11 remixCar,,Just click the green flag!,13575540,https://cdn2.scratch.mit.edu/get_image/project/237121980_480x360.png,2018-07-23T06:30:19.000Z,2018-07-23T06:58:32.000Z,2018-07-23T06:58:32.000Z,10,1,1,0,0,237044124,236158713
+237165477,Unstuck 11 - Broadcast,"This project uses broadcast to command the crabs to multiply and run. I wanted to use broadcast to make lots and lots of sprites, and see how many we could handle. I added the count variable just because I was curious how many the program was making! The count doesn't increase as I expected, and I haven't really figured out why yet?",Press the Green Flag to reset. Click on Scratch Cat to tell the crabs to run and multiply.,7902,https://cdn2.scratch.mit.edu/get_image/project/237165477_480x360.png,2018-07-23T16:23:38.000Z,2018-07-23T16:37:14.000Z,2018-07-23T16:28:04.000Z,4,1,0,0,0,,
+237187984,Getting unstuck Day 11- remix of broadcast by Silver,Remixed project from Silver 437,"Click start to begin program.
+
+Scratch will touch different colors and trigger a broadcast message.  This message will change backgrounds.",34190765,https://cdn2.scratch.mit.edu/get_image/project/237187984_480x360.png,2018-07-23T20:59:30.000Z,2018-07-28T18:03:22.000Z,2018-07-23T21:05:08.000Z,4,0,0,0,0,1193292,1193292
+236953553,#GettingUnstuck11 - Cloning and broadcasting,,Click the green flag,1112440,https://cdn2.scratch.mit.edu/get_image/project/236953553_480x360.png,2018-07-20T16:34:15.000Z,2018-07-24T16:07:19.000Z,2018-07-24T16:05:50.000Z,2,0,0,0,0,40896812,40896812
+237282225,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix remix",,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",17636749,https://cdn2.scratch.mit.edu/get_image/project/237282225_480x360.png,2018-07-24T18:35:05.000Z,2018-07-24T19:24:08.000Z,2018-07-24T19:24:07.000Z,2,1,0,0,0,236854966,236312698
+237287609,Getting Unstuck Day 11 Remix,"Made for day 11 of getting untuck, I remixed this and made the colour change of the pen colour respond to the loudness.
+I love this kind of project and when I saw it in the studio, I thought it's make a good project to remix. Also responding to physical input is something I like to use in my Scratch projects.
+As an extra challenge |I'd like to use a physical input for the width of the line.","Just click the green flag!
+Make some noise to change the pen colour.
+
+
+What could be used for changing the pen width?",287832,https://cdn2.scratch.mit.edu/get_image/project/237287609_480x360.png,2018-07-24T19:46:05.000Z,2018-07-24T19:56:54.000Z,2018-07-24T19:50:39.000Z,5,0,0,0,0,237121980,236158713
+237347155,Binoculars (Parallax) remix Ratogi,"
+Getting Unstuck day11
+Creare 
+Trova un progetto che utilizzi la trasmissione e remixalo. Ad esempio, potresti remixare questo progetto ""pass-it-on"" che abbiamo iniziato.",Guarda i pesci dal binocolo,21462276,https://cdn2.scratch.mit.edu/get_image/project/237347155_480x360.png,2018-07-25T09:34:24.000Z,2018-07-25T09:59:50.000Z,2018-07-25T09:56:47.000Z,11,1,0,0,0,237176524,237176524
+237351514,Unstuck: Day 11,"By Filipe Mendes
+#CreativeComputing","Draw the geometric figures
+Using a little of maths and broadcastings between sprites",2980392,https://cdn2.scratch.mit.edu/get_image/project/237351514_480x360.png,2018-07-25T10:58:35.000Z,2018-07-25T13:42:09.000Z,2018-07-25T13:40:26.000Z,2,0,0,0,0,,
+237354120,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix","This project responds to the Getting Unstuck Day 11 prompt: Find a project that uses broadcasting and remix it. 
+
+I was unable to do this on the assigned day, but am taking advantage of a long train trip to Cambridge to get caught up!
+
+Hummingbird image by BarbeeAnn on pixabay.com
+Makerspace photo by Fabrice Florin
+https://www.flickr.com/photos/fabola/27231700231","Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",527557,https://cdn2.scratch.mit.edu/get_image/project/237354120_480x360.png,2018-07-25T11:52:01.000Z,2018-07-25T13:48:26.000Z,2018-07-25T13:48:22.000Z,3,1,0,0,0,236353544,236312698
+237390079,"The ""3 Favorite Things"" Pass-It-On Project! x13 remix",This is for Getting Unstuck Day 11,"Click the green flag to see all of the characters, then choose a person to learn more about by clicking on their icon!",13594403,https://cdn2.scratch.mit.edu/get_image/project/237390079_480x360.png,2018-07-25T18:58:13.000Z,2018-07-25T19:05:36.000Z,2018-07-25T19:05:36.000Z,4,1,0,0,0,236802808,236312698
+237298413,"Getting Unstuck: Day11 The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix",It was great fun remixing. Thank you to all the contributors.  A great way to learn about the broadcast blocks of Scratch.,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",34197892,https://cdn2.scratch.mit.edu/get_image/project/237298413_480x360.png,2018-07-24T22:31:58.000Z,2018-07-25T22:18:55.000Z,2018-07-25T21:44:02.000Z,6,1,0,0,0,236358913,236312698
+237416734,unstuck day 11,Some thinking involved. ,Click the green flag and watch the wave.,16426717,https://cdn2.scratch.mit.edu/get_image/project/237416734_480x360.png,2018-07-26T01:05:30.000Z,2018-07-26T01:33:37.000Z,2018-07-26T01:33:05.000Z,3,1,0,0,0,,
+237427816,Day 11 - Unstuck - Remix Pen Drawing,"Thanks to scratchdomendes for the original project.  I added the star, n-gon, and mandala!","Draw the geometric figures
+Using a little of maths and broadcastings between sprites",17812875,https://cdn2.scratch.mit.edu/get_image/project/237427816_480x360.png,2018-07-26T03:11:52.000Z,2018-07-26T03:13:53.000Z,2018-07-26T03:12:57.000Z,4,2,1,0,0,237351514,237351514
+109749078, Getting Unstuck Day 11,#games ,Use the right and left arrows to move the shark and make them catch the 10 fish that fall from above,13275782,https://cdn2.scratch.mit.edu/get_image/project/109749078_480x360.png,2016-05-15T14:14:29.000Z,2018-07-26T14:25:12.000Z,2016-05-16T13:10:29.000Z,16,1,0,0,0,109700470,109700470
+237494058,"The ""3 Favorite Things"" Pass-It-On Project! remix remix remix remix remix",,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",34199235,https://cdn2.scratch.mit.edu/get_image/project/237494058_480x360.png,2018-07-26T19:49:26.000Z,2018-07-26T20:40:07.000Z,2018-07-26T20:31:54.000Z,2,1,0,0,0,236358913,236312698
+237577166,getting unstuck day 11,"I've learned to remix projects made by other people.
+I have extended the project by adding levels of difficulty
+",Juego de reflejos para ver cuántas veces eres capaz de hacer clic en un objeto en un tiempo determinado. Permite elegir el tiempo de juego y el nivel de dificultad (tamaño del objeto).,2680901,https://cdn2.scratch.mit.edu/get_image/project/237577166_480x360.png,2018-07-27T17:57:47.000Z,2018-07-27T18:26:34.000Z,2018-07-27T18:16:40.000Z,2,1,0,0,0,237573941,237573941
+237577471,Getting Unstuck day 11 , have learn to change the costume of a proyect of my father,"Catch the bone.
+Move with arrows.
+Space for jump.
+",23020553,https://cdn2.scratch.mit.edu/get_image/project/237577471_480x360.png,2018-07-27T18:02:18.000Z,2018-08-03T17:45:18.000Z,2018-07-27T18:19:33.000Z,4,1,0,0,0,236203156,236203156
+237692147,Unstuck #11 Water Cycle,"Information: 
+https://www.dkit.ie/wow/cycle.php
+https://www.quora.com/What-is-the-difference-between-seepage-percolation-and-infiltration
+Background:
+https://www.storyboardthat.com/lesson-plans/water-cycle","This is a remix of a project that I could assign to my elementary school students to demonstrate their learning AND to enable teachers to get comfortable with Scratch. I learned a lot about layers!! 
+
+This project uses broadcast and sounds, and screenshots to make the background interactive. There is a variable that ensures that only one area can be active at a time. ",26618044,https://cdn2.scratch.mit.edu/get_image/project/237692147_480x360.png,2018-07-29T16:36:08.000Z,2018-07-29T18:17:47.000Z,2018-07-29T18:16:50.000Z,3,1,1,0,0,,
+237715744,Getting Unstuck - Day 11 remix remix,"The challenge for day 11 was to find a project that uses broadcasting and remix it.  So I searched on twitter for #GettingUnstuck 11 and saw @billmarsland 's video of his program with pugs.  So I decided to switch out all of his pugs for cats.  Then I had to figure out how to change the song at the end. You can't just link it, so that dilemma led me to figure how to convert a youtube url into an mp3!
+
+Kitten images from: https://www.pngarts.com/explore/23435
+(Thank you @MrMarslandSF fo posting the links on yours!)
+
+Song from:
+https://youtu.be/9RShudgllmY","Click on the green flag and let Scratch help you practice fractions.
+
+I remixed this project from @MrMarslandSF who used pugs after remixing @mizzpeters ' version with Corgis. 
+
+(Protip: click on Scratch after he finishes giving instructions if you don't want to do any math problems!)",24696341,https://cdn2.scratch.mit.edu/get_image/project/237715744_480x360.png,2018-07-30T00:45:20.000Z,2018-07-30T06:24:59.000Z,2018-07-30T06:06:14.000Z,2,1,0,0,0,236913319,76778164
+237718730,#Unstuck 11 Broadcasting and Remix,Thanks to jsh for this idea. I didn't add to hers because I would like my students to add to this.,Just press the space bar and see if you can add your ideas to this.,31492686,https://cdn2.scratch.mit.edu/get_image/project/237718730_480x360.png,2018-07-30T01:29:14.000Z,2018-07-30T05:52:50.000Z,2018-07-30T05:44:38.000Z,2,1,0,0,0,,
+238253763,"The ""3 Favorite Things"" Pass-It-On Project! [tarmelop remix]","This project has a big remix tree, I added myself to the longest branch. It's really challenging to work on the same project with many people! 
+
+I was stuck trying to fix all the bugs I saw in other people's projects, but it would take too much time, so I only fixed some of them (and maybe introduced new others!)
+
+I'm glad to be in such a wonderful company in this project!","Click the green flag to see all of the characters, then choose a person to learn more about by clicking on their icon!",2286560,https://cdn2.scratch.mit.edu/get_image/project/238253763_480x360.png,2018-08-05T04:00:59.000Z,2018-08-05T20:12:13.000Z,2018-08-05T04:31:32.000Z,7,1,0,0,0,237390079,236312698
+238366406,"The ""3 Favorite Things"" Pass-It-On Project! [gmenegoz remix]","I decided to remix Carmelo's project because of his statement about his desire to debug bug introduced by others in this long remix sequence. I said: ""I will do it!"".
+Then of course I gave up and focused on my part, and I got really close to introduce some new bug anyway.
+The drawings I used come from a workshop by @wonderfulideaco I had at the Scratch Conference this July. Thank you.
+","Click the green flag to see all of the characters, then choose a person to learn more about by clicking on their icon!",25876369,https://cdn2.scratch.mit.edu/get_image/project/238366406_480x360.png,2018-08-06T17:35:55.000Z,2018-08-07T13:41:01.000Z,2018-08-07T13:35:07.000Z,2,1,0,0,0,238253763,236312698
+238477069,day11,,"Click the green flag to learn about my three favorite things!
+Then remix the project to add you and your three favorite things!",24618980,https://cdn2.scratch.mit.edu/get_image/project/238477069_480x360.png,2018-08-07T21:20:53.000Z,2018-08-07T21:21:47.000Z,2018-08-07T21:21:04.000Z,2,1,0,0,0,236358913,236312698
+238569139,"The ""3 Favorite Things"" Pass-It-On Project! [gmenegoz remix] remix","This is an heavy remix of the original project. I refactored the way the script interacts each other (Hope there will no visible differences when running the script)
+
+I added my two cents of favorite things and reworked all the previous sprites: Unified the two sprites in one (There is a limit of ssprite in a project?) and removed the polling cicles of broadcast variable in favor of a message based interaction in order to let the animation a little faster.
+
+It was a long and sometime tedious work but it was satifying at the end ;-)
+
+Feel free to peruse the differences and let's tallk about them in the comments below.","Click the green flag to see all of the characters, then choose a person to learn more about by clicking on their icon!",2458985,https://cdn2.scratch.mit.edu/get_image/project/238569139_480x360.png,2018-08-08T19:21:51.000Z,2018-08-08T19:31:47.000Z,2018-08-08T19:25:15.000Z,1,0,0,0,0,238366406,236312698

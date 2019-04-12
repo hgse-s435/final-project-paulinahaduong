@@ -1,0 +1,825 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+235952041,DIY Poketown,"I had originally though to recreate a more complex town and built out the background using Adobe Illustrator, but once I realized how complicated the code would be (so that buildings didn't land on streets), I pared it down. Reused what I learned about sprites walking in yesterday's project for today's. Only some of the buildings move around, and they mostly don't land on each other or on the street, but it's still a little buggy. 
+
+Got lots of help from the Scratch Forum for figuring out how to stop one sound and turn another one on!
+
+Credits:
+Music: KHInsider.com (Pokemon Ruby/Sapphire soundtracks)
+Sprites: Spriters-Resource.com (Pokemon background)
+
+","Press space to randomize town buildings, s/w to turn on a season (summer or winter, with snowflakes/music), and arrow keys to navigate May around town.",2745846,https://cdn2.scratch.mit.edu/get_image/project/235952041_480x360.png,2018-07-09T23:32:52.000Z,2018-07-10T13:01:43.000Z,2018-07-10T09:11:26.000Z,38,11,1,0,0,,
+235958394,Getting Unstuck Day 6 - Fortunes!,"I had a really fun time learning about the list function with this project! I wasn't quite sure how to do it, but after some tinkering it all worked out! I'm still a bit confused about how to let the cookie flow more fluidly to the other edge while also being able to let the scuba diver intercept it. I also learned one way to do a scroll effect :D","Press space to start the game
+Use up arrow or down to move the scuba diver
+Catch a fortune!!",24267830,https://cdn2.scratch.mit.edu/get_image/project/235958394_480x360.png,2018-07-10T01:17:40.000Z,2018-07-10T02:05:41.000Z,2018-07-10T02:01:35.000Z,26,5,2,0,0,,
+235852678,Random,"This project was created for day 6 of Getting Stuck. I started by importing the cloning logic from my day 4 project using the Scratch backpack feature. Then, I tried to imagine the most random thing that I could make with 300 clones. Et voila!
+
+I was surprised to lose an argument with a friend recently about whether or not clones can have their own private data. They can! This technique is very helpful with clones. I hope that my friend is surprised and delighted by the (random) fruit of our discussion.
+
+Music: Metre, ""Atomicity, Consistency, Isolation, Durability""","Turn up the sound, go full screen, and enjoy the randomness! The running time of the show is about 60 seconds.",56239,https://cdn2.scratch.mit.edu/get_image/project/235852678_480x360.png,2018-07-09T01:14:58.000Z,2018-07-11T00:17:17.000Z,2018-07-10T10:23:42.000Z,58,20,11,0,0,,
+235911932,Getting Unstuck Day 6: Dress-Up Game,"I've wondered how dress-up games work for a while. Today's challenge was to use the random block, so I made the colors change randomly... although I'm not really sure that's very fun for the user.
+
+If I had more time, I'd add more costumes and I'd add options for changing hair style, hair color, and skin tone separately, and maybe even a bar where you can control the color of each clothing item. I also thought about learning how to make words scroll out onto the page (like @jsh's flower project) but decided I'll have to wait for another day.
+
+I started with the fashion tutorial (https://scratch.mit.edu/projects/editor/?tip_bar=fashion) but quickly ventured into making my own items. I struggled a lot with the paint editor doing what I wanted, but I'm happy with my final product!","Welcome to my first dress-up game!
+Click on the clothing items on the left side of the screen to change the item.
+Click on Dani to change their hairstyle and skin tone.
+Click on Dani's clothes to change colors.
+Click on the accessories on the right side of the screen to add them. Click on the accessory again to delete.
+",19163721,https://cdn2.scratch.mit.edu/get_image/project/235911932_480x360.png,2018-07-09T15:35:42.000Z,2018-07-10T12:55:09.000Z,2018-07-09T20:58:11.000Z,14,7,3,0,0,,
+226711372,"Find the Random Cat! (Getting Unstuck, Day 6)","I've wanted to learn more about cloning, so I used today's Getting Unstuck prompt to combine randomness with an investigation of cloning.
+
+The big surprise? Clones can maintain their own variables! (I was also surprised by how little code this actually took!)
+
+If I had more time, I think I would want to explore other ways of using this particular design. Quiz show? Escape room? I'd love to hear what you might do!","The Scratch Cat has gathered four friends to test your visual acuity. Can you spot which cat is the random cat?
+
+Press the Green Flag to start playing!",39526,https://cdn2.scratch.mit.edu/get_image/project/226711372_480x360.png,2018-05-31T14:27:15.000Z,2018-07-10T11:03:51.000Z,2018-05-31T14:42:41.000Z,43,13,3,0,0,,
+235841107,oddportunity,"Problem --> Opportunity --> Oddportunity
+
+Inspired by a conversation with a friend during which the word oddportunity came into our lives, I decided to turn all the scripts which weren't working in the process of creating my Day 5 project, along with some of my verbal responses throughout, into randomly-generated representations.
+
+I'd like to play with more ways of randomizing how the scripts and sounds are represented. (:
+I'd also clean it up much more -- the stray pixels are mildly maddening.
+","After pressing the green flag, use the space bar to switch things up!",25705937,https://cdn2.scratch.mit.edu/get_image/project/235841107_480x360.png,2018-07-08T20:43:59.000Z,2018-07-13T21:08:53.000Z,2018-07-10T10:42:06.000Z,49,19,6,0,0,,
+208788038,GettingUnstuckDay6Random,"Here's an idea I'm working on. I'm not sure if it makes sense, but I'd like to train my robot to find a random sprite on screen by moving shorter and shorter distances and turning smaller amounts until it touches its target.",None! Click the flag and enjoy!,4610900,https://cdn2.scratch.mit.edu/get_image/project/208788038_480x360.png,2018-03-09T00:25:40.000Z,2018-07-10T11:24:03.000Z,2018-03-09T00:34:26.000Z,10,2,0,0,0,,
+235994694,Getting Unstuck - Day 6,Create a project that uses the random block.,"Peek-a-Boo! Can you find the animal 10 times? Each time you play there will be a different animal to find.
+
+Good luck!",86693,https://cdn2.scratch.mit.edu/get_image/project/235994694_480x360.png,2018-07-10T11:04:21.000Z,2018-07-10T13:55:21.000Z,2018-07-10T11:29:53.000Z,16,2,0,0,0,,
+235995992,Getting Unstuck Day 6,,,32626504,https://cdn2.scratch.mit.edu/get_image/project/235995992_480x360.png,2018-07-10T11:25:20.000Z,2018-07-10T11:30:41.000Z,2018-07-10T11:30:40.000Z,11,0,0,0,0,,
+235994879,Getting Unstuck Day 6,I think today's project speaks for itself.,"Getting Unstuck Day 6
+
+Create a project that uses the random block.
+
+Click the green flag and follow the instructions very carefully. Best in fullscreen mode (click the blue square top left of the stage before running.)",2314547,https://cdn2.scratch.mit.edu/get_image/project/235994879_480x360.png,2018-07-10T11:07:37.000Z,2018-07-10T11:37:25.000Z,2018-07-10T11:35:36.000Z,21,5,1,0,0,,
+235994974,free kick football with score,I remixed this to make a score variable and a point at whihc a team wins,"Click the green flag to start
+Press space to kick the ball at Anna",33472226,https://cdn2.scratch.mit.edu/get_image/project/235994974_480x360.png,2018-07-10T11:09:02.000Z,2018-07-12T15:55:01.000Z,2018-07-10T11:38:52.000Z,18,4,0,0,0,,
+235996927,Day 6,,,24884035,https://cdn2.scratch.mit.edu/get_image/project/235996927_480x360.png,2018-07-10T11:38:15.000Z,2018-07-10T11:46:20.000Z,2018-07-10T11:46:20.000Z,9,2,0,0,0,,
+235997330,Getting Unstuck Day 6 - Scratch Cat Randomizer,"I normally try to make a game or something active, so it was different to do something like this. I just took all the physical attributes I could easily change on scratch, gave each a button, and used the random block over and over again to control them. ","Click on a button to randomize some physical aspect of scratch the cat. To clear all the effects, click on the clear button. ",22706156,https://cdn2.scratch.mit.edu/get_image/project/235997330_480x360.png,2018-07-10T11:44:29.000Z,2018-07-10T12:06:34.000Z,2018-07-10T12:04:22.000Z,8,2,1,0,0,,
+235995015,Getting Unstuck: Day 6,,Simple number trick :),24340467,https://cdn2.scratch.mit.edu/get_image/project/235995015_480x360.png,2018-07-10T11:09:52.000Z,2018-07-10T12:49:41.000Z,2018-07-10T12:11:38.000Z,6,2,1,0,0,,
+235995712,Smack&Bash,Reto 6: Create a project that uses the random block.,LEFT CLICK! Utiliza el ratón para chafar ardillas y pájaros!,26161450,https://cdn2.scratch.mit.edu/get_image/project/235995712_480x360.png,2018-07-10T11:21:29.000Z,2018-07-10T12:12:34.000Z,2018-07-10T12:11:18.000Z,11,4,2,0,0,,
+235999666,Unstuck Day 6-2,"Ideal warmer for my math students. Not difficult to build a counter in, so that you can set the number of attempts. ","Guess the number between 0 nd 100  Scratch has in mind. If too high or too low, you can try again. Press green flag and then click on the sprite.  You can hide the answer by simple clicking on the variable in the Data section.",33890948,https://cdn2.scratch.mit.edu/get_image/project/235999666_480x360.png,2018-07-10T12:16:47.000Z,2018-07-10T12:21:55.000Z,2018-07-10T12:17:21.000Z,11,3,1,0,0,,
+235999112,Getting Unstuck - Day 6 remix,"I liked the simplicity of ablumberg project so I remixed it.  I added music to loop while playing.  I also added a win audio noise.
+
+I put the sprite 10 layers back so that it appeared behind the different stage elements.  Sometimes it works great and sometimes it jumps in front, don't know how switch costumes effects the layers in scratch.","Peek-a-Boo! Can you find the animal 10 times? Each time you play there will be a different animal to find.
+
+Good luck!",20446522,https://cdn2.scratch.mit.edu/get_image/project/235999112_480x360.png,2018-07-10T12:10:02.000Z,2018-07-10T12:26:53.000Z,2018-07-10T12:20:14.000Z,17,3,0,0,0,235994694,235994694
+235994897,Caça-Fantasmas (Ghostbusters!),,"Use o mouse para capturar os fantasmas. clique na direção que vc quer que o canhão dispare a armadilha. 
+A cada vez o numero de fantasmas a ser capturado se altera, aleatoriamente entre os números 10 e 20.
+
+Use the mouse to capture the ghosts. click the direction you want the cannon to fire the trap.
+Each time the number of ghosts to be captured changes, randomly between numbers 10 and 20.",1734014,https://cdn2.scratch.mit.edu/get_image/project/235994897_480x360.png,2018-07-10T11:07:59.000Z,2018-07-10T22:06:45.000Z,2018-07-10T12:26:15.000Z,18,6,2,0,0,,
+235998138,A CASO ... Day 6,"Ho usato il blocco ""a caso"" nelle istruzioni per ottenere dei semplici effetti abbastanza ordinati.
+","Clicca sul tasto spazio per vedere gli effetti .
+Clicca sul tasto  a per ritornare al punto di partenza.
+",13746945,https://cdn2.scratch.mit.edu/get_image/project/235998138_480x360.png,2018-07-10T11:56:30.000Z,2018-07-10T12:38:08.000Z,2018-07-10T12:34:02.000Z,10,3,0,0,0,,
+235894257,SALTA e VOLA - Day 5,"Ci sarebbe voluta sicuramente una variabile per controllare i movimenti della rana e della farfalla, ma , per ora, non sono riuscita a metterla a punto.",Clicca sulla bandierina verde.,13746945,https://cdn2.scratch.mit.edu/get_image/project/235894257_480x360.png,2018-07-09T13:03:56.000Z,2018-07-09T15:46:38.000Z,2018-07-09T15:44:09.000Z,17,2,0,0,0,,
+236000505,gettingunstucked day6,,click on the green flag,25103547,https://cdn2.scratch.mit.edu/get_image/project/236000505_480x360.png,2018-07-10T12:27:20.000Z,2018-07-11T13:13:26.000Z,2018-07-10T12:48:35.000Z,12,3,0,0,0,,
+235996450,Day6,,Click on the green flag to start,34225248,https://cdn2.scratch.mit.edu/get_image/project/235996450_480x360.png,2018-07-10T11:31:54.000Z,2018-07-10T13:07:18.000Z,2018-07-10T13:06:59.000Z,7,2,0,0,0,,
+235996536,Unstuck 6: Race Off,,"Place your bets! 
+Who will win the race, Beetle or Cat?
+
+Press Green Flag to see who wins",25417130,https://cdn2.scratch.mit.edu/get_image/project/235996536_480x360.png,2018-07-10T11:33:11.000Z,2018-07-10T13:15:57.000Z,2018-07-10T13:08:05.000Z,9,3,0,0,0,,
+236001956,Getting Unstuck day 6,I have played around with random art generator programs before. So today I tried to control the randomness to create a picture from hundreds of random events. It was actually a bit easier than I expected. For the next iteration I want to try a more complex image.,"Click the green flag to start
+Space bar to clear",17767933,https://cdn2.scratch.mit.edu/get_image/project/236001956_480x360.png,2018-07-10T12:43:13.000Z,2018-07-10T13:12:01.000Z,2018-07-10T13:12:01.000Z,6,3,1,0,0,,
+236005360,Getting Unstuck #6,,,18174236,https://cdn2.scratch.mit.edu/get_image/project/236005360_480x360.png,2018-07-10T13:15:10.000Z,2018-07-10T13:17:07.000Z,2018-07-10T13:17:07.000Z,6,3,0,0,0,,
+236001609,Getting Unstuck: Day 6 — Snow,"Reflection
+
+I learned something new about the random block: It can output integers or floating point numbers. For example, this will select a whole number from 1 through 10:
+
+(pick random (1) to (10))
+
+If a decimal values are used as parameters then a decimal value is returned. For example, the following will produce a number between 0.0 and 1.0:
+
+(pick random (0.0) to (1.0))
+
+However, I also just learned that decimal numbers with a .0 are truncated to whole numbers when the projected is loaded back up. So there's a bug in Scratch. To get around this, instead of using -1.0 and 1.0 for the jitter, I set the value range to -1.1 and 1.1, which keeps the values from truncating. I also used 4.9 and 16.1 for generating the size of the snowflakes.
+
+More on the random block at the wiki:
+https://en.scratch-wiki.info/wiki/Pick_Random_()_to_()_(block)
+
+As for this project, the random block is used twice. First, it is used to randomly generate the size of a snowflake. Second, it is used to add jitter as it falls to the ground.",Use the slider to control the wind.,26264460,https://cdn2.scratch.mit.edu/get_image/project/236001609_480x360.png,2018-07-10T12:39:31.000Z,2018-07-10T16:18:45.000Z,2018-07-10T13:10:50.000Z,11,3,2,0,0,,
+236006380,Getting Unstuck #4,,,18174236,https://cdn2.scratch.mit.edu/get_image/project/236006380_480x360.png,2018-07-10T13:23:02.000Z,2018-07-10T13:28:06.000Z,2018-07-10T13:28:06.000Z,4,0,0,0,0,,
+235995694,Rainy Night In Austin (Unstuck 6),"It took way longer than I thought it would to get the ""rain drop"" effect that I was going for, speaking of getting stuck! Luckily, between looking a some of my other projects and remixing some ideas from DIY Poketown (by paulinah) I was able to get pretty close. I might go back and add some lightning effects.","It's been raining a lot in Texas, so here's just a little random water droplets and some sounds when the flag is clicked.",27690149,https://cdn2.scratch.mit.edu/get_image/project/235995694_480x360.png,2018-07-10T11:21:11.000Z,2018-07-13T20:43:29.000Z,2018-07-10T13:23:30.000Z,27,7,0,0,0,,
+236001464,Gift,"Funzione random per posizione pacco, colore sfondo e colore pacco.","Muovi Gobo usando le frecce in alto, in basso, a destra e a sinistra per raggiungere il pacco regalo. Un punto in più per ogni pacco raggiunto!",34169307,https://cdn2.scratch.mit.edu/get_image/project/236001464_480x360.png,2018-07-10T12:38:03.000Z,2018-07-27T09:40:02.000Z,2018-07-10T13:25:41.000Z,10,0,0,0,0,,
+236005484,Unstuck -Day 6,,Click the green flag to see the T-rex move.,22256610,https://cdn2.scratch.mit.edu/get_image/project/236005484_480x360.png,2018-07-10T13:16:06.000Z,2018-07-10T13:41:45.000Z,2018-07-10T13:40:41.000Z,9,0,0,0,0,,
+236008846,Endless hopper,,Just a play with jumping on platforms from Unstuck 5. Randomly generating a platform from the top of the screen to produce an endless hopper in the vein of doodle jump. Press space to jump. Just need to add some peril to the falling off to make it a working game. ,7393328,https://cdn2.scratch.mit.edu/get_image/project/236008846_480x360.png,2018-07-10T13:41:57.000Z,2018-07-10T16:38:41.000Z,2018-07-10T13:42:26.000Z,6,2,0,0,0,,
+236008448,Getting Unstuck #6,"This is my project for Getting Unstuck, day 6. I've used the random block a few times, but if I had more time I'd use it more often. This is the first time I've used clones and I'm not sure I have my head around them. I wanted to create a sort of crescendo of clones that then faded away, but couldn't manage it. I suppose that would detract from the randomness of it.
+I also hope that fireworks aren't as random as this in real life, for safety reasons.",Just press the green flag.,141519,https://cdn2.scratch.mit.edu/get_image/project/236008448_480x360.png,2018-07-10T13:38:52.000Z,2018-07-10T13:43:09.000Z,2018-07-10T13:43:09.000Z,10,5,2,0,0,,
+235977162,download animal images,Getting Unstuck: Day 6,click on download button; the download starts and at the end a new animal images randomly appears on the screen,2143382,https://cdn2.scratch.mit.edu/get_image/project/235977162_480x360.png,2018-07-10T07:06:25.000Z,2018-07-10T16:07:09.000Z,2018-07-10T08:37:03.000Z,13,5,2,0,0,,
+230244345,Day 6 of Getting Unstuck,"This is a project I have built for a camp class to show using a variety of things such as ghosting, random operators, cloning. The idea came from the book - DK's Coding Projects in Scratch. 
+
+I made a few changes to it, but not much. I loved the idea of this project and the way you can create fireworks with the ghosting effect.",Day 6 of Getting Unstuck Challenge. Click on Green Flag to start and then click somewhere on the screen with your mouse to see a fireworks display.,588430,https://cdn2.scratch.mit.edu/get_image/project/230244345_480x360.png,2018-06-22T14:22:29.000Z,2018-07-10T14:07:59.000Z,2018-06-22T15:55:21.000Z,11,4,2,0,0,,
+236011275,Getting Unstuck Day 6,"This is a very pratical (and statistical) method to approximately compute Pi :)
+
+I found the inspiration from this page:
+https://www.wikihow.com/Calculate-Pi-by-Throwing-Frozen-Hot-Dogs","Just click the green flag and see the final result after N
+throws of pencils. You should start seeing some interesting results by around 500 throws.",14159575,https://cdn2.scratch.mit.edu/get_image/project/236011275_480x360.png,2018-07-10T13:59:09.000Z,2018-07-10T14:15:14.000Z,2018-07-10T14:00:44.000Z,15,1,0,0,0,,
+236005076,GettingUnstuck_#6,"This project was created for Getting Unstuck Day6 - using the ""random"" block. Try to draw the stars by pen function, and let the stars randomly appear on the dark sky. The stars will be ""erased"" by the pen as well.   ",Click the Green Flag,31325002,https://cdn2.scratch.mit.edu/get_image/project/236005076_480x360.png,2018-07-10T13:12:39.000Z,2018-07-10T14:22:18.000Z,2018-07-10T14:17:09.000Z,10,4,1,0,0,,
+235958055,Fireworks Fun,"Platform jump code borrowed from this great step by step project: https://scratch.mit.edu/projects/21855579/
+
+","1) Click up arrow to see fun fireworks. 
+2) You can also move rocket left to right with left right arrow.
+
+Random x position is set for each firework. ",8818960,https://cdn2.scratch.mit.edu/get_image/project/235958055_480x360.png,2018-07-10T01:13:01.000Z,2018-07-10T14:51:37.000Z,2018-07-10T14:43:45.000Z,8,0,0,0,0,,
+235830301,Network,,The points are defined by cosine functions. The program just picks a random point to travel to. Enough repeats of a random event eventually hits all the possibilities.,4909710,https://cdn2.scratch.mit.edu/get_image/project/235830301_480x360.png,2018-07-08T16:35:49.000Z,2018-08-06T16:05:05.000Z,2018-07-08T16:55:08.000Z,21,4,0,0,0,,
+236015125,Unstuck 6,"The random block is really useful in almost any project, but I tend to use it most often with pen applications. Rather than make another drawing machine, I decided to apply randomness to the selection of costumes. Then (more familiarly) I used the stamp block, because I love the look of a looped ""move > stamp"" combination.",green flag,33815227,https://cdn2.scratch.mit.edu/get_image/project/236015125_480x360.png,2018-07-10T14:28:50.000Z,2018-07-10T14:55:52.000Z,2018-07-10T14:53:22.000Z,12,3,0,0,0,,
+235996535,Prendi gli animali - Day 6,Ho aggiunto al progetto iniziale i suoni e ho ridotto lo spazio d'azione degli sprite.,"PRENDI GLI ANIMALI! 
+Riesci a prendere ogni animale 10 volte? 
+Il gioco si ripete 10 volte con 10 animali diversi.
+
+Buon divertimento!
+
+",17600576,https://cdn2.scratch.mit.edu/get_image/project/235996535_480x360.png,2018-07-10T11:33:09.000Z,2018-07-10T14:19:12.000Z,2018-07-10T14:14:26.000Z,10,1,0,0,0,235994694,235994694
+236015349,Getting Unstuck:  Day 6,"Create a project that uses the random block. 
+
+Inspired by:  oddportunity
+by alirb",Press the green flag.  Continue to press the space bar to see the changes happen.,22286405,https://cdn2.scratch.mit.edu/get_image/project/236015349_480x360.png,2018-07-10T14:30:41.000Z,2018-07-10T15:00:13.000Z,2018-07-10T14:57:59.000Z,11,3,0,0,0,,
+236017450,bpalop-UnstuckDay6,,Press the flag and wait for the random drawing to hypnotize you!,396674,https://cdn2.scratch.mit.edu/get_image/project/236017450_480x360.png,2018-07-10T14:47:52.000Z,2018-07-13T09:20:06.000Z,2018-07-10T15:09:18.000Z,3,0,0,0,0,,
+235956687,e-textile,"A second addition to Unstuck Day 6, I wanted to make something evocative of weaving, so I ended up with this yarn bombing script. Although it uses random blocks, the outcome is highly predictable. The element I enjoy most is the light gray sprites which represent fingertips working through the material.",green flag,33815227,https://cdn2.scratch.mit.edu/get_image/project/235956687_480x360.png,2018-07-10T00:52:11.000Z,2018-07-10T15:12:10.000Z,2018-07-10T15:05:14.000Z,12,2,0,0,0,,
+236013080,Moon Dance,"Inspired by the Getting Unstuck Challenges.  I'm a little bit behind so I combined Day 1 and Day 6. 
+
+My big surprise today? Having everything freeze up when I tried to add sound.  I fell victim to the ever-present danger of not saving early and saving often. Lost a bunch of scripts and had to re-do them.  
+
+Two programming challenges that my brain is not ready for this morning: 1- getting the music to stop if a key is pressed 2- Getting the sprites to move away from each other when they touch.  Right now, there are a lot of random scripts and eventually, they stop touching.
+
+
+",Just press the green flag to start.,6562206,https://cdn2.scratch.mit.edu/get_image/project/236013080_480x360.png,2018-07-10T14:13:26.000Z,2018-07-10T15:15:57.000Z,2018-07-10T15:07:12.000Z,5,1,0,0,0,,
+235997747,Getting unstuck Day 6,I tried to make this cat and mouse game with the mouse moving at random and the cat trying to catch it. What didn't work was the cat saying Meow and the mouse saying squeak. I'm not sure what I need to change to make this happen.  I really struggle with interaction between sprites.  When school breaks up next week I will have more time to investigate this so I hope to come back and improve this.,Click the green flag to start.  Can the cat catch the mouse?,3297086,https://cdn2.scratch.mit.edu/get_image/project/235997747_480x360.png,2018-07-10T11:51:03.000Z,2018-07-10T15:26:47.000Z,2018-07-10T15:26:47.000Z,9,2,0,0,0,,
+236001413,Day 6 - Random Block,,,24154277,https://cdn2.scratch.mit.edu/get_image/project/236001413_480x360.png,2018-07-10T12:37:34.000Z,2018-07-10T15:31:40.000Z,2018-07-10T15:31:40.000Z,7,1,0,0,0,,
+236022574,#006 Getting Unstuck Random ,,Nothing fancy... I never used this before so just did basics.,20126730,https://cdn2.scratch.mit.edu/get_image/project/236022574_480x360.png,2018-07-10T15:30:49.000Z,2018-07-10T15:42:26.000Z,2018-07-10T15:36:50.000Z,3,1,0,0,0,,
+236022202,Getting Unstuck: Day 6. Underwater,,"Press 1, 2 or 3 to let fishes swim around
+a, b or c to multiplicate them.
+",18190669,https://cdn2.scratch.mit.edu/get_image/project/236022202_480x360.png,2018-07-10T15:27:36.000Z,2018-07-10T15:43:14.000Z,2018-07-10T15:40:40.000Z,13,3,0,0,0,,
+236014787,Random Draw Unstuck #6,"To create the design I used a code from when I first learned Logo a very long time ago. The sprite draws a line, retraces that line and then turns. The turn multiplied by the number of repeats will equal 360. You can get different effects by changing the the repeats and turns as long as it is equal to 360. 
+
+The color effect took me longer than I expected. At first I kept getting dull browns and blacks. I played around and finally added set pen shade to 50 and that gave me the brighter colors I was looking for.",Click on the wizard to begin. A design is drawn in random colors and sizes and also in random locations around the screen. The background color changes randomly as well. ,124311,https://cdn2.scratch.mit.edu/get_image/project/236014787_480x360.png,2018-07-10T14:26:22.000Z,2018-07-25T15:29:20.000Z,2018-07-10T15:41:01.000Z,13,2,0,0,0,,
+235997631,Getting Unstuck: Day 6,"I have played with this concept before. The hardest part of this is getting all the elements to play nice. Timing, sound, and the selection of the Random command. 
+
+""Stop all"" command is not instantaneous so a erroneous tie is possible. 
+
+Sound: Car Races Off With Countdown by luminadii at freesound.org
+
+Could always use more time ;-). ","Which car will win? Pick one.
+
+Click the green flag.
+Watch the race!",17807175,https://cdn2.scratch.mit.edu/get_image/project/235997631_480x360.png,2018-07-10T11:49:22.000Z,2018-07-10T15:59:31.000Z,2018-07-10T15:59:31.000Z,10,4,0,0,0,,
+236021543,multiplication game,This is a very popular project with the 8 year olds.  They love being able to put schoolwork into practise.  We have made addition and division versions of this game. ,Can you beat the sun?  Test your multiplication skills - each answer will move you closer to the other side.  But watch out - the sun continually moves - so you must be quick with your answers. ,2876976,https://cdn2.scratch.mit.edu/get_image/project/236021543_480x360.png,2018-07-10T15:21:43.000Z,2018-07-10T16:01:40.000Z,2018-07-10T15:59:06.000Z,10,7,3,0,0,,
+236021901,Gordon_Getting Unstuck Day 6,I would like to add a die that changes as numbers are rolled.,click the green flag and type how many times you would like to roll a six sided die.  The program will conduct that many rolls and count the total times each number rolled.,18900622,https://cdn2.scratch.mit.edu/get_image/project/236021901_480x360.png,2018-07-10T15:24:58.000Z,2018-07-10T16:13:49.000Z,2018-07-10T16:13:49.000Z,17,3,0,0,0,,
+236021424,Getting Unstuck Day 6 - Pick Random,This was fun to build. The random block can help create movement within a defined area. ,Getting Unstuck Day 6 - Random blocks. This is a consume and enjoy project! So press the green flag and enjoy. Throw a flower if you enjoyed the show.,18558561,https://cdn2.scratch.mit.edu/get_image/project/236021424_480x360.png,2018-07-10T15:20:36.000Z,2018-07-10T20:17:43.000Z,2018-07-10T16:22:31.000Z,12,3,0,0,0,,
+236022073,G.U. A CASO-Day6,"Ho associato ai tasti e agli effetti il suono di uno strumento.
+Alla fine Scratch saluta e parte un breve loop musicale.","Un secondo progetto con ""a caso…""
+Clicca su spazio per cambiare la dimensione
+Clicca su a , b , c , d per cambiare gli effetti.
+Clicca su e per ritornare a Scratch originale che saluta.",13746945,https://cdn2.scratch.mit.edu/get_image/project/236022073_480x360.png,2018-07-10T15:26:28.000Z,2018-07-10T16:22:03.000Z,2018-07-10T16:17:21.000Z,7,4,0,0,0,,
+235998299,Getting Unstuck: Day 6,"Ho realizzato questo progetto utilizzando le Scratch Coding Cards (http://scratched.gse.harvard.edu/resources/scratch-coding-cards-italian-translation) MIT Scratch Team - Translators: A. Chioccariello, S. Collovati, G. Menegoz.
+
+Credits images: https://www.flaticon.com","Fare clic sulla bandiera verde e seguire le istruzioni.
+Click the green flag and follow the instructions.",19789360,https://cdn2.scratch.mit.edu/get_image/project/235998299_480x360.png,2018-07-10T11:58:26.000Z,2018-07-10T17:24:09.000Z,2018-07-10T16:22:15.000Z,23,5,0,0,0,,
+83410592,Shark Attack,,Another random game - randomly generated Starfish and a random attack from a poisonous fish.,7393328,https://cdn2.scratch.mit.edu/get_image/project/83410592_480x360.png,2015-10-19T18:58:42.000Z,2018-07-10T16:29:19.000Z,2018-07-10T16:28:44.000Z,6,3,0,0,0,,
+236002659,The King Drinks (or The Missing Dog) - GettingUnstuck Day 6,"Getting Unstuck Day 6: Create a project that uses the random block. 
+I wanted to make a list of specific places for the dog on the screen to be randomly located. I could not find a way of doing it, but thanks to @SauceKeyAh and @Sabriana I got off the stuck. :)
+
+
+Title: Carnival: 'Le Roi Boit'
+Artist: Teniers, David the Younger
+Year: 1690
+Medium: Oil on copper
+Dimensions: 58 x 70 cm
+Location: Museo del Prado, Madrid
+Copyright: Public Domain 
+","There's a dog in this paint. When you start playing the dog will vanish and will randomly appear on the screen. Are you able to find it?
+
+Click on the green flag to start.
+Follow instructions on the prompt:
+right arrow for instructions
+space bar to start looking for the dog",2176961,https://cdn2.scratch.mit.edu/get_image/project/236002659_480x360.png,2018-07-10T12:49:58.000Z,2018-07-10T21:14:09.000Z,2018-07-10T16:36:19.000Z,15,5,1,0,0,,
+236030774,Unstuck-6,"Inspired by a very rainy day.
+
+Random operator used in a few different ways!",,34091272,https://cdn2.scratch.mit.edu/get_image/project/236030774_480x360.png,2018-07-10T16:48:24.000Z,2018-07-10T17:03:33.000Z,2018-07-10T17:03:28.000Z,9,3,0,0,0,,
+236031267,Getting Unstuck Day 6,"This is a very simple project, but I was surprised to see how effective it was. I look forward to trying more.","Challenge: Create a project that uses the random block. 
+
+Press the green flag to watch the rocket take off.",34245752,https://cdn2.scratch.mit.edu/get_image/project/236031267_480x360.png,2018-07-10T16:53:43.000Z,2018-07-10T17:05:37.000Z,2018-07-10T17:05:37.000Z,8,2,0,0,0,,
+236012100,Monty Hall Problem (GettingUnstuck#6),"Getting Unstuck challenge/activity#6 - ""create a project that uses the random block""
+
+When I read ""random"" I immediately thought of the Monty Hall problem for some reason (https://en.wikipedia.org/wiki/Monty_Hall_problem) . 
+
+The use of random is limited to randomly selecting an initial door and then randomly selecting one of the two remaining non-winning doors if the initial selection is the winner.
+
+So while random isn't use much I really liked the idea and it took me into some new territory e.g.:
+- using ""define"" to build a block to reset on first clicking the flag and clicking a ""try again"" option.
+- using messages to make actions on one sprite affect others.
+
+Improved version which calculates win percentages can be found at https://scratch.mit.edu/projects/236138150/","Click the flag to start and the click on the doors to select a choice. Can you find the door the ""prize"" is behind?
+
+There may be some bugs if you click too fast or click doors once complete (but I think I sorted most of them).",15872912,https://cdn2.scratch.mit.edu/get_image/project/236012100_480x360.png,2018-07-10T14:05:24.000Z,2018-07-11T17:17:18.000Z,2018-07-10T17:06:27.000Z,12,6,1,0,0,,
+236029634,Getting Unstuck Day 6 - Random Candle Dinosaur,,,11634746,https://cdn2.scratch.mit.edu/get_image/project/236029634_480x360.png,2018-07-10T16:37:05.000Z,2018-07-10T17:13:41.000Z,2018-07-10T17:07:11.000Z,5,2,0,0,0,,
+236024539,Rock Paper Scissors,Getting Unstuck Day 5: Create a project that uses the random block.,Click on the green flag to start playing rock-paper-scissors with Tera.,25332755,https://cdn2.scratch.mit.edu/get_image/project/236024539_480x360.png,2018-07-10T15:48:11.000Z,2018-07-10T17:14:22.000Z,2018-07-10T17:13:15.000Z,27,6,0,0,0,,
+236032282,Random Noises -- Unstuck Challenge 6,"I had played with the random block in previous projects.  This was fun to try it in a new context.  
+
+With more time to spend, I'd like to increase the number of random effects based on the button -- maybe incorporate randomized animations or volume effects.
+
+**Update**  I went back and worked on the randomizing of sounds.  I used a variable block to help.  I think it works better now.",Follow the directions on screen!,11608238,https://cdn2.scratch.mit.edu/get_image/project/236032282_480x360.png,2018-07-10T17:03:47.000Z,2018-07-11T17:47:10.000Z,2018-07-10T17:23:22.000Z,14,3,0,0,0,,
+236035303,Scie colorate,Ho modificato un mio vecchio progetto ispirato a un tutorial Scratch; ho usato più volte il blocco Random,Clicca sulla bandierina verde e guarda,17698999,https://cdn2.scratch.mit.edu/get_image/project/236035303_480x360.png,2018-07-10T17:31:10.000Z,2018-07-10T17:39:13.000Z,2018-07-10T17:39:13.000Z,11,3,0,0,0,,
+236010097,6 GIORNO,,BASTA PREMERE LA BANDIERINA VERDE!,28304428,https://cdn2.scratch.mit.edu/get_image/project/236010097_480x360.png,2018-07-10T13:50:53.000Z,2018-07-10T17:27:17.000Z,2018-07-10T17:27:17.000Z,6,1,0,0,0,,
+236035471,Getting Unstuck Day 6,,,24998404,https://cdn2.scratch.mit.edu/get_image/project/236035471_480x360.png,2018-07-10T17:32:55.000Z,2018-07-10T17:41:15.000Z,2018-07-10T17:39:57.000Z,6,1,0,0,0,,
+236032389,Unstuck Day 6,"Still working on getting the presents to wrap themselves again after being opened. This seems to glitch unless I press flag each time before pressing space bar.  Help.
+
+I think I figured it out.  I had  ""switch to next costume"" instead of switching to specific costume.  I think this works better.","Open the presents by pressing the space bar. I have found that if the green flag is pressed in between pressing the space bar, this runs much smoother.  Can anyone tell me why?",24826697,https://cdn2.scratch.mit.edu/get_image/project/236032389_480x360.png,2018-07-10T17:04:43.000Z,2018-07-10T18:54:49.000Z,2018-07-10T17:40:27.000Z,8,1,0,0,0,,
+236036665,Figure rotanti,"Ho modificato alcune funzioni trovate in rete per ottenere l'effetto delle spirali rotanti. Ho fatto in modo che la variabile lati cambi ogni tre secondi assumendo un valore random compreso tra due e dieci
+(Grazie a ArrstalKOP per:
+Spiral Polygons (Progetto Remixato)
+  Grazie a PullJosh per:
+Spiral Squares (Progetto Originale))",Clicca sulla bandierina verde e guarda!,17698999,https://cdn2.scratch.mit.edu/get_image/project/236036665_480x360.png,2018-07-10T17:44:09.000Z,2018-07-10T17:51:16.000Z,2018-07-10T17:51:16.000Z,19,6,3,0,0,,
+100935203,Getting Unstuck: Day 6,Lanciamo la sfida anche ad altre docenti.,Clicca sulla bandierina verde e segui le istruzioni,10086796,https://cdn2.scratch.mit.edu/get_image/project/100935203_480x360.png,2016-03-09T10:37:42.000Z,2018-07-10T18:06:04.000Z,2016-03-09T10:53:27.000Z,13,1,0,0,0,,
+168695016,Mad Minute,This is a game I created that has students add together two random numbers in a timed setting.,,10934870,https://cdn2.scratch.mit.edu/get_image/project/168695016_480x360.png,2017-07-12T17:49:39.000Z,2018-07-10T18:25:59.000Z,2017-07-13T16:35:02.000Z,33,2,0,0,0,,
+236041394,#creativecomputing Day 6,I've never used the random button before. The wheels are starting to turn with projects I could have my students design! ,Click the green flag to watch the butterfly ask the cat to pick a number between 1 and 10. Can you guess what number the cat will pick? Click the stop to reset. ,23419026,https://cdn2.scratch.mit.edu/get_image/project/236041394_480x360.png,2018-07-10T18:24:23.000Z,2018-07-10T18:32:47.000Z,2018-07-10T18:31:23.000Z,8,3,0,0,0,,
+236041339,Getting Unstuck - Day 6 (randomness),"Inspired by another project, I wanted to see if I could use variables to change a sprite's location randomly. First I used broadcast blocks, then realized I could simplify the project to just one stack.",Use the space bar to make Champ99 move to different locations!,2752403,https://cdn2.scratch.mit.edu/get_image/project/236041339_480x360.png,2018-07-10T18:23:51.000Z,2018-07-10T18:36:11.000Z,2018-07-10T18:35:01.000Z,18,4,0,0,0,,
+236039250,Reverse Magic Day #6 Getting Unstuck,"What surprised you today? I was surprised by how fast I was able to do this!
+Who did you surprise today? My coworkers who had way more exciting ideas before I played it for them. Maybe someday I can make the glass shatter or change color.",Press the green flag to start!,28676433,https://cdn2.scratch.mit.edu/get_image/project/236039250_480x360.png,2018-07-10T18:06:53.000Z,2018-07-12T14:52:31.000Z,2018-07-10T18:24:01.000Z,17,4,0,0,0,,
+236017637,Day-6: Eat Aim,"Getting Unstuck - Day 6
+","Move the sight with the mouse. 
+Collect things with the press mouse button. 
+Figure out what things you need to collect and which ones you do not.
+Good luck!
+",139209,https://cdn2.scratch.mit.edu/get_image/project/236017637_480x360.png,2018-07-10T14:49:22.000Z,2018-07-10T19:08:40.000Z,2018-07-10T18:57:10.000Z,7,2,0,0,0,,
+236043825,Getting Unstuck Day 6,"I learned a short cut! Found out I can select mutliple sprites and click OK!
+I had trouble at first because of the timing involved in hitting the space bar, Was using this as an event for each sprite but funny thing happen when the key is held down. Changed to use a broadcast message.
+Weird thing happened - I wanted to delete the cat Sprite, but everytime I right click on it and select delete, one of the other sprites was removed. Anyone else having similar issues?","Rest by clicking the green flag, hit the space bar to randomly select a value between 0 and 9.",11305008,https://cdn2.scratch.mit.edu/get_image/project/236043825_480x360.png,2018-07-10T18:46:23.000Z,2018-07-10T19:19:22.000Z,2018-07-10T19:19:22.000Z,7,2,0,0,0,,
+236041388,day 6,,"press green flag, and click the background.",34188789,https://cdn2.scratch.mit.edu/get_image/project/236041388_480x360.png,2018-07-10T18:24:21.000Z,2018-07-10T19:19:52.000Z,2018-07-10T19:19:01.000Z,9,4,0,0,0,,
+172785629,day 6 - Guess My Colors,"In this game the program randomly generates an urn containing balls of different colors, the urn might contain more than one ball of the same color. We have balls of eleven different colors: white, yellow, orange, red, pink, purple, green, blue, brown, black, grey.
+
+The game has two level, on the first level the urn is composed of 5 to 9 balls, in the second level there are 10-15 balls.
+
+Your task is to guess what’s inside the urn by counting the occurrence of colors in the extractions. Note that extractions are nondestructive, i.e. once extracted a ball is reintroduced in the urn.
+
+For example, 300 extractions from an urn (containing: 3 red balls, 1 black, 1 yellow, and 1 purple) might result in: 150 red, 56 black, 47 yellow, 47 purple. To guess the colors in the urn the player ought to construct the following list [red, red, red, black, yellow, purple].
+
+Experimenting with random generators might be fun if you can automatize the extractions and the process of counting what has been extracted. 
+","Start by extracting (click the ""Extract"" button), than click ""Count"".
+
+Click on the dice to construct the list of colors in the urn (see below for a description of the game). 
+
+Note that to edit this list you should be in edit mode. Click""See inside""and the green flag.
+",214,https://cdn2.scratch.mit.edu/get_image/project/172785629_480x360.png,2017-08-31T13:51:37.000Z,2018-07-10T19:32:17.000Z,2017-09-08T14:59:32.000Z,11,2,2,0,0,,
+236046373,Infection,"When I saw that the challenge was randomness I immediately thought that I wanted to do something with perlin noise. After looking through a bunch of examples in the gallery of folks implementing perlin noise in Scratch I decided that in the interest of time I would need to remix an existing implementation, which didn't feel super satisfying. Instead I fell back on another one of my favorite applications for randomness, modeling and simulation. This quick and dirty sim models the spread of infection.",,1092342,https://cdn2.scratch.mit.edu/get_image/project/236046373_480x360.png,2018-07-10T19:11:21.000Z,2018-07-11T02:21:12.000Z,2018-07-10T19:23:19.000Z,12,4,0,0,0,,
+236005466,Day 6 - Busy day on the water,"I'm noticing that with every challenge I start out with the initiative and then deviate into other areas I want to explore. Nice to have the time to do it.
+
+Day 6 - Create a project that uses the random block. ",Press flag to start,109272,https://cdn2.scratch.mit.edu/get_image/project/236005466_480x360.png,2018-07-10T13:15:56.000Z,2018-07-25T01:15:14.000Z,2018-07-10T18:51:50.000Z,16,6,0,0,0,,
+236045942,Butterfly Art,"I loved creating this project.  Thank you to kidhistory and the tutorial on how to use the pen!  I really wanted to create a game using the random number generator, but I got very frustrated, I'll jot down my ideas and try again later!
+
+","Press the green flag and then click the butterfly to draw!  
+To clear the drawing, press the star.",29834388,https://cdn2.scratch.mit.edu/get_image/project/236045942_480x360.png,2018-07-10T19:06:38.000Z,2018-07-10T20:34:13.000Z,2018-07-10T19:41:30.000Z,10,4,0,0,0,,
+236050350,slot machine (Getting Unstucked D6),"Creating this project was very fun to me!
+The first idea of a slot machine came up from two of my summer campers2 weeks agi, but their project was much more complex and ""hard fun"" to create!!","Press the space bar to run the slot machine.
+If you win and you want to try again please press the green flag!",6030800,https://cdn2.scratch.mit.edu/get_image/project/236050350_480x360.png,2018-07-10T19:59:37.000Z,2018-07-10T20:16:18.000Z,2018-07-10T20:00:01.000Z,23,7,0,0,0,,
+236007497,Getting Unstuck Challenge #6,,I used the random feature to change how the cat walks since he is impaired/dizzy from spinning around.,10296314,https://cdn2.scratch.mit.edu/get_image/project/236007497_480x360.png,2018-07-10T13:31:39.000Z,2018-07-10T20:16:16.000Z,2018-07-10T20:14:04.000Z,7,0,0,0,0,,
+235994900,Getting Unstuck #6 - random tutorials,"Thinking about randomness. It goes far beyond 1-10. So I thought I'd do a small tutorial on how to select random numbers and store them, Select random items from list. Delete random item from lists. Choose a random letter from a string or integer. 
+
+Had to coach baseball camp so couldn't put in the time I wanted to this project but a quick hour or so. Hope it helps.","Left and Right arrow keys
+
+",3158946,https://cdn2.scratch.mit.edu/get_image/project/235994900_480x360.png,2018-07-10T11:08:02.000Z,2018-07-11T02:34:07.000Z,2018-07-10T20:26:48.000Z,29,6,3,0,0,,
+236046663,GettingUnstuck-06 - PI Calculator,"Today my plans were really confused: I wanted to generate procedurally random trees, then snowflakes, then I was prone to generate random sequences and test their randomness. Then time went by and I did just this...
+A lot of reflection indeed.
+It took me really long to realize that cloning dots was a REALLY bad idea...
+","Green flag to start.
+Random dots are thrown on the ground to compute Pi with the MonteCarlo method.
+This is a classical recipe to approximate PI (or alternatively to state how random are the random dots) on which I cannot take any credit.
+",25876369,https://cdn2.scratch.mit.edu/get_image/project/236046663_480x360.png,2018-07-10T19:14:49.000Z,2018-07-10T20:33:37.000Z,2018-07-10T20:15:37.000Z,30,9,2,0,0,,
+236051192,Getting Unstuck: Day 6,"Getting Unstuck: Day 6
+Challenge: Create a project that uses the random block.
+I used the random block. At the end I liked to bring all the sprites back to the beginning.","
+Click on green flag and enjoy the dance of the elements!",17615581,https://cdn2.scratch.mit.edu/get_image/project/236051192_480x360.png,2018-07-10T20:10:56.000Z,2018-07-22T14:58:51.000Z,2018-07-10T20:36:32.000Z,7,1,0,0,0,,
+236040846,particles - spread the love!,"Getting Unstuck: Day 6
+https://gettingunstuck.gse.harvard.edu/
+Create a project that uses the random block.
+
+Surprisingly, when enough random hearts are generated at the same time, they seem to spread evenly across the screen!","Press the green flag and watch random hearts appear in random waves.
+
+Click anywhere for a burst of love :)",34248043,https://cdn2.scratch.mit.edu/get_image/project/236040846_480x360.png,2018-07-10T18:20:15.000Z,2018-07-16T00:10:34.000Z,2018-07-10T21:21:08.000Z,6,4,1,0,0,,
+236042366,Day 6: EU-Randomness,"This was fun - I tried coming up with more than just using the random block a lot, since it one one my favorite blocks anyway. That's how I came up with the random facts in combination with the random block. 
+
+Update: I shortened the code sooo much and used a list (for the first time)! 
+
+I will keep working on this project, because I want to find out how tp program the random facts to appear just once and adding a 'finish' animation after you've seen all 15 facts – but I don't know how to do that YET! :) 
+
+Music from: https://commons.wikimedia.org/wiki/File:Ode_to_Joy.ogg
+Girl-Emojis from: https://en.wikipedia.org/wiki/Emoji //by: Twemoji",Just hit space and learn about the EU! :)  ,24957617,https://cdn2.scratch.mit.edu/get_image/project/236042366_480x360.png,2018-07-10T18:32:56.000Z,2018-07-10T22:45:05.000Z,2018-07-10T21:51:28.000Z,15,3,1,0,0,,
+236056235,day 06,Random motion of a molecule .. infinite loop ,,771142,https://cdn2.scratch.mit.edu/get_image/project/236056235_480x360.png,2018-07-10T21:24:42.000Z,2018-07-10T21:40:18.000Z,2018-07-10T21:38:53.000Z,14,5,1,0,0,,
+236050321,Getting Unstuck 6,"source for faces: https://dribbble.com/shots/2064451-Dudes-part-2/attachments/369543
+
+This one was a little ambitious. I chose to make a Guess Who game where both the player and the Scratch cat choose a face, then ask & answer questions to narrow down the choices until they can guess which face the other chose. The randomness is incorporated in two places: which face the Scratch Cat chooses and the order in which the questions are asked.
+
+It's a work-in-progress. Right now the cat asks the questions, but the way he does it doesn't quite work. There should be 5 questions total, enough to narrow down the choices to 1, and he should ask different questions until that happens. Unfortunately he asks the same questions multiple times, and he doesn't ask all the questions. I could have him ask them in the same order every time, but that would make the playing field uneven - depending on which face was chosen, either the cat or the player would have an advantage, and if you knew which face to pick you could win every time (unless the cat picked the same face). 
+
+I'm sharing as a draft because, well, I have to go make dinner now. But I'll try to fix it later.
+
+UPDATE: I fixed the question issue, so it asks each question once. The code I had to do that was mostly fine, but the block that reset the counting variable used to iterate over the list was in the wrong place.
+
+New issue: it's not eliminating the correct faces in response to the player's answers to the questions. I think this is, again, a list-related problem. I'm currently running the program with the faces list displayed to see what's going on.
+
+Again, the code to reset the counting variable was in the wrong place. I fixed that, but it's still not eliminating the right faces.
+
+UPDATE 2: IT WORKS!! I used this project from ListWizard: https://scratch.mit.edu/projects/11260012/#editor to see an example of how to delete items from a list. I needed to change the variable that iterates through the list by -1 after deleting the item. I think I get why, since the length of the list has now changed, but I'm not 100% percent sure why it works. ",Click the green flag to start the game.,18044195,https://cdn2.scratch.mit.edu/get_image/project/236050321_480x360.png,2018-07-10T19:59:15.000Z,2018-07-11T22:14:34.000Z,2018-07-10T21:30:07.000Z,15,4,0,0,0,,
+236052090,Day 6,"I made myself remember to include comments this time (probably not very useful or necessary ones, but still); it is a practice I want to make sure I model for my kids. I will try to make sure I do that for the rest of Getting Unstuck
+
+quote from : Journey through the Power of the Rainbow: Quotations from a Life Made Out of Poetry by Aberjhani
+",Click the green flag and then wait for Scratch Cat to prompt you,18341966,https://cdn2.scratch.mit.edu/get_image/project/236052090_480x360.png,2018-07-10T20:23:51.000Z,2018-08-02T16:59:15.000Z,2018-07-10T21:39:49.000Z,15,7,2,0,0,,
+236055595,You old bat! Day 6,"This was soooo much fun. 
+I found this pretty straight forward. (suprise for me I guess)
+Thankful! 
+;)
+
+Suprising others--- ive decided to get a little more active in writing comments for people.  I hope it encourages them, and maybe I'll recieve some too!","Getting Unstuck Day 6
+#CreativeComputing
+#GettingUnstuckUsing the random block to create a short animation.
+This was fun!",24864870,https://cdn2.scratch.mit.edu/get_image/project/236055595_480x360.png,2018-07-10T21:15:26.000Z,2018-07-15T15:08:03.000Z,2018-07-10T21:39:06.000Z,7,5,0,0,0,,
+236054855,Day 6,,"A gambling game where you win if you match one of the three dice. Place a bet first, then make your guess. The game will continue until a guess of ""0"" is entered. Good Luck!",7505824,https://cdn2.scratch.mit.edu/get_image/project/236054855_480x360.png,2018-07-10T21:03:57.000Z,2018-07-10T22:08:28.000Z,2018-07-10T22:06:59.000Z,11,5,0,0,0,,
+236033314,Catch the creatures!,"                                          ---Reflect---
+
+At first I had though to recreate a more complex velcro dart board game, but after a while I realized that it could be difficult how to throw the balls in a realistic way.
+So, I decided to create a mini game where you use the mouse to catch creatures that appears randomly. 
+You can also get different points depending on the section.
+I also decided to use the list block to add what kind of creature we finally catch.
+
+                                          ---Credits---
+- Music: Sound effects 1 and 12 are from ""Dunk Hunt"" video game ost.
+- Art design: I've created characters and backgrounds with the Scratch paint editor.
+","Press the green flag.
+Use the mouse to catch all the creatures without pressing it.
+Try to get as many creatures and points as you can.
+You have 20 seconds!!
+Enjoy it!
+
+                            --Getting Unstuck Day 6--
+Today, on Day 6 of Getting Unstuck, we'll be exploring the element of surprise and the unexpected through randomness.
+Create a project that uses the random block.",4413079,https://cdn2.scratch.mit.edu/get_image/project/236033314_480x360.png,2018-07-10T17:13:45.000Z,2018-07-19T19:26:14.000Z,2018-07-10T22:34:39.000Z,13,3,0,0,0,,
+236052178,A random playlist Day 6 Getting Unstuck Day 6,"Getting Unstuck Day 6: create a project that uses the random block.
+I created this project to generate a random loop playlist. I would like the chosen loop to repeat 4 times, but the script doesn't work.
+Do you want remix my project and help me?
+I corrected the script. Thanks to @TallGuyDan and @paulinah
+Work in progress
+
+",Click on the green flag and read the balloons,8789156,https://cdn2.scratch.mit.edu/get_image/project/236052178_480x360.png,2018-07-10T20:25:04.000Z,2018-08-01T20:02:30.000Z,2018-07-10T22:24:13.000Z,13,1,0,0,0,,
+235996104,What is Said at School - Stays at School,"I used the Random Number Generator to generate different conversations between a teacher and her students. It was inspired by a conversation I had with a colleague of all the crazy things students say to us... but these convos were found on the website below! 
+
+
+Conversations found on: http://pages2cool.blogspot.com/2014/02/funny-student-answers-teacher-questions.html
+
+","To hear the funny conversations that only happen in the classroom, Click the Green Flag... if you are ready for a new convo, Click the Green Flag again!",10859938,https://cdn2.scratch.mit.edu/get_image/project/235996104_480x360.png,2018-07-10T11:26:57.000Z,2018-07-10T22:58:18.000Z,2018-07-10T22:54:56.000Z,17,7,1,0,0,,
+236054677,Griddle me this: Getting Unstuck Day 6 Random,"Getting Unstuck Day 6 Random
+
+Creativity:
+I had already used random variables (by chance) in yesterday's project, so I wanted to go a bit further in my exploration of HOW random variables can influence a project. To fully grasp the effect of randomness, you need a large sample size... so I made sure to have lots of clones of a sprite, each random in some way.
+
+Production:
+I decided to test changing three different variables for a single sprite. There is also the question of HOW the randomness affects those variables. So, I ended up having 9 different conditions, so that's 9 nested ""if-then"" loops. I was helped by a fellow Scratcher's observations that variables can be different for each clone of a sprite, so I didn't have to figure out how to duplicate a whole bunch of variables 165 times (or more!).
+
+Getting Unstuck:
+I actually got ""pre-unstuck"" by thinking about what I wanted to achieve and then looking through some similar projects before getting started. Because I knew what I wanted to do, I was able to hone in on strategies that I felt would be useful for my project.
+I did want to go further, by examining how to apply the random effects to each element in the grid, or the same random effect to all of the elements at once, or to some subset of the grid, for example, row-by-row. However, that would have meant at least three more conditions to test, for at least 27 overall... Ooof! Maybe another time.
+
+",Hit the green flag! Use the space bar and up arrow to experiment.,3485356,https://cdn2.scratch.mit.edu/get_image/project/236054677_480x360.png,2018-07-10T21:01:15.000Z,2018-07-11T19:36:22.000Z,2018-07-10T22:25:29.000Z,7,4,1,0,0,,
+236001664,Just One Random Block...,"I probably use random blocks in every one of my projects, since surprise is so valuable in games. As a result, I ended up thinking about what type of project might NOT want a random block, and this is the result.","Use the mouse to push the vending machine buttons.
+
+Made for Getting Unstuck Day 6 - Random Blocks
+
+",27306974,https://cdn2.scratch.mit.edu/get_image/project/236001664_480x360.png,2018-07-10T12:40:08.000Z,2018-07-18T16:16:33.000Z,2018-07-10T23:04:00.000Z,35,18,11,0,0,,
+236060838,Magic Purple Ball,I remember magic 8 balls.  This is my take on it using random blocks.,"Getting Unstuck #6: Do something with random blocks.
+
+Ask a question of the magic purple ball. Then click on it to get your answer.",399245,https://cdn2.scratch.mit.edu/get_image/project/236060838_480x360.png,2018-07-10T22:47:48.000Z,2018-07-10T23:15:28.000Z,2018-07-10T23:14:00.000Z,12,4,0,0,0,,
+236026727,Getting Unstuck - Day 6,Decided to use a list and pick a random first name and random last name. Struggled with getting the sprites to show up and hide with the different backdrops. Will look into that more when I get a chance.,Answer yes or no if you want to enter the witness protection program. A new name will be generated for you! Good luck!,2360384,https://cdn2.scratch.mit.edu/get_image/project/236026727_480x360.png,2018-07-10T16:09:35.000Z,2018-07-10T23:18:18.000Z,2018-07-10T23:16:45.000Z,22,7,0,0,0,,
+235993977,Getting Unstuck Day 6,I originally started this for Day 5 but couldn't figure it out.  I posted on the Facebook group to see if anyone could help me pop my balloons.  I was already using a random block so I decided to restart Day 5 and use this one for Day 6.  Thanks to all who helped!,Click the green flag then hit the space bar to begin the balloons. Try clicking on them as fast as you can!,34221568,https://cdn2.scratch.mit.edu/get_image/project/235993977_480x360.png,2018-07-10T10:51:46.000Z,2018-07-18T12:28:03.000Z,2018-07-10T15:40:03.000Z,14,3,1,0,0,,
+236024169,Getting Unstuck Day 5 - Flying Unicorns,"This was challenging.  I tried to make one unicorn look like it was flying off towards the sun, but when I would hit stop and then hit the flag again the white unicorn would no longer be there.  Any advice is welcomed! Thank you!",Click the green flag. ,34221568,https://cdn2.scratch.mit.edu/get_image/project/236024169_480x360.png,2018-07-10T15:44:45.000Z,2018-07-10T20:37:52.000Z,2018-07-10T20:34:51.000Z,13,1,0,0,0,,
+236045078,GU_Day6,"Today I storyboarded before starting. (Yesterday I just started messing around and let my playfulness guide me.) My project is different from some of my original ideas. (I wanted a superhero character to fly in and save the day.)
+The project uses 5 different random commands.
+Making the lists was quite easy. I kept the StrategyName list visible when I was creating sprite costumes to make sure that each costume number corresponded with the list number. (In the end, I didn't use that list in the code.)
+I figured out the geometry of a superhero logo and coded the pen to create one.
+I decided to drag and organize my sprites in order of their appearance. ","Click the green flag to begin. Follow the prompts. Use this to select a strategy for getting unstuck! 
+(The secret message is a reminder to teachers about providing opportunities and building confidence.)",24741621,https://cdn2.scratch.mit.edu/get_image/project/236045078_480x360.png,2018-07-10T18:58:07.000Z,2018-07-24T17:50:38.000Z,2018-07-10T23:27:16.000Z,13,4,1,0,0,,
+236062548,Unstuck Day 6,"I liked using the random block. I have only used it for numbers as in turning or moving, so this was a good challenge for me. It stretched my projects. ",Click the flag for a quick animation.,266894,https://cdn2.scratch.mit.edu/get_image/project/236062548_480x360.png,2018-07-10T23:23:04.000Z,2018-07-10T23:36:13.000Z,2018-07-10T23:35:02.000Z,3,1,0,0,0,,
+236054846,Getting Unstuck Day 6,Testing out random positions and color changes.,"Press Space Bar to Begin
+Press C to Clear
+Press Up Arrow to Stop",34190765,https://cdn2.scratch.mit.edu/get_image/project/236054846_480x360.png,2018-07-10T21:03:48.000Z,2018-07-10T23:56:34.000Z,2018-07-10T23:48:05.000Z,5,1,0,0,0,,
+236058669,Surprise parcel,"I thought by getting the idea on paper first, I would save time but it did not work out that way. I had to re-do the script so many times. I would love to animate Tom when he runs in and walks away.
+
+But I am having fun trying out the projects. : )","Getting Unstuck #Day 6
+
+Click green flag to start.
+Tom is expecting a parcel. But he had a surprise instead.
+
+When the project ends and you wish to see different titles of the books in the parcel, you have to press green flag and start all over again.
+
+",158902,https://cdn2.scratch.mit.edu/get_image/project/236058669_480x360.png,2018-07-10T22:08:01.000Z,2018-07-11T00:31:20.000Z,2018-07-11T00:18:00.000Z,15,1,1,0,0,,
+236062962,Scratch Cat Roulette,,"Press the Green Flag to Start.
+Then pick a number (in your head) between one and Ten
+Press the Space Bar to Play Scratch Roulette!
+Did you win?",18198558,https://cdn2.scratch.mit.edu/get_image/project/236062962_480x360.png,2018-07-10T23:30:52.000Z,2018-07-11T00:46:44.000Z,2018-07-11T00:23:34.000Z,11,2,1,0,0,,
+236065538,Getting Unstuck Challenge 6,"Often use the random block.
+Kids like to use this style of script to create a game.
+Added additional sprites to add complexity!
+Continuing to enjoy seeing what other amazing projects people are coming up with.","Click green flag to start the timer.
+You have 10 seconds to tickle the belly of the RED penguin.",13484475,https://cdn2.scratch.mit.edu/get_image/project/236065538_480x360.png,2018-07-11T00:14:40.000Z,2018-07-14T01:19:45.000Z,2018-07-11T00:30:22.000Z,9,3,0,0,0,,
+236062809,Bonita's Favorite Fruit,"I'm having trouble ending the game. I tried sending a message EndGame and then having sprites receive the message and stop all scripts or stop all scripts in this sprite. I tried just adding the end elements to the scripts, but nothing quite works. I'd like the dog animation to stop, the dog to say you win, and to change the background to a different background. I also wonder if I could put the shoes as a costume of the fruit sprite, rather than as a separate sprite. I couldn't figure out how to make the shoes separate to target them for different point values, so I made them a separate sprite, though I think it's possible, maybe I'd have to make a variable for them.","Press the green flag to start. Use the arrow keys to move the dog to the sprites, Bonita is HUNGRY. You must score 5 points. Be careful, not all items are suitable for eating!!!!",17824064,https://cdn2.scratch.mit.edu/get_image/project/236062809_480x360.png,2018-07-10T23:28:04.000Z,2018-07-13T04:42:35.000Z,2018-07-11T00:42:59.000Z,11,2,0,0,0,,
+178125859,Random Seating Program,"Another teacher wanted to randomly assign student seating positions for each class for up to 18 students. 
+
+This is what I created, which he used throughout the year. 
+","Click the green flag to stamp 18 numbers randomly at the 18 seating areas in this classroom.
+
+",14632339,https://cdn2.scratch.mit.edu/get_image/project/178125859_480x360.png,2017-10-04T20:40:42.000Z,2018-07-11T12:24:11.000Z,2017-10-05T03:00:04.000Z,29,2,1,0,0,,
+236061535,Where are the bananas? - Getting Unstuck Day 6,Monkey image:http://worldartsme.com/schylling-sock-monkey-clipart.html#gal_post_17876_schylling-sock-monkey-clipart-1.jpg,Click the green flag to start the game.  There are some bananas behind one of the cards. Can you find them in less than five tries?,17257831,https://cdn2.scratch.mit.edu/get_image/project/236061535_480x360.png,2018-07-10T23:01:28.000Z,2018-07-11T02:34:50.000Z,2018-07-11T01:13:16.000Z,9,3,1,0,0,,
+236069826,Challenge6HotPotato,Fixed. The remix is here: https://scratch.mit.edu/projects/236238818/ ,"This is supposed to be a hot potato game. The ""random"" block is in the color of the ball. When the ball turns pink, the sprite that has the ball at that point, disappears. What I can't figure out is how to continue so that the ball does not get thrown to the person who is out. You'll find a whole lot of extraneous variables as I tried various things, but none of it worked. I suspect I'm being too complicated, as usual. There is probably something very simple I have not seen. If anyone can figure out my issue, please let me know. ",2190314,https://cdn2.scratch.mit.edu/get_image/project/236069826_480x360.png,2018-07-11T01:15:16.000Z,2018-07-12T16:09:13.000Z,2018-07-11T01:17:11.000Z,3,1,0,0,0,,
+236068468,Getting Unstuck Day 6 - Bouncy Ball,I  chose to use the random block in choosing what angle the ball bounces off the wall at. As an added bonus this program starts to look pretty random rather quickly. :),Click the green flag to begin. Then the red octagon to stop.,22156688,https://cdn2.scratch.mit.edu/get_image/project/236068468_480x360.png,2018-07-11T00:56:58.000Z,2018-07-24T16:44:11.000Z,2018-07-11T01:17:48.000Z,8,3,0,0,0,,
+236000846,Unstuck Day 6: Old MacDonald,"Explored projects created by other ""Scratchers"". Wanted to make a project in the style of ""hello fello i exists"" by @QuantumQuirk (-so well done!)
+-Figured out notes
+-Drew farmer
+-Matched face movements and animals to music
+-Randomized blinks, movement of animals","What did Old MacDonald have on his farm?
+Goal: Create a project that uses the random block. ",18337230,https://cdn2.scratch.mit.edu/get_image/project/236000846_480x360.png,2018-07-10T12:31:06.000Z,2018-07-11T02:15:10.000Z,2018-07-11T01:44:54.000Z,8,6,0,0,0,,
+236067911,Unstuck Day 6: Abby's Dream,"I used the creating a story tips to start me off, but then I just started getting creative. I'm not sure yet how I will end this and get Abby back to her bedroom.  I'm open for suggestions.","As normal, just click the green flag to begin.  There are 7 stages total- and the program will keep going until you click the stop sign. ",34190490,https://cdn2.scratch.mit.edu/get_image/project/236067911_480x360.png,2018-07-11T00:49:24.000Z,2018-07-11T01:50:58.000Z,2018-07-11T01:48:23.000Z,5,0,0,0,0,,
+236070507,Getting Unstuck Day 6,"Getting Unstuck Day 6: Create a project that uses the random block.
+
+I used the random blocks on all of the sprites. However, my original goal was to have the fish switch directions when they got to the edge, but it did not work that way. 
+
+I would appreciate any feedback. Thanks Scratcher family!",Click the green flag. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/236070507_480x360.png,2018-07-11T01:25:11.000Z,2018-07-11T02:00:52.000Z,2018-07-11T01:53:21.000Z,5,2,0,0,0,,
+236070211,Unstuck Day 6: Random,"I made this project in response to the prompt for Challenge #6-use random- of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+For this I wanted to tell a story that has some random element to it. If you play it repeated times you will see that both the crazy lines are random and the time it takes for the mouse to find the cheese is random.","A story of a mouse looking for cheese, with a surprising ending.",214174,https://cdn2.scratch.mit.edu/get_image/project/236070211_480x360.png,2018-07-11T01:21:17.000Z,2018-07-11T02:11:41.000Z,2018-07-11T01:58:13.000Z,6,3,0,0,0,,
+236063399,Day 6 Unstuck: Random Cats ,"It has been said that the internet was built on cute kittens and cats, this was in part my inspiration for this project. It was seeing @karenb that got me thinking about cats.  I think I'm just in a silly mood today.  I hope you enjoy it!   
+Game inspired in @karenb Find the Random Cat game https://scratch.mit.edu/projects/226711372/    I know at first it appears to be the same but play pass the first round and you will see where the randomness comes into play. 
+","Day 6 Unstuck: Create a project that uses the random block
+
+Click on the green flag to start.   
+
+
+
+",1294980,https://cdn2.scratch.mit.edu/get_image/project/236063399_480x360.png,2018-07-10T23:38:49.000Z,2018-07-11T02:56:14.000Z,2018-07-11T02:11:36.000Z,4,1,1,0,0,,
+236071293,Random Octopus,"I never did figure out how (or what) to use the random block.  I tried watching some YouTube videos, but I didn't get what to use the block for - for example, how could my project be different if I used the random block.  What I DID feel good about was learning how to create a new costume for the diver so it faces the other way while it is gliding.  :)
+","Use green flag to start diver, then press space bar to make octopus appear and reappear in random position.",34205973,https://cdn2.scratch.mit.edu/get_image/project/236071293_480x360.png,2018-07-11T01:36:09.000Z,2018-07-11T02:31:30.000Z,2018-07-11T02:27:47.000Z,5,2,0,0,0,,
+236074004,Unstuck Day 6 - Exercising Girl,"Challenge: Use the random block
+
+I got a late start, so I made a simple project. I used the random block to change the girl's costume. This particular sprite has a lot of costumes. I also used the random block to choose the type of drum beat. The dog is just in there for fun! 
+
+Update: Improved the girl's movement and added 2 buys in the background. Changed the drum beats to claps and a wood block.",Press the flag to start. Girl sprite will move randomly to beat. ,10715270,https://cdn2.scratch.mit.edu/get_image/project/236074004_480x360.png,2018-07-11T02:18:54.000Z,2018-07-31T22:27:15.000Z,2018-07-11T02:38:04.000Z,7,3,0,0,0,,
+236072927,Baseball ,Used Scratch Catch Game tips,Click the flag to begin.  Use the left and right arrows to catching the falling baseballs.,34198395,https://cdn2.scratch.mit.edu/get_image/project/236072927_480x360.png,2018-07-11T02:01:15.000Z,2018-07-11T02:45:20.000Z,2018-07-11T02:42:49.000Z,3,0,0,0,0,,
+236073855,Unstuck Day 6,Simple project for this day... The sun shinning on the sky... Love it!,,34216021,https://cdn2.scratch.mit.edu/get_image/project/236073855_480x360.png,2018-07-11T02:16:33.000Z,2018-07-11T03:12:50.000Z,2018-07-11T03:11:29.000Z,4,2,0,0,0,,
+236075245,Unstuck Day 6 Rushing,"This lesson is one that I use in 4th grade. Our focus was on learning more about variables (Random number block) and using conditionals with operators (If / answer </> random number).  This activity correlates with our code.org lessons.  It's also a great way to talk about computational thinking strategies to solve the problem in as few guesses as possible.  
+
+Students are then challenged to increase the range in the random block to make the challenge harder.
+
+Adapted from a Max Wainewright activity.  Check out his books!!  They are great!!",Click the Green Flag to start.  Can you guess the secret number?,7525698,https://cdn2.scratch.mit.edu/get_image/project/236075245_480x360.png,2018-07-11T02:42:13.000Z,2018-07-11T03:00:55.000Z,2018-07-11T03:00:55.000Z,7,2,0,0,0,,
+236076493,Random- Day 6,"Create a project that uses the random block. 
+
+**I'm very new at the random block so I'm not exactly sure what to do with it.  After looking at the other projects in the studio, I see there is a TON I can do with it!  There are so many amazing projects, I'm going to practice using this block so I'm ready to use it with my students!",Press the green flag.,25165723,https://cdn2.scratch.mit.edu/get_image/project/236076493_480x360.png,2018-07-11T03:05:57.000Z,2018-07-11T03:21:02.000Z,2018-07-11T03:21:02.000Z,4,0,0,0,0,,
+236075727,Day 6 BreakdanceAroundtheWorld - Day 6,"I set the instruments to change randomly, set the color of the sprite to change randomly, set the size of the dancer to change randomly, set the costumes to change randomly, and set the background to change randomly.
+
+So random.","This breakdancer travels the world to show off his moves. Click the green flag to see his journeys.
+",10309968,https://cdn2.scratch.mit.edu/get_image/project/236075727_480x360.png,2018-07-11T02:50:12.000Z,2018-07-26T02:10:10.000Z,2018-07-11T03:44:49.000Z,4,2,0,0,0,,
+236075313,Unstuck 06 Make something random,"At first I wanted to make a fish swim randomly around, and at random intervals blow a random number of bubbles to float upward. Proved too ambitious for the time I had. Scaled down my goal to fish swimming back and forth, and at regular intervals blow a stream of bubbles (random number) upward. I couldn't quite make this work, and I really don't know why, ran out of time. I need to learn more about the ""clone myself"" block.",Create a project that uses the random block.,19123745,https://cdn2.scratch.mit.edu/get_image/project/236075313_480x360.png,2018-07-11T02:43:28.000Z,2018-07-11T03:51:01.000Z,2018-07-11T03:51:00.000Z,2,0,0,0,0,,
+236069983,Underwater word game,"This project responds to the prompt for Getting Unstuck:  Day 6:  ""Create a project that uses the random block.""  This project does include a random block--one within a list block.
+
+Today's strategy was ""Compromise.""  I was originally inspired by the old ""Electric Company"" TV show and the compound word game as two people said words that combined on the screen to create a new word.  However, since this was my first go at lists in Scratch, I had to keep it simple.  I would love to know how to include the randomly-chosen list items in another block so that I can join the words and have it check against the master list of compound words (if that makes any sense!).  Any ideas?","Click on the green flag, then click on Starfish for your first round of this compound word game!",527557,https://cdn2.scratch.mit.edu/get_image/project/236069983_480x360.png,2018-07-11T01:18:03.000Z,2018-07-11T03:54:37.000Z,2018-07-11T03:45:17.000Z,9,1,0,0,0,,
+235966821,Balloon Bopping Butterfly,I was helping someone to pop balloons so decided not to reinvent the wheel.,Bashful Butterfly has now decided to pop those pesky balloons. Simply use the mouse to move the butterfly.,30508500,https://cdn2.scratch.mit.edu/get_image/project/235966821_480x360.png,2018-07-10T03:40:17.000Z,2018-07-11T03:58:03.000Z,2018-07-11T03:58:03.000Z,7,2,0,0,0,,
+236078000,All Sorts of Randomness (GU Day 6),,"Press 'space' for random color strings
+
+Press 'up' for sea star color changes
+
+Press 'c' to clear and restart",4535519,https://cdn2.scratch.mit.edu/get_image/project/236078000_480x360.png,2018-07-11T03:43:20.000Z,2018-07-11T04:04:52.000Z,2018-07-11T04:03:23.000Z,7,0,1,0,0,,
+236058808,Star Light Star Bright (Getting Unstuck Day 6),"Shout out to Eileen King for helping with the random costume changes!
+
+I plan to update the script to do something special when all 9 stars are the same color.  I will play around with how to do it when I have more time!","Click Flag to begin
+Use the space bar to change the color of all the stars.",34198395,https://cdn2.scratch.mit.edu/get_image/project/236058808_480x360.png,2018-07-10T22:10:33.000Z,2018-07-15T04:09:25.000Z,2018-07-11T04:12:11.000Z,16,5,1,0,0,,
+236078211,LOTTERY-RandomLUCK - Day 6,"This is my second random project of the night. After I did my first one, I thought to myself, what is something random? When lotto came to mind, I HAD to make it!","See how lucky you are with the lotto. 
+
+3 in a row wins a prize. To scratch the numbers, press the flag. To see your prize, press the right arrow key.
+
+How many tries will it take for you to win?",10309968,https://cdn2.scratch.mit.edu/get_image/project/236078211_480x360.png,2018-07-11T03:49:59.000Z,2018-07-11T04:21:15.000Z,2018-07-11T04:18:28.000Z,7,1,0,0,0,,
+236070791,Trex encounter Day 6,,WIP!!! Use the space bar to kill the TREX.,31144646,https://cdn2.scratch.mit.edu/get_image/project/236070791_480x360.png,2018-07-11T01:28:27.000Z,2018-07-19T16:23:38.000Z,2018-07-11T04:35:14.000Z,11,0,0,0,0,,
+236080578,Getting Unstuck - Day 6 Activity,"This is my project for Day 6 of the Getting Unstuck programming challenge.
+
+I chose to remix an older project that used the pick random block to simulate rolling a die.
+
+Each time the number is ""rolled"" it is stamped on the stage as way of showing how many times it has been ""rolled""",Press the green flag to begin.,15946,https://cdn2.scratch.mit.edu/get_image/project/236080578_480x360.png,2018-07-11T04:54:29.000Z,2018-07-12T07:06:53.000Z,2018-07-11T05:47:45.000Z,6,0,0,0,0,,
+236081794,Getting Unstuck: Day 6,A random project with the random block.,Random jump height and color,9505598,https://cdn2.scratch.mit.edu/get_image/project/236081794_480x360.png,2018-07-11T05:21:13.000Z,2018-07-11T05:55:33.000Z,2018-07-11T05:44:43.000Z,4,1,0,0,0,,
+221187391,Getting Unstuck: Day 6,grazie a SrDarius,move the cursor with the arrows,19738986,https://cdn2.scratch.mit.edu/get_image/project/221187391_480x360.png,2018-05-07T15:46:54.000Z,2018-07-12T08:55:18.000Z,2018-05-07T15:48:28.000Z,11,2,0,0,0,20966403,20966403
+236081410,Random Story Inspirator,"The inspiration for this project comes from a wonderful book that I've been recently re-reading called ""The Grammar of Fantasy - An Introduction to the Art of Inventing Stories"" by Italian writer and pedagogist Gianni Rodari. In his book, Rodari talks about the ""fantastic binomial"": the more two objects are unrelated or conceptually distant, the more potential is there to invent a story.
+
+So I decided to make a random ""fantastic binomial generator"", to help people invent stories with Scratch. I was surprised to see how many stories came to my mind by trying this simple project! I hope it can help other people come up with fantastic stories!
+
+I've been also tinkering with different ""prompts"". At the end I landed on ""Wait, what?"" that I've found both universal and generative. That also comes from a book, it's called ""Wait, what?"" by James Ryan.
+
+Enjoy the unexpected!","Click the green flag and invent a story!
+If you are not inspired.. click the green flag again!",2286560,https://cdn2.scratch.mit.edu/get_image/project/236081410_480x360.png,2018-07-11T05:13:45.000Z,2018-07-19T01:48:48.000Z,2018-07-11T05:49:58.000Z,13,5,2,0,0,,
+236050053,Getting Unstuck #6: It's a rainy day (random block usage),"Thanks to JacobAtInnovEd for: Getting Unstuck: Day 6 — Snow
+
+Music: The Weather Girls - It's Raining Men
+
+Scratch project was created as activity #6 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+Day #6 Challenge: Create a project that uses the random block.",Press the green flag!,1202362,https://cdn2.scratch.mit.edu/get_image/project/236050053_480x360.png,2018-07-10T19:55:25.000Z,2018-07-20T16:34:08.000Z,2018-07-11T05:16:20.000Z,4,2,1,0,0,,
+236085813,Unstuck 6,I love making things show randomly. But @ivory72g surprised me the most with circles and colours.,"Catch bananas!
+Cattura le banane!",13846307,https://cdn2.scratch.mit.edu/get_image/project/236085813_480x360.png,2018-07-11T06:30:56.000Z,2018-07-11T07:01:09.000Z,2018-07-11T06:54:01.000Z,15,1,0,0,0,,
+236091897,Day 6 - Getting Unstuck,,Happy birthday to me!,26079479,https://cdn2.scratch.mit.edu/get_image/project/236091897_480x360.png,2018-07-11T07:56:57.000Z,2018-07-24T22:15:11.000Z,2018-07-11T09:04:51.000Z,8,2,0,0,0,,
+236095880,unstuck6,Originally this is in Dutch. I translated it for unstuck6,This is a project I do in my workshop lessons. It's based on 2 lists and random reactions from those lists on the answers yes and no,1072279,https://cdn2.scratch.mit.edu/get_image/project/236095880_480x360.png,2018-07-11T08:49:31.000Z,2018-07-11T09:07:43.000Z,2018-07-11T09:05:26.000Z,4,2,0,0,0,,
+217907922,Pick Random,"Music: The Looming! von Snabisch,
+OpenGameArt.Org   CC-BY 3.0
+Thank you for this Song
+
+Try also in Turbo-Mode!!! :D
+","Watch and listen.
+The script says ""Pick random"" and there is no change speed variable!....but is it random or ....?! press space to clear screen
+
+Zuschauen und zuhören.
+Das Script sagt ""gehe zu Zufallszahl"" und es gibt keine ""ändere Tempo Variable""! ....aber ist es Zufall oder...?! Leertaste löscht Screen 
+
+",25507895,https://cdn2.scratch.mit.edu/get_image/project/217907922_480x360.png,2018-04-22T09:54:47.000Z,2018-04-24T08:12:22.000Z,2018-04-22T10:18:02.000Z,43,13,7,0,0,,
+235782830,Løs det - Dag 6 - Brug Random / Tilfældighed,"Lav et projekt der bruger Tilfældighed (Random) blokken!
+
+Boldene dukker op på tilfældige positioner og forsvinder lige så stille igen. Lavet med kloner og spøgelseseffekt
+Der er tilføjet point og leget med at der plaskes med vand og en roterende vandsprøjte
+
+Challenge from Getting Unstuck: Day 6
+","Ram boldene med vand fra vandslangen!
+
+Hose down the balls that appear at random positions",6615658,https://cdn2.scratch.mit.edu/get_image/project/235782830_480x360.png,2018-07-07T20:14:08.000Z,2018-07-11T10:56:52.000Z,2018-07-11T10:56:52.000Z,7,1,1,0,0,,
+236104490,#GettingUnstuck_6,"It´s stunning the posibilities of random blocks. 
+I´ve been surprised by  Roadrunner24. :-)
+","Click ""Green Flag"" and try to hit ""the mole"" with cursor arrow.",16962202,https://cdn2.scratch.mit.edu/get_image/project/236104490_480x360.png,2018-07-11T10:55:50.000Z,2018-07-11T11:17:10.000Z,2018-07-11T11:10:25.000Z,14,3,2,0,0,,
+236107300,Hit the Apple! day-6,"Getting Unstuck day-6
+by Massimo Marletta
+
+Same game as day-5 with a new feature: every 5 seconds each sprite moves to random position.
+","Hit the Apple and avoid the Shark!
+Move fast the Red-Arrow to hit the Apple but stay away from the vicious Shark!
+Use the Left Arrow key to increase speed, the Right Arrow key to decrease speed, the Up/Down Arrows to change direction.
+Every time you hit the Apple you will earn as many points as your speed; if you touch the Shark you will lose points.",4804940,https://cdn2.scratch.mit.edu/get_image/project/236107300_480x360.png,2018-07-11T11:33:39.000Z,2018-07-11T11:40:33.000Z,2018-07-11T11:37:39.000Z,9,1,0,0,0,,
+236109106,day 6 getting unstuck,This was fun but now I wonder how to use math and operators to make it more interesting and complex in the movement.,Guess what happens when Scratch cat runs into the balloon.. it doesn't pop.. but....,124064,https://cdn2.scratch.mit.edu/get_image/project/236109106_480x360.png,2018-07-11T11:59:58.000Z,2018-07-11T12:11:05.000Z,2018-07-11T12:09:40.000Z,4,0,0,0,0,,
+236109558,Unstuck 6 - Whack-a-Scratch,"Random made me think of a jack in the box, and that made me think of Whack-a-Mole, and that lead me here. I'm not sure if I intended to end up with a full game, but here it is. I always forget about the timer function, it came in handy here.","Click the green flag, use your mouse to move the hammer and space to whack the cat. You have 60 seconds to get as many points as you can. Don't worry, no actual Scratch Cats were hurt in this game!",7902,https://cdn2.scratch.mit.edu/get_image/project/236109558_480x360.png,2018-07-11T12:05:59.000Z,2018-07-11T12:12:45.000Z,2018-07-11T12:08:14.000Z,9,5,0,0,0,,
+236110828,Make My Happy - Getting Unstuck Day 6,,"Click on the green flag.
+Type a correct letter key and you are rewarded with a smile.
+
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->
+Getting Unstuck: Day 4 - #CreativeComputing
+
+Create a project that uses the random block.
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->",24583107,https://cdn2.scratch.mit.edu/get_image/project/236110828_480x360.png,2018-07-11T12:21:50.000Z,2018-07-11T12:25:19.000Z,2018-07-11T12:22:45.000Z,10,2,1,0,0,,
+236111896,Getting Unstuck: Day 6(fishing),,Funny fishing. Click a fishing rod to start fishing.,12775966,https://cdn2.scratch.mit.edu/get_image/project/236111896_480x360.png,2018-07-11T12:35:14.000Z,2018-07-11T14:33:45.000Z,2018-07-11T14:33:45.000Z,2,0,0,0,0,,
+236131678,Getting Unstuck: Day 6,"Silly pattern, and took far too long for such a simple effect",,24912473,https://cdn2.scratch.mit.edu/get_image/project/236131678_480x360.png,2018-07-11T15:25:09.000Z,2018-07-16T16:38:02.000Z,2018-07-11T15:34:18.000Z,6,1,0,0,0,,
+236064724,Getting Unstuck - Day 6,"Thank you to Scratcher noamkoren for the deck of cards sprite.
+
+The hardest part of this project was figuring out how to convert the sprite costume number into it's actual card value.
+
+If I had more time I'd like to include the ""war"" portion of the game for if there are two cards with the same value.","Getting Unstuck Day 6 - Create a project that uses the random block.
+
+Clear the scores with the green flag.
+Flip random cards using the spacebar.
+
+This is a stripped down version of the card game War.  It only counts ties instead of having a tie cause ""war"".  ",14400846,https://cdn2.scratch.mit.edu/get_image/project/236064724_480x360.png,2018-07-11T00:04:02.000Z,2018-07-11T15:42:43.000Z,2018-07-11T15:38:45.000Z,4,1,0,0,0,,
+175411553,Catch a fallling star,,"Use the arrow keys to move the bowl on the sides to catch the falling stars. 
+",25706025,https://cdn2.scratch.mit.edu/get_image/project/175411553_480x360.png,2017-09-19T18:11:33.000Z,2018-07-11T16:16:42.000Z,2018-07-11T16:16:42.000Z,12,0,0,0,0,,
+236029929,Getting Unstuck Day 6,"Ho realizzato questo progetto prendendo spunto da quello di antobellamazzobel https://scratch.mit.edu/projects/235998299/
+
+Credits images: https://www.flaticon.com
+",Fare clic sulla bandiera verde e cliccare i tasti freccia destra e sinistra,18667079,https://cdn2.scratch.mit.edu/get_image/project/236029929_480x360.png,2018-07-10T16:40:12.000Z,2018-07-11T16:33:37.000Z,2018-07-11T16:14:04.000Z,6,0,0,0,0,,
+236056190,Day 6 Unstuck,,,2356410,https://cdn2.scratch.mit.edu/get_image/project/236056190_480x360.png,2018-07-10T21:24:09.000Z,2018-07-12T01:23:57.000Z,2018-07-11T16:57:53.000Z,4,0,0,0,0,,
+236154313,Unstuck Day 6-Random Block,I learned how to use the random block along with how to add costumes for this project,"Click the flag, then click the magician. Each time you click, something else should appear",16010675,https://cdn2.scratch.mit.edu/get_image/project/236154313_480x360.png,2018-07-11T19:00:20.000Z,2018-07-11T19:09:07.000Z,2018-07-11T19:08:10.000Z,2,0,0,0,0,,
+236155099,Day 6 - Random,,"Click the green flag. 
+The background will randomly change as the timer increments.",17846897,https://cdn2.scratch.mit.edu/get_image/project/236155099_480x360.png,2018-07-11T19:09:10.000Z,2018-07-11T19:22:31.000Z,2018-07-11T19:14:05.000Z,2,0,0,0,0,,
+236159011,Day 6-Use a random block-Magic 8,Getting unstuck Day 6.Create a project that uses the random block. ,,16509596,https://cdn2.scratch.mit.edu/get_image/project/236159011_480x360.png,2018-07-11T19:57:15.000Z,2018-07-18T01:17:35.000Z,2018-07-11T20:47:14.000Z,15,4,1,0,0,,
+236165769,Unstuck - Day 6,"This project was a bit challenging to work out the timing of when to have the Scratch Cat say the name of the backdrop he was walking through.  Originally, I had him say something for 4 seconds each time the backdrop switched, but after the program ran for 30 seconds or so, the backdrops and speech bubble no longer matched up.  To remedy this, I had the background broadcast a message that prompts the Scratch Cat to announce his setting.  Sometimes, timing is everything...",Click on the green flag to take a tour of some of Scratch Cat's favorite places.,2456527,https://cdn2.scratch.mit.edu/get_image/project/236165769_480x360.png,2018-07-11T21:38:31.000Z,2018-07-11T21:48:42.000Z,2018-07-11T21:39:02.000Z,2,1,0,0,0,,
+236166845,Unstuck: Day 6,Por Filipe Mendes,"Pressionar a tecla espaço para lançar os dados.
+",2980392,https://cdn2.scratch.mit.edu/get_image/project/236166845_480x360.png,2018-07-11T21:59:06.000Z,2018-07-11T22:11:31.000Z,2018-07-11T22:10:09.000Z,8,0,0,0,0,,
+236054562,Random Magic,,Press on the wizard and watch him ,34227265,https://cdn2.scratch.mit.edu/get_image/project/236054562_480x360.png,2018-07-10T20:59:29.000Z,2018-07-11T22:16:07.000Z,2018-07-11T22:16:07.000Z,15,1,0,0,0,,
+236168038,Getting Unstuck [Day 6],This is Getting Unstuck Day 6!,Click the die to roll it,13594403,https://cdn2.scratch.mit.edu/get_image/project/236168038_480x360.png,2018-07-11T22:22:17.000Z,2018-07-11T22:28:52.000Z,2018-07-11T22:28:52.000Z,10,0,0,0,0,,
+236154244,Getting Unstuck - Day 6,"After looking over the sample scratch projects, I was inspired to create a random gambling game and the unpredictability of slot machines came to mind. If I had more time, I would make it more difficult to get 3 in a row (which is the reality of many slot machines) by making the program have some Artificial Intelligence. I also didn't create a ""LOSE"" page yet, but I can do so easily in the future.
+
+I used a cartoon image from the Li Casino Transportation Website. All sprites coded in this project were all created and hand drawn by me.","Press the green flag to begin the project! Next, press spin to start the slot machine. If all three images are the same, then your Earnings will go up by 3. However, every time you spin, you will lose 1 from earnings. What score do you want? How many spins are you willing to take to get there?",25334812,https://cdn2.scratch.mit.edu/get_image/project/236154244_480x360.png,2018-07-11T18:59:24.000Z,2018-07-12T00:24:46.000Z,2018-07-12T00:17:58.000Z,1,0,0,0,0,,
+236058662,#GettingUnstuck Day 6,This was fun creating and watching how the sprites move!,,18062705,https://cdn2.scratch.mit.edu/get_image/project/236058662_480x360.png,2018-07-10T22:07:52.000Z,2018-07-12T00:40:44.000Z,2018-07-12T00:39:58.000Z,4,0,0,0,0,,
+236141727,Unstuck_6,,"Click on the green flag and when the random number generator is a 1, Rocks will display, if a 2 is randomly chosen, paper will appear and if a 3 is chosen, scissors will appear. ",9694576,https://cdn2.scratch.mit.edu/get_image/project/236141727_480x360.png,2018-07-11T16:58:40.000Z,2018-07-12T00:48:26.000Z,2018-07-12T00:47:00.000Z,4,0,0,0,0,,
+236074436,Getting Unstuck Day 6,"I got stuck in one detail:
+
+1. How can I make that beans appear automatically after being sorted?
+
+Any suggestions?
+
+Anyway, I hope you like it.
+
+Music: Jarabe Tapatío de Jalisco.","Play ""The Mexican Loteria""! (or bingo) 
+
+Click on the green flag and follow instructions.
+
+To place bans just click on the image.",32493591,https://cdn2.scratch.mit.edu/get_image/project/236074436_480x360.png,2018-07-11T02:28:06.000Z,2018-07-13T03:32:52.000Z,2018-07-12T03:09:14.000Z,6,2,1,0,0,,
+236104923,Day 6: Raining Watermelons,"This was a good reminder of how to use clones!  
+
+I used three random variables to control where the watermelons start, the size of the watermelons and how fast the watermelons fall!","This was a quickie! 
+
+Just press the green flag and let the watermelons rain!",27658530,https://cdn2.scratch.mit.edu/get_image/project/236104923_480x360.png,2018-07-11T11:01:52.000Z,2018-07-12T03:19:33.000Z,2018-07-11T11:13:50.000Z,3,0,0,0,0,,
+236175378,Getting Unstuck Day 6 - Random Block,I was surprised how easy it was to make a random name generator.  This would be a great classroom resource - ditch the popsicle sticks and create your own random name generator!  ,Click on the green flag to start!  The 2 bats will move at random speeds - speeds will be displayed at the top of the screen.  Users can also click on the button to choose a random name.  ,27535268,https://cdn2.scratch.mit.edu/get_image/project/236175378_480x360.png,2018-07-12T00:45:06.000Z,2018-07-12T03:32:09.000Z,2018-07-12T03:22:32.000Z,8,1,1,0,0,,
+236138038,BATTITO D'AMORE!    DAY 3,"NON LO SO COME HO FATTO. 
+HO GUARDATO QUALCOSA, MA MI E' SEMBRATO COSI' DIFFICILE. 
+ALLORA HO DECISO DI METTERMI ALLA PROVA
+
+                           SENZA ""AIUTINI"" DA CASA!!!!","BASTA CLICCARE SULLA BANDIERINA....
+E CHE LA MAGIA ABBIA INIZIO!!!!",34259094,https://cdn2.scratch.mit.edu/get_image/project/236138038_480x360.png,2018-07-11T16:23:16.000Z,2018-07-11T17:11:18.000Z,2018-07-11T17:09:19.000Z,11,1,0,0,0,,
+186714191,Binomio fantastico,"Liberamente tratto da La Grammatica della fantasia di G. Rodari
+Etwinning project
+
+","Clicca sulla bandiera verde e sul Gianni Rodari per generare due parole che potrai usare per creare una storia.
+Click on Gianni Rodari to generate words useful to write a simple story",11312120,https://cdn2.scratch.mit.edu/get_image/project/186714191_480x360.png,2017-11-15T21:14:53.000Z,2018-07-20T07:55:21.000Z,2017-11-15T21:51:54.000Z,36,6,1,0,0,,
+236203527,Getting Unstuck Day6,,,17809789,https://cdn2.scratch.mit.edu/get_image/project/236203527_480x360.png,2018-07-12T09:15:55.000Z,2018-07-12T09:31:41.000Z,2018-07-12T09:31:41.000Z,3,0,0,0,0,,
+236208422,Random Art - Getting Unstuck - Day 6,,"Click the Green Flag to see some of the random art 
+The amount moved, the angle and the duration are all random",19641362,https://cdn2.scratch.mit.edu/get_image/project/236208422_480x360.png,2018-07-12T10:32:00.000Z,2018-07-12T10:36:13.000Z,2018-07-12T10:35:32.000Z,10,0,0,0,0,,
+236238156,free kick football random  ,I suppose if I had time I could make a complete game,"Click the green flag to start
+Press space to kick the ball at Anna",33472226,https://cdn2.scratch.mit.edu/get_image/project/236238156_480x360.png,2018-07-12T15:55:04.000Z,2018-07-12T15:57:03.000Z,2018-07-12T15:56:39.000Z,7,0,0,0,0,,
+236238818,HotPotato2,Thanks to mstone326 for his help on the Facebook Scratch Group. ,Click the green arrow to start.  This is a game of Hot Potato. The person holding the ball when the ball turns pink is out. Play to see who wins! ,2190314,https://cdn2.scratch.mit.edu/get_image/project/236238818_480x360.png,2018-07-12T16:02:36.000Z,2018-07-12T22:25:46.000Z,2018-07-12T16:03:14.000Z,10,0,0,0,0,,
+236237801,Getting Unstuck Day6,Book: Imparare a programmare ,,13275782,https://cdn2.scratch.mit.edu/get_image/project/236237801_480x360.png,2018-07-12T15:51:16.000Z,2018-07-12T17:02:40.000Z,2018-07-12T17:02:40.000Z,8,0,0,0,0,,
+236245032,COGLI LA MELA ROSSA!!!  DAY 6 ,"NON SONO SICURA DI AVER CENTRATO IL COMPITO...
+COMUNQUE HO GUARDATO UN TUTORIAL....POI HO CERCATO DI RIPRODURLO PERSONALIZZANDOLO.
+GRAZIE!","SCOPO DEL GIOCO: RACCOGLIERE SOLO LE MELE ROSSE.
+PER INIZIARE CLICCARE SULLA BANDIERA VERDE 
+POI USARE FRECCE DIREZIONALI DESTRA E SINISTRA.
+PER INIZIARE UN NUOVO GIOCO E RIPULIRE IL CAMPO ""PUNTI"" BASTA  TOCCARE LA BARRA SPAZIATRICE.",34259094,https://cdn2.scratch.mit.edu/get_image/project/236245032_480x360.png,2018-07-12T17:03:36.000Z,2018-07-12T17:06:57.000Z,2018-07-12T17:03:48.000Z,3,0,0,0,0,,
+236244987,Getting Unstuck6: on the beach,"Thanks to https://scratch.mit.edu/projects/236238156/
+","Press the green flag, after press the space key. Repeat",16573108,https://cdn2.scratch.mit.edu/get_image/project/236244987_480x360.png,2018-07-12T17:03:12.000Z,2018-07-13T08:53:56.000Z,2018-07-12T17:57:13.000Z,5,0,0,0,0,,
+236249335,Getting unstuck day 6,"I have practiced the random block to position the X-Y bug's coords.
+I enjoyed saving the sound of the ","Eat the bugs!
+Arrows to move",2680901,https://cdn2.scratch.mit.edu/get_image/project/236249335_480x360.png,2018-07-12T17:47:15.000Z,2018-07-12T18:25:54.000Z,2018-07-12T18:20:17.000Z,7,0,0,0,0,,
+236249847,getting unstuck day 6,"I have learn to use the operation of cordenates.
+
+",Usa las flechas para comerte al pez.,23020553,https://cdn2.scratch.mit.edu/get_image/project/236249847_480x360.png,2018-07-12T17:52:43.000Z,2018-07-12T18:28:30.000Z,2018-07-12T18:23:53.000Z,7,1,1,0,0,,
+217872616,Almondrian - Getting Unstuck day 6,"I usually use the random block at least once in every project, at least the biggest ones, so the exercise would be of little use for me. I had to find something new to learn or experiment with. Since I think the Scratch turtle miss a fill block, I took the chance to create a procedure that emulate it. 
+
+The perpendicular lines are drawn at random positions. Also the cells to fill with color are chosen in the same way.
+
+What I would have do with more time
+===========================
+I would have traced better the lines, with some thicker and layered an algorithm for drawing with a more realistic simulation.
+Actually the drawing are similar (read I utterly copied it) to https://www.tate.org.uk/art/artworks/mondrian-composition-with-yellow-blue-and-red-t00648
+
+The most difficult thing
+=================
+The real hurdle of this project was laying the lines. A really random choose does not do the trick as the lines appear too near each other, or the canvas is not used in his entirety. What I've done is to split the stage into columns (and rows) and tuning them with random adjustment to imitate the  feeling of a Mondrian composition.
+The result is quite satisfactory to me.
+
+@tarmelop for challenging me on creating a simple fill procedure for the scratch pen (I cheated, as I can fill just square and rectangles, but there is space for improvement)","Click on the green flag to generate a piece of auto generated art inspired to the Mondrian works.
+When you hear the jingle the picture is done and the program is ready for another run.
+
+The results are really far from the formal beauty of the Mondrian composition but, at least, I do an heavy use of the random block!",2458985,https://cdn2.scratch.mit.edu/get_image/project/217872616_480x360.png,2018-04-21T23:12:11.000Z,2018-07-14T21:13:44.000Z,2018-07-12T20:36:40.000Z,19,9,2,0,0,,
+235970114,Unstuck Day 6 - Random Block,"I created this project as a way to test the random blocks alongside variables and lists. It seemed like a good fit for generating some quick design challenges for use with students. The values in the list need some tweaking, but I think the idea could work. Do you have other ideas for what to add to my list items?","Challenge:
+Create a project that uses the random block. 
+
+Use this design challenge generator to come up with potential prompts. Click on the ""Generate the Design Problem"" button to create a sentence.",25286049,https://cdn2.scratch.mit.edu/get_image/project/235970114_480x360.png,2018-07-10T04:57:20.000Z,2018-07-15T15:43:32.000Z,2018-07-12T21:04:52.000Z,4,0,0,0,0,,
+236265649,Unstuck Day 6,"This was a little tough, only used variables before for keeping score in games.  Grateful for those who share as I totally learned something new today!  I cannot wait to show this to my students!  We can make challenges to use with the students at the elementary schools!","Unstuck Day 6
+
+Try to get 10 questions correct in a row.  Good practice for new addition learners.",11885888,https://cdn2.scratch.mit.edu/get_image/project/236265649_480x360.png,2018-07-12T21:14:32.000Z,2018-07-12T21:31:37.000Z,2018-07-12T21:25:02.000Z,6,1,0,0,0,,
+236270946,unstuck 6 random,This was very challenging.I,Click the green flag. Use the arrow keys to move the apple.,16426717,https://cdn2.scratch.mit.edu/get_image/project/236270946_480x360.png,2018-07-12T22:57:33.000Z,2018-07-13T00:15:26.000Z,2018-07-13T00:12:09.000Z,5,0,0,0,0,,
+236107509,Getting Unstuck: Day 6,,Click space key to create a clone of myself in random places!,599612,https://cdn2.scratch.mit.edu/get_image/project/236107509_480x360.png,2018-07-11T11:36:22.000Z,2018-07-13T00:46:05.000Z,2018-07-13T00:45:00.000Z,4,0,0,0,0,,
+236281139,Getting Unstuck Day 6: The Fortune Teller,"Painting from the MET Public Domain Images
+The Fortune-Teller
+Georges de La Tour
+
+Challenge:  thinking of a way to use the random block with a piece of art. Peek inside to see how I used it!","Click on the Green Flag to start.
+Type in your name and get your fortune told!",1353497,https://cdn2.scratch.mit.edu/get_image/project/236281139_480x360.png,2018-07-13T02:09:01.000Z,2018-07-13T02:32:04.000Z,2018-07-13T02:30:20.000Z,10,5,1,0,0,,
+236286039,Frog Catch Butterfly copy copy,"This is the first time I've been able to create a scrolling background to create the appearance of movement. I've tried to make it so the frog will randomly catch the butterfly at any time between 5 and 20 seconds but the butterfly keeps getting ""caught"" at 5 seconds. I haven't been able to fix this glitch. Suggestions welcome!",Click on the green flag and wait to see what happens. Play again to see what happens again.,32833725,https://cdn2.scratch.mit.edu/get_image/project/236286039_480x360.png,2018-07-13T03:51:45.000Z,2018-07-13T04:28:23.000Z,2018-07-13T04:28:23.000Z,2,0,0,0,0,,
+236291025,06 Getting Unstuck - Random,"I used the random block to manipulate where the aliens would appear, and what colour they would appear as.
+I could have also used it to change the time intervals.","How many aliens can you catch in 30 seconds? Click on them to catch them!
+
+Click on the green flag to begin.",5401184,https://cdn2.scratch.mit.edu/get_image/project/236291025_480x360.png,2018-07-13T05:50:36.000Z,2018-07-13T06:13:00.000Z,2018-07-13T06:13:00.000Z,5,1,0,0,0,,
+236294075,Getting Unstuck Day 6,"* Made for Getting Unstuck Day 6. This is based on an earlier project I did for Hull City of Culture in 2017. It now has added randomness. I'd like to add more varied fountain shapes.
+* Thanks to @sandboneill for a good explanation of colour effects in this project https://scratch.mit.edu/projects/2653282
+* This project was inspired by the new water fountains in Queen Victoria Square, Hull. At night they are lit from beneath with different colours.
+* See them here: https://youtu.be/bhtWcZxUr0M
+* The building to the right is the Hull City Hall and the one behind and to the left is Ferens Art Gallery.
+* The square is named for the statue of Queen Victoria to the far left.","Press the Green Flag to go and watch the fountains.
+Press the space bar to change the colour a randomly picked fountain.
+Challenges:
+Can you get Scratch to dance or play in the water?
+Can you get the fountains to go up and down in different ways? If you've seen the fountains, you'll know what I mean. Take a look at the video in the notes.",287832,https://cdn2.scratch.mit.edu/get_image/project/236294075_480x360.png,2018-07-13T06:48:30.000Z,2018-07-16T19:48:01.000Z,2018-07-13T07:16:46.000Z,5,0,0,0,0,,
+115628224,Getting Unstuck #6 Buone vacanze,"sondra conte
+#GettingUnstuck",Premi la bandierina verde,17320587,https://cdn2.scratch.mit.edu/get_image/project/115628224_480x360.png,2016-07-05T16:59:04.000Z,2018-07-13T15:29:54.000Z,2016-07-05T18:13:18.000Z,5,0,0,0,0,,
+236341178,day 6 of unstuck,I decided to try a number of blocks that the random variable would be able to control.  ,,25095252,https://cdn2.scratch.mit.edu/get_image/project/236341178_480x360.png,2018-07-13T17:41:10.000Z,2018-07-13T18:03:28.000Z,2018-07-13T18:02:51.000Z,3,0,0,0,0,,
+236241684,Getting Unstuck – Day 6,"Made for Day 6 of Getting Unstuck:
+
+Create a project that uses the random block.",An underwater math race! Answers questions to reach the finish line first.,588648,https://cdn2.scratch.mit.edu/get_image/project/236241684_480x360.png,2018-07-12T16:31:13.000Z,2018-07-13T19:39:01.000Z,2018-07-13T19:39:01.000Z,4,0,0,0,0,,
+236360591,Catch the Sprite day 6,,"USE YOUR MOUSE TO CLICK ON THE FISH.
+HOW MANY FISH CAN YOU CATCH IN 10 SECONDS?",11349852,https://cdn2.scratch.mit.edu/get_image/project/236360591_480x360.png,2018-07-13T22:54:48.000Z,2018-07-13T23:08:59.000Z,2018-07-13T23:08:16.000Z,2,0,0,0,0,,
+236369169,Unstuck Day 6 project,"I was inspired by all of the composers I studied in college who used randomness to create beautiful (and sometime strange) music. #unstuck #creativecomputing #random
+
+Thanks to the Scratch Wiki for help with the numbers associated with note names: https://en.scratch-wiki.info/wiki/Play_Note_()_for_()_Beats_(block) ","Click the flag then prepare yourself for some random music! (The music will start at a random time, so be prepared to wait a few seconds!)",17786521,https://cdn2.scratch.mit.edu/get_image/project/236369169_480x360.png,2018-07-14T01:49:34.000Z,2018-07-15T02:36:23.000Z,2018-07-14T02:07:31.000Z,6,1,0,0,0,,
+236379573,Getting Unstuck: Day 6,Andrés Gil Ruiz.,"Put the headband to the cat.
+
+I've learn to use the timer.",27636310,https://cdn2.scratch.mit.edu/get_image/project/236379573_480x360.png,2018-07-14T05:59:22.000Z,2018-07-14T06:23:41.000Z,2018-07-14T06:22:33.000Z,4,0,0,0,0,,
+236389637,Unstuck 6,Adapted from some ideas I learned at work. Thanks to the folks at The Mind Lab in NZ. www.themindlab.com ,You need the camera to be active. Swipe at a cat and get a positive score. Swipe at a dog and get a negative score. ,18827386,https://cdn2.scratch.mit.edu/get_image/project/236389637_480x360.png,2018-07-14T10:11:01.000Z,2018-07-14T10:20:54.000Z,2018-07-14T10:11:26.000Z,1,0,0,0,0,,
+236400149,Day6 Crazy Math Cat with crayons,I wanted to change the size of each unit randomly but the change size blocks I have found so far only work on the pen and sprite. Will explore some other projects to find the answer.,,34099462,https://cdn2.scratch.mit.edu/get_image/project/236400149_480x360.png,2018-07-14T14:27:52.000Z,2018-07-14T15:09:30.000Z,2018-07-14T14:52:48.000Z,6,0,0,0,0,,
+236393088,Getting Unstuck: Day 6,"This is my project for Day 6 of the Getting Unstuck programming challenge. The random block is rather simple to use and can be useful in many more or less complex projects.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621
+","Create a project that uses the random block.
+
+The computer chooses a random number from 1 to 10. The aim of the game is to guess the number chosen in the fewest possible attempts.",34314391,https://cdn2.scratch.mit.edu/get_image/project/236393088_480x360.png,2018-07-14T11:42:06.000Z,2018-07-14T16:04:50.000Z,2018-07-14T15:24:00.000Z,2,0,0,0,0,,
+236341339,Getting Unstuck Day 6 remix,"Grazie a Dalvejen per:
+Løs det - Dag 6 - Brug Random / Tilfældighed (Progetto Originale)
+Ho cambiato stage(Spiaggiadel mio salento Puglia) e ho aggiunto  i blocchi che portano ad azzerare il punteggio per la partita successiva.","Ram boldene med vand fra vandslangen!
+
+Hose down the balls that appear at random positions",15572972,https://cdn2.scratch.mit.edu/get_image/project/236341339_480x360.png,2018-07-13T17:43:13.000Z,2018-07-18T07:59:34.000Z,2018-07-14T15:29:41.000Z,1,0,0,0,0,235782830,235782830
+236405548,Getting Unstuck Day 6,"Getting Unstuck Day 6 Reflection:
+Something that surprised me about this project is how long it took me...I thought I had a pretty straightforward idea of what I wanted to do, but it didn't work at all the way I wanted it to.  Writing scripts for interacting sprites was harder than I thought it would be.  I surprised my family (but mostly myself!) because my preschool-aged son was fascinated by this project and wanted to help me.  I was surprised at how much it held his attention.  ","Click the green button to start.  Use the arrow keys to move the frog to catch the bug, but watch out for the dragon.  How many bugs can you catch before the dragon gets you?",30095573,https://cdn2.scratch.mit.edu/get_image/project/236405548_480x360.png,2018-07-14T16:20:34.000Z,2018-07-14T21:41:07.000Z,2018-07-14T21:41:07.000Z,1,0,0,0,0,,
+236432372,Final Project ,,Press any key to generate a random color.,33988811,https://cdn2.scratch.mit.edu/get_image/project/236432372_480x360.png,2018-07-15T03:05:25.000Z,2018-07-25T12:49:12.000Z,2018-07-15T03:18:38.000Z,5,0,0,0,0,,
+236437305,I PESCI BALLERINI,"PROGETTO CREATO per Getting Unstuck, giorno 6.","CLICCA sulla bandierina verde per far nuotare i pesciolini, tieni premuto un tasto qualunque per fermarli.",14651357,https://cdn2.scratch.mit.edu/get_image/project/236437305_480x360.png,2018-07-15T05:34:01.000Z,2018-07-15T06:25:21.000Z,2018-07-15T06:24:38.000Z,5,0,0,0,0,,
+236404286,6 : Jokes - can you guess the answer?,"I got the jokes from this web site: https://frugalfun4boys.com/2015/04/30/hilarious-jokes-for-kids/ 
+
+And the paper clipart from here: http://www.clipartpanda.com/
+Other clipart from here: https://openclipart.org/
+
+In this project I discovered how to use the alignment tool for the different costumes (how to get the text displayed on the paper). I started out with one idea and it evolve to this. 
+",Click on the green flag and follow the instructions... ,1252137,https://cdn2.scratch.mit.edu/get_image/project/236404286_480x360.png,2018-07-14T15:54:04.000Z,2018-07-15T08:04:28.000Z,2018-07-15T07:54:18.000Z,6,2,0,0,0,,
+236451086,Magic 8 ball,"This is obviously inspired by the magic 8 ball toy. I've never seen one in Italy. The first time I saw one was in ""Sam & Max Hit the Road"" point-n-click adventure.
+
+Aaaargh Scratch developers, why did you put such a poor support for text? Maybe I overlooked at a simpler solution, but it was very annoying to write every single label. Everything in Scratch works very well and it's an exceptional piece of software and art, except text management :\ :D
+
+At last I did all the projects I left behind!","Click on the ball, read the message!",12148328,https://cdn2.scratch.mit.edu/get_image/project/236451086_480x360.png,2018-07-15T12:04:04.000Z,2018-07-17T23:45:35.000Z,2018-07-15T13:13:32.000Z,11,2,0,0,0,,
+236455570,Flying cat (Random),,,34083495,https://cdn2.scratch.mit.edu/get_image/project/236455570_480x360.png,2018-07-15T14:02:56.000Z,2018-07-15T14:11:47.000Z,2018-07-15T14:10:46.000Z,6,1,1,0,0,,
+236461276,#GettingUnstuck6 - Random directions and colors,"All sprites and costumes taken from the Scratch repository.
+
+I decided to play with random directions and colors to create this 'random' rainbow painter :)","Press green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 6.
+
+""Create a project that uses the random block.""",1112440,https://cdn2.scratch.mit.edu/get_image/project/236461276_480x360.png,2018-07-15T16:18:01.000Z,2018-07-18T16:15:19.000Z,2018-07-15T16:33:24.000Z,9,2,0,0,0,,
+236473680,Getting Unstuck Day 6 LK,,Click on the green flag to start the fireworks show.,27094795,https://cdn2.scratch.mit.edu/get_image/project/236473680_480x360.png,2018-07-15T21:15:49.000Z,2018-07-15T22:55:30.000Z,2018-07-15T22:55:29.000Z,6,0,0,0,0,,
+236457026,Rain ,,Getting Unstuck: Day 6 click the flag and press R FOR BAD WEATHER,3602053,https://cdn2.scratch.mit.edu/get_image/project/236457026_480x360.png,2018-07-15T14:36:43.000Z,2018-07-16T16:40:55.000Z,2018-07-16T13:20:19.000Z,6,2,0,0,0,,
+236557299,Simple Addition (Getting Unstuck #6),"Gettind Unstuck: Day 6
+Create a project that uses the random block. 
+
+I had previously made a multiplication project (with the help of https://www.youtube.com/watch?v=GkewBLjexd0 ), so this time I decided to make an addition project using two random number variables. At first I used the same random number variable for both numbers in the addition problem (kept getting 2+2, 5+5, 10+10, etc.). Took me a second to realize I needed two different random number variables..oops!",Click on the sprite to practice simple addition. ,22105327,https://cdn2.scratch.mit.edu/get_image/project/236557299_480x360.png,2018-07-16T18:03:08.000Z,2018-07-16T18:34:23.000Z,2018-07-16T18:34:23.000Z,5,0,0,0,0,,
+236596353,Getting Unstuck: Day 6,,"Click on the Green Flag and Find as many coins as you can
+
+USE YOUR ARROW TO GET COINS",34283191,https://cdn2.scratch.mit.edu/get_image/project/236596353_480x360.png,2018-07-17T03:37:46.000Z,2018-07-31T00:55:53.000Z,2018-07-17T03:50:41.000Z,5,1,1,0,0,,
+236604364,Getting Unstuck - Day 6,"Today's challenge was to use the random block.  The two numbers on the board are picked at random when the green flag is clicked.
+
+I will be teaching an Algebra class with coding in the fall, so this is the extent of my Scratch use prior to starting the coding challenge.  I have to give a huge shoutout to @DrShoe32 for teaching me how to code the math portions!","Click on the green flag to show a multiplication problem on the board.
+
+Then click on the cat to find out what the answer is.
+
+Click on the green flag again for a new problem.",24696341,https://cdn2.scratch.mit.edu/get_image/project/236604364_480x360.png,2018-07-17T06:16:41.000Z,2018-07-17T06:48:27.000Z,2018-07-17T06:38:59.000Z,4,0,0,0,0,,
+212218889,Magic beetle remixCar,Partendo dfa una idea di Andrea Ferraresso,,13575540,https://cdn2.scratch.mit.edu/get_image/project/212218889_480x360.png,2018-03-24T06:41:16.000Z,2018-03-29T17:27:06.000Z,2018-03-24T06:56:04.000Z,21,4,0,0,0,212185190,212185190
+236544735,Palla random,Getting Unstuck  day 6.,Click on the green flag.,22217887,https://cdn2.scratch.mit.edu/get_image/project/236544735_480x360.png,2018-07-16T15:57:44.000Z,2018-07-17T12:47:50.000Z,2018-07-17T12:41:25.000Z,4,0,0,0,0,,
+236642379,Getting Unstuck day 6,,green flag: 5 random  numbers from 0 to 9,17636749,https://cdn2.scratch.mit.edu/get_image/project/236642379_480x360.png,2018-07-17T14:34:55.000Z,2018-07-17T15:06:40.000Z,2018-07-17T15:04:09.000Z,8,0,0,0,0,,
+236731878,Getting Unstuck - dag 6,,Click space to roll the dices.,25631396,https://cdn2.scratch.mit.edu/get_image/project/236731878_480x360.png,2018-07-18T10:28:27.000Z,2018-07-18T11:04:40.000Z,2018-07-18T11:04:17.000Z,5,0,0,0,0,,
+236737663,day6,Create a project that uses the random block. ,,24618980,https://cdn2.scratch.mit.edu/get_image/project/236737663_480x360.png,2018-07-18T12:00:54.000Z,2018-08-07T15:47:24.000Z,2018-07-18T12:01:29.000Z,3,0,0,0,0,,
+236750150,Unstuck Day 6 remix,grazie a her_name per progetto originale,Press any key to generate a random color.,16804071,https://cdn2.scratch.mit.edu/get_image/project/236750150_480x360.png,2018-07-18T14:17:52.000Z,2018-07-18T14:23:00.000Z,2018-07-18T14:22:23.000Z,2,0,0,0,0,236432372,236432372
+236770416,Getting Unstuck Day 6 - random block,"Created for Getting Unstuck Day 6 using the random block.
+
+Stole the idea from https://scratch.mit.edu/projects/236208422/ and modified it a little.
+
+I want to learn how to draw circles and then use the random block to draw circles of different sizes.","Click the green flag to start drawing random lines and colors. 
+
+Press the space bar to clear the screen.",2803184,https://cdn2.scratch.mit.edu/get_image/project/236770416_480x360.png,2018-07-18T17:44:34.000Z,2018-07-18T18:18:14.000Z,2018-07-18T18:15:06.000Z,4,0,0,0,0,,
+236837588,Musical Cake,,"Click on the Green Flag to begin.
+
+Click on the cake when prompted (can be clicked multiple times).",1196430,https://cdn2.scratch.mit.edu/get_image/project/236837588_480x360.png,2018-07-19T11:15:04.000Z,2018-07-19T11:36:18.000Z,2018-07-19T11:35:32.000Z,1,0,0,0,0,,
+236860177,Roll the Dice,"Although not the most creative idea (as many of my fellow Scratchers did the same), I really enjoyed challenging myself to come up with a way to do this.  If I had more time, I would really like to add sound effects, make 3D dice (that actually turn) and maybe even have the program say the total of the dice after the roll.
+
+Update - I am stuck.  I decided to add a dice rolling sound effect to my project, but for some reason the sound does not stop when it receives message1.  Any advice?","Press the Space Bar to ""roll"" the dice.",2502473,https://cdn2.scratch.mit.edu/get_image/project/236860177_480x360.png,2018-07-19T15:47:05.000Z,2018-07-28T23:03:34.000Z,2018-07-19T16:00:55.000Z,3,0,0,0,0,,
+236874218,Day 6 - Guess the Number,"I decided to use the random block to pick a random number. If I had more time I'd restrict the number of guesses or allow the person to ""give up.""  I'd also make more exciting things happen when you guess it! :)",Click the green arrow and follow the instructions to guess the number. ,31044612,https://cdn2.scratch.mit.edu/get_image/project/236874218_480x360.png,2018-07-19T18:21:18.000Z,2018-07-19T20:33:12.000Z,2018-07-19T19:12:34.000Z,2,0,0,0,0,,
+236593934,Random Walk,"Having heard of 'random walk,' this Day 6 Getting Unstuck project seemed like just the place to try it out -- with thanks to Daniel Schiffman for his Processing description as well as the 'assignment' he gives at the end of the video. In this posted version the step size and pen shading change together.
+
+Already I have changed how this works many times -- currently it is less interactive than it had been, but it made it quicker to explore possibilities!","Day 6 Getting Unstuck - playing with Random Walk
+Click the green flag for 1000 steps of random walk.
+Press the green flag again to add to drawing.
+Press the space bar to clear and start over.
+
+Run in turbo mode to add to the picture more quickly.
+
+At the moment, the color is in shades of green -- feel free to experiment with pen color, ETC!",52693,https://cdn2.scratch.mit.edu/get_image/project/236593934_480x360.png,2018-07-17T02:50:33.000Z,2018-07-20T14:49:15.000Z,2018-07-20T04:54:45.000Z,4,0,1,0,0,,
+236947243,Unstuck Day 6,Thanks to Mme_Roome for her idea.  I added a counting down element so that the game would be over with 10 correct answers.   ,Click on the green flag and answer the randomly generated addition questions.  If you get 10 answers correct you win the game,14232182,https://cdn2.scratch.mit.edu/get_image/project/236947243_480x360.png,2018-07-20T15:07:49.000Z,2018-07-20T16:02:05.000Z,2018-07-20T16:02:05.000Z,4,1,0,0,0,,
+230444324,Getting Unstuck Day 6 - The Random Artist,"This particular project came to in the middle of the night. I originally started drawing a Helix and come up with the idea to create an original piece of art using Scratch. 
+
+I was surprised that my creativity was able to run wild and come up with the program. It took me a long time to figure it out but in the end, I was very proud of my work. 
+
+I am always surprised by my city's Microclimates. It can be foggy in one part of the city and gorgeous downtown. Today I surprised my daughters. ",Click on the green flag to see an original piece of an abstrct art from the Scratch cat. ,30595057,https://cdn2.scratch.mit.edu/get_image/project/230444324_480x360.png,2018-06-25T06:22:09.000Z,2018-07-20T20:21:31.000Z,2018-06-25T16:24:09.000Z,14,1,0,0,0,,
+236532513,day-6,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/236532513_480x360.png,2018-07-16T14:06:36.000Z,2018-07-21T10:36:13.000Z,2018-07-21T10:36:12.000Z,5,1,0,0,0,,
+237074597,OwlMorton-Unstuck6,,,21214926,https://cdn2.scratch.mit.edu/get_image/project/237074597_480x360.png,2018-07-22T15:01:03.000Z,2018-07-22T15:11:43.000Z,2018-07-22T15:11:43.000Z,3,1,0,0,0,,
+237087384,Unstuck #6 The Race,"Unstuck # 6 - Random 
+
+",Click on the green flag to start the race.,26618044,https://cdn2.scratch.mit.edu/get_image/project/237087384_480x360.png,2018-07-22T19:59:48.000Z,2018-07-22T20:37:36.000Z,2018-07-22T20:34:33.000Z,4,1,0,0,0,,
+237139830,Snakes and Ladders 2018,"I've been working on this 'on and off' for quite a long time, but 'Get Unstuck' got me motivated enough to get it finished!! As several contributors did, I started with some dice - inspired by an OLD Commodore 64 game (Monopole), but I took it a step further and integrated the dice into a full game. I think there's a lot of learning in translating the rules of a board game into a working computer programme.
+
+NB - it's not guaranteed to be bug-free ! :-)
+
+The game 'board' is from https://www.everypixel.com/image-4479851198415772260; I'm sure I've borrowed some code or inspiration from other sources along the way but can't currently remember where. I know https://scratch.mit.edu/projects/744/#editor was a useful place to start but my project has mutated quite a bit since I first started, so I don't think it qualifies as a re-mix.
+
+I'm sure there are more efficient ways to do some of this and I'd love to see if anyone can optimise it. I'd love to adapt as much of this project as possible to other classic board games and I'm open to collaboration!","Instructions are included but click the green flag to run, then press space to start the game. Click the green button to 'roll the dice'.",3094436,https://cdn2.scratch.mit.edu/get_image/project/237139830_480x360.png,2018-07-23T11:54:39.000Z,2018-07-23T13:08:02.000Z,2018-07-23T11:55:09.000Z,18,4,1,0,0,,
+237164809,Getting Unstuck: Day 6,"I live in Inverness, Scotland, so went with a 'Nessie' theme!
+
+Thank you cupcakerunner for suggesting the music!",Click the green flag to start!,34197892,https://cdn2.scratch.mit.edu/get_image/project/237164809_480x360.png,2018-07-23T16:14:45.000Z,2018-07-24T07:11:13.000Z,2018-07-23T16:15:41.000Z,3,1,1,0,0,,
+237207999,Día 6,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/237207999_480x360.png,2018-07-24T01:44:16.000Z,2018-07-24T01:45:35.000Z,2018-07-24T01:45:35.000Z,4,1,0,0,0,,
+237266558,Getting Unstuck - Day 6,I am having trouble resetting the answer once it asks a question.  I would love to learn how to do that! ,,17812875,https://cdn2.scratch.mit.edu/get_image/project/237266558_480x360.png,2018-07-24T15:44:23.000Z,2018-07-24T16:35:56.000Z,2018-07-24T16:35:18.000Z,2,1,0,0,0,,
+237271000,Getting Unstuck - Day 6 - Random,"Getting Unstuck - Day 6 - using a random block
+
+https://us18.campaign-archive.com/?u=5dd4d8b32f719a30cbde507c6&id=32a761e19c
+
+""The constant happiness is curiosity.""—Alice Munro","Press Green Flag
+Try to click on the I Love Scratch Heart",8880372,https://cdn2.scratch.mit.edu/get_image/project/237271000_480x360.png,2018-07-24T16:34:11.000Z,2018-07-24T22:57:08.000Z,2018-07-24T16:40:34.000Z,7,1,0,0,0,,
+236643296,Getting Unstuck: Day 6,,,28439839,https://cdn2.scratch.mit.edu/get_image/project/236643296_480x360.png,2018-07-17T14:42:49.000Z,2018-07-25T13:44:27.000Z,2018-07-25T13:44:27.000Z,5,1,0,0,0,,
+237600151,Day 6 Random,,,34331091,https://cdn2.scratch.mit.edu/get_image/project/237600151_480x360.png,2018-07-28T01:31:23.000Z,2018-07-28T03:42:22.000Z,2018-07-28T03:42:22.000Z,5,1,0,0,0,,
+237737900,Esplosioni di cuori,,"Schiaccia la barra spaziatrice per iniziare e tieni premuta la barra spaziatrice per far espldere il cuore.
+Premi la lettera ""a"" per fermare tutto.",14096918,https://cdn2.scratch.mit.edu/get_image/project/237737900_480x360.png,2018-07-30T06:27:49.000Z,2018-08-02T22:30:14.000Z,2018-08-02T15:41:54.000Z,3,1,0,0,0,,

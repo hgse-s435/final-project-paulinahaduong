@@ -1,0 +1,736 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+236143037,Getting Unstuck Day 8: Fish Chomp remix,"Seagull and clams from Creative Commons image search.
+
+The Day 8 challenge reminded me of a student activity page in the Creative Computing Curriculum Guide (http://scratched.gse.harvard.edu/guide/) and I wanted to see how it might feel for a student to go through the activity on their own.
+
+I changed the way the user manipulates the big fish (I thought it was awkward to use the mouse from a laptop), and added two new levels. I was trying to recreate a game that I loved when I was little (https://www.youtube.com/watch?v=dZUXImHsEIQ) for level 3.
+
+There are still some buggy things (such as the creepy kind-of-dead-looking seagull), and I hope to come back to this project later to smooth them out!","Guide the big fish with the arrow keys to eat the little fish. See how many little fish you can catch!
+
+Level up at a score of 10, 20, and 30.",19163721,https://cdn2.scratch.mit.edu/get_image/project/236143037_480x360.png,2018-07-11T17:10:33.000Z,2018-07-21T21:01:39.000Z,2018-07-11T18:28:16.000Z,26,12,1,0,0,10859244,10859244
+236154094,"Know Your Mollusks! (Getting Unstuck, Day 8)","For Day 8 of gettingunstuck.gse.harvard.edu
+
+I had SO MUCH FUN making this. I was walking down the street with @jsh, when we saw a huge pile of abandoned mussels on the side of the road. I asked @jsh what they were and he said, ""I don't really know my mollusks!"" And thus a project was born!
+
+I used counting in two ways in this project: to determine when the player has reached the target of 10 mollusks, and then to report out the count for each of the 3 types of mollusks at the end (if you win).
+
+I searched for ""harp music"" on Scratch and found @lkaufm's ""Irish Harp Interactive"": https://scratch.mit.edu/projects/53006916/
+I found the images from wikimedia, searching for ""illustrations [harpist/cat/clam/etc.]"".","Press the green flag to start. Then, correctly identify 10 mollusks!",39526,https://cdn2.scratch.mit.edu/get_image/project/236154094_480x360.png,2018-07-11T18:57:42.000Z,2018-07-12T18:29:45.000Z,2018-07-12T10:16:11.000Z,48,18,9,0,0,,
+236160705,Catch 'em all,"@scmb1 helped me debug the repeated crashing problem - I've learned a lot about background screen refresh! When to use it! When to not! 
+
+The scrolling platformer tutorial from @getbent was incredibly useful. This was my first project with a scrolling background that I made myself, instead of remixing. :) 
+
+With more time, I would also have the clones move with the background...maybe something I'll implement later on a break!","Left and right arrow keys to move around, space to jump. Try to catch all the Pokemon. There are some surprise rare Pokemon that are worth more points! Also Team Rocket is lurking...if you run into them they'll steal your Pokemon!",2745846,https://cdn2.scratch.mit.edu/get_image/project/236160705_480x360.png,2018-07-11T20:21:02.000Z,2018-07-12T11:46:43.000Z,2018-07-11T20:21:21.000Z,35,10,0,0,0,,
+236174423,Strong Cat,"This project was created for Day 8 of Getting Unstuck. The essence of today's challenge was to use a counter and make something happen when a particular number is reached. In this case, the counter represents raw feline strength, as expressed through your mouse clicks. 
+
+Update: Now in black and white, for better ambiance. 
+
+Music: James Scott, ""Frog Legs Rag""; Scott Joplin, ""The Entertainer""",Click the green circle and see what happens.,56239,https://cdn2.scratch.mit.edu/get_image/project/236174423_480x360.png,2018-07-12T00:28:03.000Z,2018-07-12T12:05:08.000Z,2018-07-12T10:25:53.000Z,53,11,3,0,0,,
+236143048,Playing with Plants!,"Thanks to:
+eebeec for the plant sprite!
+https://scratch.mit.edu/projects/85226318/#player
+
+I gave myself a challenge to not draw my own sprites. I couldn't find a fitting plant in the sprite library, and @paulinah suggested I take a look at other plant projects for sprites! I was delighted to find the base sprite for this plant by @eebeec! (I did let myself make some (relatively) small costume edits in the paint editor. (and I made the lil drop in the paint editor)
+
+This is my first game (and my first time using clones!) and it was so much fun to make! This definitely feels like the kind of meeting of idea + challenge that I was aspiring for with yesterday's project. Maybe I need a Getting Unstuck strategy that's something like ""Remember Not Every Project Will Feel Good (and they shouldn't!)"" I probably am not taking risks if I love *everything* I make. I LOVE THIS GAME, THO!
+
+That being said, I would like to play around with how much water the plant would like to have for healthy hydration (and the corresponding too dry/too wet feedback). I'd also like to add a ""water level"" meter.
+
+","After pressing the green flag, press the space bar and use the left and right arrow to move the plant to catch water drops to keep the plant well-watered. Be careful not to over or under water!
+
+What ideas do you have for continued work on the game? When playing, what are you wishing were part?",25705937,https://cdn2.scratch.mit.edu/get_image/project/236143048_480x360.png,2018-07-11T17:10:38.000Z,2018-07-13T15:25:47.000Z,2018-07-12T10:50:15.000Z,92,22,6,0,0,,
+236208542,Unstuck Day 8: Using Variables,"I made this project in response to the prompt for Challenge #8-using variables- of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+Reflections: Putting this little game together made sense as I went along. The only thing I would like to work on a little is making the trajectory of the objects more erratic as they roll so they would be harder to click on. ",Save the picnic! Click the green flag and follow the instructions to play.,214174,https://cdn2.scratch.mit.edu/get_image/project/236208542_480x360.png,2018-07-12T10:33:34.000Z,2018-07-12T11:30:42.000Z,2018-07-12T11:22:59.000Z,19,6,2,0,0,,
+236210619,Getting Unstuck: Day 8,,Use your mouse to move the platform do not let the ball touch the green line. Every 5 points you score the background changes.,24340467,https://cdn2.scratch.mit.edu/get_image/project/236210619_480x360.png,2018-07-12T11:05:31.000Z,2018-07-12T11:52:49.000Z,2018-07-12T11:51:03.000Z,24,11,4,0,0,,
+236212665,Getting Unstuck Day 8,"I haven't spent a lot of time with this, but it would be fun to add lots more interactive items that respond to different values for the variable. As I type this I've just had an idea to add the sun sprite to the project so I'll do that now!",Oh it's such a grey day. Help make it brighter by clicking away those clouds. ,4610900,https://cdn2.scratch.mit.edu/get_image/project/236212665_480x360.png,2018-07-12T11:39:17.000Z,2018-07-12T21:07:54.000Z,2018-07-12T12:04:39.000Z,23,9,1,0,0,,
+236215446,#GettingUnstuck_8,I´d like to add more animals and different variables,,16962202,https://cdn2.scratch.mit.edu/get_image/project/236215446_480x360.png,2018-07-12T12:20:10.000Z,2018-07-12T12:45:05.000Z,2018-07-12T12:43:53.000Z,12,1,0,0,0,,
+236213529,Getting Unstuck Day 8,"I created a variable as a counter to count up to 10 and then the cat runs off the find the mouse.  I am so much more confident with using costumes and timings.
+I wanted to use an ""if"" with the counter but I wasn't sure how to do this. Another thing to add to my list of things to try out next week.","Playing hide and seek.
+Click the flag to start the cat counting.  Will he find the mouse?",3297086,https://cdn2.scratch.mit.edu/get_image/project/236213529_480x360.png,2018-07-12T11:52:58.000Z,2018-07-12T14:13:34.000Z,2018-07-12T12:45:18.000Z,13,4,0,0,0,,
+236217054,Getting Unstuck #8,,,18174236,https://cdn2.scratch.mit.edu/get_image/project/236217054_480x360.png,2018-07-12T12:40:39.000Z,2018-07-12T12:52:31.000Z,2018-07-12T12:52:31.000Z,14,1,0,0,0,,
+236216555,Day 8 Getting Unstuck,"Ho inserito come variabile il punteggio, avevo creato una serie di domande e avevo cercato di mettere come punteggio da raggiungere 3, ma le domande continuavano. Penso di riguardarlo. ",Piccolo quiz su Scratch,10086796,https://cdn2.scratch.mit.edu/get_image/project/236216555_480x360.png,2018-07-12T12:34:16.000Z,2018-07-12T13:05:24.000Z,2018-07-12T13:02:54.000Z,8,1,0,0,0,,
+236211547,Day 8 Unstuck,"This one was difficult for me.  I started with @alirb raindrop code in my backpack but I really didn't understand how the cloning worked.  Next I figured out that the glide in her original code had to finish running before that sprite could be hidden.  For the longest time I could only get one Icecream scoop to fall, eventually through a lot of guess I added a forever block ontop of it all and it worked.  Don't completely understand it and there must be a cleaner way to do this but I definitely feel I got unstuck today!","Prompt: Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. ",20446522,https://cdn2.scratch.mit.edu/get_image/project/236211547_480x360.png,2018-07-12T11:20:46.000Z,2018-07-15T00:49:51.000Z,2018-07-12T13:04:51.000Z,15,3,0,0,0,,
+236215520,Capital Game - Getting Unstuck Day 8,I took the flag images from the site: flaticon.com,"Move the yellow bar using the keyboard left and right arrows.
+Answer correctly the questions to get an awesome score!",32626504,https://cdn2.scratch.mit.edu/get_image/project/236215520_480x360.png,2018-07-12T12:20:58.000Z,2018-07-12T13:05:31.000Z,2018-07-12T13:00:08.000Z,12,2,0,0,0,,
+205435605,Magellan School Fitness Challenge (Unstuck 8),"This is a remix of the Exploratorium's ""Makey Makey Physical Fitness Challenge"" from 2012 that incorported physical movement and computational tinkering. This one is specific to push-ups, but can be easily repurposed for just about any physical activity and part of a collaboration with our awesome PE coach for an upcoming unit in the fall.
+
+Link to original blog:
+https://tinkering.exploratorium.edu/tinkering/2012/06/15/makey-makey-physical-fitness-challenge
+
+The most difficult part for me with this remix was figuring out how to prevent players from scoring points after the timer went off. After getting seriously stuck and getting help from a friend, we came up with a variable based on the game's state as either ""on"" or ""off."" Such a simple, powerful idea.","For use with Makey Makey. To play: 
+First, put on the conductive wristband, then touch the Start pad (Spacebar). After the dialogue is finished and the timer starts, do as many pushups as you can, making sure to touch the pads after each one (Right->Down->Up). Stop when you hear the buzzer. See if you can get the top score!",27690149,https://cdn2.scratch.mit.edu/get_image/project/205435605_480x360.png,2018-02-21T22:15:47.000Z,2018-07-12T13:06:39.000Z,2018-07-12T11:30:04.000Z,11,3,1,0,0,2614338,2614338
+236218939,Getting Unstuck Day 8,,"Move the spaceship with the arrows (left and right) and press the space bar to shoot lasers in order to destroy asteroids (and earn points). For every asteroid that reaches the ground, you lose a life. You have three lives, shown at the top right (red hearts).
+
+",14159575,https://cdn2.scratch.mit.edu/get_image/project/236218939_480x360.png,2018-07-12T13:01:42.000Z,2018-07-12T13:09:20.000Z,2018-07-12T13:02:44.000Z,14,4,0,0,0,,
+148445583,Getting Unstuck #8,,,10296314,https://cdn2.scratch.mit.edu/get_image/project/148445583_480x360.png,2017-03-05T13:40:27.000Z,2018-07-12T13:20:24.000Z,2017-03-05T14:44:49.000Z,18,1,0,0,0,,
+101125412,gost versus bat,"Getting Unstuck
+
+Da un'idea di Coderdojo Milano.
+
+Il punteggio può variare la dimensione.
+Score can change the size.","Clicca sulla bandiera verde e muovi il fantasma a dx e a sx per  toccare il pipistrello.
+Click on the green flag, the ghost move to right or to the left to touch the bat.
+",11312120,https://cdn2.scratch.mit.edu/get_image/project/101125412_480x360.png,2016-03-10T13:33:53.000Z,2018-07-17T14:01:52.000Z,2016-03-10T16:27:46.000Z,27,5,4,0,0,,
+236222507,Getting Unstuck #8,"The thing I like best about this project is the pressure gauge. If I had a bit more time, I'd like to make the needle shiver a bit, especially as it gets up into the danger zone.",Press the pump to pump up Scratchcat until...,141519,https://cdn2.scratch.mit.edu/get_image/project/236222507_480x360.png,2018-07-12T13:33:40.000Z,2018-07-12T22:42:25.000Z,2018-07-12T13:36:04.000Z,13,6,0,0,0,,
+235823446,Getting Unstuck: Day 8 — Concentric Circles,"Reflection
+
+After starting on a few different ideas, I landed on creating a concentric circle generator that accepts input from the user via the slider. 
+
+The process is simple. It stamps a circle, changes costume, reduces size, and repeats a number of times specified by the slider.
+
+The number of circles that are drawn is stored in the nCircles variable. The slider feature of this variable enabled. Instead of drawing the concentric circles every frame, the script instead responds to when the value of nCircle changes. There's a note in the script that points to where this happens.
+
+One feature that could be added is moving the center point of a stamped circle each iteration to generate images similar to Marcel Duchamp's Anémic Cinéma rotoreliefs.",Use the slider to change the number of concentric circles.,26264460,https://cdn2.scratch.mit.edu/get_image/project/235823446_480x360.png,2018-07-08T13:54:43.000Z,2018-07-12T17:01:20.000Z,2018-07-12T13:29:10.000Z,29,9,1,0,0,,
+236216556,getting unstucked day8,,click on the green flag and follow the instructions!,25103547,https://cdn2.scratch.mit.edu/get_image/project/236216556_480x360.png,2018-07-12T12:34:19.000Z,2018-07-12T13:33:30.000Z,2018-07-12T13:33:30.000Z,10,2,0,0,0,,
+236214910,Bake a cake,Tried to create a block to control the tumbling of the ingredients.  But since there isn't a global block its use was somewhat repetitive.  ,Collect all the ingredients on the recipe to make a cake. ,2876976,https://cdn2.scratch.mit.edu/get_image/project/236214910_480x360.png,2018-07-12T12:13:12.000Z,2018-07-12T13:56:46.000Z,2018-07-12T13:55:14.000Z,19,10,1,0,0,,
+236219931,Getting Unstuck #8: using variables,"Scratch project was created as activity #8 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+
+Day #8 Challenge: Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.",Press the green flag!,1202362,https://cdn2.scratch.mit.edu/get_image/project/236219931_480x360.png,2018-07-12T13:10:18.000Z,2018-07-12T14:06:46.000Z,2018-07-12T13:59:13.000Z,10,2,0,0,0,,
+236218277,Getting Unstuck: Day  8,"My dad recently saw these wild javelinas running around his neighborhood in Arizona and texted me a picture of the ones used in this project. Thanks Papa!
+
+If I had more time I would add more animals you don't typically see in your neighborhood. 
+
+I live in the midwest to I have never seen a javelina walking around a neighborhood :-O","Catch the javelinas!
+
+Click the green flag.
+You have 10 seconds to catch as many javelinas as you can.
+
+",17807175,https://cdn2.scratch.mit.edu/get_image/project/236218277_480x360.png,2018-07-12T12:54:44.000Z,2018-07-12T14:15:18.000Z,2018-07-12T14:03:22.000Z,8,1,0,0,0,,
+236219137,It's raining tacos! Day 8,"I found it hard to find a running sprite to use. 
+In my plan, I was thinking of using Karius to catch footballs! (or not!)
+Go gentle as I do support LFC!
+
+Having a look on Scratch support was so helpful but a lot was trial and error.
+This was my first attempt at using an image sourced outside of scratch as a backdrop.  Glad I challenged myself a bit more.","Getting Unstuck Day 8
+#CreativeComputing
+#GettingUnstuck
+It's taken me all morning to think of an idea and to put it together. 
+I'm really trying to push my abilites by adding on some of what I've learnt in previous days.  
+Click the green flag to start.
+Arrow keys = Left / Right / Jump
+Earn a point for each taco you eat.
+Loose a point for each banana or apple you catch.",24864870,https://cdn2.scratch.mit.edu/get_image/project/236219137_480x360.png,2018-07-12T13:03:49.000Z,2018-07-15T15:09:42.000Z,2018-07-12T14:20:02.000Z,8,3,0,0,0,,
+236227574,Getting Unstuck: Day 8,Adapted from here: https://www.youtube.com/watch?v=iIscULLPRus,,24912473,https://cdn2.scratch.mit.edu/get_image/project/236227574_480x360.png,2018-07-12T14:15:37.000Z,2018-07-14T18:17:41.000Z,2018-07-12T14:37:12.000Z,8,1,0,0,0,,
+236222797,day 8,"i faced problem when i programming the final background, But i try until fixed.",press green flag then click the pieces one by one.,34188789,https://cdn2.scratch.mit.edu/get_image/project/236222797_480x360.png,2018-07-12T13:35:56.000Z,2018-07-12T14:38:03.000Z,2018-07-12T14:34:03.000Z,9,2,0,0,0,,
+236217767,Just a little bit,"
+Getting Unstuck day-8
+by Massimo Marletta
+
+In this project I explain how counting is done in binary numbers.
+
+For the ""bit"" I used a Sprite with 2 costumes (0 and 1). This Sprite has several local variables (its properties), such as its value (0 or 1), its position (0=least significative bit, 1=second signitificative bit, etc).
+
+The Green Button increase the first bit, when a bit pass from 1 to 0 (overflow) it set the variable Destination to its Position+1 and send a broadcast message to all the sprites yelling ""overflow!"".
+The bit that have the Position corresponding to the Destination (i.e. the bit at the left of the bit that raised the overflow) is then incremented and (if necessary) it can raise the overflow again...
+So the global variable Destination is used to select which bit must respond to the broadcast message.
+
+The number of bits is not fixed from the beginning (you start with just  1 bit). If a further bit is needed it is created by cloning the one who is about to raise the overflow.
+A Lightening represent the overflow which propagates through the bits.
+The global variable Count (showed at screen) counts in decimal number.
+","*** Do you know how to count in binary?
+*** Press the Green Button to increase the binary number shown!
+
+At the beginning you have just a single bit 0, when you press the button it becomes 1, when you press the button again it cannon grow again (in binary the only symbols allowed are 0 and 1) and therefore it get back to 0 raising an Overflow (represented by the Lightening) to the bit at its left. If such a bit does not exist, it is created... so you can count from 0 to +Infinite in binary numbers!",4804940,https://cdn2.scratch.mit.edu/get_image/project/236217767_480x360.png,2018-07-12T12:48:59.000Z,2018-07-12T15:33:31.000Z,2018-07-12T14:33:04.000Z,23,7,1,0,0,,
+236228660,Getting Unstuck Day 8,As soon as I read the brief this project came to me in a flash - complete and fully detailed. ,"Getting Unstuck Day 8
+
+Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.",2314547,https://cdn2.scratch.mit.edu/get_image/project/236228660_480x360.png,2018-07-12T14:25:21.000Z,2018-07-12T14:48:03.000Z,2018-07-12T14:48:03.000Z,12,2,0,0,0,,
+236216096,day8,,"Click on the green flag to start.
+Catch 10 stars!",34225248,https://cdn2.scratch.mit.edu/get_image/project/236216096_480x360.png,2018-07-12T12:28:42.000Z,2018-07-12T15:02:02.000Z,2018-07-12T15:01:33.000Z,4,0,0,0,0,,
+236215526,Getting Unstuck: Day 8 Variabili,Getting Unstuck: Day 8 Variabili,"Fare clic sulla bandiera verde e con il mouse cliccare sopra la pallina.
+Il gioco termina al raggiungimento di 10 punti.",18667079,https://cdn2.scratch.mit.edu/get_image/project/236215526_480x360.png,2018-07-12T12:21:02.000Z,2018-07-12T15:08:55.000Z,2018-07-12T14:58:12.000Z,11,1,0,0,0,,
+235417125,savetheclocktower,"for Day 8 of GettingUnstuck, I'm tinkering a bit more with this project in preparation for a physical computing camp next week.
+
+The speed of the vehicle in MPH is calculated at the second circuit point and published on screen. As a math dropout I'm always unsure of my calculations so I would appreciate feedback on these.
+
+If the calculated speed is between 8 and 9 mph (a nod to the 88 mph benchmark established in Back to the Future), the background changes briefly.
+
+PROBLEMS: 1) this calculates the average speed over a stretch of track, but is it possible to calculate speed at a specific location? One can shorten the gap between circuits but the conceptual problem remains. 2) Is there a threshold amount of time needed for makeymakey to recognize that a circuit has been completed? 3) Passing through the circuits slows the vehicle down, based on how I've engineered the wires. Is there a better way to engineer this so the vehicle isn't slowed down? 4) Can the program be improved, possibly by adding another circuit to the course, so that the slowdown at each circuit point is calculated, and the speed at the final circuit is suitably discounted? 5) Scratch's moonwalking isn't very good.","v. 1 the beginning of a physical computing project to measure the speed of a matchbox car at a given point in space
+
+Connect makeymakey up arrow and down arrow to two incomplete circuits on a hotwheels track, twelve inches apart. The car should pass through the up arrow circuit first. Configure a car with copper tape so the car can complete the circuits when passing through.
+
+(Without makeymakey, simulate w/ flag, up arrow, down arrow.)",33815227,https://cdn2.scratch.mit.edu/get_image/project/235417125_480x360.png,2018-07-04T03:14:19.000Z,2018-07-12T15:32:07.000Z,2018-07-04T15:26:56.000Z,19,6,2,0,0,,
+236227239,Catch The Fish! Getting Unstuck [Day 8],This is for Getting Unstuck Day 8!,Move your mouse to catch the fish!,13594403,https://cdn2.scratch.mit.edu/get_image/project/236227239_480x360.png,2018-07-12T14:12:31.000Z,2018-07-12T15:11:52.000Z,2018-07-12T15:11:52.000Z,10,4,0,0,0,,
+236223870,Getting Unstuck: Day 8. Ballons party.,,"Click the green flag to let the party start.
+Press c to clone the balloons.
+Press the space bar to reset the score to 0.",18190669,https://cdn2.scratch.mit.edu/get_image/project/236223870_480x360.png,2018-07-12T13:45:34.000Z,2018-07-12T15:22:04.000Z,2018-07-12T15:07:14.000Z,11,2,0,0,0,,
+236233651,Getting Unstuck day 8,"I started with the idea of having the cat randomly walk around the the stage and counting the number of times he bounces off the edge. Then it occurred to me to count the steps the cat takes as well and report both of those totals when the space key is pressed. I was in the waiting room at the mechanic waiting for my car, so I had time to tinker with random sounds as well which was inspired by a number of projects from the past week by @jsh and others.","right arrow to start or continue
+space to pause and see the count
+left to reset",17767933,https://cdn2.scratch.mit.edu/get_image/project/236233651_480x360.png,2018-07-12T15:11:10.000Z,2018-07-24T12:11:26.000Z,2018-07-12T15:21:18.000Z,8,2,1,0,0,,
+236216800,Getting Unstuck Day 8,,"Press green flag to begin
+
+Click on sprite
+
+Press space bar to set count to 0
+
+Once click count reaches 3 a message will appear",34190765,https://cdn2.scratch.mit.edu/get_image/project/236216800_480x360.png,2018-07-12T12:37:30.000Z,2018-07-12T15:27:44.000Z,2018-07-12T15:26:08.000Z,9,2,0,0,0,,
+235994974,free kick football with score,I remixed this to make a score variable and a point at whihc a team wins,"Click the green flag to start
+Press space to kick the ball at Anna",33472226,https://cdn2.scratch.mit.edu/get_image/project/235994974_480x360.png,2018-07-10T11:09:02.000Z,2018-07-12T15:55:01.000Z,2018-07-10T11:38:52.000Z,18,4,0,0,0,,
+236230282,#008 Getting Unstuck 8 - Variables,,I don't know much about variables so I relied on some tutorials to help me.  Very basic.,20126730,https://cdn2.scratch.mit.edu/get_image/project/236230282_480x360.png,2018-07-12T14:40:28.000Z,2018-07-19T18:02:17.000Z,2018-07-12T15:28:19.000Z,8,2,0,0,0,,
+236233897,Unstuck Day 08: 100 coin flip simulator,I used a <repeat<pick random number 10 - 25><next costume>> script to create the effect of the coin flipping over and over. ,"This simulation demonstrates how variables store numbers that vary throughout the running of the script.
+
+I don't technically follow the Unstuck Challenge of making the project respond when the count reaches a certain number, but I did add a closing statement that shows the side of the coin that landed face up more, with a third option if both sides landed up equally.",14632339,https://cdn2.scratch.mit.edu/get_image/project/236233897_480x360.png,2018-07-12T15:13:08.000Z,2018-07-12T15:36:21.000Z,2018-07-12T15:29:48.000Z,16,3,0,0,0,,
+236236491,Matemática Divertida!!! (Fun Math!!!),Autor: Jocemar do Nascimento,"Jogo da tabuada de multiplicação, em que os números são sorteados entre 1 e 10.
+",1734014,https://cdn2.scratch.mit.edu/get_image/project/236236491_480x360.png,2018-07-12T15:37:54.000Z,2018-07-13T11:03:28.000Z,2018-07-12T15:55:20.000Z,7,1,0,0,0,,
+236237838,Unstuck 08 Frog Game,"This is a remix of a project I build with students over six to eight classes. I modified it for the Unstuck Challenge so the game changes when five flies are caught, so the project responds when the variable reaches a certain number. I didn't meet that condition in my first project post (coin flip simulator)
+
+I had to significantly modify the script so the game would pause after five flies are caught. The modification changed the game play so now the frog moves much more quickly and smoothly since the move scripts are all inside a forever loop instead of separate <when ___ key is pressed> event blocks. This will be a great way to show students how different script solutions, both valid, create different experiences for the program users.
+
+I suppose I could make this change after a certain amount of time passes using the timer variable instead...","Click the green flag to begin. 
+
+Catch all ten flies as quickly as possible. 
+
+Use the arrow keys to move the frog around the screen and press the space key to flick the frog's tongue and catch the flies.",14632339,https://cdn2.scratch.mit.edu/get_image/project/236237838_480x360.png,2018-07-12T15:51:38.000Z,2018-07-12T16:11:02.000Z,2018-07-12T16:00:49.000Z,8,3,1,0,0,,
+236212101,Getting Unstuck: Day 8,"Credits
+Sounds: https://www.youtube.com/audiolibrary
+Images: https://www.flaticon.com
+
+Help!
+Avrei voluto usare più suoni (colonna sonora, vittoria), ma non funzionano. Perché?
+I wanted to use more sounds (soundtrack, triumph), but they did not work. Because? (Solved. Thanks, @SauceKeyAh)","Cliccare sulla bandiera verde. - Click the green flag.
+
+- Carica i pacchetti sul camion. Usa i tasti freccia sinistra e destra per spostare il camion.
+- Per ogni pacchetto caricato guadagni un punto.
+- Attenzione! Perdi un punto per ogni pacco che ti sfugge.
+
+- Left and right arrow keys to move around to pick up the packages with the truck.
+- One point for every package.
+- Be careful! You lose one point for every miss.",19789360,https://cdn2.scratch.mit.edu/get_image/project/236212101_480x360.png,2018-07-12T11:30:30.000Z,2018-07-12T19:12:38.000Z,2018-07-12T16:30:12.000Z,20,6,1,0,0,,
+236239715,Unstuck_8,,Press the space bar to begin the interaction.  Continue to see what happens when there are either no heads or no tails after all your coin flops have been completed.  Have fun!,9694576,https://cdn2.scratch.mit.edu/get_image/project/236239715_480x360.png,2018-07-12T16:11:10.000Z,2018-07-12T16:45:47.000Z,2018-07-12T16:37:54.000Z,6,2,0,0,0,,
+236231160,CAREZZE-G.U. Day 8,"Prova di uso di variabili (che fatica).
+Ho riguardato un tutorial di Jessica Redeghieri  sulle variabili (grande Jessica!).
+Ho aggiunto qualche modifica .
+
+","Clicca sulla bandierina verde per avviare il progetto.
+Clicca sullo Sprite per vedere che cosa succede.
+Ho dovuto spezzare alcune sequenze, perché mi saltava il collegamento e la sequenza nidificata funzionava un paio di volte, poi si bloccava",13746945,https://cdn2.scratch.mit.edu/get_image/project/236231160_480x360.png,2018-07-12T14:48:17.000Z,2018-07-12T16:43:53.000Z,2018-07-12T16:31:33.000Z,6,0,0,0,0,,
+236242513,Cupcakes-2,Ho creato il progetto per Getting Unstuck Day 8,Clicca sulle tortine: quante riesci a farne sparire in trenta secondi?,17698999,https://cdn2.scratch.mit.edu/get_image/project/236242513_480x360.png,2018-07-12T16:39:04.000Z,2018-07-13T10:08:57.000Z,2018-07-12T16:46:23.000Z,15,7,0,0,0,,
+236234248,Getting Unsucked day 5 and 8 remix,,"You have 30 seconds to move the witch with the arrows and do not get caught by the bat.
+If you make more than 5 points win",19738986,https://cdn2.scratch.mit.edu/get_image/project/236234248_480x360.png,2018-07-12T15:16:05.000Z,2018-07-12T16:47:09.000Z,2018-07-12T16:46:04.000Z,10,2,0,0,0,,
+236224500,Unstuck: Day 8,Por Filipe Mendes,"Pressionar a tecla espaço para lançar os dados.
+",2980392,https://cdn2.scratch.mit.edu/get_image/project/236224500_480x360.png,2018-07-12T13:50:02.000Z,2018-07-12T16:53:43.000Z,2018-07-12T16:53:43.000Z,10,2,0,0,0,,
+236213135,8 GIORNO,,"IL GIOCO E' BASATO SU UNA LISTA DI ALIMENTI CHE IL GATTO DOVREBBE MANGIARE.
+OGNI VOLTA CHE RIESCE A MANGIARE QUALCOSA ACCUMULA DEI PUNTI. IL GATTO SI MUOVE USANDO LE FRECCE.",28304428,https://cdn2.scratch.mit.edu/get_image/project/236213135_480x360.png,2018-07-12T11:46:35.000Z,2018-07-12T17:20:13.000Z,2018-07-12T17:17:35.000Z,9,1,0,0,0,,
+236229242,bee & flowers,"image of Bee and flower - from Openclipart.org
+","Move the bee with the mouse and click the mouse button if you want to pick up the flower.
+The challenge is to collect all the flowers",139209,https://cdn2.scratch.mit.edu/get_image/project/236229242_480x360.png,2018-07-12T14:30:40.000Z,2018-07-12T17:58:54.000Z,2018-07-12T17:52:40.000Z,13,6,0,0,0,,
+236238444,Tiri a canestro,,"Cerca di fare canestro! Per lanciare la palla usa i seguenti tasti:
+1: alto a sx
+2: alto centro-sx
+3: alto centro
+4: alto centro-dx
+5: alto dx
+
+Per ogni canestro fatto guadagnerai 1 punto, ma attenzione: per ogni canestro sbagliato perderai 1 punto! 
+Per vincere devi arrivare a 10 punti. Buon divertimento!!!",34169307,https://cdn2.scratch.mit.edu/get_image/project/236238444_480x360.png,2018-07-12T15:58:39.000Z,2018-07-12T18:04:54.000Z,2018-07-12T17:37:03.000Z,5,1,1,0,0,,
+236247459,Donut Collector - GettingUnstuck#8,"GettingUnstuck#8 - ""Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.""
+
+This is fairly simple as I had limited time. The script counts how many donuts have been collected and when all 10 are done it shows a message. While not complicated it could be extended to make some neat game type levels etc.
+
+For some reason I am seeing an extra ""stamp"" in my final message background. I don't think it's the code but there may be a ""stamp"" block hiding somewhere.",Move the cat using the arrow keys. Collect all 10 donuts to complete the game.,15872912,https://cdn2.scratch.mit.edu/get_image/project/236247459_480x360.png,2018-07-12T17:29:03.000Z,2018-07-12T18:10:30.000Z,2018-07-12T18:09:38.000Z,9,4,0,0,0,,
+236238057,Easily Spooked,"For this project, I wrote a script that counts the seconds before the user moves the mouse. I connected this to some animation tricks I've learned from all the projects I've been seeing lately.
+
+Thanks to everyone #GettingUnstuck for many cool pen ideas using math
+Thanks to @L2TT2L2018 for the tip about uploading .gif costumes
+Thanks to @ceebee for animating non-synchronized blinks
+
+Audio from soundbible.com",Little things hide until the coast is clear.,27306974,https://cdn2.scratch.mit.edu/get_image/project/236238057_480x360.png,2018-07-12T15:53:46.000Z,2018-07-13T04:20:45.000Z,2018-07-12T18:17:40.000Z,22,8,3,0,0,,
+236227648,Day 8,"music from https://emp3.direct.com
+
+Wow! So many amazing projects in the studio! I was inspired by mizzpeters remix and also alirb plant project. I need some sort of intensive internal reprogramming myself so that I make one thing work and then do the next. For reasons?! I am always making everything at once and then it is a nightmare detangling clumps of code when I need to adjust one aspect. Spent eons trying to get the timer to cooperate - I still can't figure out why it won't shut down at 0!
+
+Thanks to MrQuentin for explaining why my score counter was rocketing into the thousands! Also for acting as my game tester (I can't actually successfully play any video game - my students find this hilarious, but it makes it really hard to test the code and see if the game really works!), and showing me a better way to program the arrow keys!",Click the Green Flag and follow the Scratch Cat's prompts to nurture this plant!,18341966,https://cdn2.scratch.mit.edu/get_image/project/236227648_480x360.png,2018-07-12T14:16:09.000Z,2018-07-12T18:25:00.000Z,2018-07-12T18:24:59.000Z,13,9,1,0,0,,
+236248408,Getting Unstuck: Day 8,"Getting Unstuck: Day 8
+Challenge: Create a project that counts the number of times something happens and responds when the count reaches a certain number.
+
+I learned how to tie an event to the chosen variable. I'm very happy.","Click on green flag. Use space button to launch the ball. Ball go around the stage. When ball bounces, you get a point. You will win at 10 points.",17615581,https://cdn2.scratch.mit.edu/get_image/project/236248408_480x360.png,2018-07-12T17:38:26.000Z,2018-07-22T14:55:00.000Z,2018-07-12T18:15:52.000Z,9,2,0,0,0,,
+236235637,Penguin Jumper Unstuck #8 & #12,"This project came from a book I bought at our Spring Book Fair. It's called ""20 Games to Create With Scratch"" by Max Waine Wright. 
+
+I wanted to stretch my comfort level, especially since this project deals with variables. I've used variables for scoring, but not much else. I liked this idea because in addition to score it uses variables to set the speed and angle of the penguin. At first the game was too easy. All you had to do was point at the iceberg. I had to play around and tweak the speed and gap to get the penguin to launch at the angle I wanted.
+
+I figured out how to add lives when a certain score is reached, but I'd like to be able to add a life at certain increments, for example at every multiple of 50. I'm sure it must be an easy math calculation, but I couldn't figure out how to do that. Any suggestions would be most appreciated.","Click the green flag to begin. Aim the arrow and then click on it to send the penguin to the blue iceberg.
+
+I added levels & scenes to this for Unstuck #12
+
+",124311,https://cdn2.scratch.mit.edu/get_image/project/236235637_480x360.png,2018-07-12T15:29:22.000Z,2018-07-20T01:54:11.000Z,2018-07-12T18:45:34.000Z,22,6,3,0,0,,
+236251074,day 08,"Background photo .. https://www.visitljubljana.com/sl/obiskovalci/aktivnosti/znamenitosti/zmajski-most/
+",,771142,https://cdn2.scratch.mit.edu/get_image/project/236251074_480x360.png,2018-07-12T18:05:19.000Z,2018-07-12T18:51:28.000Z,2018-07-12T18:43:16.000Z,10,3,0,0,0,,
+236250345,Getting Unstuck - Day 8 (variable),"This is the most California thing I've ever made. Enjoy!
+
+Avocado: flaticon.com (by Freepik)
+Background: bontraveler.com","How many avocados can you click??
+
+Click on the green flag to start!",2752403,https://cdn2.scratch.mit.edu/get_image/project/236250345_480x360.png,2018-07-12T17:58:09.000Z,2018-07-12T21:18:08.000Z,2018-07-12T18:50:01.000Z,13,6,1,0,0,,
+236229780,Unstuck 8: Banana Challenge,"I'm really proud of this project. There are a couple glitches that I need to improve. This is the first game I have created in Scratch! 
+","Use arrow keys to move and space to jump. 
+
+Collect 10 or more bananas to win!
+
+Watch out for the bugs!",25417130,https://cdn2.scratch.mit.edu/get_image/project/236229780_480x360.png,2018-07-12T14:35:59.000Z,2018-07-12T18:56:23.000Z,2018-07-12T18:53:25.000Z,13,5,0,0,0,,
+236233693,workshop tool - timer,"Getting Unstuck: Day 8
+https://gettingunstuck.gse.harvard.edu/
+Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.","A timer that can be displayed during a scratch workshop, so that the kids can easily see how much time they have left.
+
+Use the space key to pause the countdown.
+Adjust the remaining time using the left/right arrow keys.",34248043,https://cdn2.scratch.mit.edu/get_image/project/236233693_480x360.png,2018-07-12T15:11:30.000Z,2018-07-19T14:46:16.000Z,2018-07-12T19:02:40.000Z,12,4,1,0,0,,
+236250117,Getting Unstuck: Day 8,,Pick 11 blueberry. Use arrow keys to move.,12775966,https://cdn2.scratch.mit.edu/get_image/project/236250117_480x360.png,2018-07-12T17:55:39.000Z,2018-07-12T19:23:32.000Z,2018-07-12T19:16:54.000Z,16,6,0,0,0,,
+236258133,Winter Catch-game GettingUnstuck-08,"This time I decided to remix an old project of mine.
+This winter-themed game was intended as an example provided to kids for a workshop in Italy: we had many examples of different difficulty to show that the ceiling was indeed really high.
+While translating the dialogues I noticed a bug, so anyway this challenge was a good opportunity to improve it
+","Catch the holly but avoid snowflakes.
+Green flag to start and use mouse to control the bowl.
+
+To understand why I'm posting a winter game in mid-July you have to read the Notes...",25876369,https://cdn2.scratch.mit.edu/get_image/project/236258133_480x360.png,2018-07-12T19:22:12.000Z,2018-07-25T23:42:25.000Z,2018-07-12T19:56:16.000Z,4,2,0,0,0,,
+236251723,GU_Day8,"Oh, there were so many times I had to get unstuck. This took much longer than I had anticipated. I will get back to the comments later.","Identify Prime Numbers from 1 to 30. 
+If the number is prime, mouse over it to score a point.
+If the number is not prime, click on the background to get a new card.
+A goal of 10 may be too high for some students. It can easily be adjusted.
+",24741621,https://cdn2.scratch.mit.edu/get_image/project/236251723_480x360.png,2018-07-12T18:11:23.000Z,2018-07-12T20:05:32.000Z,2018-07-12T20:05:32.000Z,6,3,0,0,0,,
+236212994,unstuck8,The video-sensing was the hardest part. And still I think it should react faster on movement.,"When I walked the dog one morning in the wood, I saw this beautiful mushroom. It would be a pity if it gets covered with falling leaves.",1072279,https://cdn2.scratch.mit.edu/get_image/project/236212994_480x360.png,2018-07-12T11:44:21.000Z,2018-07-12T20:24:11.000Z,2018-07-12T20:12:26.000Z,6,2,0,0,0,,
+236257289,Getting Unstuck Day 8 Variables,Just wanted to do an addition problem. ,"Click on the green flag.
+Then click on each button to input data.
+",2356410,https://cdn2.scratch.mit.edu/get_image/project/236257289_480x360.png,2018-07-12T19:11:09.000Z,2018-07-12T20:18:59.000Z,2018-07-12T20:18:59.000Z,2,0,0,0,0,,
+236261341,LEDs & Magnet,"Getting Unstuck: Day 8
+
+Possible evolution / remix
+
+1) a timer could be added to burn all leds in a specific time
+2) when the grid is empty another ""sprite"" could move on the grid to reinstall the leds","A magnet moves on the grid and burns all the leds it encounters. When there are less than 50 LEDs, the grid is recreated.
+ 
+click on ""a"" for automatic movement of magnet and  ""m"" for manual
+When you are in ""manual"" use the arrow keys to move magnet
+",2143382,https://cdn2.scratch.mit.edu/get_image/project/236261341_480x360.png,2018-07-12T20:07:34.000Z,2018-07-12T20:26:43.000Z,2018-07-12T20:21:19.000Z,9,3,0,0,0,,
+236260035,Know Your Molluscs!  remix,"Credits: Thanks to karenb for her project which I remixed.
+
+I loved karenb's project so I thought I would just do a simple remix.
+I changed the sprites. 
+It is challenging to create a project a day. Keeping up is kind of tough for me.","Press the green flag to start. Then, correctly identify 10 molluss!
+
+Click the spirtes to read their comments.",158902,https://cdn2.scratch.mit.edu/get_image/project/236260035_480x360.png,2018-07-12T19:48:41.000Z,2018-07-12T20:44:20.000Z,2018-07-12T20:28:14.000Z,14,3,0,0,0,236154094,236154094
+236258578,day 8 - day counter,,,214,https://cdn2.scratch.mit.edu/get_image/project/236258578_480x360.png,2018-07-12T19:28:16.000Z,2018-07-12T21:02:10.000Z,2018-07-12T21:02:10.000Z,4,1,0,0,0,,
+236262769,Gordon_Getting Unstuck Day 7-2,,"Click the green flag to start.  When a yellow circle hits an infected red circle, it will become sick. hit space bar to reset to yellow.",18900622,https://cdn2.scratch.mit.edu/get_image/project/236262769_480x360.png,2018-07-12T20:29:03.000Z,2018-07-16T15:05:34.000Z,2018-07-12T21:26:49.000Z,5,1,0,0,0,,
+236254016,Getting Unstuck Day 8 Challenge,"I don't know why the score doesn't just add 1 point. I've got to move the Change Score by 1 outside of the forever loop, but where to?","Click the green flag to start the game. Touch Beaker with your mouse pointer. Get Beaker to his home. Pick up beakers along the way. How will you make it through the smaller tunnel at the end? If Beaker touches the tunnel edge, he gets momentarily stuck and shouts for help, he speaks Beaker of course! He will be released and able to continue in no time. Beat your time by playing again and again.",17824064,https://cdn2.scratch.mit.edu/get_image/project/236254016_480x360.png,2018-07-12T18:34:33.000Z,2018-07-14T14:08:57.000Z,2018-07-12T20:38:47.000Z,17,4,0,0,0,,
+236265530,Unstuck Day 8 - Variables,"I enjoyed getting this one to work. Had issues with simultaneous ""if touching"" scripts not working, so made adjustments and put everything into one ""if touching"" statement on the mouse only.","Challenge:
+Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. 
+
+Click on the flag to begin. Watch as the cat begins to eat the mice and grow bigger and slower as it goes. Once reaching 10 mice, it will say ""I am full!"" and code will end.",25286049,https://cdn2.scratch.mit.edu/get_image/project/236265530_480x360.png,2018-07-12T21:12:16.000Z,2018-07-15T15:43:52.000Z,2018-07-12T21:36:45.000Z,5,1,0,0,0,,
+236263240,Getting Unstuck 8,"This was a fun one. I like playing around with making things look animated. I still need to work on the details a bit so the cars don't drive into each other. I also learned that you can use the costume # as a variable, which made this a lot easier!
+
+Some things I could add if I had time: fixing the animation as I mentioned, adding some sprites as scenery that will pass by as you drive, and playing with the rules so you lose points if you click on a car that's not blue. Also a soundtrack - I always overlook this (mostly because my computer is almost always on mute).
+
+UPDATE: I added sound and it's so much better! Now I need to go back and incorporate sound into my earlier projects. ",Click on the green flag to start. Click on the cars to count them - only count the blue ones!,18044195,https://cdn2.scratch.mit.edu/get_image/project/236263240_480x360.png,2018-07-12T20:36:37.000Z,2018-07-13T02:13:04.000Z,2018-07-12T21:42:56.000Z,13,8,0,0,0,,
+236258126,Day 8 Getting Unstuck,"With a nod toward sharing and collaboration, I remixed this Day 2 project from another #GettingUnstuck participant and added a little code for the Day 8 challenge:
+Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. ","Click on the green flag to start or to clear any stamped flowers, then click the background to change van Gogh's wheat field into a field of flowers.
+
+As you add more flowers, the wheat field darkens to black.",1013358,https://cdn2.scratch.mit.edu/get_image/project/236258126_480x360.png,2018-07-12T19:22:01.000Z,2018-07-25T13:01:11.000Z,2018-07-13T14:59:30.000Z,1,0,0,0,0,236232371,236232371
+236257750,Bubble duck!!,"This game is based on the ""Bomb Jack"" game.
+When I was a child I used to play it on my game boy a lot, so I have good memories about it.
+I decided to use simple gravity when the character reaches the ground and a variable to control when it jumps.
+The enemies moves differently in each level and I also have clones for the bubbles.
+
+                                    ---Questions---
++What did you like most about your project? 
+I think it is fun.
+
++What would you do with it next, if you had more time?
+I'd like to add more levels, power-ups and enemies with different abilities.
+
+---Credits---
++Music: sound effects and song are from scratch gallery.
++Game design: I've created characters, and other sprites with  the scratch paint editor.","Press the green flag and then press the play button.
+Use the Left and Right arrow keys to move your player.
+Use the Up arrow key to jump.
+Get the bubbles and try to avoid the enemies.
+You have 3 lives.
+Good luck!!
+
+                               ---Getting Unstuck Day 8---
+Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. ",4413079,https://cdn2.scratch.mit.edu/get_image/project/236257750_480x360.png,2018-07-12T19:17:21.000Z,2018-07-19T19:26:39.000Z,2018-07-12T22:36:55.000Z,12,4,0,0,0,,
+236270019,Unstuck Day 8,This was fun and challenging.,"Use right and left arrow to move the mouse.  Eating the cheddar cheese gives you 1 point and the swiss cheese gives you 2.  If you get 50 points without being hit by the bowl of cheese puffs, you win.  If the cheese puffs hit you, the game is over and you loose.",11885888,https://cdn2.scratch.mit.edu/get_image/project/236270019_480x360.png,2018-07-12T22:38:45.000Z,2018-07-12T22:42:14.000Z,2018-07-12T22:40:02.000Z,2,1,0,0,0,,
+236266618,Pop the balloons!,"Did you know that sprite variables are different for every clone of the sprite? I discovered by chance and now I always use them. That's useful for keeping track the energy of an enemy and other parameters of a single clone.
+For example, if you are trying to simulate a snowy day, every snowflake can have a different falling speed. The starting value is inherited by the parent sprite, so you can randomize it and then create a clone.
+In this project I used the parameter ""inflate!"" to keep track of a balloon's status. When the count is 3, the balloon is popped and a point is scored.
+
+Credits to NFour for the inflating sound ( http://soundbible.com/1410-Inflating-Balloon.html ) and to Andeh Pinkard for Badonk-a-donk font ( https://www.dafont.com/badonk-a-donk.font ) ","Click three times on the balloons, the third time the balloon will pop and you will score a point.
+How many points are you able to get in a minute?",12148328,https://cdn2.scratch.mit.edu/get_image/project/236266618_480x360.png,2018-07-12T21:32:06.000Z,2018-07-23T17:13:57.000Z,2018-07-12T23:02:15.000Z,6,4,0,0,0,,
+236266326,Unstuck Day 8: Make Counters Using Variables,"Revisited my Day 5 project to add a counters:
+Touch butterfly: +5
+Touch duck: +2
+Touch beetle: -5
+Special reward at 200 points!
+
+","Today's goal: Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. 
+Try to get the duck!
+To move Scratch, use arrow left, arrow right, or the up keys.",18337230,https://cdn2.scratch.mit.edu/get_image/project/236266326_480x360.png,2018-07-12T21:26:35.000Z,2018-07-18T01:56:51.000Z,2018-07-12T23:06:23.000Z,4,2,0,0,0,,
+236254974, The Mollusk Test - Getting Unstuck Day 8,"Getting Unstuck Day 8: Using variables, create a project that counts the number of times something happens and responds when the count reaches a specific number.
+
+This game uses costume number as variables, inspired on @scratchdomendesproject.
+
+The Mollusk name of the test, harp music, and octopus is a joke related to the very inspiring and fun project of @Karenb*/","Click green flag to start.
+Click space bar whenever a similar figure appears on the right side of the screen (blue triangle).
+Click on the down arrow to continue the game.
+You'll receive a trophy if you make 5 points (Placar).
+",2176961,https://cdn2.scratch.mit.edu/get_image/project/236254974_480x360.png,2018-07-12T18:44:10.000Z,2018-07-12T23:15:26.000Z,2018-07-12T23:07:40.000Z,21,5,2,0,0,,
+236270051,Cloud Chaser - Getting Unstuck Day 8,"I tried to make a different activity but I couldn't quote get it to work. Switched to something else (this) and I could at least get it functioning. I was sort of annoyed at first, because I was trying to do something new, and I failed, but I did end up learning something new while making this, so all was not lost. ",The Helicopter will follow your mouse as your chase clouds for points. ,22706156,https://cdn2.scratch.mit.edu/get_image/project/236270051_480x360.png,2018-07-12T22:39:20.000Z,2018-07-13T11:09:44.000Z,2018-07-12T23:14:11.000Z,6,3,0,0,0,,
+236271371,Bubbles Video Sensing remix: Getting Unstuck Day 8 Variables,"Getting Unstuck Day 8 Variables
+
+I wasn't feeling this project today (because reasons) but I wanted to stick with it, so I decided to take the ""easy way out"" and remix another project. The reason I say that is that I always want to make my own thing and remixing someone else's work feels a bit like cheating, or at least a short cut. 
+But I am convinced of the remix spirit. I was able to do more remixing this video in half an hour than I would have been able to do on my own. Using the video function of Scratch is a blast, and the simple bubble popping action was perfect to add a variable to and turn into a ""game"" that ends when you hit an arbitrary number. 
+I was already fairly comfortable with variables, so it was great to use today's prompt to discover a different unknown aspect of Scratch.","Pop the bubbles or just watch them float up the screen. 
+(This requires a webcam. )
+REMIX TIPS:
+- Animate the bubble when it pops.
+- Change where the bubbles come from.
+- Keep track of how many bubbles have been popped.",3485356,https://cdn2.scratch.mit.edu/get_image/project/236271371_480x360.png,2018-07-12T23:06:18.000Z,2018-07-14T01:29:40.000Z,2018-07-12T23:23:36.000Z,18,4,1,0,0,10128119,10005522
+236270798,Getting Unstuck Day 8 - Counting Down with Multiplication,,"Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. Solve 10 multiplication problems to help launch the rocket.12",18558561,https://cdn2.scratch.mit.edu/get_image/project/236270798_480x360.png,2018-07-12T22:54:09.000Z,2018-07-13T00:12:19.000Z,2018-07-12T23:38:42.000Z,7,2,0,0,0,,
+236273194,Challenge8Variable,,"Another simple balloon project. After the space bar is hit 4 times, the balloon pops with a bang. ",2190314,https://cdn2.scratch.mit.edu/get_image/project/236273194_480x360.png,2018-07-12T23:43:02.000Z,2018-07-12T23:47:56.000Z,2018-07-12T23:43:52.000Z,5,2,0,0,0,,
+236248639,Day 8 of Getting Unstuck,"I had a harder time coming up with a project for this one. I kept wanting to get to complicated and things were not coming together for me so I took a break re-engaged later and came up with a more simplistic version of what I had been trying to do. 
+
+If I had more time I would fix the mice so some don't just pop up on screen while others are running all over it.",Day 8 of Getting Unstuck. Click Green Flag to start and then move the mouse pointer around to have the cat catch mice.,588430,https://cdn2.scratch.mit.edu/get_image/project/236248639_480x360.png,2018-07-12T17:40:32.000Z,2018-07-25T21:20:35.000Z,2018-07-12T23:50:20.000Z,7,1,0,0,0,,
+236230424,Cat and stars Game,"Getting Unstuck Day 8: Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.","Click the green flag to start.
+Move with LEFT and RIGHT arrows.
+Jump with SPACEBAR.
+Catch the stars to win points!",25332755,https://cdn2.scratch.mit.edu/get_image/project/236230424_480x360.png,2018-07-12T14:41:54.000Z,2018-07-13T03:23:55.000Z,2018-07-12T23:37:08.000Z,14,2,1,0,0,235892227,235892227
+236273288,Unstuck Day 9,This helped me get better at using clones and learning about how they work. My project did freeze a few times and I had to change the code. ,Hit the green flag. Use the arrow keys to move the monkey. Eat the bananas and catch the balls. When you score is greater than 5 you will get more bananas and balls to eat and catch. ,266894,https://cdn2.scratch.mit.edu/get_image/project/236273288_480x360.png,2018-07-12T23:44:55.000Z,2018-07-13T00:06:12.000Z,2018-07-13T00:03:46.000Z,4,1,0,0,0,,
+236271262,Getting Unstuck Day 8 - Pong,"This is my first time designing a ""Pong"" game. I recently taught 4th + 5th grade students to design, build, and program their own ""operation"" games using cereal boxes, tweezers, MakeyMakey, and scratch. This year we upped the difficulty by incorporating score/ lives.","Select the Green Flag to start/ reset the game. Then use the Left and Right Arrows to move the paddle left and right. Try not to let the purple ball hit the bottom. If it does, then you lose a life and you only have 7 lives before the game is over.",22156688,https://cdn2.scratch.mit.edu/get_image/project/236271262_480x360.png,2018-07-12T23:04:06.000Z,2018-07-13T00:06:50.000Z,2018-07-13T00:03:00.000Z,7,3,0,0,0,,
+236266057,Getting Unstuck Challenge 8 - Day at baseball camp,"Once again, didn't have much more than 90 minutes to work on this. But I thought I'd bring you into my work day running a baseball camp form 7-12 year old kids. 
+
+Reminds me of my classroom except that is Mr. Stone. Haha, This was this past week wrapped up in about 1 minute. Great group of kids we had at this camp. Looking forward to next week","Click the green flag
+
+Variable counts up as you'll see and when it hits 50, something happens. :) Welcome to baseball camp!  21st year coaching it! 
+
+There is sound at the end so you don't get startled if you speakers/headphones are loud.
+
+Normally I would change my variables to a sprite based system but thought the orange reporter fit in will with this project.
+",3158946,https://cdn2.scratch.mit.edu/get_image/project/236266057_480x360.png,2018-07-12T21:21:46.000Z,2018-07-13T01:56:01.000Z,2018-07-12T23:36:50.000Z,10,3,1,0,0,,
+236274020,Day 8 Multiplayer game,,"Player 1 (yellow) press a to move up and z to move down
+Player 2 (green) press up and down arrows to move
+
+Points are scored every time you get the ball past your opponent. The winner is the first person to score 5 points.",24884035,https://cdn2.scratch.mit.edu/get_image/project/236274020_480x360.png,2018-07-12T23:58:46.000Z,2018-07-13T00:21:02.000Z,2018-07-13T00:17:28.000Z,7,1,0,0,0,,
+116154458,Getting Unstuck Day 8: Cat Chase,"Getting Unstuck Day 8: Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. 
+
+Here is a little game I made (Warning: it is a little graphic!) I actually have a strong interest in game development, so it was fun being able to play around with the variables. 
+
+I'm hoping to create a more intricate game within Scratch at some point. ","Click the green flag. Then use the left, right, up and down arrows to avoid the dog. ",10722024,https://cdn2.scratch.mit.edu/get_image/project/116154458_480x360.png,2016-07-12T21:29:28.000Z,2018-07-13T00:31:37.000Z,2018-07-13T00:26:39.000Z,5,1,0,0,0,,
+236276048,Unstuck Day 8: Shark Bait,"I got my idea from the book ""How to Code"".   Another piece I'd like to add is a 'Game Over' sign at the end.  Maybe in the future I can make the game a bit more complex.","When you click the green flag, you will start the game.  Your task is to move the fish so it doesn't get eaten by the shark.  See how high you can score.",34190490,https://cdn2.scratch.mit.edu/get_image/project/236276048_480x360.png,2018-07-13T00:37:04.000Z,2018-07-13T01:05:04.000Z,2018-07-13T00:53:56.000Z,3,0,0,0,0,,
+236277383,Unstuck Day 8 Timer,"Countdown to zero, with special effect at zero. You could change this of course.","This is a timer that can be used in the classroom. You could use any time interval  you want. I have chosen seconds and minutes, but you could change this in imaginary units and speeds. With a time-variable set to 1, it will count down per 1 second. You could of course set this to 0.000 anything.   ",33890948,https://cdn2.scratch.mit.edu/get_image/project/236277383_480x360.png,2018-07-13T01:00:08.000Z,2018-07-13T01:07:16.000Z,2018-07-13T01:03:30.000Z,6,2,0,0,0,,
+236276050,Day 8 - Variable to count events-Scrub the Sippy Cup,"Day 8 - Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. 
+
+Inspired from everyday life this summer I created a variable to track the sippy cups that I clean each day. This is my first attempt at using a cloned sprite. I have a few random cups that freeze in the middle of the screen, but I am not sure why.",Use the happy sponge to clean the falling sippy cups. Control the chaos!,16509596,https://cdn2.scratch.mit.edu/get_image/project/236276050_480x360.png,2018-07-13T00:37:06.000Z,2018-07-18T01:16:28.000Z,2018-07-13T01:06:24.000Z,7,3,0,0,0,,
+236271797,Fly Swat,Uses variables score and time. Downloaded splat sound from zolopher.,Try to swat 10 flies using the mouse before the time runs out.,30508500,https://cdn2.scratch.mit.edu/get_image/project/236271797_480x360.png,2018-07-12T23:15:16.000Z,2018-07-13T01:19:30.000Z,2018-07-13T01:13:33.000Z,7,2,0,0,0,,
+236258176,Day 8:  I need Coffee,"This project represents my day!  Had family over and late night the night before, so I was in search of coffee all day today! If I had more time, I would like to add sound.  ","Click Green Flag to start.  You are very sleepy in search of your coffee.  You need 3 cups before you can go out for the day.  Easy, just catch 3 cups of coffee to fuel up!  However, if you catch ZZZ you lose a cup.  Be careful, too many ZZZs will send you back to bed!  ",1294980,https://cdn2.scratch.mit.edu/get_image/project/236258176_480x360.png,2018-07-12T19:22:52.000Z,2018-08-03T16:41:10.000Z,2018-07-13T01:24:20.000Z,12,5,1,0,0,,
+236211006,Duck in the Box - Getting unstuck! - Day 8,"I used a variable to keep take of the number of clicks on the box. 
+I also used a variable for the random number used to keep track of the clicks. ","Click on the box until the box opens for the surprise!!  
+
+",19641362,https://cdn2.scratch.mit.edu/get_image/project/236211006_480x360.png,2018-07-12T11:12:20.000Z,2018-07-13T01:38:04.000Z,2018-07-13T01:35:07.000Z,7,0,0,0,0,,
+236279037,GettingUnstuck Day 8,I teach math so I could see how this program could be used in place of an actual simulation to test outcomes from rolling dice.,"Green flag to reset and for directions.
+This program simulates rolling two six sided dice. It counts the number of times the two dice add to seven. 
+",11305008,https://cdn2.scratch.mit.edu/get_image/project/236279037_480x360.png,2018-07-13T01:28:45.000Z,2018-07-13T02:16:54.000Z,2018-07-13T02:04:56.000Z,5,2,0,0,0,,
+236279064,Unstuck 08 Variables as counters,"I wanted to create something useful in my teaching, so I decided to tackle a race against time,and counting objects ""eaten."" This is a game scenario lots of students want to create, and I'd never taken the time to figure it out before.","Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.",19123745,https://cdn2.scratch.mit.edu/get_image/project/236279064_480x360.png,2018-07-13T01:29:24.000Z,2018-07-13T02:37:39.000Z,2018-07-13T02:37:39.000Z,7,2,0,0,0,,
+236280080,#GettingUnstuck Day 8,This is a very simple project using a variable. I am very new to Scratch and enjoy seeing all of the advanced projects on here! They are inspiring. ,Use the left and right arrow keys to catch the stars,18062705,https://cdn2.scratch.mit.edu/get_image/project/236280080_480x360.png,2018-07-13T01:48:55.000Z,2018-07-13T02:39:22.000Z,2018-07-13T02:36:57.000Z,1,0,0,0,0,,
+236275143,Catching Snowflakes ,"Most of the codes work. But can someone please tell me what is 
+wrong with the final code  please? 
+
+I tried to get the cheer to sound when all three goals are met. But I think I am using the wrong control block.","Click green flag to start.
+
+Getting Unstuck # Day 8
+
+Catch the snowflakes.
+Your goals are: Snowflake 1 - catch at least 7.
+                        Snowflake 2 - catch at least 5
+                        Snowflake 3 - catch at least 3
+",158902,https://cdn2.scratch.mit.edu/get_image/project/236275143_480x360.png,2018-07-13T00:19:23.000Z,2018-07-13T03:00:14.000Z,2018-07-13T02:39:32.000Z,9,1,0,0,0,,
+236274678,The Royal Dice Theatre,"This project responds to the prompt for Getting Unstuck Day 8:  ""Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number."" 
+
+Today's strategy was ""Find a Tutorial"" + Remix a Project.""  I referred to Ch. 5 (Variables) in the book ""Learn to Program with Scratch"" by Majed Marji.  The book features starter projects that one can access online.  I followed instructions to build the project, then added more dice sprites, a Score variable, a new backdrop, costume, text, and sounds.  For info on the book, go to https://nostarch.com/learnscratch/ . (Not sure if there will be a revised edition for Scratch 3.0, but it's still a great resource!)","Click on the green flag to start, then click on the Queen's crown to start each round.  See if you can score 10 to receive a special message!",527557,https://cdn2.scratch.mit.edu/get_image/project/236274678_480x360.png,2018-07-13T00:10:33.000Z,2018-07-13T03:23:07.000Z,2018-07-13T03:04:31.000Z,4,2,1,0,0,,
+236211115,Unstuck Day 8 - Crab Wants the Ball,"I don't know how to make the counter go up by just one when the crab touches the ball. The counter increases based on how long the crab and ball are in contact. If anyone can tell me how to fix that, I'd appreciate it. Originally I had a variable called score. I changed it to contact with ball because of the way it was increasing. ",Click the flag to begin.,10715270,https://cdn2.scratch.mit.edu/get_image/project/236211115_480x360.png,2018-07-12T11:14:21.000Z,2018-07-25T13:07:57.000Z,2018-07-13T03:17:12.000Z,5,0,0,0,0,,
+236282233,Chomping champ99,I was getting ideas for day 8 and just couldn't resist riffing on jumekuboteacher's project! ,"Challenge:
+Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. 
+
+Click on the flag to begin. Use the arrow keys to chase champ99 around. ",26919075,https://cdn2.scratch.mit.edu/get_image/project/236282233_480x360.png,2018-07-13T02:32:08.000Z,2018-07-13T03:23:53.000Z,2018-07-13T03:22:59.000Z,3,1,0,0,0,236265530,236265530
+236283732,Getting Unstuck Day 8: Game,"Painting from MET Public Domain Images
+The Children of Nathan Starr
+Ambrose Andrews
+
+Challenge: Keeping score for two players.  The ability to copy code from one sprite to the next was very helpful once I figured out the scoring blocks!","Two Player Game
+Player 1 uses W and S keys to move boy up and down
+Player 2 uses up and down arrow keys to move girl up and down
+Try to hit the ball with the paddle
+First player to score 10 points wins.",1353497,https://cdn2.scratch.mit.edu/get_image/project/236283732_480x360.png,2018-07-13T02:59:22.000Z,2018-07-13T03:54:47.000Z,2018-07-13T03:40:35.000Z,10,1,1,0,0,,
+236217646,Day - 8 Le Petit Prince,"An homage to Le Petit Prince. Favorite childhood story. And I've done so many scoring type of scenarios before I just wanted to something different.
+
+Day 8 - Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.",Click the flag to start,109272,https://cdn2.scratch.mit.edu/get_image/project/236217646_480x360.png,2018-07-12T12:47:36.000Z,2018-07-26T15:01:16.000Z,2018-07-13T04:19:24.000Z,6,1,1,0,0,,
+236236324,Getting Unstuck:  Day 8,"Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. ",Test your reflexes by clicking on the apples before they hit the ground.You win if you can catch (click on) 5 apples.,22286405,https://cdn2.scratch.mit.edu/get_image/project/236236324_480x360.png,2018-07-12T15:36:18.000Z,2018-07-13T04:50:53.000Z,2018-07-13T04:19:13.000Z,3,0,0,0,0,,
+236287590,Counting,,Click on the balloons to see what happens.,32833725,https://cdn2.scratch.mit.edu/get_image/project/236287590_480x360.png,2018-07-13T04:30:24.000Z,2018-07-13T04:51:05.000Z,2018-07-13T04:51:04.000Z,13,1,0,0,0,,
+236247971,Larry Bird shoot some hoops - Getting Unstuck Day 8,,Click the green flag to start the game.  Move lef or right arrow key to move around the field to hit the ball into the net.  ,17257831,https://cdn2.scratch.mit.edu/get_image/project/236247971_480x360.png,2018-07-12T17:33:55.000Z,2018-07-13T05:46:59.000Z,2018-07-13T05:02:02.000Z,7,3,0,0,0,,
+236287581,Flower Growth,"Given the prompt, something game oriented seemed like the natural direction to move. Recognizing that I decided to take a different path and make something more like a scene/simulation.",,1092342,https://cdn2.scratch.mit.edu/get_image/project/236287581_480x360.png,2018-07-13T04:30:12.000Z,2018-07-13T05:21:07.000Z,2018-07-13T05:19:29.000Z,6,2,0,0,0,,
+236285268,Getting Unstuck Challenge 8,"Getting over World Cup disappointment with a soccer inspired game!
+Really got me thinking and I probably over thought a lot of it, but enjoyed the challenge.
+When stuck I tend to say what I want to happen and find the blocks to match!
+
+My add on would be allowing the player to choose the time or the number of goals to win.
+Could also add the option of a two player game with the arow keys being used to control the goalie.","Click the green flag to start the game.
+Press the space bar to shoot the ball into the goal.
+Score 3 goals before time runs out.",13484475,https://cdn2.scratch.mit.edu/get_image/project/236285268_480x360.png,2018-07-13T03:33:57.000Z,2018-07-13T05:45:52.000Z,2018-07-13T05:32:25.000Z,9,1,0,0,0,,
+236292007,Getting Unstuck Day8 - ,"Book: Imparare a programmare Boscaini - "" Occhio al numero""",Look at the number that comes out of the hat and press the corresponding key on the keyboard. Plays!,13275782,https://cdn2.scratch.mit.edu/get_image/project/236292007_480x360.png,2018-07-13T06:07:49.000Z,2018-07-24T14:04:43.000Z,2018-07-13T06:27:24.000Z,11,1,0,0,0,,
+236287402,Scratch Cat Dance Contest!,,Scratch Cat Dance Contest!  Press F and then J alternately to do 100 dance moves in 10 seconds!~,18198558,https://cdn2.scratch.mit.edu/get_image/project/236287402_480x360.png,2018-07-13T04:25:57.000Z,2018-07-13T05:49:00.000Z,2018-07-13T05:06:25.000Z,3,1,0,0,0,,
+236294731,Untitled-56,"I've been tinkering with sound for the entire week, and I recently got very interested in understanding how synthesizers work, so I continued experimenting also with this (super experimental) project.
+
+I wondered about ways to have a seamless transitions between notes. After more than 2 hours and thousands of experiments, I tried with two scripts calling each other using messages.
+
+I was very surprised by the effect and I haven't quite understood how it works, but the code looks elegant and it sounds.. interesting! :) 
+As you can hear, the sound still goes through some sort of stages. In my next experiments I will try to get to something more continuous.
+
+I wanted to keep the stage minimal, so that people can concentrate on the sound. I kept the title as Untitled-56, as a reminder of the many attempts I made and the unfinished nature of this work.
+
+Enjoy!",Make sure your volume is not too high and press the green flag!,2286560,https://cdn2.scratch.mit.edu/get_image/project/236294731_480x360.png,2018-07-13T07:00:08.000Z,2018-07-19T01:48:14.000Z,2018-07-13T07:54:42.000Z,13,6,2,0,0,,
+236287653,Balloon Pop! Unstuck Day 8,"Song by Kevin Mcleod from Incompetech Hot Pursuit.mp3 https://incompetech.com/music/royalty-free/
+
+Iterations...many.  Remixed the code for jumping smoothly that I found in the Scratch database.  ","Press the Flag and then use the right, left, and up arrows to pop balloons.  ",31144646,https://cdn2.scratch.mit.edu/get_image/project/236287653_480x360.png,2018-07-13T04:31:57.000Z,2018-07-16T20:53:32.000Z,2018-07-13T05:44:06.000Z,13,2,0,0,0,,
+236233586,Day 8 - Getting Unstuck,"I got stuck today. 
+No way to code anything for Getting Unstuck - Day 8
+
+Luckily I found inspiration in this amazing project from @spinlight 
+
+New features => you can have more lives after the first Game Over","Goal => Catch shapes that match. Avoid mismatches. 
+Controls:
+Click PLAY to start a new game.LEFT and RIGHT arrows to move.
+
+After the first Game Over you can continue the game and choose how many lives do you want to receive.",26079479,https://cdn2.scratch.mit.edu/get_image/project/236233586_480x360.png,2018-07-12T15:10:39.000Z,2018-07-24T22:22:25.000Z,2018-07-13T09:02:32.000Z,17,3,2,0,0,14762400,14762400
+236309044,Getting Unstuck Day 8 - Variable,,"Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.",34221568,https://cdn2.scratch.mit.edu/get_image/project/236309044_480x360.png,2018-07-13T10:53:40.000Z,2018-07-13T11:29:28.000Z,2018-07-13T11:28:49.000Z,5,1,0,0,0,,
+236311735,Getting Unstuck Day8,"What did you like most about your project? Working out a good way to move and tying into the exercise theme
+
+
+What would you do with it next, if you had more time? More targets to reach, maybe some motivational music :)",,17809789,https://cdn2.scratch.mit.edu/get_image/project/236311735_480x360.png,2018-07-13T11:40:17.000Z,2018-07-13T11:52:25.000Z,2018-07-13T11:51:43.000Z,3,1,0,0,0,,
+236310584,Getting Unstuck Day 8,I would love to figure out how to end program when the score reaches a certain number.  Can anyone help me?,"Click the green flag to begin and follow the instructions.  When you are done, simply press the ""x"".",24826697,https://cdn2.scratch.mit.edu/get_image/project/236310584_480x360.png,2018-07-13T11:19:47.000Z,2018-07-13T12:11:10.000Z,2018-07-13T12:11:10.000Z,3,1,0,0,0,,
+236309276,CHEESE-CAKE EXPRESS!  DAY 8,NON SONO RIUSCITA AD AGGIUNGERE UN ELEMENTO  QUANDO IL CONTEGGIO RAGGIUNGE UN CERTO NUMERO.,"PER FARE UNA BUONA CHEESE - CAKE BISOGNA CLICCARE SUGLI INGREDIENTI GIUSTI
+CON LA BANDIERINA VERDE SI TORNA ALLO SFONDO INIZIALE.",34259094,https://cdn2.scratch.mit.edu/get_image/project/236309276_480x360.png,2018-07-13T10:58:07.000Z,2018-07-16T15:38:49.000Z,2018-07-13T13:32:57.000Z,4,2,1,0,0,,
+236284649,Day 8 WhackAMole,,"Try to hit the mole that comes out of the ground!
+
+This is unfinished because it works sometimes but not always. Still working on it....Suggestions?",10309968,https://cdn2.scratch.mit.edu/get_image/project/236284649_480x360.png,2018-07-13T03:18:40.000Z,2018-07-25T01:17:17.000Z,2018-07-13T13:52:30.000Z,6,1,0,0,0,,
+236323830,Unstuck Day 8 Rushing,"Again -- used another project that I use in my Computer Science classroom.  Modifications can be fun and simple:
+ - add ""dynamite"" that if clicked the game ends even before the time runs out.
+ - add other floating items that give you more points.
+","Click the Green Flag to Start.  The colored balls will multiply (clone) and bounce around the screen.  The timer will start counting down from 10 seconds.  
+Your goal is to click as many of the balls to ""Pop"" them as fast as you can before time runs out.  
+Your final score will be displayed at the end of the game.",7525698,https://cdn2.scratch.mit.edu/get_image/project/236323830_480x360.png,2018-07-13T14:09:31.000Z,2018-07-13T14:14:05.000Z,2018-07-13T14:09:42.000Z,5,1,0,0,0,,
+236285707,Getting Unstuck Day 8: PIcture!,"As continuing my Mexican context for the challenges (and preparing projects that I can use later in my classes), I wanted to represent some of the most iconic Mexican characters in a single picture some of my students will mostly remember.
+
+Thank you to @Mittensbrother for inspiring my project. Your ideas are out of normal. I used the coding strategy for the variable waiting until 0 for something to happen and for my camera to take a picture until characters were ready. You cleared my mind!
+
+Characters from different sources: Frida (Nicholas Muray) Cantinflas (sexenio.com.mx), El Santo (Devian art), El Chapulin (Wikia) Pedro Infante (La Bombilla), Camera (Canon)
+
+",Click green flag. Wait for all famous Mexican characters  to be ready and still for the picture. ,32493591,https://cdn2.scratch.mit.edu/get_image/project/236285707_480x360.png,2018-07-13T03:43:57.000Z,2018-07-13T17:21:23.000Z,2018-07-13T17:21:23.000Z,2,1,0,0,0,,
+236336770,Getting Unstuck Day 8 - variables Catching Fish,This is my first attempt at making a computer game!,"Use the left and right arrow keys to move the cat. 
+
+Each fish the cat catches adds one to the total.
+
+You don't get credit if the fish bounces off the cats head.",11634746,https://cdn2.scratch.mit.edu/get_image/project/236336770_480x360.png,2018-07-13T16:46:18.000Z,2018-07-13T17:41:17.000Z,2018-07-13T17:33:53.000Z,6,1,0,0,0,,
+123749546,MonsterPONG-2,Used GIMP to create Backdrop and Monster Sprite. Started this project earlier and went back to it for this challenge (as I got a little behind on my Unstuck challenges!),"Press Green Flag to begin Game! 
+Use Mouse to move Paddle left and right... do not let the Monster hit the black!
+If you lose all 10 points, Game Over!",10859938,https://cdn2.scratch.mit.edu/get_image/project/123749546_480x360.png,2016-10-02T20:08:10.000Z,2018-07-13T18:01:20.000Z,2018-07-13T17:56:39.000Z,4,0,0,0,0,,
+236346875,Getting Unstuck Day 8,"I had the idea to have the three racers and the variables count how many times they reached the finish line. But, I'm having trouble with figuring out how to get it to restart each time. Any suggestions?","Challenge: Using variables, create a project that counts the number of times something happens—and responds when the count reaches a certain number.
+
+Hit the green arrow to reset scores, and then the space bar to see who reaches the finish line faster.",34245752,https://cdn2.scratch.mit.edu/get_image/project/236346875_480x360.png,2018-07-13T18:54:46.000Z,2018-07-13T19:30:18.000Z,2018-07-13T19:28:51.000Z,6,0,0,0,0,,
+236242901,Getting Unstuck: Day 8,Code Club ghostbusters project helped alot,"Click the green flag to start!
+
+Click on the stars to score
+RED edged star scores -2
+All other stars scores 1
+
+You have 15 seconds, if you get 5 points or more you get the 'Awesome!' banner.  ",34197892,https://cdn2.scratch.mit.edu/get_image/project/236242901_480x360.png,2018-07-12T16:42:56.000Z,2018-07-13T20:36:45.000Z,2018-07-13T20:12:34.000Z,1,0,0,0,0,,
+236353700,Count Me In Day #8 Getting Unstuck,"What did you like most about your project? I love the dancing! and that she moves 8 times, but you don't have to reset it. It's open-ended.
+ What would you do with it next, if you had more time? I would add more diverse dance moves.",Click the green arrow and choose to keep pressing the green arrow or hit the space bar to reset. How many dance moves can you get?,28676433,https://cdn2.scratch.mit.edu/get_image/project/236353700_480x360.png,2018-07-13T20:42:30.000Z,2018-07-13T20:51:44.000Z,2018-07-13T20:49:07.000Z,2,0,0,0,0,,
+236371233,Wall Ball (Getting Unstuck Day 8),,Click the green flag to begin.  Use the left and right arrows to move the paddle.  ,34198395,https://cdn2.scratch.mit.edu/get_image/project/236371233_480x360.png,2018-07-14T02:28:00.000Z,2018-07-15T04:12:06.000Z,2018-07-14T03:23:32.000Z,5,0,0,0,0,,
+236373294,Getting Unstuck - Day 8 Activity,"Day 8 - Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. 
+
+Trying out the broadcast messages and touching sprites.",Press the green flag to start. The wand will follow the cursor. Play the drum and see what happens.,15946,https://cdn2.scratch.mit.edu/get_image/project/236373294_480x360.png,2018-07-14T03:15:27.000Z,2018-07-14T07:47:08.000Z,2018-07-14T06:10:02.000Z,5,1,0,0,0,,
+236358790,Pop the ballon Getting Unstuck Day8,"Getting Unstuck Day 8: Using variables, create a project that counts the number of times something happens—and responds when the count reaches a certain number.
+
+This challenge was very difficult for me, but I unstuck myself!",Click on the green flag,8789156,https://cdn2.scratch.mit.edu/get_image/project/236358790_480x360.png,2018-07-13T22:17:40.000Z,2018-08-01T20:58:15.000Z,2018-07-14T07:35:32.000Z,1,0,0,0,0,,
+236391143,Unstuck 8,Adapted from code provided by a University of Canterbury NZ poster. ,"This counts from 1 to 100 and when the number is a multiple of 3, 5 or 15, the background and words change accordingly. ",18827386,https://cdn2.scratch.mit.edu/get_image/project/236391143_480x360.png,2018-07-14T10:49:40.000Z,2018-07-14T10:51:15.000Z,2018-07-14T10:50:57.000Z,1,0,0,0,0,,
+236393445,Unstuck 8,I would like to create next level :) ,"The crab loves hats! Help him to catch all the hats!
+
+Il granchio che ama i cappelli! Aiutalo a prendere tutti i cappelli!",13846307,https://cdn2.scratch.mit.edu/get_image/project/236393445_480x360.png,2018-07-14T11:50:50.000Z,2018-07-14T12:01:49.000Z,2018-07-14T12:00:31.000Z,4,0,0,0,0,,
+236243179,Getting Unstuck - Day 8,"I tried to make this game using clones, but this method was buggy and  created infinite loops. In the end, I used the same sprite, and hid it when the frog was touched. Afterwards, the frog moves to a new place.","Press the green flag. The frog is hungry and it wants to eat as many flies as it can! Specifically, if the frog eats 10, it will win the game. However, the frog is also dizzy and not aware of its direction. Using the right and left arrow, try to navigate to grab all the flies as fast as you can!",25334812,https://cdn2.scratch.mit.edu/get_image/project/236243179_480x360.png,2018-07-12T16:45:32.000Z,2018-07-14T12:24:20.000Z,2018-07-14T12:24:20.000Z,3,0,0,0,0,,
+236405038,Getting Unstuck: Day 8,"This is my project for Day 8 of the Getting Unstuck programming challenge. This example is very useful in my opionion because it allows you to understand how to introduce levels in games and how to change the difficulty based on any event.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.
+In this example of animation, the ball changes its speed every 5 bounce. The animation stops when the number of bounces reach the value 200.",34314391,https://cdn2.scratch.mit.edu/get_image/project/236405038_480x360.png,2018-07-14T16:10:45.000Z,2018-07-14T16:33:08.000Z,2018-07-14T16:25:55.000Z,2,0,0,0,0,,
+236402618,Getting unstuck day 8,"I have learned managed lives and points.
+I use the variable ""game"" to flag the status of the game:
+0: Playing the game
+1: Win
+-1: Game over","Move UP and DOWN the shark to eat the fishes!
+You must eat 10 fishes to win the game.
+If one fish escape from you, you lose one life. You only have 3 lives.",2680901,https://cdn2.scratch.mit.edu/get_image/project/236402618_480x360.png,2018-07-14T15:19:51.000Z,2018-07-14T20:09:04.000Z,2018-07-14T16:39:00.000Z,3,1,0,0,0,,
+236420929,Unstuck Day 8 project,"I am still enjoying playing with the random block, and enjoyed playing with variables to count down and trigger something. #Unstuck #CreativeComputing #random #variables",You have 10 tries to find the real Scratch cat. Don't be tricked by the clones!,17786521,https://cdn2.scratch.mit.edu/get_image/project/236420929_480x360.png,2018-07-14T22:19:31.000Z,2018-07-14T22:51:46.000Z,2018-07-14T22:50:34.000Z,12,0,0,0,0,,
+236422764,Variables-Day 8,"Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. ",Use the left and right arrow keys to catch the balls.  Be sure to watch the score because the ball you catch determines if you gain or lose points.  Specific point values will move you onto the next level.  Have fun!,25165723,https://cdn2.scratch.mit.edu/get_image/project/236422764_480x360.png,2018-07-14T23:06:34.000Z,2018-07-15T02:40:03.000Z,2018-07-15T02:37:47.000Z,5,0,0,0,0,,
+236391571,Day 8:  Oh no!  Exploding Duckies!,"I liked the idea of using the variable as a countdown for animating a silly bomb. I use variables all the time bc they are fun and give you flexibility in editing. 
+
+I had fun uploading free sound effects I found on the internets.
+
+I was inspired by a very silly James Veitch video I watched recently about being a bad roommate with duckies in a shared bathroom: https://www.youtube.com/watch?v=f5d8pVg3Qtg. ",just press the green flag!,27658530,https://cdn2.scratch.mit.edu/get_image/project/236391571_480x360.png,2018-07-14T11:01:41.000Z,2018-07-15T04:22:11.000Z,2018-07-15T04:14:34.000Z,4,0,0,0,0,,
+236435397,Getting Unstuck Day 8,"Getting Unstuck Day 8 Reflection:
+This was fun to make.  I was excited when I finally figured out how to make something else happen when the variable reached 10.  That took longer than I thought.  If I had more time I'd want to figure out why my original ladybug stopped cooperating.  At first it moved and counted towards the total like the clones did, but I messed something up somewhere.  I just hid it in the end and added another clone to make the game work the way I wanted it to.  I'd also like to figure out a better way for the bugs to move.  My way is kind of a pain to catch and doesn't accurately portray how bugs move.",Click start and use the arrow keys so the bat can eat all of the bugs.,30095573,https://cdn2.scratch.mit.edu/get_image/project/236435397_480x360.png,2018-07-15T04:37:10.000Z,2018-07-15T05:25:24.000Z,2018-07-15T05:25:24.000Z,2,0,0,0,0,,
+236447965,Getting Unstuck: Day 8,"Andrés Gil Ruiz
+
+*Very useful create clon...","left arrow: left
+right arrow: right
+
+Take 10 apples, but be careful, if one falls, it will discount a point.",27636310,https://cdn2.scratch.mit.edu/get_image/project/236447965_480x360.png,2018-07-15T10:35:03.000Z,2018-07-15T11:07:09.000Z,2018-07-15T11:02:41.000Z,6,0,0,0,0,,
+236453196,unstuck day 8,"I had teach this project to my students in the class. We can learn about many thinks. Logical thinking about time, score, and of course coordinate and position. I love it very much!!",Just use right and left arrow to move the cat flying. If u can touch the banana u can get 1 point. take care if u ,34216021,https://cdn2.scratch.mit.edu/get_image/project/236453196_480x360.png,2018-07-15T13:01:36.000Z,2018-07-15T13:09:52.000Z,2018-07-15T13:01:52.000Z,4,0,0,0,0,,
+236453854,Unstuck Day 8 - Counting Tacos,"Credit goes to my son JohnSwan (https://scratch.mit.edu/users/johnswan/)  for both the concept and much of the code on this one! The taco-eating penguin and getting fat came from him, and I helped him work through some of the math and timing issues that he hadn't really messed with before.","Click the Green Flag to start and then click the Space Bar to send a random number of tacos to the penguin. After each 10 tacos he eats, he will get a little fatter.",7902,https://cdn2.scratch.mit.edu/get_image/project/236453854_480x360.png,2018-07-15T13:19:05.000Z,2018-07-15T13:24:20.000Z,2018-07-15T13:19:31.000Z,9,1,1,0,0,,
+236459315,Getting Unstuck - Day 8,"Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.",,86693,https://cdn2.scratch.mit.edu/get_image/project/236459315_480x360.png,2018-07-15T15:31:33.000Z,2018-07-15T15:44:37.000Z,2018-07-15T15:44:37.000Z,2,0,0,0,0,,
+236302014,Getting Unstuck 8: in the park,,Press the green flag twice,16573108,https://cdn2.scratch.mit.edu/get_image/project/236302014_480x360.png,2018-07-13T08:55:06.000Z,2018-07-27T16:12:37.000Z,2018-07-15T16:42:45.000Z,3,0,0,0,0,,
+236463834,getting unstuck day 8,I have learned to go back and go front sprites.Ramdom bouce and glide.,espace to jump.,23020553,https://cdn2.scratch.mit.edu/get_image/project/236463834_480x360.png,2018-07-15T17:17:10.000Z,2018-07-15T17:27:18.000Z,2018-07-15T17:27:18.000Z,4,1,0,0,0,,
+236474758,Getting unstuck day 8-variables that count,I am having a hard time with this-my variable seems to jump to 10 right away. I will have to examine more projects and see if I can find my mistake. I did learn how to adjust the speed of the falling star.,Use the arrow keys to move the robot and catch 10 stars,16010675,https://cdn2.scratch.mit.edu/get_image/project/236474758_480x360.png,2018-07-15T21:44:02.000Z,2018-07-15T22:18:00.000Z,2018-07-15T22:16:43.000Z,6,0,0,0,0,,
+236463589,Getting Unstuck 8,"Getting Unstuck: Day 8
+Oh se l'Italia avesse avuto questo giocatore!!!",Clicca sulla bandierina,15572972,https://cdn2.scratch.mit.edu/get_image/project/236463589_480x360.png,2018-07-15T17:11:43.000Z,2018-07-18T07:54:01.000Z,2018-07-15T22:28:39.000Z,4,0,0,0,0,,
+236502094,Two points - maths - Getting Unstuck Day 8,,"* * * A little bit of maths. * * *
+
+Click on the green flag.
+Program generates two random points and draws a line through two points. Program will stop after the 10th line is drawn.
+
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->
+Getting Unstuck: Day 8 - #CreativeComputing
+
+Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->",24583107,https://cdn2.scratch.mit.edu/get_image/project/236502094_480x360.png,2018-07-16T06:40:21.000Z,2018-07-16T11:32:50.000Z,2018-07-16T09:16:48.000Z,2,0,0,0,0,,
+236529232,day-8,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/236529232_480x360.png,2018-07-16T13:38:42.000Z,2018-07-16T13:43:13.000Z,2018-07-16T13:43:11.000Z,2,0,0,0,0,,
+236533306,Unstuck - Day 8,"This project is just a variation of a traditional pong game.  We decided to count how many times the ball hits the Scratch Cat. When the score is greater than 10, then the ball moves faster. After 20 and 30 it also gets faster.  Each time the ball goes behind the cat, the score decreases by 1.  When the score is less than 1, the game is over.
+Some modifications we plan to make include: 
+-When the speed changes, the ball switched colors (changes costume)
+-When the ball goes behind the cat, the score changes by -5, making the game a bit more challenging.
+-Once the ball gets faster, it doesn't slow down (still haven't figured out how to do this - any suggestions?  I'm thinking maybe using If, then, else or set a range such as score > 10 and score <20)
+-Have a timer that counts how long the player keeps playing.  When the game is over, the time is displayed.
+-Anyone else have suggestions?","Click Green Flag to Start.
+Move your mouse up and down and try to hit the ball.
+Try to keep up!",2456527,https://cdn2.scratch.mit.edu/get_image/project/236533306_480x360.png,2018-07-16T14:12:23.000Z,2018-07-16T15:04:22.000Z,2018-07-16T15:04:22.000Z,2,0,0,0,0,,
+236533936,Help me find Gobo,,Start with the flag then press space for move the cat and letter j for continue,3602053,https://cdn2.scratch.mit.edu/get_image/project/236533936_480x360.png,2018-07-16T14:17:39.000Z,2018-07-16T15:04:32.000Z,2018-07-16T15:03:43.000Z,4,0,0,0,0,,
+236467248,PRENDI LA PALLA,"Progetto creato per il Getting Unstuck, day 8","CLICCA LA BANDIERA VERDE, POI SEGUI LE INDICAZIONI DEL GATTINO (per giocare devi toccare la palla ed ottenere 10 punti)",14651357,https://cdn2.scratch.mit.edu/get_image/project/236467248_480x360.png,2018-07-15T18:35:43.000Z,2018-07-16T19:20:43.000Z,2018-07-16T19:20:43.000Z,2,0,0,0,0,,
+236361406,unstuck day 8,This was a difficult one. My son told me to draw what I want to happen before I try to create it. I still had trouble with the time. Not thinking that is how to make it work. ,,16426717,https://cdn2.scratch.mit.edu/get_image/project/236361406_480x360.png,2018-07-13T23:12:02.000Z,2018-07-16T20:58:44.000Z,2018-07-16T20:57:45.000Z,5,0,0,0,0,,
+236637353,Getting Unstuck # 8 Silenzio prego!,"remix di un progetto ""Coding Programmare è un gioco"" di Feraresso, Colombini; Bonanome.","Clicca sulla bandierina verde
+batti le mani o provoca un rumore... riuscirai a non far scoppiare il palloncino?",17320587,https://cdn2.scratch.mit.edu/get_image/project/236637353_480x360.png,2018-07-17T13:50:16.000Z,2018-07-17T14:29:01.000Z,2018-07-17T14:24:54.000Z,2,0,0,0,0,,
+236746849,day 8,"Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number. ","avoid the rotten apples - you lose points
+you lose if an apple touches the ground
+the speed increases as you gather more apples",24618980,https://cdn2.scratch.mit.edu/get_image/project/236746849_480x360.png,2018-07-18T13:46:16.000Z,2018-08-07T15:48:14.000Z,2018-07-18T13:47:05.000Z,10,2,0,0,0,,
+236752300,Getting Unstuck day 8,,green flag ,17636749,https://cdn2.scratch.mit.edu/get_image/project/236752300_480x360.png,2018-07-18T14:39:41.000Z,2018-07-18T15:47:23.000Z,2018-07-18T15:06:58.000Z,5,0,0,0,0,,
+236738873,#GettingUnstuck8 - Random numbers and means,"All sprites and costumes taken from the Scratch repository.
+
+This project can be easily optimized, but it is just a fast draft for the GettingUnstuck 8th challenge.","Press green flag and follow the instructions. Keep space bar to finish the program.
+
+This project generates 50 random numbers [1..100] each time and saves the results. It also calculates the mean of all numbers and saves it in a list (so you can check how it varies).
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 8.
+
+""Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number""",1112440,https://cdn2.scratch.mit.edu/get_image/project/236738873_480x360.png,2018-07-18T12:18:25.000Z,2018-07-18T16:24:33.000Z,2018-07-18T16:10:46.000Z,2,0,0,0,0,,
+141234782,Quiz di grammatica remixcarmine2-2,,"Ho cercato di renderlo più interattivo ma non so se cisono riuscito. Il punteggio massimo da raggiungere è 5.
+",13575540,https://cdn2.scratch.mit.edu/get_image/project/141234782_480x360.png,2017-01-22T09:39:30.000Z,2018-07-20T15:55:26.000Z,2017-02-10T12:41:32.000Z,21,0,0,0,0,,
+236779817,Getting Unstuck Day 8 - variables,"Created for Getting Unstuck Day 8 using variables. This mini-game was inspired by my fight with the carpenter bees slowly killing the willow tree in my front yard.
+
+The variables are the 30 second timer for the game duration and the score.
+
+For some reason I always have trouble with the touch blocks to change the score. It seems that the program doesn't always sense that the sprites are touching.","Press the green flag to start.
+
+Left and right arrows move the character
+Press the space bar to jump",2803184,https://cdn2.scratch.mit.edu/get_image/project/236779817_480x360.png,2018-07-18T19:23:47.000Z,2018-07-18T20:10:16.000Z,2018-07-18T20:06:38.000Z,4,0,0,0,0,,
+236843698,Fruit and Veggie Challenge,"Very loosely based on the classic video arcade game Pacman.
+
+I reworked a previous project that I first created back in 2013.  I made some adjustments in this version - making the sprites smaller and hiding the sprites after they are chomped (I've always wanted to do that but never found the time to get around to it). I discovered that once I hid the sprites though, I had to go back and adjust my scoring variables because they were no longer on the screen to allow for a higher score. The game is a little bit trickier now, I think.  You have to chomp all five healthy foods (50 points) while avoiding unhealthy foods (so that you don't lose points). You have to get 50 points within 20 seconds to win.","Click Green Flag to start.
+
+Chomp  healthy fruits and veggies - You earn points
+Stay away from unhealthy snacks (You lose points if you chomp them)
+
+Chomp all healthy foods to earn 50 points to Win!  Good luck, you only have 20 seconds!
+",1196430,https://cdn2.scratch.mit.edu/get_image/project/236843698_480x360.png,2018-07-19T12:54:13.000Z,2018-07-19T13:23:40.000Z,2018-07-19T13:23:11.000Z,5,1,0,0,0,,
+236635443,Cats and Coins (Getting Unstuck #8) ,"Getting Unstuck: Day 8
+Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.
+
+This proved to be a little challenging at first. Playing around with broadcast block I managed to get the coins to disappear at the right time. My next step would be to make the scene change so the Scratch cat can continue on his coin collecting journey.","Help Scratch cat collect coins so that he can power-up!
+
+Right arrow - move forward
+Left arrow - move backward
+Space - jump
+
+Click the green flag to restart.",22105327,https://cdn2.scratch.mit.edu/get_image/project/236635443_480x360.png,2018-07-17T13:34:34.000Z,2018-07-19T13:42:11.000Z,2018-07-19T13:31:37.000Z,11,2,0,0,0,,
+236863146,Getting Unstuck - Day 8,"I always like making fish tank games.  There are are so many elements you can add.  If I had time, I would probably play more around with the fish movements and maybe make randon ""bad"" fish that would make the shark sick and lose points.","Click on flag to begin,  Using the mouse, move the shark around to get his ""dinner"".  Be careful not to get poked by the crab, you will lose points.  Once you have eaten enough without getting poked, your dinner will be over and you win!  But, if you get poked too much, you lose.",2502473,https://cdn2.scratch.mit.edu/get_image/project/236863146_480x360.png,2018-07-19T16:18:24.000Z,2018-07-19T17:37:01.000Z,2018-07-19T16:41:26.000Z,4,0,0,0,0,,
+236876961,Getting Unstuck - dag 8,#GettingUnstuck,"Use the arrowkeys to move the shark. He is hungry and wants to eat the fish, can you help him? He needs 10 fish in all.",25631396,https://cdn2.scratch.mit.edu/get_image/project/236876961_480x360.png,2018-07-19T18:51:50.000Z,2018-07-19T19:32:27.000Z,2018-07-19T19:30:31.000Z,7,0,0,0,0,,
+236969629,Unstuck Day 8,,Click on the green flag to start the game.  Have your fingers ready on the Right Arrow key to move the frog to the Right and the Left Arrow key to move the frog to the Left. ,14232182,https://cdn2.scratch.mit.edu/get_image/project/236969629_480x360.png,2018-07-20T20:23:55.000Z,2018-07-20T21:00:43.000Z,2018-07-20T20:56:37.000Z,2,0,0,0,0,,
+237016211,Unstuck 8: Melon Bounce,Credit: modified code from Coding in Scratch Games Workbook.,"Click the flag to start the game.
+Cat has to stop the falling watermelons from hitting the ground, but he doesn't know where they'll appear or which melon will drop first. Help him to keep the melons in the air.
+Each melon starts in a random position. The melons bounce off the cat and back up into the air.
+Left key - moves the cat forward.
+Right key - moves the cat in reverse direction. When a melon hits the bottom of the stage, you hear a cymbal, and it's the end of the game.",840815,https://cdn2.scratch.mit.edu/get_image/project/237016211_480x360.png,2018-07-21T14:18:44.000Z,2018-07-21T18:12:38.000Z,2018-07-21T17:45:54.000Z,3,1,0,0,0,,
+237077459,Getting Unstuck Day 8,"Made for Getting Unstuck Day 8.
+I liked the idea of using collision detection for this project and keeping track of the items collected by using a variable.
+As a development the fruit could appear in random places and extra levels could be added.
+Or perhaps players could come onto the field.","The MIT campus has fruit littering the playing field.
+Collect it up by controlling the truck using the arrow keys.",287832,https://cdn2.scratch.mit.edu/get_image/project/237077459_480x360.png,2018-07-22T16:07:40.000Z,2018-07-22T17:08:10.000Z,2018-07-22T16:26:16.000Z,3,0,0,0,0,,
+236371341,Día 8,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/236371341_480x360.png,2018-07-14T02:30:31.000Z,2018-07-19T23:00:02.000Z,2018-07-19T23:00:02.000Z,3,1,0,0,0,,
+237168509,Prendi il topo,"Getting Unstuck: Day 8
+Crea
+utilizzando le variabili, crea un progetto che conta il numero di volte che succede qualcosa e risponde quando il conteggio raggiunge un certo numero.",Gatto deve toccare il topo per farlo usa le frecce dx e sx,21462276,https://cdn2.scratch.mit.edu/get_image/project/237168509_480x360.png,2018-07-23T16:59:01.000Z,2018-07-24T14:40:57.000Z,2018-07-24T14:21:14.000Z,2,1,0,0,0,,
+237308946,Unstuck #8 - Polygon Maker,"Variables.
+1. count keeps track of the polygons drawn (up to 10)
+2. sides keep track of the number of sides user chooses
+","Variables.
+1. count keeps track of the polygons drawn (up to 6)
+2. sides keep track of the number of sides user chooses
+",26618044,https://cdn2.scratch.mit.edu/get_image/project/237308946_480x360.png,2018-07-25T00:38:52.000Z,2018-07-29T20:17:31.000Z,2018-07-25T00:57:06.000Z,3,1,0,0,0,,
+237119885,Getting Unstuck Day 8,"When I originally started this project, I wanted to do a Frogger game for Scratch. Instead, I created something slightly different. I enjoyed how I was able to make the shrink and as it moves towards the city, it gives a sense of motion. If I had more time, I would have made the other Sprites disappear and reappear after the cat touches them. ","Click on green flag to start the program. Use the arrow keys to control the Scratch Cat. Note - as you move around, the cat will shrink - Try to get to 11 or more points before the Sprite disappears. After getting the required points, then swim to shore using the arrow keys.
+
+I hope you enjoy the game.",30595057,https://cdn2.scratch.mit.edu/get_image/project/237119885_480x360.png,2018-07-23T05:44:22.000Z,2018-07-25T03:20:04.000Z,2018-07-25T03:12:20.000Z,4,1,0,0,0,,
+237301659,Day 8 - Getting Unstuck,,,17812875,https://cdn2.scratch.mit.edu/get_image/project/237301659_480x360.png,2018-07-24T23:19:58.000Z,2018-07-26T13:25:30.000Z,2018-07-25T03:21:16.000Z,6,1,0,0,0,,
+236244377,Cat Lollipops (Unstuck #8),"Day 8 of Getting Unstuck! Join us at gettingunstuck.gse.harvard.edu.
+
+Our activity of the day: Using variables, create a project that counts the number of times something happens—and responds when the count reaches a certain number.
+
+This works with a List! (not variables, strictly speaking — but it does count and report variations, and respond to the count!)  ","How many lollipops can one cat handle?
+
+Press the green flag and then follow the story to find out!
+
+
+
+",22355433,https://cdn2.scratch.mit.edu/get_image/project/236244377_480x360.png,2018-07-12T16:57:19.000Z,2018-07-25T03:50:26.000Z,2018-07-12T17:12:16.000Z,5,1,0,0,0,,
+237395509,Day 8 - Counting Game,"This little game could easily be customized and expanded. You can add more hippos or change it to an addition game, etc. One problem I have that I would fix if I had more time, is that the hippos sometimes end up on top of each other.  I think this would be a great kindergarten game!","Click on the green arrow and then count the hippos. You can drag the hippos on the screen to make sure you see them all or to help you count them. When you get 3 answers correct, you win. ",31044612,https://cdn2.scratch.mit.edu/get_image/project/237395509_480x360.png,2018-07-25T20:14:35.000Z,2018-07-25T21:15:28.000Z,2018-07-25T21:06:35.000Z,6,1,0,0,0,,
+236808896,Getting Unstuck - Day 8,"The challenge for Day 9 was: Using variables, create a project that counts the number of times something happens and responds when the count reaches a certain number.
+
+My backdrop poses the question of ""Can Scratch do 5 jumping jacks?"".  Of course he can! When he does completes the 5 there is a clapping sound. I added a random block (given to us in the day 6 challenge) to have him complete a few extra jumps.  Of course I also have the counter on the bottom to keep track of how many jumping jacks he completes!","Do you think that Scratch the Cat can do more than 5 jumping jacks?
+
+Click the green arrow to see how many he can do!
+Don't forget to give him props for completing his five!",24696341,https://cdn2.scratch.mit.edu/get_image/project/236808896_480x360.png,2018-07-19T03:11:26.000Z,2018-07-25T22:12:28.000Z,2018-07-25T22:12:28.000Z,6,1,0,0,0,,
+237332441,Getting Unstuck - Day 8 - counting,"Getting Unstuck - Day 8 - counting
+
+https://us18.campaign-archive.com/?u=5dd4d8b32f719a30cbde507c6&id=fd4b5ae37e
+
+""I've always believed that as an artist, as a writer, you need a lot of contact with other people to make your art good.""—N. K. Jemisin
+
+#CreativeComputing","Press Green Flag to Start
+
+Use Up and Down arrows to control space ship. 
+
+Avoid the asteroids. ",8880372,https://cdn2.scratch.mit.edu/get_image/project/237332441_480x360.png,2018-07-25T05:35:32.000Z,2018-07-26T20:01:42.000Z,2018-07-26T19:59:50.000Z,7,1,0,0,0,,
+237530904,Getting Unstuck: Day 8,,"Click on flag to begin, 
+Using the mouse, move the nemo around to get his ""dinner"". 
+Be careful not to be consumed by sharks, you will lose points.
+",34283191,https://cdn2.scratch.mit.edu/get_image/project/237530904_480x360.png,2018-07-27T03:48:54.000Z,2018-07-27T08:18:39.000Z,2018-07-27T06:39:25.000Z,5,2,1,0,0,,
+236844895,Swimming Game,,"Press the green flag to start the game.
+Use the arrow keys to catch the starfish and earn points.
+Beware of the sharks!!  You lose points!",34331091,https://cdn2.scratch.mit.edu/get_image/project/236844895_480x360.png,2018-07-19T13:08:10.000Z,2018-07-20T14:27:01.000Z,2018-07-19T13:55:17.000Z,7,1,0,0,0,,
+237529487,#Unstuck 8 using variables for counting,Watches a couple of tutorials on variables and random numbers.,You have to guess how many shots he gets in the hoops. Push the green flag type in your guess.,31492686,https://cdn2.scratch.mit.edu/get_image/project/237529487_480x360.png,2018-07-27T03:25:12.000Z,2018-07-27T10:24:55.000Z,2018-07-27T10:23:54.000Z,3,1,0,0,0,,
+238219478,08 Getting Unstuck - Variables,"I'm pretty sure that the idea for this came from the Scratch tutorials, although I made this game completely by memory and haven't looked at the tutorials for over a year!","Baby birds are falling from their nest! Help break their fall!
+
+Click on the green flag and move your mouse from left to right to catch the baby birds!",5401184,https://cdn2.scratch.mit.edu/get_image/project/238219478_480x360.png,2018-08-04T13:34:37.000Z,2018-08-04T14:32:49.000Z,2018-08-04T14:30:29.000Z,2,1,0,0,0,,
+238175611,Alla ricerca di quadrati,,"Raccogli i quadrati che ti faranno guadagnare punti.
+Cosa accade se raccogi anche i cerchi?",14096918,https://cdn2.scratch.mit.edu/get_image/project/238175611_480x360.png,2018-08-03T19:41:34.000Z,2018-08-04T20:08:35.000Z,2018-08-04T20:01:54.000Z,2,1,0,0,0,,
+237350517,Total Turtle Turn random angles--evolve into sprays,"Getting Unstuck - Day 8
+""create a project that counts the number of times something happens—and responds when the count reaches a certain number""
+This project has definitely evolved -- it began with walking around a circle, but with random turns -- checking the total until it reached or exceeded 360, then adjusting so that the final turn made the total 360. Thinking about turtle art and mathematical stitching, after a number of variations (from dots to colored lines), the randomly generated points of the turns are stored in lists, then the lists are stepped through to create the lines from the first point of each original path. The color changes for each design; shading changes step by step until the ""floor"" of the distance to the point is reached. (Hopefully this will make more sense if you happen to look at the code.)","0. Green Flag = clear
+1. Use slider to change the 'step-length' (optional)
+2. Spacebar - generate one spray of design
+3. Drag the cat to a new location
+
+Repeat steps 1-3 to create your design",52693,https://cdn2.scratch.mit.edu/get_image/project/237350517_480x360.png,2018-07-25T10:39:17.000Z,2018-08-06T21:23:30.000Z,2018-08-06T21:23:30.000Z,3,1,0,0,0,,
+237841185,In fondo al mar,Day 8.,Clicca sulla bandiera verde e cerca di toccare le stelle marine.,22217887,https://cdn2.scratch.mit.edu/get_image/project/237841185_480x360.png,2018-07-31T07:24:52.000Z,2018-08-08T10:12:23.000Z,2018-08-08T10:11:44.000Z,1,0,0,0,0,,

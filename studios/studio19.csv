@@ -1,0 +1,545 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root,,description (full),instruction (full),description (blank),instruction (blank)
+237042971,Steven and the Stevens [MV],"Animation is hard! And time consuming! But after yesterday's puzzle of clones and circuits, this felt a little more manageable. :) More to come...
+
+Made w/ @unseatingBread. If I had two more days, the clones would perhaps do different things, and/or I'd separate out Steven 1 from his backup singers. ","Press the green flag to watch! (Inspired by Steven and the Stevens - a song from Steven Universe)
+
+I know that the prompt says ""a natural or human-made phenomenon..."" does gem-made count? :P",2745846,https://cdn2.scratch.mit.edu/get_image/project/237042971_480x360.png,2018-07-22T00:59:37.000Z,2018-07-23T09:27:01.000Z,2018-07-23T09:25:28.000Z,27,16,1,0,0,,,,109,118,18,9
+237100206,Grumpy Bubbles,"Big thanks to @jsh for his Day 1 project, River Waltz, which served as inspiration and as material for my project. I was inspired early on by the use of clones in River Waltz, and wanted to pay tribute to that inspiration with a slightly cheeky remix.","First, check out @jsh's River Waltz: https://scratch.mit.edu/projects/235484400/
+This remix project is the behind-the-scenes peek at the bubbles in the background of that project—bubbles who are not nearly as courteous as the fish!
+Click the Green Flag, then mouse over the bubbles to see what they're grumbling about!",39526,https://cdn2.scratch.mit.edu/get_image/project/237100206_480x360.png,2018-07-23T00:25:41.000Z,2018-07-23T10:07:59.000Z,2018-07-23T10:07:59.000Z,29,11,0,0,0,235484400,235484400,,,,,
+237093421,Raindrops,"I've found that I don't always initially consider sound with my projects. For this project I wanted to work on getting timing and pace to seem natural. I wanted to go beyond ""I can make the rain fall"" to ""can I make the rain fall well?"" Having sound as an element of that process has helped. I'm not sure I'm quite at natural pacing, but I think it's getting there (:
+
+(update: edited the speed of the day rain to simulate gravity! how does this compare to the non-gravitational falling of night rain? I also set the clones to a range of sizes. I'd like to go back later to connect size with gravity)
+
+rain sound:
+https://freesound.org/people/macdaddyno1/sounds/396484/",Press the green flag.,25705937,https://cdn2.scratch.mit.edu/get_image/project/237093421_480x360.png,2018-07-22T22:22:17.000Z,2018-07-23T13:33:50.000Z,2018-07-23T10:37:53.000Z,29,18,4,0,0,,,,,,,
+237098671,Night Rain,"After simulating rain drops for today's challenge, I was reminded of my use of clones for loudness sensing day. As I was exploring sound as a significant dimension of my project today, I wondered how the rainfall and the noise-reacting stars might interact -- both with sound in the project and from whoever is watching.
+
+rain sound:
+https://freesound.org/people/macdaddyno1/sounds/396484/","Press the green flag, allow for the microphone to detect sound, and turn speaker volume up (I recommend all the way!) (Also feel free to sing, scream, hum, talk, etc)
+
+
+I also recommend full screen",25705937,https://cdn2.scratch.mit.edu/get_image/project/237098671_480x360.png,2018-07-23T00:06:28.000Z,2018-07-23T11:03:43.000Z,2018-07-23T10:38:58.000Z,21,8,4,0,0,,,,,,,
+237111696,Lights,"This project was created for Day 19 of Getting Unstuck. Our mission was to explore clones, which I was excited about because I've really been enjoying clones throughout Getting Unstuck (previously, clones were an unexplored feature for me). 
+
+For an initial version of this project, I relied more heavily on Scratch's built-in blocks (e.g., X Position, Y Position, Point Towards, Move X) to calculate movement. But there was a slight problem with this; I wanted the clones to appear to continue their circular motion even when offstage. The solution was to do more of the calculations manually, storing things like current position in variables (so, not limited to the size of the stage). 
+
+Music: Gustav Holst, ""Neptune, the Mystic"" (The Royal Liverpool Philharmonic Orchestra)",Enjoy the procession of the clones!,56239,https://cdn2.scratch.mit.edu/get_image/project/237111696_480x360.png,2018-07-23T03:16:00.000Z,2018-07-23T17:44:58.000Z,2018-07-23T10:59:22.000Z,30,14,7,0,0,,,,,,,
+62591162,Slim Cantore - Penquin Weather Channel Event,"
+
+","This project is based on a Weather Story by Weather Channel Reporter Jim Cantore. On February 15, 2015 he experienced six episodes of thundersnow in Plymouth, MA while reporting.  Real footage from this event can be seen at: http://www.weather.com/news/news/jim-cantore-thundersnow-plymouth-massachusetts.
+This is my first experience with cloning.
+The original project was remixed from CSFirst module on Storytelling.",4615776,https://cdn2.scratch.mit.edu/get_image/project/62591162_480x360.png,2015-05-16T05:27:51.000Z,2018-07-23T11:12:00.000Z,2015-05-21T00:13:38.000Z,32,9,2,0,0,24001065,24001065,,,,,
+237136651,Unstuck Day 19 Flowers,"Three flowers on one stem is a variation from having a field of cloned flowers bloom, which is a simpler script and the create clone block in a repeat loop.
+I put the watering can sprite in my backpack after another Scratcher suggested I add it to a previous Unstuck flower project then added the sprite here.
+
+Here's another fun cloning project: https://scratch.mit.edu/projects/237137845/","Thanks for today's challenge! I have used cloning for a few different things, but this project fits best with the challenge to represent a natural or human-made phenomenon.
+
+",14632339,https://cdn2.scratch.mit.edu/get_image/project/237136651_480x360.png,2018-07-23T10:50:19.000Z,2018-07-23T19:44:57.000Z,2018-07-23T11:04:11.000Z,9,6,0,0,0,,,,,,,
+237134693,Unstuck Day 19: Using Clones,"I did this project for Getting Unstuck challenge Day 19, using clones to mimic a natural or human made phenomenon. I had never made variables into sliders before! I thought I had seen it but didn't know how people got that, and it turns out you have to right click in the variable to get the option to turn it into a slider.
+It would be nice if you could put limits on a slider as above 20 on each of these is not particularly useful. I could put the limit in how the variables are used but then the number show does not represent what is happening.","Play with ripples! 
+Just added sound, too.
+See how adding more clones slows down the project.
+Thanks @mstone326 for the tip on setting the slider min and max!",214174,https://cdn2.scratch.mit.edu/get_image/project/237134693_480x360.png,2018-07-23T10:11:35.000Z,2018-07-23T12:17:09.000Z,2018-07-23T11:32:06.000Z,17,10,3,0,0,,,,,,,
+237138514,Day19,,Click on the green flag to start,34225248,https://cdn2.scratch.mit.edu/get_image/project/237138514_480x360.png,2018-07-23T11:27:54.000Z,2018-07-23T11:38:35.000Z,2018-07-23T11:38:22.000Z,12,4,0,0,0,,,,,,,
+237138676,#019 Getting Unstuck Clones,I didn't have a lot of time to do this today...very basic.,Move mouse around for clones...,20126730,https://cdn2.scratch.mit.edu/get_image/project/237138676_480x360.png,2018-07-23T11:31:36.000Z,2018-07-23T11:44:12.000Z,2018-07-23T11:41:27.000Z,21,5,0,0,0,,,,,,,
+237138209,Unstuck Day 19,I am stuck today.  This code works sometimes and not others.  Is it my computer or a bug?  I will come back to it later to see if I can trouble shoot.,Just click the green flag.,24826697,https://cdn2.scratch.mit.edu/get_image/project/237138209_480x360.png,2018-07-23T11:21:13.000Z,2018-07-27T00:45:28.000Z,2018-07-23T11:42:15.000Z,7,1,0,0,0,,,,,,,
+237113181,EC Maker Game,"This is a sketch for a ""maker game"" I drew two years ago as part of a ""maker games"" project made possible by Tufts CEEO Innovation Fund. Two of us later produced a very different game but I've always wanted to develop this sketch for early childhood students. 
+
+For day 19 of GettingUnstuck, in which the theme is cloning, I'm sharing the sketch and inviting others to remix (i.e., ""clone"") it and develop their own games. Feel free to use, remix, and riff on this backdrop in any context within Scratch (if you use this backdrop please credit me for the drawing). I'm going to be using this as the basis for some game design prototyping in a summer camp class this upcoming week.
+
+The features of the board are listed below with corresponding iterative maker concepts:
+
+school (where players start)
+park (for play, rest, passion projects)
+design & co (test and (re)design, outsource design)
+patent office (protect IP)
+general store (obtain new materials)
+junkyard (obtain free materials, leftovers etc)
+skate park (hack, tinker)
+maker bank (obtain funds for new materials*)
+movie theater (develop and share documentation/narrative)
+public library (research)
+museum of makings (exhibit works)
+train station [lower left corner] (pitch/present)
+
+This drawing was loosely based on my hometown. At my game design summer camp week we'll be drawing maps as a starting point for some game backdrops as well.
+
+*in some versions of our games players received tokens periodically which could be used to purchase materials. I like to use narrative as currency: players have to tell a story about their progress in order to obtain new building materials.
+",Please Remix! . . . and develop virtual board games to support iterative maker-centered activities.,33815227,https://cdn2.scratch.mit.edu/get_image/project/237113181_480x360.png,2018-07-23T03:41:42.000Z,2018-07-23T16:28:46.000Z,2018-07-23T11:59:13.000Z,19,2,0,0,0,,,,,,,
+237137593,Getting Unstuck #19,"I played with fireworks on day 6 https://scratch.mit.edu/projects/236008448/ and thought about using clones then. I looked at the Scratch wiki for inspiration this evening and it mentioned fireworks, so I had another go at it, this time with clones.
+I'm happy with this, but if I were to do this again, or if I had more time I'd really want to master gravity, which is a big ask for someone who struggles with long division. 
+I got the sound effects from https://freesound.org/s/142019/
+
+V2 I added very simple gravity and some ghost effect to the clones so that they fade out as they fall. I'm pleased with it, and thanks to @alirb for pointing me in the direction of @HSSLab and @Mittensbrother 
+
+",Just press the green flag. Use the slider to change the number of sparks.,141519,https://cdn2.scratch.mit.edu/get_image/project/237137593_480x360.png,2018-07-23T11:09:27.000Z,2018-07-24T05:24:18.000Z,2018-07-23T12:22:42.000Z,12,7,1,0,0,,,,,,,
+237139153,Bowtie Launcher,I first learned about clones years ago when I was coding a Flash 2.0 game and wanted to launch some projectiles. It remains my favorite thing to use a cloned sprite for.,"Click to launch a bowtie.
+
+How much Oomph are you feeling today?",27306974,https://cdn2.scratch.mit.edu/get_image/project/237139153_480x360.png,2018-07-23T11:41:38.000Z,2018-07-24T01:08:11.000Z,2018-07-23T12:30:55.000Z,26,15,5,0,0,,,,,,,
+237140970,Getting Unstuck Day 19,Took the advice today to heart... this project evolved over 10 minutes. There are no comments and nothing is optimised or polished but it's quite fun. Runs out of clones after about 9 generations.,"Getting Unstuck Day 19
+
+Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.
+
+Click the green flag and watch the cells divide.",2314547,https://cdn2.scratch.mit.edu/get_image/project/237140970_480x360.png,2018-07-23T12:16:56.000Z,2018-07-23T12:36:29.000Z,2018-07-23T12:36:29.000Z,19,6,1,0,0,,,,,,,
+237106670,Critical Hit Revisited (Unstuck 19) ,"I couldn't let my #18 project go without another iteration! So...
+
+After some research on the ""stop:all"" block - it looks like it works only for scripts that are started by the green flag - I decided to add a sword sprite and rethink some of the interactions. 
+
+For today's prompt, it seemed appropriate to add some (cloned) loot drops. There are still a few ""features"" that I need to fix, but I'm happy with this so far!",Attack the Beholder with your sword for 1d4 damage or 2d8 on a critical hit (20). ,27690149,https://cdn2.scratch.mit.edu/get_image/project/237106670_480x360.png,2018-07-23T02:00:49.000Z,2018-07-24T02:32:55.000Z,2018-07-23T12:50:28.000Z,7,3,0,0,0,,,,,,,
+237142159,Day 19 of Getting Unstuck,,Clicca la bandierina verde e.... Buon compleanno,10086796,https://cdn2.scratch.mit.edu/get_image/project/237142159_480x360.png,2018-07-23T12:38:14.000Z,2018-07-23T12:56:38.000Z,2018-07-23T12:56:11.000Z,15,6,0,0,0,,,,,,,
+237143180,_clone copy,,"solo per usare liste/array e cloni
+",443100,https://cdn2.scratch.mit.edu/get_image/project/237143180_480x360.png,2018-07-23T12:54:49.000Z,2018-07-23T13:00:23.000Z,2018-07-23T13:00:23.000Z,18,2,0,0,0,,,,,,,
+135999227,3D Illusion,"Getting Unstuck: Day 19
+3D simulation using clones of triangles",,2143382,https://cdn2.scratch.mit.edu/get_image/project/135999227_480x360.png,2016-12-12T17:55:56.000Z,2018-07-23T13:03:36.000Z,2018-07-23T13:03:36.000Z,25,11,6,0,0,,,,,,,
+237141067,getting unstucked day19,"I' not sure i've understand the potentialities of cloning
+Non credo di aver compreso appieno le potenzialità del clonare...","Just click on the green flag
+click sulla bandie",25103547,https://cdn2.scratch.mit.edu/get_image/project/237141067_480x360.png,2018-07-23T12:18:49.000Z,2018-07-23T12:58:22.000Z,2018-07-23T12:58:22.000Z,13,2,0,0,0,,,,,,,
+237141769,Getting Unstuck: Day 19,"I have not played with the clone command much. I am going to come back and learn more about this command. I added elements of other projects - random, repeat, etc.  I have it set to repeat 30, so it stops after displaying 90 designs.
+
+",Press the green flag to see the design.,17807175,https://cdn2.scratch.mit.edu/get_image/project/237141769_480x360.png,2018-07-23T12:31:09.000Z,2018-07-23T13:18:11.000Z,2018-07-23T13:18:11.000Z,8,2,0,0,0,,,,,,,
+237142800,Random cloning,"Just a simple cloning project with three random costumes.
+Done by following the Help notes that come with the blocks.","Click green flag to start.
+
+Getting unstuck # Day 19
+
+Press space to create a clone. You have to click green flag to see a different costume (random).",158902,https://cdn2.scratch.mit.edu/get_image/project/237142800_480x360.png,2018-07-23T12:49:14.000Z,2018-07-23T13:31:27.000Z,2018-07-23T13:10:58.000Z,15,3,0,0,0,,,,,,,
+237137887,Apple finder,"I used 224 clones, something with this cloning is wrong - some scripts bad working (if-then-else operation, timer)
+Soundtrack - Traditional Chinese Music ""Weather""","Find the apple by clicking on the hexagons.
+The color of the hexagon after clicking depends on the distance to the hidden apple.
+Space bar - start the game.
+""p"" key - pause on/off
+The more blue is - the closer to an apple",139209,https://cdn2.scratch.mit.edu/get_image/project/237137887_480x360.png,2018-07-23T11:15:13.000Z,2018-07-23T14:52:49.000Z,2018-07-23T13:39:59.000Z,17,10,2,0,0,,,,,,,
+237127815,Dancing with stars,"Very simple project: some evening ago I went to see a classic ballet outdoors, suggestive!
+I try to propose the magic of the show.",Simply click on the green flag.,11312120,https://cdn2.scratch.mit.edu/get_image/project/237127815_480x360.png,2018-07-23T08:06:44.000Z,2018-07-23T21:55:25.000Z,2018-07-23T13:29:50.000Z,13,5,0,0,0,,,,,,,
+142383114,Asteroidal 6 (GetUnstuck#19),"I did borrow ideas and bits of code from others but I actually made this ages ago and I've forgotten who they were. I'll make an effort to find out someday soon and will credit accordingly. Apart from the asteroids, all other so-called 'artwork' is my own.
+
+The ship does have a certain degree of inertia (ie it should 'coast' after you take your finger off the 'thrust') but it needs tweaking. 
+
+To add (someday!):
+Asteroids should break apart into smaller frocks when hit, creating harder-to-hit targets.
+Increasing levels of difficulty
+Better ship design! ","Work-in-progress inspired by ASTEROIDS. Created this to experiment with clones, firing lasers/bullets, and the play/pause function. I was also curious about making things re-appear on the opposite side of the screen (as in 'proper' ASTEROIDS).
+
+Cursor/arrow left/right to rotate, up arrow to move/fire thruster. x fires 'retro' rockets (handy because there's no maximum speed!), space fires laser.",3094436,https://cdn2.scratch.mit.edu/get_image/project/142383114_480x360.png,2017-01-28T20:54:40.000Z,2018-07-23T13:45:45.000Z,2017-02-16T11:35:17.000Z,8,4,0,0,0,,,,,,,
+237146579,Snowflakes,"I got help from Snowflake Simulator from the book Coding Projects in Scratch: A step-by-step visual guide to coding your own animations, games, simulations and more! by Jon Woodcock @RoboSquid.
+
+This was a good starting off point for me. I need to work on and improve my understanding and use of more complex variables and conditions.  This has also been a good way for me to work on these challenges while exploring resources that I just received for use in my classroom next year.","Click Green Flag to begin.
+
+Click anywhere on the background to create random snowflakes.
+
+Click Space Bar to clear.",1196430,https://cdn2.scratch.mit.edu/get_image/project/237146579_480x360.png,2018-07-23T13:38:54.000Z,2018-07-25T16:45:47.000Z,2018-07-23T14:06:14.000Z,11,6,2,0,0,,,,,,,
+237146315,day 19,first of all i want to build a wall then when i was moving the blocks then i change the idea to this result.,"press green flag, and enjoy !",34188789,https://cdn2.scratch.mit.edu/get_image/project/237146315_480x360.png,2018-07-23T13:35:59.000Z,2018-07-23T14:17:47.000Z,2018-07-23T14:13:17.000Z,6,0,0,0,0,,,,,,,
+237149337,Getting Unstuck: Day 19,I've run across the cloning max before so this will only go up to 32 or 33,,24912473,https://cdn2.scratch.mit.edu/get_image/project/237149337_480x360.png,2018-07-23T14:08:40.000Z,2018-07-23T14:32:03.000Z,2018-07-23T14:31:23.000Z,9,2,0,0,0,,,,,,,
+237134267,Getting Unstuck Day 19,"
+
+Book: Impare a programmare di Boscaini","Click the green flag.
+
+
+
+How to change color in the wake that goes down?
+I could not do it
+",13275782,https://cdn2.scratch.mit.edu/get_image/project/237134267_480x360.png,2018-07-23T10:02:18.000Z,2018-07-25T08:53:50.000Z,2018-07-23T14:31:05.000Z,14,4,0,0,0,,,,,,,
+237146254,Getting Unstuck Challenge 19 - Trivia,"This project is all cloning. I thought of using the import/export csv or txt from the other day. Each category has 6 questions, so the list works as such. 1-6 is category 1, etc. 
+
+Create your csv or txt, import your file into the questions,answers list and project this on the wall as a review in class or just for fun. 
+
+Just added a great idea from @rbotero, to add an option for images to be shown with the question. Will comment more inside the project.
+
+Can add final jeopardy if interested. Thinking of ideas to be used in a classroom setting as reviews etc. Even thinking of adding a Raspberry Pi and some buttons to ""buzz in"" . 
+
+","Click on the question block to reveal the question. 
+Press space to show the answer
+Press space again to return to the game board
+(will add text engine for spelling categories, for now you'll have to go to the paint editor, however, I made them vector so you can click on the text tool and just edit the existing text)
+
+(few tiny issues with my text engine near the right margin, will fix by adding hyphens when I get a chance)
+
+Each clone has an id, and a state if is clickable or not. When you create a ""for this sprite only"" variable each clone will keep their own copy of that variable. Each question block has ""can select local"" variable which is set to 1. As you click each block it sets their own copy to 0, at which point they can no longer be chosen. ",3158946,https://cdn2.scratch.mit.edu/get_image/project/237146254_480x360.png,2018-07-23T13:35:15.000Z,2018-07-23T19:08:45.000Z,2018-07-23T14:52:44.000Z,26,9,1,0,0,,,,,,,
+237156018,Day 19 psychedelic snowflakes,"I think there is good potential for working with clones on fun projects like creating a scene or planting flowers.
+I liked using cloning with the save goldie project.
+
+","Working with clones today.  
+After yesterday I throught that I'd keep it simple and go for artistic fun.
+press the green flag and start the snowflake spinning.  
+Spacebar - creates a clone
+C will clear the canvas.
+
+Have fun!",24864870,https://cdn2.scratch.mit.edu/get_image/project/237156018_480x360.png,2018-07-23T14:55:32.000Z,2018-07-23T15:20:42.000Z,2018-07-23T15:17:11.000Z,8,3,0,0,0,,,,,,,
+236681045,Elastic wave,"Getting Unstuck - day 19
+by Massimo Marletta
+
+In this project I use clone function to produce a series of particle that vibrates with a slight time shift, forming a mechanical wave.
+Each clone have private variables that regulates its oscillation.
+","
+*** How a mechanical wave is formed? ***
+
+Imagine a single particle which start moving up and down with harmonic motion at constant frequency and amplitude. 
+
+The energy of the particle is transferred to the particle next to it with a slight delay, depending on the characteristics of the medium (the distance between the particles divided by the time delay equals the velocity of waves in that medium).
+
+Therefore the second particle starts its harmonic motion at a different time but with the same frequency and amplitude of the first particle.
+The motion is then transferred to the third particle and so one.
+That's how an elastic wave is created!
+
+Do you see some particle moving horizontally?
+Actually they are just keep oscillating up and down...
+
+",4804940,https://cdn2.scratch.mit.edu/get_image/project/236681045_480x360.png,2018-07-17T21:17:55.000Z,2018-07-23T15:27:45.000Z,2018-07-18T10:18:06.000Z,27,5,3,0,0,,,,,,,
+237141092,Getting Unstuck: Day 19,"Grazie a @Mittensbrother per avermi ispirata sull'animazione dell'immagine.
+Grazie a @rbotero per avermi insegnato come eliminare i cloni!!!
+Grazie a @PinkyPepper!!!
+Thanks to @Mittensbrother for inspiring me on the animation of the image.
+Thanks to @rbotero for teaching me how to eliminate clones!!!
+Thanks to @PinkyPepper!!!
+
+Credits:
+tutorial - https://csfirst.withgoogle.com/c/cs-first/it/programmare-la-moda/chi-guarda-le-vetrine/clonare-lo-sprite-volante.html
+images - https://www.flaticon.com - https://www.vecteezy.com
+music - https://www.youtube.com/audiolibrary/music","Clicca sulla bandierina verde e segui le istruzioni.
+Click the green flag and follow the instructions.",19789360,https://cdn2.scratch.mit.edu/get_image/project/237141092_480x360.png,2018-07-23T12:19:09.000Z,2018-07-23T21:06:58.000Z,2018-07-23T15:35:51.000Z,38,20,6,0,0,,,,,,,
+237156366,Pop the Balloons Remix Unstuck #19,This is a remix of my project from Day #13. I added music and tweaked the code to make it more efficient. ,"Click the green flag to begin. Move the mouse close to, but not over, the blue balloon. Pop balloons by moving the mouse over them. Move the mouse over the original blue balloon to end the game.",124311,https://cdn2.scratch.mit.edu/get_image/project/237156366_480x360.png,2018-07-23T14:57:26.000Z,2018-07-23T15:53:58.000Z,2018-07-23T15:53:17.000Z,8,4,0,0,0,,,,,,,
+237163629,Day 19 Getting Unstuck,This is a fun little project to do with kids on cloning.,"Day 19 Getting Unstuck
+
+Click on green flag, but need to click to create snowflakes",588430,https://cdn2.scratch.mit.edu/get_image/project/237163629_480x360.png,2018-07-23T15:59:33.000Z,2018-07-23T16:04:15.000Z,2018-07-23T16:00:42.000Z,6,1,0,0,0,,,,,,,
+237152436,Getting Unstuck Day 19,Getting Unstuck Day 19,Clicca sulla bandierina verde,15572972,https://cdn2.scratch.mit.edu/get_image/project/237152436_480x360.png,2018-07-23T14:31:04.000Z,2018-07-24T09:11:25.000Z,2018-07-23T16:03:16.000Z,12,2,0,0,0,,,,,,,
+237149665,Day 19: You Are My Sunshine,"My first attempt at using the cloning function . . .
+My grand plan was to have sunflowers with a greater y-value to appear smaller to give the illusion of distance.  Also wanted randomized left/right facings.  Earlier drafts had various sized sunflowers appearing all over the bottom half of the background in different directions.  Current version has large flowers.  
+Sunflowers were popping up very quickly, so I added more wait time.  Now it sometimes takes a while for flowers to start ""stamping"". 
+Will definitely go back to de-bug and refine this project, and to experiment with other methods of cloning.
+Sunflower was created for a sketchnoting challenge earlier this year.
+Background is from Day 6 challenge (Old MacDonald).
+Will probably add some feature to the blue sky for interest. 
+Imagine a ukulele version of ""You Are My Sunshine"" playing in the background :)
+That's enough for today :)","Create a project that uses the cloning features of Scratch. 
+Press the green flag to begin.",18337230,https://cdn2.scratch.mit.edu/get_image/project/237149665_480x360.png,2018-07-23T14:12:14.000Z,2018-07-23T16:10:32.000Z,2018-07-23T15:59:58.000Z,22,5,0,0,0,,,,,,,
+237165834,Unstuck 19 Clone Rabbits,"At first I wanted to simulate a bunch of rabbits hopping around randomly in different directions, starting from the mouse click position. 
+It took me some time to figure out how to get nothing to display if the sky is clicked.
+Due to time constraints I simplified it to the rabbits running in the same direction. If I had more time I would like to:
+-have the rabbits run either left or right
+-have the rabbits run in ""bounding leaps"" using gravity and varying heights
+","Create a project that uses the cloning features of Scratch to represent a natural or human-made phenomenon. For example, you could represent a flock of birds or a fireworks celebration.
+
+The rabbit will give you instructions ;-)
+",19123745,https://cdn2.scratch.mit.edu/get_image/project/237165834_480x360.png,2018-07-23T16:28:00.000Z,2018-07-23T17:18:08.000Z,2018-07-23T16:33:25.000Z,18,12,3,0,0,,,,,,,
+237137770,Getting Unstuck: Day 19,"This is my project for Day 19 of the Getting Unstuck programming challenge. I had fun trying to create the wake effect. If I had more time I would try to recreate the snake game. I think I created the base for the famous snake game. By changing the number of clones over time according to a certain condition, it is possible to recreate the same effect that you have in the original game. The idea seems interesting to me and I think I'll work on it!
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.
+
+Use the arrow keys to move the heart.",34314391,https://cdn2.scratch.mit.edu/get_image/project/237137770_480x360.png,2018-07-23T11:13:04.000Z,2018-07-23T17:20:39.000Z,2018-07-23T17:16:08.000Z,5,2,0,0,0,,,,,,,
+237168954,Unstuck-19,"If I would have more time I would like to stop it at some point, to make it sunny again!",,13846307,https://cdn2.scratch.mit.edu/get_image/project/237168954_480x360.png,2018-07-23T17:05:00.000Z,2018-07-23T17:23:42.000Z,2018-07-23T17:22:38.000Z,8,4,1,0,0,,,,,,,
+237173044,Getting Unstuck day 19,remake and improvement of something I made a while back.,"green flag to start
+arrow keys to move",17767933,https://cdn2.scratch.mit.edu/get_image/project/237173044_480x360.png,2018-07-23T17:47:43.000Z,2018-07-23T17:49:09.000Z,2018-07-23T17:49:09.000Z,7,2,1,0,0,,,,,,,
+237158173,Unstuck Day 19,Thanks to <<https://scratch.mit.edu/projects/237141067/>>for coding hints from <<https://scratch.mit.edu/users/annag79/>> on how to get started cloning. ,Click on the green flag and watch what happens!,14232182,https://cdn2.scratch.mit.edu/get_image/project/237158173_480x360.png,2018-07-23T15:10:50.000Z,2018-07-23T17:50:41.000Z,2018-07-23T17:49:52.000Z,12,4,1,0,0,,,,,,,
+237173643,Day 19,"Actually on a road trip right now and slinging together day 18 & 19 offline in the car and posting at Starbucks stops! I am missing soundtracks, sound effects, and being able to use sprites I didn't attempt drawing rattling along over our crumbling infrastructure!",Click green flag,18341966,https://cdn2.scratch.mit.edu/get_image/project/237173643_480x360.png,2018-07-23T17:53:41.000Z,2018-07-23T17:57:49.000Z,2018-07-23T17:54:04.000Z,4,2,0,0,0,,,,,,,
+237162339,Water balloon game (Getting Unstuck Day 19) ,"Okay, today I didn't really have a good idea. I got stuck on the water drops. Only one clone kept appearing instead of five. After having dinner I found a solution. Not my best game.
+
+If I had more time, I think I would try to make another game...
+
+This is an old game also using invisable clones and is more fun to play in my opinion: https://scratch.mit.edu/projects/48052388/","Pop the water balloons with the arrow that follows the mouse. But there is a trick: the arrow can only move on the right side of the screen (behind the orange lines). And the balloons are invisible overthere, but they are still there. And when you click on them, water drops will fall down. You can pop twenty balloons. What's your best score?
+
+This made for Getting Unstuck Day 19. The challenge of today:
+Create a project that uses the cloning features of Scratch to represent a natural or human-made phenomenon.",11833500,https://cdn2.scratch.mit.edu/get_image/project/237162339_480x360.png,2018-07-23T15:44:55.000Z,2018-07-23T20:14:14.000Z,2018-07-23T18:17:51.000Z,20,4,2,0,0,,,,,,,
+237146861,Getting Unstuck #19: Fishing and cloning,"Scratch project was originally created as part of the WWF educational program ""Healthy children, healthy planet"" with the aim to raise awareness on responsible fishing. Due to ""Getting Unstuck"" activity #19 the project was modified and clones replaced 23 sprites! I believe this was an improvement to the project, and I am very glad I had the chance to practice with clones! 
+
+Day #18 Challenge: Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.",Press the green flag!,1202362,https://cdn2.scratch.mit.edu/get_image/project/237146861_480x360.png,2018-07-23T13:42:09.000Z,2018-07-23T18:56:14.000Z,2018-07-23T18:46:16.000Z,5,3,0,0,0,,,,,,,
+237162088,Getting Unstuck: Day 19 — Wall Writer,"Reflect
+
+I've been wanting to design a system for generating dynamic text from a string in Scratch for awhile. This seemed like the perfect opportunity to try this out.
+
+What I like about this project is that the dynamic text blocks can be imported into other projects and can be easily modified. This example uses clones, but it could be modified to use stamps. Since each letter is a sprite, they can be animated in real-time after being being created. Lots of possibilities.
+","Welcome to Wall Writer!
+
+- Tell Scratch Cat what you want written on the walls.
+- Use the sliders to control the size and spacing of the letters.",26264460,https://cdn2.scratch.mit.edu/get_image/project/237162088_480x360.png,2018-07-23T15:41:48.000Z,2018-07-23T20:03:55.000Z,2018-07-23T19:05:13.000Z,7,4,2,0,0,,,,,,,
+237159817,Fruit Artillery,"Explosion by Naveenan on Pixabay https://pixabay.com/en/comic-blast-blast-effect-2340467/
+
+Obviously this is a Fruit Ninja CLONE.
+
+I read too late ""human or natural phenomenon"". Ok skeet shooting with fruit is not such a thing (for now). I was so excited about clones that I forgot to read the entire sentence :(
+
+Let's see it as a ""fireworks celebration"" :P",Aim with mouse. Try to shoot the fruits and collect gifts (they have to be over your platform when you shoot) while avoiding hitting bombs that will provoke an untimely game over!,12148328,https://cdn2.scratch.mit.edu/get_image/project/237159817_480x360.png,2018-07-23T15:22:38.000Z,2018-07-23T19:35:13.000Z,2018-07-23T18:46:26.000Z,9,6,0,0,0,,,,,,,
+237179652,Getting Unstuck 19,"For this project I recreated a scene from one of my favorite movies (and books). 
+
+I used clones for the elves, cutting the costumes out of the original image with the background removal tool. The image wasn't great, so the elves still had a bit of background around them and I couldn't get it as neat as I wanted. I decided to use the select and duplicate tool on the background to get rid of the remaining elves so it wouldn't look weird when the moving elves passed in front of them. It still looks weird, but hopefully less weird.
+
+Image from http://www.syfy.com/syfywire/5-directions-amazon%E2%80%99s-lord-of-the-rings-tv-series-could-head
+Sound from Ambient Mixer",Click the green flag.,18044195,https://cdn2.scratch.mit.edu/get_image/project/237179652_480x360.png,2018-07-23T18:57:05.000Z,2018-07-23T19:24:55.000Z,2018-07-23T19:00:12.000Z,10,6,1,0,0,,,,,,,
+205567211,Unstuck Day 19 Rushing,,"Click the Green Flag and watch it snow.  
+
+Todays challenge was ""Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.""
+
+Let it snow!  ",7525698,https://cdn2.scratch.mit.edu/get_image/project/205567211_480x360.png,2018-02-22T14:45:09.000Z,2018-07-23T19:25:26.000Z,2018-02-25T21:39:45.000Z,8,3,0,0,0,,,,,,,
+237182421,Getting Unstuck Day 19,,,14159575,https://cdn2.scratch.mit.edu/get_image/project/237182421_480x360.png,2018-07-23T19:34:17.000Z,2018-07-23T19:34:55.000Z,2018-07-23T19:34:53.000Z,7,2,0,0,0,,,,,,,
+237181145,Challenge19clones,"This project asks students to drag the symbols to the gray box to write the electron configuration for the outermost shell of the element. When they drag, they are dragging a clone so they don't run out of orbitals or electrons. It's kind of a pain, because it's hard to grab what I want with the mouse, but it works.",Press the green flag to begin.,2190314,https://cdn2.scratch.mit.edu/get_image/project/237181145_480x360.png,2018-07-23T19:16:17.000Z,2018-07-23T19:36:28.000Z,2018-07-23T19:34:27.000Z,5,2,0,0,0,,,,,,,
+237180102,uinstuck19,Inspired by the weather and the water balloongame made by Juf-Pinky ,It's very hot. Let the rain fall on the Scratchcat. Press > for a cloud and spacebar for falling drops,1072279,https://cdn2.scratch.mit.edu/get_image/project/237180102_480x360.png,2018-07-23T19:02:45.000Z,2018-07-23T20:33:32.000Z,2018-07-23T20:24:48.000Z,9,4,0,0,0,,,,,,,
+237185388,Day 19: Human Phenomenon ~ Yodel kid,"http://time.com/5225039/walmart-yodeling-boy-video-goes-viral/
+
+https://www.billboard.com/articles/news/dance/8286979/yodeling-boy-walmart-remixes-best
+
+https://scratch.mit.edu/projects/218500495/","Do what Yodel Kid asks of you!
+(Never Stop) ",8793718,https://cdn2.scratch.mit.edu/get_image/project/237185388_480x360.png,2018-07-23T20:19:17.000Z,2018-07-23T20:54:00.000Z,2018-07-23T20:39:49.000Z,15,7,1,0,0,,,,,,,
+237179263,Boston Weather_GU_Day19,"I wanted to use humor in my project. I combined a well-known idiom and some old-time pics with current information.
+I spent some time figuring out how to clip the audio file. (It started out as 6+ minutes long.) Every time that I cut again, I used a copy of my previous cut. That way, if I goofed, I could easily go back to my last try. I left my intermediate cuts for you to see.
+Credits:
+The weather is from National Weather Service  3:22 pm report on 7/23/18  https://forecast.weather.gov/showsigwx.php?warnzone=MAZ015&warncounty=MAC025&firewxzone=MAZ015&local_place1=Boston%20MA&product1=Hazardous+Weather+Outlook&lat=42.3587&lon=-71.0567
+http://freemusicarchive.org/music/Livio_Amato/Collected_Thoughts/Livio_Amato_-__Collected_thoughts_-_04_Rain_Suite
+https://en.wikipedia.org/wiki/Electric_vehicle#/media/File:EdisonElectricCar1913.jpg
+https://commons.wikimedia.org/wiki/File:1978_AMC_Matador_sedan_red_NC_detail_of_factory_AM-FM-stereo-8-track_unit.jpg
+https://www.nps.gov/getaways/boston/
+
+","Click the green flag to begin.
+",24741621,https://cdn2.scratch.mit.edu/get_image/project/237179263_480x360.png,2018-07-23T18:52:33.000Z,2018-08-02T15:41:25.000Z,2018-07-23T21:06:18.000Z,8,2,0,0,0,,,,,,,
+214757913,Getting Unstuck: Day 19 Bolle tra le stelle,"Grazie a Grazie a:
+SYS64738 
+Arte astratta in movimento (Progetto Originale)","Cliccare sulla bandiera verde
+Click on the green flag
+",18667079,https://cdn2.scratch.mit.edu/get_image/project/214757913_480x360.png,2018-04-08T16:08:24.000Z,2018-07-23T21:38:52.000Z,2018-07-23T21:14:53.000Z,7,2,0,0,0,,,,,,,
+237185331,Day 19,Thanks to cheeseeater for the tutorial!,"Click the green flag to start the program, then hit the space bar to start the clones.  ",11885888,https://cdn2.scratch.mit.edu/get_image/project/237185331_480x360.png,2018-07-23T20:18:24.000Z,2018-07-23T21:28:59.000Z,2018-07-23T21:28:58.000Z,9,4,0,0,0,10170600,10170600,,,,,
+237187344,Matter/Antimatter: Getting Unstuck Day 19 Clones,"Getting Unstuck Day 19 Clones
+
+I thought about making a whole lot of clones, but then I thought about what happens when there are too many clones, so I decided that they should spontaneously annihilate each other... like matter and antimatter! So that's where the two types of clones come from.
+
+However, I am having some issues with making the two clones properly sense each other. Sometimes, one particle will disappear but the other won't! So, still working on how to make sure the particles sense each other.",Click the green flag and watch what happens,3485356,https://cdn2.scratch.mit.edu/get_image/project/237187344_480x360.png,2018-07-23T20:49:02.000Z,2018-07-23T21:56:12.000Z,2018-07-23T21:56:12.000Z,6,2,0,0,0,,,,,,,
+237144847,musical toy - tiled vibes,"Getting Unstuck: Day 20
+https://gettingunstuck.gse.harvard.edu/
+First, create a studio and add all of your Getting Unstuck projects to it.
+-> https://scratch.mit.edu/studios/5251088/
+
+Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. What's something about the project that would benefit from more time or fresh eyes? 
+-> This version with the colourful polygons is more what I had in mind initially. I'm glad I could spend a little more time on it.
+Yet another improvement will have to wait for another day ^^
+
+
+Getting Unstuck: Day 19
+https://gettingunstuck.gse.harvard.edu/
+Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.
+-> Instruments are human-made, right? ;)","Move your mouse over any shape to play some vibes :)
+Click a shape for another, shorter note.
+Press space to change to different instruments.
+",34248043,https://cdn2.scratch.mit.edu/get_image/project/237144847_480x360.png,2018-07-23T13:18:34.000Z,2018-07-24T22:26:25.000Z,2018-07-23T13:38:12.000Z,18,9,2,0,0,236311759,236311759,,,,,
+235989645,generative art - storm clouds flying by,"Getting Unstuck: Day 5
+Create a project that involves one or more sprites jumping or flying. 
+
+Getting Unstuck: Day 19
+Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.
+
+I got really stuck on a few unexplained glitches but got unstuck after simplifying of the maths magic. 
+
+As a bonus, I discovered an interesting graphical technique while debugging, when I turned on the pen to study the clones' path. See inside the code to try it for yourself!",Press the green flag and enjoy the fog :),34248043,https://cdn2.scratch.mit.edu/get_image/project/235989645_480x360.png,2018-07-10T09:47:57.000Z,2018-07-24T09:05:13.000Z,2018-07-12T00:53:57.000Z,25,13,5,0,0,,,,,,,
+237185849,Getting Unstuck Day 19: Popping Bubbles,"My idea was to created something similar to the Pickle Picnic game at http://minimouse.us/ which is one of the games my students play in our computer lab to get used to a mouse. I plan to do more with clones and science simulations in the future but thought I'd do this first. 
+
+At times I end up with a clone that does not fall properly and I'm not sure why?","Create a project that uses the cloning features of Scratch. 
+
+Dan needs to pop as many bubbles as possible. Dan moves with the mouse pointer and will jump if you click the mouse. The game ends when 50ish bubbles have been created and popped either by Dan or by hitting the ground.",5271542,https://cdn2.scratch.mit.edu/get_image/project/237185849_480x360.png,2018-07-23T20:26:01.000Z,2018-07-23T23:29:34.000Z,2018-07-23T22:15:00.000Z,6,3,0,0,0,,,,,,,
+237190422,Kaleidoscope drawing: GettingUnstuck Day 19,,Click the grreen flag to start.  Move mouse on the screen to create a 6-fold symmetrical pattern.  ,17257831,https://cdn2.scratch.mit.edu/get_image/project/237190422_480x360.png,2018-07-23T21:40:20.000Z,2018-07-23T22:47:38.000Z,2018-07-23T22:47:38.000Z,12,6,0,0,0,,,,,,,
+237188211,Day 19: Bioluminescent Plankton,"I was inspired to create this project to recreate one of my favorite memories as a teenager who lived at the beach, swimming at night on the rare occasions that the ocean glowed!
+I used clones for both plankton and then just one clone to give the movement of the ocean.  
+
+","Click the green flag to see a beautiful phenomenon of bioluminescent plankton. 
+
+Day 19 Challenge: Create a project that uses the cloning features of Scratch to represent a natural or human-made phenomenon.
+
+",1294980,https://cdn2.scratch.mit.edu/get_image/project/237188211_480x360.png,2018-07-23T21:03:06.000Z,2018-07-24T03:23:08.000Z,2018-07-23T23:12:00.000Z,20,11,3,0,0,,,,,,,
+237194929,In the Rain,"This was a project I shared on Day 2 https://scratch.mit.edu/projects/235683940
+I came back to it to see if I could add wind to the rain.
+
+I think I would like to see if I could make the wind speed effect the clouds.","Getting Unstuck Day 19: Cloning
+
+Use left and right arrows to control the wind.",399245,https://cdn2.scratch.mit.edu/get_image/project/237194929_480x360.png,2018-07-23T22:53:11.000Z,2018-07-23T23:15:20.000Z,2018-07-23T23:15:20.000Z,13,4,0,0,0,,,,,,,
+237174021,Unstuck Day 19 - Erupting Volcano,"This was really fun to make. I cloned dots to make the lava spurt out of the volcano and travel down the sides. I also used the pen to make the lava. I used a .wav file from Freesound.com as well as a free to reuse image from Wikimedia for the background.
+
+",Click the flag to see the volcano erupt. Make sure you have your speakers turned on.,10715270,https://cdn2.scratch.mit.edu/get_image/project/237174021_480x360.png,2018-07-23T17:57:00.000Z,2018-07-25T12:44:18.000Z,2018-07-23T23:14:57.000Z,13,6,3,0,0,,,,,,,
+237195328,swimming clones,This is reworking a Code Club project created for the 2012 Olympics,"Press the green flag to clone the fish
+Then press the up arrow and the the down arrow to see the swimming routines
+Press the left arrow for the crab to cause chaos",33472226,https://cdn2.scratch.mit.edu/get_image/project/237195328_480x360.png,2018-07-23T23:00:21.000Z,2018-07-24T14:56:14.000Z,2018-07-23T23:23:07.000Z,6,1,0,0,0,,,,,,,
+237184075,Pop the Bubbles,"Unstuck Challenge 19: Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon. 
+
+Sound: Super Mario Bro Water World
+https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros/08%2520-%2520Water%2520World.mp3",Click on the green flag to start. Match two bubbles with the same color to pop both bubbles.,25332755,https://cdn2.scratch.mit.edu/get_image/project/237184075_480x360.png,2018-07-23T19:59:39.000Z,2018-07-23T23:46:33.000Z,2018-07-23T23:28:09.000Z,18,6,0,0,0,,,,,,,
+237167781,Unstuck #19 The tinker and the crabs,"UNSTUCK #19 CLONES
+
+music:
+The Tinker and The Crab
+Donovan Leitch",Green flag,26618044,https://cdn2.scratch.mit.edu/get_image/project/237167781_480x360.png,2018-07-23T16:50:51.000Z,2018-07-24T12:40:32.000Z,2018-07-24T00:39:00.000Z,4,3,0,0,0,,,,,,,
+237197479,Matter/Antimatter: Getting Unstuck Day 19 Clones copy,"Getting Unstuck Day 19 Clones
+
+I thought about making a whole lot of clones, but then I thought about what happens when there are too many clones, so I decided that they should spontaneously annihilate each other... like matter and antimatter! So that's where the two types of clones come from.
+
+However, I am having some issues with making the two clones properly sense each other. Sometimes, one particle will disappear but the other won't! So, still working on how to make sure the particles sense each other.",Click the green flag and watch what happens,3485356,https://cdn2.scratch.mit.edu/get_image/project/237197479_480x360.png,2018-07-23T23:33:16.000Z,2018-07-24T21:57:32.000Z,2018-07-24T01:09:33.000Z,5,2,0,0,0,,,,,,,
+237205326,Unstuck Day 18 Kitten Clones!,This is a very simple program because I started so late in the day. My son had a blast clicking on all the kittens on the touch screen.,Click the green flag for directions and get ready for furry fun!,11305008,https://cdn2.scratch.mit.edu/get_image/project/237205326_480x360.png,2018-07-24T01:10:53.000Z,2018-07-24T18:39:13.000Z,2018-07-24T01:33:52.000Z,14,3,0,0,0,,,,,,,
+237118459,#19 Getting Unstuck challenge #19 Spiraling star,"Instructions came from Computer Coding Projects for Kids Carol Vorderman.
+My kids love the clone block and use often when creating games. 
+I like the option of using the pen with this project, and then being able to change the angle and speed.
+While relatively simple in its coding, my kids enjoy changing the sprite - creating their own shapes, or using different costumes, changing backdrop colours, and then pen size.
+The book is an excellent resource for project ideas.","Click the green flag and watch the pattern.
+Change the angle and speed whilst in motion.
+Press the space bar to clear the stage.",13484475,https://cdn2.scratch.mit.edu/get_image/project/237118459_480x360.png,2018-07-23T05:13:24.000Z,2018-07-25T02:24:33.000Z,2018-07-24T01:46:53.000Z,8,4,0,0,0,,,,,,,
+237211495,Fun at the Beach,Only had time for a quick project.,"Start with the green flag, then press space as many times as you like.",30508500,https://cdn2.scratch.mit.edu/get_image/project/237211495_480x360.png,2018-07-24T02:23:03.000Z,2018-07-24T02:56:04.000Z,2018-07-24T02:56:04.000Z,10,0,0,0,0,,,,,,,
+237214941,Stop the infection!,"I wanted to explore more the cloning features by creating a simple game. 
+I realized that when there are many clones, they slow down the game. So, I've tried to solve it by adding, hidding and deleting a clone at a specific time. I know that isn't perfect, but is the way I found.
+
+I'd like to add more levels and to change the behaviour of the AI.","Press the green flag and then the play button to start.
+Go to a safe zone to get a grey antibody that makes you immune only for a few seconds.
+Try to block all viruses to win.
+*Warning*: don't touch a virus without getting a grey antibody. You'll lose health and move slowly.
+
+                             ----Getting Unstuck Day 19---
+""Create a project that uses the cloning features of Scratch.""",4413079,https://cdn2.scratch.mit.edu/get_image/project/237214941_480x360.png,2018-07-24T03:10:04.000Z,2018-07-24T22:23:10.000Z,2018-07-24T06:31:42.000Z,8,2,2,0,0,,,,,,,
+237232931,Spiraliser!,Thanks for this to Jon Woodcock's excellent book on creating Scratch projects. Thanks RoboSquid!,Press the green flag to start. Move the sliders to change speed and angle. Press space to clear,33472226,https://cdn2.scratch.mit.edu/get_image/project/237232931_480x360.png,2018-07-24T07:53:36.000Z,2018-07-24T09:09:52.000Z,2018-07-24T08:02:07.000Z,4,1,1,0,0,,,,,,,
+237231289,Day 19 - Getting Unstuck,Symmetries => school project,Click the green flag and control the cat with right/left arrows,26079479,https://cdn2.scratch.mit.edu/get_image/project/237231289_480x360.png,2018-07-24T07:27:39.000Z,2018-07-24T22:06:16.000Z,2018-07-24T07:31:54.000Z,5,1,1,0,0,,,,,,,
+237244139,Getting Unstuck Day 19 ,"I'm thinking about watercolor, dropping onto a sheet of paper when I created this project.  I think I'd like to keep working on this! ","Click, enjoy, and move your mouse around the screen.",4610900,https://cdn2.scratch.mit.edu/get_image/project/237244139_480x360.png,2018-07-24T11:06:54.000Z,2018-07-24T11:31:10.000Z,2018-07-24T11:27:58.000Z,1,0,0,0,0,,,,,,,
+237166125,G.U. Day 19 CLONI,,Clicca sulla bandierina verde.,13746945,https://cdn2.scratch.mit.edu/get_image/project/237166125_480x360.png,2018-07-23T16:31:38.000Z,2018-07-24T11:34:04.000Z,2018-07-24T11:33:41.000Z,2,0,0,0,0,,,,,,,
+204663508,QUADRETTI,Ancora grazie al creatore del tutorial sulla Pixel Art (Mario Alicicco?) di Mondo Computazionale,"Versione a quadretti di Palline o tappi.
+Se si clicca sui quadretti  il colore cambia.
+Per scegliere il colore desiderato cliccare più volte sullo sprite.
+la sequenza dei colori è
+rosso-arancione-giallo-verde-fuxia-azzurro-viola
+",13746945,https://cdn2.scratch.mit.edu/get_image/project/204663508_480x360.png,2018-02-17T14:29:04.000Z,2018-02-18T13:11:38.000Z,2018-02-17T15:06:35.000Z,45,0,0,0,0,,,,,,,
+203998145,PALLINE o TAPPI?,Libera interpretazione di un Tutorial di Pixel Art di Mondo Computazionale :  Tutorial Scratch [ITA]: Creiamo Pixel Art con Scratch (2 di 2),"Clicca sulle palline, cambiano colore.
+Si può usare per disegni in Pixel Art monocromatici (a più colori modificando i blocchi ).
+Creato non per la Pixel Art, ma per trasporre in Scratch un'attività presentata in un Mooc di Matematica dell'Università di Torino , fatta con i tappi delle bottiglie. Dal tappo, alla rappresentazione sulla carta, a Scratch (relazioni e funzioni).",13746945,https://cdn2.scratch.mit.edu/get_image/project/203998145_480x360.png,2018-02-14T12:20:30.000Z,2018-07-24T11:42:37.000Z,2018-02-14T13:07:38.000Z,31,1,0,0,0,,,,,,,
+237251418,day 19 clones,My first personal experiments with clones although I have watched my students use clones with great fluidity for years!,Click the green flag to start and see if you can figure out why there is an empty space.....,124064,https://cdn2.scratch.mit.edu/get_image/project/237251418_480x360.png,2018-07-24T13:10:19.000Z,2018-07-24T13:29:39.000Z,2018-07-24T13:29:39.000Z,3,1,0,0,0,,,,,,,
+237252611,Day 19 - cloning,,,24154277,https://cdn2.scratch.mit.edu/get_image/project/237252611_480x360.png,2018-07-24T13:22:28.000Z,2018-07-24T13:37:45.000Z,2018-07-24T13:37:45.000Z,3,0,0,0,0,,,,,,,
+237251434,Day 19-Cloning Spongebob,"Day 19-Create a project that uses the cloning features of Scratch.
+
+Did this one with a toddler on my lap the entire time as you can tell from the content. I've been using a lot more variables each day and this one is no exception. After enough Spongbobs appear, the party really gets started.","Green flag
+Wait for the party!",16509596,https://cdn2.scratch.mit.edu/get_image/project/237251434_480x360.png,2018-07-24T13:10:27.000Z,2018-07-24T16:08:21.000Z,2018-07-24T13:46:07.000Z,4,3,0,0,0,,,,,,,
+237252485,Pioggia di cuori,"Progetto creato per GettingUnstuck, giorno 19","Clicca sulla bandierina verde, poi clicca sul cuore (puoi cliccare anche sui cuori successivi)",14651357,https://cdn2.scratch.mit.edu/get_image/project/237252485_480x360.png,2018-07-24T13:21:12.000Z,2018-07-25T12:49:51.000Z,2018-07-24T13:55:36.000Z,4,0,0,0,0,,,,,,,
+237164754,L'arrivo del temporale,"Ho utilizzato il comando ""clone"" per le nuvole e per le gocce.",Tocca la bandiera verde per iniziare!,34169307,https://cdn2.scratch.mit.edu/get_image/project/237164754_480x360.png,2018-07-23T16:13:56.000Z,2018-07-27T09:57:37.000Z,2018-07-24T17:40:09.000Z,3,0,0,0,0,,,,,,,
+237291420,Clone the sneeze.,I took to heart the idea of not getting stuck on things having to be good before we share them. I'd not used the cloning operation before and the first thing that popped into my mind was showing germs spreading. This is the result of my 10 minutes of playing: it works and I tried cloning for the first time.,Click on the sneeze button to see how far the sneeze will go.,32833725,https://cdn2.scratch.mit.edu/get_image/project/237291420_480x360.png,2018-07-24T20:42:21.000Z,2018-07-24T20:57:27.000Z,2018-07-24T20:57:27.000Z,3,0,0,0,0,,,,,,,
+237290016,Get the ants!! Getting Unstuck - Day 19,I have done something sort of like this before.,"Click the green flag to start this game. 
+Try to stamp on the ants with the boot. 
+
+The boot goes to the mouse pointer and you can click to stamp on the ants ",19641362,https://cdn2.scratch.mit.edu/get_image/project/237290016_480x360.png,2018-07-24T20:20:35.000Z,2018-07-24T22:13:35.000Z,2018-07-24T22:11:47.000Z,6,1,0,0,0,,,,,,,
+237303446,Unstuck Day 19:Spiralizer,Thanks to DK's Coding Projects in Scratch for the directions on how to create this fabulous piece of art!,"Click on the green flag to begin.  You can move the sliders for the angle and speed of the clones to change the effects.  If you want to clear the screen, just click the space bar.",34190490,https://cdn2.scratch.mit.edu/get_image/project/237303446_480x360.png,2018-07-24T23:40:45.000Z,2018-07-25T00:19:07.000Z,2018-07-25T00:15:03.000Z,7,4,0,0,0,,,,,,,
+237298853,Day 19 -  monochromatic slalom,I had planned to make this a slalom challenge with the user directing racers through gates but in the end left it as an animation.,Click flag to start. ,109272,https://cdn2.scratch.mit.edu/get_image/project/237298853_480x360.png,2018-07-24T22:38:49.000Z,2018-07-29T01:23:08.000Z,2018-07-25T00:47:08.000Z,2,0,0,0,0,,,,,,,
+237308410,Day 19-FIRE!,"Although I'm not doing anything fancy, I'm getting so much better at using Scratch! I try to do fancy stuff and it's not working for me yet. Oh, well, little by little!","We are having wildfires near Yosemite (About an hour from my home). I decided to make a depiction of the fire being put out for good!
+Press flag to start, press space key for the fire to grow. (Somebody didn't put out their campfire :(
+Watch the fire get extinguished!
+
+",10309968,https://cdn2.scratch.mit.edu/get_image/project/237308410_480x360.png,2018-07-25T00:32:53.000Z,2018-07-25T01:11:39.000Z,2018-07-25T01:10:26.000Z,12,4,0,0,0,,,,,,,
+237332832,Fiore che danza,"Remix per Getting Unstuck Day 19
+Grazie a @Papami-chan per avermi ispirato con Meditation ",Press the green flag,17698999,https://cdn2.scratch.mit.edu/get_image/project/237332832_480x360.png,2018-07-25T05:43:26.000Z,2018-07-25T06:28:11.000Z,2018-07-25T06:27:51.000Z,2,0,0,0,0,,,,,,,
+237347380,Getting Unstuck: Day 19,"Andrés Gil Ruiz.
+
+I'd used clon in day 2...","Make a really beautiful sky.
+
+Press mouse on the background and enjoy the effect.",27636310,https://cdn2.scratch.mit.edu/get_image/project/237347380_480x360.png,2018-07-25T09:38:30.000Z,2018-07-25T10:00:15.000Z,2018-07-25T09:58:38.000Z,4,0,0,0,0,,,,,,,
+237295142,Growing Flower Clones - Getting Unstuck Day 19,"One of those projects that with a little more time I could have spiffed this up a bit. Still, using clones is fun. I am definetly doing something slightly wrong with this the basics of this project too. I caught one mistake, I was just hiding the seed clones instead of deleting them, and it was causing trouble. 
+Still, sometimes I end up with 2 sunflowers instead of one, and I am not sure why. 
+Something else I would change would be making sure that the sunflowers would show up directly where the seed was. 95% sure I could have done that with a variable or list, I just didn't get a chance to do it!","Click the space bar to plant a seed. When your watering can touches a seed, get ready for a sunny surprise!",22706156,https://cdn2.scratch.mit.edu/get_image/project/237295142_480x360.png,2018-07-24T21:41:50.000Z,2018-07-25T11:33:55.000Z,2018-07-25T11:31:13.000Z,2,0,0,0,0,,,,,,,
+237355396,Orsa Maggiore Getting Unstuck #19,progetto per il giorno 19 di Getting Unstuck,Clicca sulla bandierina verde,17320587,https://cdn2.scratch.mit.edu/get_image/project/237355396_480x360.png,2018-07-25T12:16:48.000Z,2018-07-25T12:59:26.000Z,2018-07-25T12:58:48.000Z,2,1,0,0,0,,,,,,,
+237369975,Unstuck 19,Cloning is a fun tool to use!,"Click the flag to start.
+Press the space bar and watch what happens.
+
+",840815,https://cdn2.scratch.mit.edu/get_image/project/237369975_480x360.png,2018-07-25T15:11:59.000Z,2018-07-25T18:34:47.000Z,2018-07-25T15:31:30.000Z,7,2,0,0,0,,,,,,,
+237386085,Unstuck - Day 19,"I have created snow/rain in projects with my students, but many times, the program only works for a while or the clones do not disappear as they should.  I think I finally got it here.",Click on the green flag to watch it snow!,2456527,https://cdn2.scratch.mit.edu/get_image/project/237386085_480x360.png,2018-07-25T18:13:24.000Z,2018-07-25T18:16:15.000Z,2018-07-25T18:16:15.000Z,3,1,0,0,0,,,,,,,
+237397589,GettingUnstuck [Day 19],This is for getting unstuck day 19!,"Green Flag, then move you mouse to collect as many apples as you can",13594403,https://cdn2.scratch.mit.edu/get_image/project/237397589_480x360.png,2018-07-25T20:46:12.000Z,2018-07-25T21:00:25.000Z,2018-07-25T21:00:25.000Z,2,0,0,0,0,,,,,,,
+237403386,Getting Unstuck: Day 19,"By Filipe Mendes
+#CreativeComputer",Press Space for a new square,2980392,https://cdn2.scratch.mit.edu/get_image/project/237403386_480x360.png,2018-07-25T22:15:45.000Z,2018-07-25T22:28:48.000Z,2018-07-25T22:28:01.000Z,2,0,0,0,0,,,,,,,
+237410520,Getting Unstuck Day 19,"Getting Unstuck Day 19 Reflection:
+I apologize if you don't like bugs - I can't let this play for very long before I have to stop it myself!  I wanted to see if I could make a swarm of something appear by creating clones of clones, and what would happen if they continued unchecked.  I'd like to create a way for to bring the population back under control again, by making another sprite that would eat the bugs.",Click on the green flag and move your mouse around.  Watch the infestation of bugs follow you around the screen.,30095573,https://cdn2.scratch.mit.edu/get_image/project/237410520_480x360.png,2018-07-25T23:56:15.000Z,2018-07-26T00:13:24.000Z,2018-07-26T00:13:24.000Z,2,0,0,0,0,,,,,,,
+237208398,Getting Unstuck Day 19,"This would work better if I had a better graphic for my sprites, and I think I could have them do a few more interesting things, but for now it's a starting point.","Challenge: Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.",34245752,https://cdn2.scratch.mit.edu/get_image/project/237208398_480x360.png,2018-07-24T01:49:53.000Z,2018-07-26T00:50:29.000Z,2018-07-26T00:50:29.000Z,2,0,0,0,0,,,,,,,
+237430442,Getting Unstuck Day 19 - clones,"The inspiration for the game came from the awesome project @antonellamazzobel created at https://scratch.mit.edu/projects/237141092/
+
+This was a lot of fun to make. For some reason I like to turn all my projects into games.
+
+I could probably make this game even harder by subtracting points every time a bubble disappeared on its own.
+","Getting Unstuck Day 19: Create a project that uses the cloning features of Scratch
+
+Press the green flag to start and follow the on screen instructions.",2803184,https://cdn2.scratch.mit.edu/get_image/project/237430442_480x360.png,2018-07-26T03:54:25.000Z,2018-07-26T05:07:45.000Z,2018-07-26T04:43:03.000Z,5,0,0,0,0,,,,,,,
+237471311,Getting Unstuck - Day 19,"This project took on many evolutions before I settled on this.  The others were getting too complicated.  Sometimes simplicity is best.
+
+Every once in a while a green leaf ends up stamped in thin air.  I know it's because of pick-random range and the angle and center of the leaf.  I just haven't been able to figure out the range just yet.  The leaf was a clipart that I got offline and it's so large that I cannot edit the center of it in the costume editor.
+
+I'd like to add sound effects and someone walking through the crunching leaves.","Getting Unstuck Day 19 - Create a project that uses the cloning features of Scratch.
+
+Simple, but pretty, I think.  ",14400846,https://cdn2.scratch.mit.edu/get_image/project/237471311_480x360.png,2018-07-26T14:59:07.000Z,2018-07-26T15:51:40.000Z,2018-07-26T15:35:02.000Z,5,1,0,0,0,,,,,,,
+187986750,era una notte buia e tempestosa...,,"Click on the green flag :-)
+",3602053,https://cdn2.scratch.mit.edu/get_image/project/187986750_480x360.png,2017-11-21T18:16:29.000Z,2017-11-25T18:13:47.000Z,2017-11-21T20:07:16.000Z,9,3,0,0,0,,,,,,,
+203339344,Space Attack ,"Getting Unstuck Day 19
+
+I've been working on this game off and on for a while now. It's similar to the old school Space Invaders arcade game, but I had to create killer ladybugs to use as the aliens. It's not exactly finished, but you will get to test it out and see how I cloned the alien ladybugs. ","Click the green flag. Then use the left and right arrow keys to shift left and right, and use the space bar to shoot the aliens. ",10722024,https://cdn2.scratch.mit.edu/get_image/project/203339344_480x360.png,2018-02-10T18:53:28.000Z,2018-07-27T05:19:10.000Z,2018-07-27T05:19:10.000Z,3,0,0,0,0,,,,,,,
+237271236,Getting Unstuck: Day 19 remixCar,,"Clicca sulla bandierina verde e segui le istruzioni.
+Click the green flag and follow the instructions.",13575540,https://cdn2.scratch.mit.edu/get_image/project/237271236_480x360.png,2018-07-24T16:37:05.000Z,2018-07-27T07:16:56.000Z,2018-07-27T07:16:55.000Z,24,4,0,0,0,237141092,237141092,,,,,
+237614243,ALBERI OVUNQUE,"Getting Unstuck: Day 19
+
+Creare 
+Creare un progetto che utilizza le funzionalità di clonazione di Scratch. Ad esempio, si potrebbe fare un progetto che rappresenta un fenomeno naturale o umano-made. 
+SE AVESSI TEMPO CREEREI UNO SFONDO ADATTO PER FARE UN GIOCO ECOLOGICO",PORTA LA STELLA SULL'AUTO,21462276,https://cdn2.scratch.mit.edu/get_image/project/237614243_480x360.png,2018-07-28T07:11:17.000Z,2018-07-28T08:03:58.000Z,2018-07-28T08:00:14.000Z,3,0,0,0,0,,,,,,,
+237644938,Getting Unstuck Day 19,,Press green flag to start.  Click sprite to create clone.  Press space bar to delete clones.,34190765,https://cdn2.scratch.mit.edu/get_image/project/237644938_480x360.png,2018-07-28T19:38:51.000Z,2018-07-28T19:44:40.000Z,2018-07-28T19:44:20.000Z,2,0,0,0,0,,,,,,,
+237678462,Getting Unstuck: Day 19,"Getting Unstuck: Day 19
+Challenge: Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.",Click on green flag to start.,17615581,https://cdn2.scratch.mit.edu/get_image/project/237678462_480x360.png,2018-07-29T10:42:57.000Z,2018-07-29T11:15:04.000Z,2018-07-29T11:15:04.000Z,3,2,0,0,0,,,,,,,
+237587681,Unstuck Day 19 project,I was inspired by both this project (https://scratch.mit.edu/projects/237118459/#player) and the Disco Donut project I saw (created by JD) at the MIT Scratch 2018 conference.,Click the flag to see a delicious spiral of donuts!!!,17786521,https://cdn2.scratch.mit.edu/get_image/project/237587681_480x360.png,2018-07-27T21:04:18.000Z,2018-07-29T21:24:48.000Z,2018-07-28T22:18:13.000Z,4,3,0,0,0,,,,,,,
+237703857,Bubbles Day 19 Getting Unstuck ,"Getting unstuck Day 19: Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.
+
+Thanks to @antonellamazzobel for inspiring me with thr project https://scratch.mit.edu/projects/237141092/
+images - https://www.vecteezy.com",Click on the green flag,8789156,https://cdn2.scratch.mit.edu/get_image/project/237703857_480x360.png,2018-07-29T21:17:29.000Z,2018-08-01T20:50:08.000Z,2018-07-29T22:22:11.000Z,4,1,0,0,0,,,,,,,
+237738979,19,,Press space bar to give many love to crab!,34216021,https://cdn2.scratch.mit.edu/get_image/project/237738979_480x360.png,2018-07-30T06:51:26.000Z,2018-07-30T06:52:25.000Z,2018-07-30T06:51:48.000Z,3,1,0,0,0,,,,,,,
+237745932,Fireworks - Getting Unstuck day 19,,Click the green flag and click where you want,19738986,https://cdn2.scratch.mit.edu/get_image/project/237745932_480x360.png,2018-07-30T09:07:17.000Z,2018-07-31T08:31:42.000Z,2018-07-30T09:38:59.000Z,4,2,0,0,0,,,,,,,
+237744900,Getting Unstuck Day 19,"This project was inspired by Getting unstuck day 19 task to use cloning in a project.
+I had fun doing this project and liked adding the random elements to each clone.
+I'd like to be able to make the ones higher up in the picture appear behind the ones lower down. It doesn't look right perspective wise at the moment.
+Cloning appears to be a very powerful tool which could be used in many projects. I'm thinking of the project I made for an earlier getting unstuck where I did a sort of pacman game. I could have made dots using cloning.","Click the green flag to start the program and change the playing field to a forest!
+Control the character by using the arrow keys and press space to plant a seed.",287832,https://cdn2.scratch.mit.edu/get_image/project/237744900_480x360.png,2018-07-30T08:45:35.000Z,2018-07-30T14:59:47.000Z,2018-07-30T12:19:25.000Z,6,1,0,0,0,,,,,,,
+237749377,Getting Unstuck - Day 19 remix,"I wasn't quite sure where to start with this one, so I was very grateful to be able to remix this maple leaf tree and replace it with an oak tree.  I need to revisit this to see if I can get the leaves turning in a more realistic way and a lot of them are ending up on the right hand side but I'm not quite sure why.",Click the green flag and watch autumn arrive ,3297086,https://cdn2.scratch.mit.edu/get_image/project/237749377_480x360.png,2018-07-30T10:18:48.000Z,2018-07-30T12:37:21.000Z,2018-07-30T12:37:21.000Z,5,1,0,0,0,237471311,237471311,,,,,
+237949442,#GettingUnstuck19 - Massive ant clones,"The ant gif is taken from https://ianparberry.wordpress.com/2013/02/01/ant-walk-cycles/
+
+This is a wonderful first project to learn how to use clones in Scratch :) There is another version that aggregates some figures in order to teach some thoughts about basic statistics. You can find it at https://scratch.mit.edu/projects/136934582/","Press Green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 19
+
+""Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon""
+
+This project will create an infinite number of ants, which will start at the center of the screen and then will move randomly to the borders. They will use the pen to draw their trajectory.
+
+- You can press 'q' to speed up the number of ants per second (less wait time), and 'a' to speed down (more wait time).
+- If you want to finish, press <space bar>",1112440,https://cdn2.scratch.mit.edu/get_image/project/237949442_480x360.png,2018-08-01T09:54:53.000Z,2018-08-01T10:27:45.000Z,2018-08-01T10:21:08.000Z,5,1,0,0,0,,,,,,,
+238027597,Día 19,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/238027597_480x360.png,2018-08-02T03:44:22.000Z,2018-08-02T03:44:41.000Z,2018-08-02T03:44:41.000Z,2,1,0,0,0,,,,,,,
+237996125,#Unstuck 19 Clones,I needed to search up how to make a clone. Thank you to this Ytube clip https://www.youtube.com/watch?v=MU65TYkd6l4 ,Have you ever got sick of these pesty things. Wait and see what I am talking about. It feels like this winter has brought more and more.,31492686,https://cdn2.scratch.mit.edu/get_image/project/237996125_480x360.png,2018-08-01T21:19:43.000Z,2018-08-02T05:42:28.000Z,2018-08-02T05:41:02.000Z,3,1,0,0,0,,,,,,,
+238049371,Conway (Cellular Automaton),,"Just press the green flag and watch.
+
+This is a variant of Conway's Game of Life - a cellular automaton. The original uses a grid, while this allows the cells to be placed randomly. It detects neighbours by jiggling left, right, up and down and counting how many neighbours it is touching. If it has fewer than 2 neighbours (lonely) or more than 3 neighbours (overcrowded), it dies. If it has exactly three neighbours, it clones itself (and the child moves a short distance away from its parent).
+
+The min/max population sliders control the range of values for the initial, random population. Play with these to find values for stable populations and where overcrowding or loneliness kills the colony off very quickly.",25417558,https://cdn2.scratch.mit.edu/get_image/project/238049371_480x360.png,2018-08-02T10:03:19.000Z,2018-08-02T10:42:27.000Z,2018-08-02T10:25:20.000Z,2,1,0,0,0,,,,,,,
+237996411,Getting Unstuck: Day 19. Storm.,,Click on the green flag to have a storm.,18190669,https://cdn2.scratch.mit.edu/get_image/project/237996411_480x360.png,2018-08-01T21:24:08.000Z,2018-08-03T01:08:06.000Z,2018-08-03T01:08:06.000Z,3,1,0,0,0,,,,,,,
+238140548,Auto Arkanoid Getting Unstuck day 19,"Match the position of the brick clones has been the most difficult to me.
+My next challenge is get a bounce ball more ""fresh"".
+
+","Concept of Arkanoid. Blocks position cloning the brick.
+Dont playable.",2680901,https://cdn2.scratch.mit.edu/get_image/project/238140548_480x360.png,2018-08-03T09:17:04.000Z,2018-08-03T10:00:58.000Z,2018-08-03T09:36:14.000Z,4,1,0,0,0,,,,,,,
+238142280,getting unstuck day 19,"the problem that I have to my proyect is the degradates
+https://11gncraner.wordpress.com/2013/01/29/my-pacman-mazesprite-scratch/",,23020553,https://cdn2.scratch.mit.edu/get_image/project/238142280_480x360.png,2018-08-03T10:00:20.000Z,2018-08-03T17:50:37.000Z,2018-08-03T10:19:05.000Z,3,1,0,0,0,,,,,,,
+237523011,Desert crawler.,"Getting Unstuck: Day 19
+Create a project that uses the cloning features of Scratch.
+
+I used the cloning features to reproduce a crawler body motions. I commented inside the how we can change different blocks values to make the crawler bigger, or smaller, with more or fewer rings and rhythm of motion. I made some comments about inside the project.
+
+Completing the scene, the sun goes down while the background gets darker using the brightness block.",Click on the green flag and see the crawler moving around in the desert while the sun goes down and the night comes.,2176961,https://cdn2.scratch.mit.edu/get_image/project/237523011_480x360.png,2018-07-27T02:05:05.000Z,2018-08-06T02:36:53.000Z,2018-08-05T01:55:53.000Z,5,1,0,0,0,,,,,,,
+238273730,day-19,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/238273730_480x360.png,2018-08-05T13:51:57.000Z,2018-08-05T14:05:03.000Z,2018-08-05T14:05:03.000Z,4,1,0,0,0,,,,,,,
+238340909,Getting Unstuck - dag 19,,"Fill the room with ballons, just click where you want one.",25631396,https://cdn2.scratch.mit.edu/get_image/project/238340909_480x360.png,2018-08-06T10:50:34.000Z,2018-08-06T10:58:42.000Z,2018-08-06T10:58:11.000Z,3,1,0,0,0,,,,,,,
+238448930,day 19,"Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.",,24618980,https://cdn2.scratch.mit.edu/get_image/project/238448930_480x360.png,2018-08-07T14:23:35.000Z,2018-08-07T15:54:41.000Z,2018-08-07T14:27:49.000Z,4,1,0,0,0,,,,,,,
+238506176,Getting Unstuck - Day 19,"The challenge for Day 19 of Getting Unstuck is to ""Create a project that uses the cloning features of Scratch"".
+--------------------------------------------------------------------------------------------------
+I got stuck on the day 18 challenge and getting it to do exactly what I wanted. I worked on it until about 4 AM, so after reading the email prompt I went for short and sweet, and opted to NOT get stuck!",Click the green arrow to start the program!,24696341,https://cdn2.scratch.mit.edu/get_image/project/238506176_480x360.png,2018-08-08T03:11:04.000Z,2018-08-08T03:44:11.000Z,2018-08-08T03:38:15.000Z,3,1,0,0,0,,,,,,,
+238510537,Bubbles,"Yaay! I couldn't wait to make bubbles with Scratch! :) 
+
+Last week I've been facilitating a workshop on tinkering with Scratch in the physical world (theme was ""summer sounds""). 
+Two of the participants were working on making bubbles and popping them using video sensing. They didn't know how to use clones and their exploration went in a different direction, but I was super excited about their idea and I could't wait to make my own version of it!
+
+If it wasn't 1am, I would keep working on this! There is a lot to play with the wind and physics, but also imagining different scenarios (I wasn't sure if it was underwater, or in a park, or somewhere else?) or any type of stories, I could play with colors and making bubble arts, design many games that involve movement.. and much more!
+
+Anyway, I'm really enjoying making with Scratch! Only 2 projects to unstuck.. and only 2 days to unstick! :) (I feel extremely extrinsically motivated by Steven's sticker!)
+
+Happy bubbles!","Space bar to make bubbles!
+Try changing the wind with left and right arrows..
+Enjoy and remix!",2286560,https://cdn2.scratch.mit.edu/get_image/project/238510537_480x360.png,2018-08-08T04:09:23.000Z,2018-08-08T05:04:47.000Z,2018-08-08T05:04:47.000Z,4,1,0,0,0,,,,,,,
+238555493, Cell Replication (Getting Unstuck #19),"Getting Unstuck activity 19 - ""Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon. ""
+
+Fairly basic script - the sprite moves in a loop then pauses and clones itself. Each clone picks a new random direction and copies the logic of the original sprite until the screen is full of cells.
+",Click the flag to start the cell replication process!,15872912,https://cdn2.scratch.mit.edu/get_image/project/238555493_480x360.png,2018-08-08T16:18:07.000Z,2018-08-08T16:37:41.000Z,2018-08-08T16:37:40.000Z,1,0,0,0,0,,,,,,,
+238555411,Getting Unstuck - Day 19,"Watching all three seasons of Rick and Morty inspired me to create a short animation of their work. They especially enjoy messing with clones of themselves and other characters in the universe. The Rick in the show is actually just a clone of himself, Rick from Dimension C-137!! 
+
+When I have more time, I want to create a fuller animation of Rick and Morty.",Rick and Morty have conducted an experiment! Click the green flag to learn more.,25334812,https://cdn2.scratch.mit.edu/get_image/project/238555411_480x360.png,2018-08-08T16:16:51.000Z,2018-08-08T16:42:25.000Z,2018-08-08T16:39:26.000Z,2,0,0,0,0,,,,,,,

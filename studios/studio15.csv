@@ -1,0 +1,516 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+236729012,Day or night? (v2),"A more minimalist project, remixed from an old project. I was a little pressed for time, but it was also a good reminder that these challenges are intended to be quick and easy, even if it's also so easy to get sucked into the work! 
+
+It's also funny to go back to old projects and see how your style was different. For some reason, in the old one, my noise-dependency if it was loud was a forever loop triggered by the sound, whereas if it was soft, it was an if statement inside a forever loop. There are only two options though - why not wrap them both in the same forever loop? *headshake*",Just press the green flag!,2745846,https://cdn2.scratch.mit.edu/get_image/project/236729012_480x360.png,2018-07-18T09:41:32.000Z,2018-07-19T09:19:18.000Z,2018-07-19T09:19:18.000Z,32,9,0,0,0,,
+236692482,Steven's Song!,This was so fun! I used this challenge as an opportunity to also play with the sound recordings which I hadn't used before! I wanted to make Steven come to life.  ,"Press the flag to start, and then click on Steven to get your instructions!",24267830,https://cdn2.scratch.mit.edu/get_image/project/236692482_480x360.png,2018-07-18T00:21:23.000Z,2018-07-18T02:28:21.000Z,2018-07-18T01:00:00.000Z,36,10,3,0,0,,
+236675985,Chromophobia,"For Day 15 of Getting Unstuck, I imagined what Josef Albers (the great Bauhaus artist) might make with Scratch. (I'm currently reading Albers' ""Interaction of Color"".) As part of my research for this project, I came across an Atlantic article (https://www.theatlantic.com/magazine/archive/2014/12/the-secrets-of-color/382229/) about Albers. The article mentions a historical confusion, anxiety, and fear around color, described as ""chromophobia"". I thought this was a fascinating word (and cultural phenomenon); hence, the title.","Press the green flag to start.
+Make sure that your computer audio is audible.
+Use the slider to adjust the instrument.
+Use your computer's controls to adjust volume up and down.
+Watch how the square pulses vary according to instrument and volume.",39526,https://cdn2.scratch.mit.edu/get_image/project/236675985_480x360.png,2018-07-17T20:06:40.000Z,2018-07-19T10:25:13.000Z,2018-07-19T10:22:55.000Z,43,12,5,0,0,,
+236801168,Amplitude,"This project was created for Day 15 of Getting Unstuck. While I was playing with an idea for a different sound-based project, I kept wondering what the ""loudness"" block was really capturing. I created a variable to display the loudness, so I could see its value. But the value was changing very quickly, and it was hard to get a sense of the individual numbers. 
+
+So I created this project to visualize what was happening. I liked it enough that I set aside the other project idea and focused on this helpful tool instead. ",Click the green flag and make some noise. Use the time scale control to magnify. ,56239,https://cdn2.scratch.mit.edu/get_image/project/236801168_480x360.png,2018-07-19T01:24:58.000Z,2018-07-19T23:30:03.000Z,2018-07-19T10:27:52.000Z,43,19,8,0,0,,
+236794148,Star Songs,"As I thought about what to create for sound detection, I wanted to see how I could have clones of something represent the shifts in sound visually. I decided to give myself a very short time limit to create a simple sprite in the vector editor (to continue exploring the drawing to programming time ratio in creating my projects). I ended up creating this star which led me to think of a twinkling night sky.
+
+Initially I had intended to have more sensing ranges. As I would run my program, unexpected movements were happening, and the changes I was hoping for were not. I decided to simplify and just have two possibilities, above or below 30. At this point, I was able to get the visual effects I wanted (which included trying what I thought I wanted and deciding I *didn't* want that a few times) The program was running, though, so that was great! 
+
+Boiling effects down to their most simplified and then building on that is a strategy I could probably benefit from using more. My mind often goes real big rather than starting small, and I think that I'd like to try building big and wide from simple, more easily trackable (and therefore tinkerable!), steps.","Press then green flag, and then sing (or scream, whatever you need,) to the stars! I recommend full screen (:
+
+(you'll need to be sure your microphone is on and that scratch is allowed to use it)
+
+(sometimes I need to refresh the page before scratch will ask for mic permission -- bug? anyone else have this issue?)",25705937,https://cdn2.scratch.mit.edu/get_image/project/236794148_480x360.png,2018-07-18T23:31:43.000Z,2018-07-19T21:18:26.000Z,2018-07-19T10:38:32.000Z,32,11,7,0,0,,
+236782505,Getting Unstuck Day 15: Library Adventure,"Images from Pixabay.com
+Thanks to Jhenna for playing an angry child.
+
+I originally had trouble thinking of an idea for today's challenge. Eventually, I went with a simple idea (that deviated slightly from the prompt): a library where someone yells at you if you speak too loudly. This, of course, led to some Hogwarts-themed ideas! I tried to mimic what happens in Hogwarts if you open up a book from the restricted section...
+
+If I had more time, I think I'd add more tempting items that shriek when opened :)","WELCOME TO THE HOGWARTS LIBRARY!
+
+Click on the green flag to be given instructions. Stay quiet long enough and you may be tempted by books in the restricted section!
+
+(turn your sound on and up!)",19163721,https://cdn2.scratch.mit.edu/get_image/project/236782505_480x360.png,2018-07-18T20:00:20.000Z,2018-07-19T12:47:22.000Z,2018-07-18T21:53:17.000Z,28,10,4,0,0,,
+236837182,Day15,,"Click on the green flag to start.
+Press arrows up and down to control volume",34225248,https://cdn2.scratch.mit.edu/get_image/project/236837182_480x360.png,2018-07-19T11:08:52.000Z,2018-07-19T11:46:19.000Z,2018-07-19T11:45:33.000Z,16,2,0,0,0,,
+236838097,15,"GettingUnstuck 15: This project combines ideas from the previous two unstuck projects, in which I've been reiterating on a way of drawing on the trackpad. In this iteration, alternate between different geometric shapes using loudness. Play the arrow keys and space bar. Shapes also rotate at different speeds depending on loudness. This week, I only have a few minutes for my own Scratch projects each morning, so I'm curating the same few ideas over several days. One thing that I wish I could explore further is using advanced algorithms to make the music (note and instrument selection, sound bending, etc) and other functions smoother.
+
+From Unstuck 14, two exciting discoveries were (1) using mouse x and mouse y to change notes, and (2) using a pointer finger on the track pad to draw without ever clicking. I want to push further with these ideas.
+
+There is additional graphics code that had to be disassembled because they were causing the program to freeze.","Green flag, draw with fingertip on track pad.
+
+Designed for makeymakey with grounded ring, connect to right left up down and space (see photos within). Change notes by changing mouse-x, change instruments (3 instruments available) by changing mouse-y.
+
+Try left, up, right, space, down.",33815227,https://cdn2.scratch.mit.edu/get_image/project/236838097_480x360.png,2018-07-19T11:24:04.000Z,2018-07-19T11:49:09.000Z,2018-07-19T11:46:04.000Z,20,7,2,0,0,,
+236838050,Gettingunstucked day 15,solar fractal by Quarkstar (c) copyright 2018 Licensed under a Creative Commons Attribution (3.0) license. http://dig.ccmixter.org/files/Quarkstar/57874 ,"click on the green flag and try the loudness of your voice
+
+clicca sulla bandierina verde e prova il volume della tua voce.",25103547,https://cdn2.scratch.mit.edu/get_image/project/236838050_480x360.png,2018-07-19T11:23:06.000Z,2018-07-19T12:22:20.000Z,2018-07-19T12:01:14.000Z,12,4,0,0,0,,
+209768039,Rumori colorati,Remix di un progetto sull'uso del microfono per Getting Unstuck Day 15,"Press the green flag and make some noise
+
+La pallina rimbalza da sola e lascia una sottile traccia scura sullo schermo nero. Per far comparire colori luminosi e allargare il tratto della penna devi usare la voce. Lo sfondo diventa viola se la rumorosità supera un livello dato.",17698999,https://cdn2.scratch.mit.edu/get_image/project/209768039_480x360.png,2018-03-13T19:35:17.000Z,2018-07-20T06:42:31.000Z,2018-07-19T11:57:30.000Z,17,9,4,0,0,111844762,111844762
+236836743,Unstuck Day 15: Change Background with Sound,"I made this project in response to the prompt for Challenge #15-changing background with the mic- of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+This was fun to set up, I hope you enjoy!
+And thanks to scratcher @jsh for the idea of dynamically changing the background color with mic input.",Hey Anina is ready to dance in her room! Click the green flag to pick a song. There are 5 songs and a different dance that goes with each one. Make sure to allow the mic so the colors can respond to the music.,214174,https://cdn2.scratch.mit.edu/get_image/project/236836743_480x360.png,2018-07-19T11:02:19.000Z,2018-07-19T13:41:24.000Z,2018-07-19T12:13:24.000Z,13,1,0,0,0,,
+236837994,Sounds or Silence,"A bit of fun, tweaking it to get the changes. The loudness changes too quickly to just have size or costume changes.",Press the green flag to start,30508500,https://cdn2.scratch.mit.edu/get_image/project/236837994_480x360.png,2018-07-19T11:22:00.000Z,2018-07-19T12:20:48.000Z,2018-07-19T12:18:39.000Z,21,4,0,0,0,,
+236842296,Getting Unstuck Day 15,"Super rushed today and the microphone doesn't work on my laptop so I'll have to test this later.
+
+I tried to match an appropriate scene to different loudness levels. If I get a minute later, I'll try to add a flashing effect to the nightclub lights.","Getting Unstuck Day 15
+
+Create a project that shows different backgrounds depending on how loud the room is. ",2314547,https://cdn2.scratch.mit.edu/get_image/project/236842296_480x360.png,2018-07-19T12:34:34.000Z,2018-07-19T12:47:28.000Z,2018-07-19T12:46:19.000Z,13,4,1,0,0,,
+236840430,Day 15 Angry Teacher,"Today I needed to compelte a project in a short space of time.  Ive been spending way too long.
+My challenge was to create something that I could use again in my classroom.
+The noise levels for sound might not be set too accuratley, but if you start in a relatively quiet room and sing 'LAAA' progressively getting louder, the sprite should change what she says in response.  The end comment for a noisy room was just a fun element I decided to add.  I might work on this a bit later and add more sounds and more elements to it. 
+
+Enjoy.
+As always, I welcome feedback.
+
+Oh and my wow moment today was ACTUALLY getting multiple conditionals to work for me!!!!! Yippee!!!","Day 15 Unstuck with Scratch
+A classroom companion to monitor classroom sound.
+Click the green flag and follow the instructions.  
+",24864870,https://cdn2.scratch.mit.edu/get_image/project/236840430_480x360.png,2018-07-19T12:04:28.000Z,2018-07-19T13:05:58.000Z,2018-07-19T12:30:00.000Z,8,5,0,0,0,,
+236842469,Day 15 of Getting Unstuck!,Semplice progetto.,Clicca la bandiera verde e...fai silenzio ;-),10086796,https://cdn2.scratch.mit.edu/get_image/project/236842469_480x360.png,2018-07-19T12:37:13.000Z,2018-07-19T12:55:26.000Z,2018-07-19T12:54:47.000Z,18,2,0,0,0,,
+236840084,Getting unstuck day 15,"My microphone does not work, so this is the maximum without sound feedback",Press the green flag and make some noise,19738986,https://cdn2.scratch.mit.edu/get_image/project/236840084_480x360.png,2018-07-19T11:58:23.000Z,2018-07-20T04:58:27.000Z,2018-07-19T13:00:46.000Z,18,2,1,0,0,,
+236759668,Getting Unstuck: Day 15 — Sound Level,"Reflection
+
+I started out doing exactly what the project of the day was. This part of it came together fairly quickly. At this point I took a moment to figure out what else I can do to create a slightly more polished product.
+
+First, I realized I wasn't in a great environment for testing this, but I wanted it to work reliably. This led to me creating a Sensitivity slider so the project could be calibrated.
+
+Second, I wanted the sound level to gradually decay over time.",This sketch changes backgrounds based on how loud the room is. Use the sensitivity slide to calibrate the project.,26264460,https://cdn2.scratch.mit.edu/get_image/project/236759668_480x360.png,2018-07-18T15:53:01.000Z,2018-07-20T01:23:26.000Z,2018-07-19T13:05:16.000Z,19,2,0,0,0,,
+236842335,Getting Unstuck day 15,"I wanted to experiment with using the ""loudness"" to control the pen settings. Here, as the volume goes up, the pen size increases and the color changes. Also, the sprites move towards the center of the stage as the volume increases. 
+
+This is a continuation the inspiration I had from @alirb regarding theremins a few days ago and using some of Scratch's preset variables as inputs.","click the green flag
+click allow for the microphone
+down arrow to clear
+space to clear and reset",17767933,https://cdn2.scratch.mit.edu/get_image/project/236842335_480x360.png,2018-07-19T12:35:18.000Z,2018-07-19T13:23:17.000Z,2018-07-19T13:23:17.000Z,20,7,3,0,0,,
+236845961,Unstuck Day 15,"I had trouble with this as I couldn't find the setting for allowing the microphone at first, so I decided to record a sound and then the box popped up.  I'm sure that if I had more time I could make it more interesting.  I think my next step would be to put some text on the backdrop with the words to a song, then people could sing along rather than just going ""la la la"" which is what I was doing.",Click the green flag and sing into your,3297086,https://cdn2.scratch.mit.edu/get_image/project/236845961_480x360.png,2018-07-19T13:18:12.000Z,2018-07-19T13:34:20.000Z,2018-07-19T13:34:20.000Z,17,2,0,0,0,,
+236845189,#015 Getting Unstuck Loudness,I used the Scratch WIKI to help me understand how the loudness block worked.,The loudness detector.,20126730,https://cdn2.scratch.mit.edu/get_image/project/236845189_480x360.png,2018-07-19T13:11:10.000Z,2018-07-19T13:36:15.000Z,2018-07-19T13:35:27.000Z,14,3,0,0,0,,
+236850163,Unstuck 15 Sensing loudness,Keeping it simple today. ,"Create a project that shows different backgrounds depending on how loud the room is.
+
+As the loudness changes, the speaker size changes and the background changes.",19123745,https://cdn2.scratch.mit.edu/get_image/project/236850163_480x360.png,2018-07-19T14:00:39.000Z,2018-07-19T14:03:13.000Z,2018-07-19T14:03:13.000Z,12,5,3,0,0,,
+236852589,Getting Unstuck: Day 15,I'm unable to test due to not having a microphone :-(,,24912473,https://cdn2.scratch.mit.edu/get_image/project/236852589_480x360.png,2018-07-19T14:26:58.000Z,2018-07-20T11:17:58.000Z,2018-07-19T14:30:09.000Z,7,2,0,0,0,2888772,2888772
+236826224,Call me Frida,"Lavorando con i ritratti di Frida Kahlo a scuola, mi sono divertita: oggi ho voluto provare qualche animazione con l'uso del microfono e l'interazione a sorpresa.
+Ho lavorato sulle immagini con un po' di difficoltà, ma mi sono davvero divertita. Grazie Frida!
+Playing with Frida's portraits was an interesting activity realized with my classes. I tried an animation and to add an interaction.
+Working on images isn't so simple, I was funny. Thank you Frida!","Bandiera verde
+Fai sentire la tua voce per animare il dipinto
+
+Green flag
+Use your microphone to talk and animate this painting
+
+Wok in progress...sorry",11312120,https://cdn2.scratch.mit.edu/get_image/project/236826224_480x360.png,2018-07-19T08:17:44.000Z,2018-07-20T07:54:56.000Z,2018-07-19T13:26:00.000Z,21,6,2,0,0,,
+236851585,Getting Unstuck Day 15,,Click the green flag,13275782,https://cdn2.scratch.mit.edu/get_image/project/236851585_480x360.png,2018-07-19T14:15:46.000Z,2018-07-19T14:56:28.000Z,2018-07-19T14:56:28.000Z,12,1,0,0,0,,
+236853824,Steven's Song! remix (work in progress),Credits: Thanks to asparklekat for the inspiration.,"Click green flag to start.
+
+ I thought it would be easy to do. But it was not. I wanted to be able to clap my hands and get the volume of music to become softer and then something should change but it does not seem to work. I shall stop 
+here and revisit when I have more time. Will be back.",158902,https://cdn2.scratch.mit.edu/get_image/project/236853824_480x360.png,2018-07-19T14:40:09.000Z,2018-07-19T16:10:07.000Z,2018-07-19T15:18:13.000Z,8,2,0,0,0,236692482,236692482
+236854756,In wonderland day 15,,Click the flag and after say something to start,3602053,https://cdn2.scratch.mit.edu/get_image/project/236854756_480x360.png,2018-07-19T14:50:43.000Z,2018-07-19T17:29:48.000Z,2018-07-19T15:17:51.000Z,16,3,0,0,0,,
+236850245,NoiseMeter,"Getting Unstuck-2018, Day 15","Turn on the microphone
+Press GreenFlag
+Turn on ""on/off switch""
+The background depends on the noise level",139209,https://cdn2.scratch.mit.edu/get_image/project/236850245_480x360.png,2018-07-19T14:01:36.000Z,2018-07-19T15:16:47.000Z,2018-07-19T15:16:47.000Z,16,3,2,0,0,,
+236845978,Getting Unstuck: Day 15,"Getting Unstuck: Day 15
+Challenge: create a project that shows different backgrounds depending on how loud the room is.
+Thanks to a project, I don't remember the name of the owner; I made the volume variable but now quite nothing works anymore.
+","Are you ready for a new experience? Look and listen!
+Turn on the computer microphone.
+Click on green flag to start. ",17615581,https://cdn2.scratch.mit.edu/get_image/project/236845978_480x360.png,2018-07-19T13:18:20.000Z,2018-07-22T14:50:10.000Z,2018-07-19T15:28:19.000Z,14,1,1,0,0,,
+236858225,my mike isn't working,"My mike isn't working so I cant test it- disaster!!
+Thanks Ali - got it sorted finally
+
+
+
+
+
+
+",,33472226,https://cdn2.scratch.mit.edu/get_image/project/236858225_480x360.png,2018-07-19T15:27:46.000Z,2018-07-19T21:29:08.000Z,2018-07-19T16:07:00.000Z,8,1,0,0,0,,
+236856709,Day 15 - Getting Unstuck,"Remix of my second project for Getting Unstuck - Day 2
+
+Thanks to: @karenb for the code of Chromophobia https://scratch.mit.edu/projects/236675985/
+
+and @JacobAtInnovEd for the idea of sensibility
+https://scratch.mit.edu/projects/236759668/
+","Just click on the screen and turn up the volume of your music!
+Continue clicking for more visual effects.
+
+I would recommend => Ibiza Global Radio
+http://ibizaglobalradio.com/player/",26079479,https://cdn2.scratch.mit.edu/get_image/project/236856709_480x360.png,2018-07-19T15:11:55.000Z,2018-07-24T22:18:25.000Z,2018-07-19T16:16:03.000Z,24,4,1,0,0,,
+236857373,Unstuck Day 15 - Running Girl,"I had no problem with this project. If I have time, I'd like to add better music. I turned on the volume block, so the viewer can see that the volume is increasing … just in case he or she doesn't recognize it's getting louder.",Click the flag to begin. The volume will increase as Hannah runs through different scenes. ,10715270,https://cdn2.scratch.mit.edu/get_image/project/236857373_480x360.png,2018-07-19T15:19:02.000Z,2018-07-25T12:59:48.000Z,2018-07-19T16:02:06.000Z,7,2,0,0,0,,
+236862509,Sound Meter - Getting Unstuck Day 15,"This was a quick first attempt at using ""loudness"". I would like to come back to this project later and toy with changing backgrounds according to ""loudness"" and fine tune the intervals that would be most effective in a classroom.",Click the green button and let the sound meter gauge how much sound you are making.,22156688,https://cdn2.scratch.mit.edu/get_image/project/236862509_480x360.png,2018-07-19T16:11:58.000Z,2018-07-19T16:38:48.000Z,2018-07-19T16:38:48.000Z,15,9,2,0,0,,
+236863583,unstuck #15 background noise,,"Spinning speed and background color change depending on the loudness of the room, so sing loudly.",26618044,https://cdn2.scratch.mit.edu/get_image/project/236863583_480x360.png,2018-07-19T16:23:18.000Z,2018-07-22T19:57:34.000Z,2018-07-19T16:41:05.000Z,10,1,0,0,0,,
+236862692,Noisy Line drawing,I had this running during a meeting with four people and let the cat draw a line tracking the ebbs and flows of the conversation. ,"As you make noise, the cat will draw a line that changes colors. 
+
+There are different backgrounds that change every time the loudness gets above three. It waits for quiet before changing again the next time it gets loud.",14632339,https://cdn2.scratch.mit.edu/get_image/project/236862692_480x360.png,2018-07-19T16:13:55.000Z,2018-07-19T16:55:35.000Z,2018-07-19T16:45:37.000Z,8,2,0,0,0,,
+236846789,day 15,thanks to @karenb*,"press green flag ,and make some noise .",34188789,https://cdn2.scratch.mit.edu/get_image/project/236846789_480x360.png,2018-07-19T13:27:06.000Z,2018-07-19T17:10:17.000Z,2018-07-19T15:20:03.000Z,18,12,1,0,0,,
+236866115,Noise = Scratch Stamps! (Getting Unstuck #15),"Getting Unstuck #15 - ""Create a project that shows different backgrounds depending on how loud the room is.""
+
+I had no idea Scratch could interact with a laptop's microphone! This is fairly basic as I had limited time but it's a fun interaction.  
+
+Potential improvements:
+- don't stamp if loudness 0.
+- stamp slightly more frequently (tried to do this but it stopped stamping for some reason)
+- use random polygons as stamp rather than Scratch costume. ","- Click the flag to start (restart or reload page if microphone not working)
+- Be noisy and see what patterns you can make (stamps every half second). I find blowing into your microphone works great.  ",15872912,https://cdn2.scratch.mit.edu/get_image/project/236866115_480x360.png,2018-07-19T16:51:47.000Z,2018-07-19T17:29:16.000Z,2018-07-19T17:25:37.000Z,4,2,1,0,0,,
+236374419,Oh Happy Day! (Get Happy remix),"The Day 7 project from @Learn2Teach2018 has so many carefully made steps in it to simulate handwriting, and I've been itching for a chance to remix it so that work can shine in more projects.
+
+I mostly got stuck with the microphone permissions on my laptop, but also with timing all these events, and used the Wiki and the 'help' option in the Scratch editor to re-learn how to use the 'broadcast () and wait' block.","Green Flag and then make some noise!
+
+Make sure your microphone is on and is allowed to listen
+
+If you don't have a working mic, click the grey button",27306974,https://cdn2.scratch.mit.edu/get_image/project/236374419_480x360.png,2018-07-14T03:45:09.000Z,2018-07-20T02:37:09.000Z,2018-07-19T17:27:28.000Z,24,5,0,0,0,236184388,236184388
+236869931,Loud Maze!,"I don't like using microphones in games and demos, mainly because my desktop computer doesn't have an integrated mic. Today I'm parrot sitting at my parents' home so I brought with me an old laptop.
+I have already a kaleido that changes with voice, but I think that the G.U. challenges me also in being creative.
+
+Fun fact: the bell is a tribute to Hungry Horace!","LEFT/RIGHT control the ball, the loudness change the walls!",12148328,https://cdn2.scratch.mit.edu/get_image/project/236869931_480x360.png,2018-07-19T17:34:58.000Z,2018-07-19T17:50:24.000Z,2018-07-19T17:50:24.000Z,8,3,1,0,0,,
+236866488,Sound Magic,"Unstuck Challenge 15: Create a project that shows different backgrounds depending on how loud the room is. 
+
+I used Beethoven's Symphony No.5 in C minor  & Alexander Hamilton to test the project. You can also adjust the volume on your computer to change the loudness level.
+
+https://www.youtube.com/watch?v=FqvLfMigm3I
+https://www.youtube.com/watch?v=VhinPd5RRJw&index=1&list=RDVhinPd5RRJw",Click on the green flag to start.,25332755,https://cdn2.scratch.mit.edu/get_image/project/236866488_480x360.png,2018-07-19T16:55:45.000Z,2018-07-19T18:04:18.000Z,2018-07-19T17:45:40.000Z,7,3,0,0,0,,
+236870992,Getting Unstuck: Day 15. Color the volume.,A simple project that could be an amazing tool to control the volume in classroom in playful way. Children can see the volume trough the colors on a screen and then control it.,Click on the green flag.,18190669,https://cdn2.scratch.mit.edu/get_image/project/236870992_480x360.png,2018-07-19T17:46:48.000Z,2018-07-30T22:25:24.000Z,2018-07-19T18:05:59.000Z,16,7,0,0,0,,
+236841357,workshop tool - noise level,"Getting Unstuck: Day 15
+https://gettingunstuck.gse.harvard.edu/
+Create a project that shows different backgrounds depending on how loud the room is. 
+
+ToDo/Remix idea: add a loudness graph
+
+Thanks to PixLoger for the CC0 smileys!
+https://pixabay.com/en/photos/?q=user%3APixLoger+smiley
+","A noise meter that can be displayed during a scratch workshop, so that the kids can easily see when the room is too noisy.
+(Apparently, some teachers are using an electronic version of this in class, shaped like a traffic light)
+
+Press the green flag, allow access to the microphone access, and then make some noise :)
+Use the space key to display the settings:
+- sensitivity adjusts the noise thresholds, lower sensitivity means that more noise is needed to make the yellow/red smileys appear.
+- persistence is how long the yellow/red smileys stay after the noise has gone down again.",34248043,https://cdn2.scratch.mit.edu/get_image/project/236841357_480x360.png,2018-07-19T12:19:55.000Z,2018-07-19T20:12:22.000Z,2018-07-19T18:08:38.000Z,12,3,0,0,0,,
+236840824,What's That Racket? GU_Day15,"Today, I began by reading articles about decibels. I am playing with testing my voice. When my loudness variable is = 0.1 and I whisper, that level of loudness is not be sensed until my distance from the screen is only a few inches. I want to know if sounds that are played in Scratch can be detected. I am testing ""meow"". Yes, but, the results for calibration are not consistent. I settle on a rather straight-forward project that allows the user to experiment with the controls. 
+Credits:
+https://www.thecut.com/2016/05/what-it-s-like-to-be-unable-to-bear-the-sound-of-someone-eating.html
+
+","Click on the green flag. Then adjust the slider controls when they appear. You may use the sounds that the sprites make, or sounds in your environment to explore!
+
+***Oops, I just realized that in my wonderings and explorations, I missed the part of today's challenge about signaling background changes. ",24741621,https://cdn2.scratch.mit.edu/get_image/project/236840824_480x360.png,2018-07-19T12:11:24.000Z,2018-07-19T20:39:28.000Z,2018-07-19T18:43:12.000Z,6,3,1,0,0,,
+236848583,Getting Unstuck Day 15,Getting Unstuck Day 15,Clicca sulla bandierina verde,15572972,https://cdn2.scratch.mit.edu/get_image/project/236848583_480x360.png,2018-07-19T13:44:06.000Z,2018-07-20T07:02:05.000Z,2018-07-19T18:50:30.000Z,7,2,0,0,0,,
+236872281,Day 15 - Keep It Down!,"music - https://www.yourclassical.org/story/2016/11/25/daily-download-johann-sebastian-bach-sheep-may-safely-graze
+Image - https://commons.wikimedia.org/wiki/Category:Symphony_orchestras#/media/File:OSESP_Sala_Sao_Paulo_05042013.jpg 
+
+inspired by @mizzpeters library project today","Click the Green Flag
+See what happens if you are a noisy audience member!
+You will have to make noise at a range of levels for full effect!
+
+",18341966,https://cdn2.scratch.mit.edu/get_image/project/236872281_480x360.png,2018-07-19T18:01:14.000Z,2018-07-19T19:04:00.000Z,2018-07-19T19:04:00.000Z,22,11,6,0,0,,
+236869104,Getting Unstuck Day 15 - Use LOUDNESS to go places,This one took some time to figure out the right loudness level to act as a trigger. Thanks to @MsNykorchuk5. Her code helped me figure it all out.,Follow Scratch's prompts.,18558561,https://cdn2.scratch.mit.edu/get_image/project/236869104_480x360.png,2018-07-19T17:25:21.000Z,2018-07-20T04:13:51.000Z,2018-07-19T19:29:19.000Z,4,1,0,0,0,,
+236874556,Scratch Dreaming - Getting Unstuck Day 15,"The bed is from stickpng
+First, it was weird cutting off Scratch's head to get started!
+Again, another block I haven't used before. This 21 days is chock full of new stuff. 
+It is really fun realizing the ways all the blocks can fit into each other to make something interesting happen.
+This wasn't super hard to make, but I did have to mess around because I wasn't sure how loud ""loud"" was while making something. I think it turned out ok though! I can't wait to see the studio today.","Click on the green flag to get started. If you are too loud, Scratch might start dreaming!",22706156,https://cdn2.scratch.mit.edu/get_image/project/236874556_480x360.png,2018-07-19T18:24:46.000Z,2018-07-19T19:34:04.000Z,2018-07-19T19:27:15.000Z,6,1,0,0,0,,
+236854673,Getting Unstuck: Day 15,"This is my project for Day 15 of the Getting Unstuck programming challenge. The result is satisfactory considering the number of blocks I used. P.S.: I love the clone block!
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621
+","Create a project that shows different backgrounds depending on how loud the room is.
+
+Please click on the green flag and enable your microphone to see the result of the animation.",34314391,https://cdn2.scratch.mit.edu/get_image/project/236854673_480x360.png,2018-07-19T14:49:58.000Z,2018-07-19T19:35:28.000Z,2018-07-19T19:29:20.000Z,6,2,0,0,0,,
+236874979,Connect the dots: Getting Unstuck Day 15 Loudness,"Getting Unstuck Day 15
+
+Oops... misread the brief... my background doesn't change when the loudness hits a certain level, but my sprite reacts to loudness in a continuously variable manner, up to a certain limit, whereupon it reacts quite strongly!
+","You can use the up and down keys to change the sensitivity of the microphone.
+
+Also, it seems like everyone's microphone is different, so you can easily change the limit for the ""strong reaction"" on the screen or with right and left arrows.",3485356,https://cdn2.scratch.mit.edu/get_image/project/236874979_480x360.png,2018-07-19T18:29:55.000Z,2018-07-19T20:11:47.000Z,2018-07-19T19:44:58.000Z,8,2,0,0,0,,
+236881564,unstuck15,,the cat takes a closer look to the cloud and the stars but keeps falling after a while.,1072279,https://cdn2.scratch.mit.edu/get_image/project/236881564_480x360.png,2018-07-19T19:57:00.000Z,2018-07-19T20:05:20.000Z,2018-07-19T19:57:52.000Z,5,1,0,0,0,,
+236868758,Sound rainbow,Super short program with one really tricky bit - I had to use a join block in order to cast an number to a string for selecting the background. I had incorrectly assumed that the type would be coerced automatically.,Get loud! then get quiet!,1092342,https://cdn2.scratch.mit.edu/get_image/project/236868758_480x360.png,2018-07-19T17:21:50.000Z,2018-07-19T20:06:02.000Z,2018-07-19T18:37:03.000Z,4,1,0,0,0,,
+236883057,Day 15-Loudness Test Pattern,"Day 15-Create a project that shows different backgrounds depending on how loud the room is. 
+
+This was my first time using the loudness input and I love it! Just created a simple test pattern that changes color, but kids would have so much fun thinking of silly ways to use this.
+
+The block of color automatically gets smaller if it's quiet, but changes size according to the loudness. I multiplied the loudness to make the size change more quickly.","Click the green flag
+Make sure to enable the video/audio
+Watch the pattern change and block change according to the level of noise.",16509596,https://cdn2.scratch.mit.edu/get_image/project/236883057_480x360.png,2018-07-19T20:19:02.000Z,2018-07-19T23:42:34.000Z,2018-07-19T20:25:27.000Z,11,2,0,0,0,,
+236874337,15 giorno,,Premere bandierina e in sequenza tasto a e b,28304428,https://cdn2.scratch.mit.edu/get_image/project/236874337_480x360.png,2018-07-19T18:22:34.000Z,2018-07-19T19:04:41.000Z,2018-07-19T19:03:44.000Z,7,1,0,0,0,,
+236883736,Getting Unstuck Day15,,,17809789,https://cdn2.scratch.mit.edu/get_image/project/236883736_480x360.png,2018-07-19T20:29:14.000Z,2018-07-19T20:35:51.000Z,2018-07-19T20:35:51.000Z,5,1,0,0,0,,
+236879824,G.U. Day 15 : EFFETTI SONORI e COLORI,"Ho dato un'occhiata alle Cards ""Creare Musica"".","Clicca sulla bandierina verde.
+Non ho seguito proprio le indicazioni della giornata, perché ho una certa diffidenza nell'uso del microfono (quando appare la finestra con quell'occhio … mi inquieta … ah ah ah ).",13746945,https://cdn2.scratch.mit.edu/get_image/project/236879824_480x360.png,2018-07-19T19:31:09.000Z,2018-07-19T20:41:59.000Z,2018-07-19T20:37:00.000Z,6,1,0,0,0,,
+213467974,Monkey Alphabet 1,"bensound for background music
+scratch for sprites and sound effects
+voice overs by csn4710 (aka wife)
+
+Let me tell you, watching the kids work together, even as three year olds (not year 3, but actually 3 years old), was amazing. We actually used it in as a physical activity because we noticed along with yelling the letter, they kids were also jumping.  
+
+I did try motion controls but it was far to inaccurate. I have a few ideas but will have to see them through first.
+","I created this for my 3year old, pre school and kindergarten classes. I would have them stand up and then yell as a team, teamwork is essential for this game, to help him collect the letter they lost from their backpack. 
+
+Also added a secondary choice to use the keyboard. 
+
+The intro is a reminder to always zip up your backpack. 
+
+3/31/18
+Created for a classroom to be projected. Works on based on sound level. Kids can yell out the letter to make the monkey jump.
+
+ALso can press J key for individual play. Press space to use the sound slider to make the response higher or lower depending on classroom acoustics 
+
+4/1/18
+Added Keyboard controls. Press 1 for standard, 2 for keyboard
+Randomized letters",3158946,https://cdn2.scratch.mit.edu/get_image/project/213467974_480x360.png,2018-03-31T11:55:33.000Z,2018-07-19T20:47:24.000Z,2018-03-31T15:39:28.000Z,52,9,5,0,0,,
+236848388,Furbino: Getting Unstuck Day 15,Tickle sound effect: https://www.youtube.com/watch?v=RP4abiHdQpc&t=22sFurby sound effect: https://www.youtube.com/watch?v=9qHmoqFMZCE,Do you remember Furby?  This is a scratch version of little robot that communicate with you using some sensors.  Click the green flag to start.  Talk to Furbino and interact with him to see what happnes!,17257831,https://cdn2.scratch.mit.edu/get_image/project/236848388_480x360.png,2018-07-19T13:42:10.000Z,2018-07-20T00:34:45.000Z,2018-07-19T18:28:01.000Z,8,3,1,0,0,,
+236886114,Day 15 - CheerforDancing,"It took a long time of playing with the volume buttons to get anything to work. A lot of things I tried, which looked like they would work in theory, didn't. Forexample, I tried to use the If then block with volume > 20. Not sure if it's just me or if the volume buttons are just not that great.","To make the dancers go faster, tell them to dance! If you're loud enough they will go on tour.",10309968,https://cdn2.scratch.mit.edu/get_image/project/236886114_480x360.png,2018-07-19T21:08:54.000Z,2018-07-19T21:28:54.000Z,2018-07-19T21:26:57.000Z,4,1,0,0,0,,
+236878920,Getting Unstuck: Day 15 - version 1,"Per la prima volta ho utilizzato il blocco sensore volume microfono, pertanto - avendo bisogno di sostegno - ho consultato la guida ""Coding - Programmare è un gioco!"" di Ferraresso-Colombini-Bonanome, DeA scuola, che è stata per me un riferimanto molto utile.
+
+Credits: 
+images - https://www.flaticon.com ","Clicca sulla bandierina verde.
+Se fai troppo rumore, i palloncini si gonfiano fino a scoppiare.
+
+Click the green flag.
+If you make too much noise, the balloons will swell up to burst.",19789360,https://cdn2.scratch.mit.edu/get_image/project/236878920_480x360.png,2018-07-19T19:18:22.000Z,2018-07-23T06:47:14.000Z,2018-07-19T21:24:11.000Z,18,6,0,0,0,,
+236887187,Unstuck Day 15,"This was easier for me, but not very creative.  Sorry.",Press the green flag and try not (or try to) wake the baby:-),24826697,https://cdn2.scratch.mit.edu/get_image/project/236887187_480x360.png,2018-07-19T21:28:32.000Z,2018-07-19T21:42:30.000Z,2018-07-19T21:42:30.000Z,5,2,0,0,0,,
+236889018,Getting Unstuck Day 15,,Blowing to extinguish the candles :),14159575,https://cdn2.scratch.mit.edu/get_image/project/236889018_480x360.png,2018-07-19T22:04:18.000Z,2018-07-19T22:05:38.000Z,2018-07-19T22:05:09.000Z,10,1,0,0,0,,
+236888565,Unstuck Day 15: How Loud Can you Get?,"I had never used the loudness blocks, so, once again I needed to look at other projects for some help.  Thanks to fun-timeonly for your inspiration.  I wanted 3 different backgrounds, so I had to do some research on the possible loudness values, which I found from the Scratch wiki.  Then, I figured out how to make the backgrounds change based on the loudness through trial and error.  I didn't make my project too complex.",Click the green flag and make some noise.  See if you can make it so you see all 3 backgrounds.,34190490,https://cdn2.scratch.mit.edu/get_image/project/236888565_480x360.png,2018-07-19T21:55:10.000Z,2018-07-19T22:15:22.000Z,2018-07-19T22:10:28.000Z,6,0,0,0,0,,
+236887248,Orchestra and Chorus - Getting Unstuck Day 15,"Getting Unstuck Day 15: create a project that shows different backgrounds depending on how loud the room is. 
+
+Music: “Jesu, Joy of Man's Desiring” by J.S.BACH. 
+
+It was difficult to adjust the background to the loudness produced by the music. I cheated using the sound editor to emphasizing the loudness variation since I wanted the backstage changed only when started the chorus. 
+If I had more time I would fine-tune this project and add other backgrounds effects that came to my mind.","Click on the green flag and follow the music, orchestra and chorus!",2176961,https://cdn2.scratch.mit.edu/get_image/project/236887248_480x360.png,2018-07-19T21:29:46.000Z,2018-07-19T22:50:03.000Z,2018-07-19T22:39:26.000Z,14,3,0,0,0,,
+236861657,Day 15,,Press the flag to see what happens to the fish when it is loud or quitet.,11885888,https://cdn2.scratch.mit.edu/get_image/project/236861657_480x360.png,2018-07-19T16:03:14.000Z,2018-07-19T22:54:01.000Z,2018-07-19T22:52:49.000Z,6,1,0,0,0,,
+236859584,Challenge15Sound,,"I think this project works. I'm not sure. I can't get my computer to register sounds, even when I'm screaming at the computer. Maybe I don't have a microphone on here. So someone tell me if this works okay. Thanks!",2190314,https://cdn2.scratch.mit.edu/get_image/project/236859584_480x360.png,2018-07-19T15:41:19.000Z,2018-07-20T00:09:41.000Z,2018-07-20T00:08:19.000Z,4,1,1,0,0,,
+236891843,Day 15: Talk to the Anchorman,"This is a quick project.  I set the loudness only to over 30.  Also instead of changing backgrounds, I choose to change sprites instead.  
+
+Will Farrel photo and gif from Giphy.com","Day 15 challenge: Create a project that shows different backgrounds depending on how loud the room is. 
+ 
+Click the green flag and say something to the anchorman!
+
+",1294980,https://cdn2.scratch.mit.edu/get_image/project/236891843_480x360.png,2018-07-19T23:00:02.000Z,2018-07-27T03:13:01.000Z,2018-07-20T00:10:47.000Z,28,6,0,0,0,,
+236897054,Getting Unstuck #15,"I was in a bit of a hurry today. With more time I'd tinker with the sound levels, but just playing with it now it seems okay. I've done a similar thing before in class, making a background noise monitor with traffic lights that then gets shown on the screen during class. Unfortunately it turns out that this is a great way to make a class compete for how much noise they can make.
+With more time I'd also make my images 4:3. I may still do that if I get a chance this afternoon.
+
+Looking at it again, with more time I'd brush my daughter's hair.",Just press the green flag and sing something. Amelia will give you feedback on your singing voice. ,141519,https://cdn2.scratch.mit.edu/get_image/project/236897054_480x360.png,2018-07-20T00:25:49.000Z,2018-07-20T05:52:22.000Z,2018-07-20T00:37:42.000Z,15,8,1,0,0,,
+236896390,Unstuck day 15,"This took awhile because (I am embarrassed to say) I had to figure out how to turn my microphone on!
+
+","Click green flag for directions. 
+checks loudness and brightens the background as you get louder.",11305008,https://cdn2.scratch.mit.edu/get_image/project/236896390_480x360.png,2018-07-20T00:15:48.000Z,2018-07-20T01:15:04.000Z,2018-07-20T00:58:23.000Z,10,3,0,0,0,,
+236899481,Getting Unstuck Day 15,"I have a bit of work still to do on this one, as it isn't quite what I want it to be. I also have some difficulty testing it with two small children trying to sleep. Maybe I'll try again when they're awake!",Challenge: Create a project that shows different backgrounds depending on how loud the room is.,34245752,https://cdn2.scratch.mit.edu/get_image/project/236899481_480x360.png,2018-07-20T01:08:36.000Z,2018-07-20T01:25:04.000Z,2018-07-20T01:25:04.000Z,7,0,0,0,0,,
+236899491,Sound Backdrops- Day 15,"Create a project that shows different backgrounds depending on how loud the room is.
+
+*My students will love doing a project like this! ",Press the green flag.,25165723,https://cdn2.scratch.mit.edu/get_image/project/236899491_480x360.png,2018-07-20T01:08:42.000Z,2018-07-20T01:32:29.000Z,2018-07-20T01:32:29.000Z,5,1,0,0,0,,
+236902725,Unstuck Day 15: Big Sound ,"Backdrop coding idea borrowed from day 15 by @funtime-only. 
+Used sequential palatte colours and the pick up colour/fill with colour tools to create backdrops.","
+Create a project that shows different backgrounds depending on how loud the room is. Press the green flag and speak into your microphone to create big sound.",18337230,https://cdn2.scratch.mit.edu/get_image/project/236902725_480x360.png,2018-07-20T02:01:22.000Z,2018-07-20T02:47:51.000Z,2018-07-20T02:47:51.000Z,4,2,1,0,0,,
+236903075,Happy Birthday,"Reflection:  I didn't have a chance all day to get to this project and by the time I did, I only remembered that I had to use the loudness sensing block. So, the background is not affected by loudness.
+
+If I had more time, I would have the background change depending on loudness, too.  I was figuring out ways to do that by tinkering with the ballerinas' costume changes to increase with loudness.
+
+My spouse suggested a cumulative loudness be reached instead of an instantaneous level. (So you actually have to sing the whole song).  ","Getting Unstuck #15: Create a project that shows different backgrounds depending on how loud the room is.
+
+Well, I took creative license with the directions.  Click the green flag and Heart will take it from there.",399245,https://cdn2.scratch.mit.edu/get_image/project/236903075_480x360.png,2018-07-20T02:06:22.000Z,2018-07-20T02:59:01.000Z,2018-07-20T02:59:01.000Z,7,1,0,0,0,,
+236903272,Getting Unstuck Challenge 15 ,"
+Would like to continue to try and get the bug moving to other positions/backgrounds, and not just when green flag is clicked.....but ran out of time.
+Still had fun!
+","Click the green flag to hear music.
+Depending on volume as to what bug decides to do!
+
+I had microphone issues with my laptop so had to use volume controls rather than loudness and used my sons laptop. I am not sure if the volume coding is fully working - it did for a while then not??!!",13484475,https://cdn2.scratch.mit.edu/get_image/project/236903272_480x360.png,2018-07-20T02:08:59.000Z,2018-07-20T03:11:48.000Z,2018-07-20T03:11:47.000Z,4,1,0,0,0,,
+236878614,Day 15 - Sound in space,Day 15 - Create a project that shows different backgrounds depending on how loud the room is.,Click on the flag. ,109272,https://cdn2.scratch.mit.edu/get_image/project/236878614_480x360.png,2018-07-19T19:13:39.000Z,2018-07-25T01:22:29.000Z,2018-07-20T03:11:46.000Z,4,2,0,0,0,,
+236905211,The next door,"My first idea for today was: a game where you can control the character with the microphone. I realized that it could be a bit challenging, so I decided to chose another one.
+Eventually, I had a simple idea: a game where you can change the stage with your voice at a specific time. 
+I've also added some elements to make it difficult and fun.
+When you find the hidden door you will always change your size automatically.
+
+                                     ---My next goal---
+If I had more tome I'd like to add more obstacles, levels and use the loudness in another way.
+
+                                     ----Credits----
++ Sprites and backgrounds: All of them have been created with the Scratch paint editor.","WELCOME TO ""THE NEXT DOOR"".
+Move your character to find the hidden door and get pieces of your spaceship. The door helps you to change your size. When you are on the edge, don't forget to speak or blow into the microphone in order to go to a different room.
+*Warning*: when you touch a wall or obstacle you will go to the initial position.
+*Tips*: try to have the ideal size to avoid the obstacles.
+
+                                             ---Controls---
+Press the green flag and then the play button.
+Use the arrow keys to move your character.
+Press space bar to show your item list.
+
+                        ---Getting Unstuck Day 15---
+""Create a project that shows different backgrounds depending on how loud the room is.""  ",4413079,https://cdn2.scratch.mit.edu/get_image/project/236905211_480x360.png,2018-07-20T02:39:13.000Z,2018-07-22T01:16:45.000Z,2018-07-20T03:25:57.000Z,11,1,0,0,0,,
+236909039,Getting Unstuck Day 15 Backgrounds,,Click the green flag. ,2356410,https://cdn2.scratch.mit.edu/get_image/project/236909039_480x360.png,2018-07-20T03:47:07.000Z,2018-07-20T03:59:57.000Z,2018-07-20T03:59:40.000Z,4,1,0,0,0,,
+236909876,My Photography by DMGJ_ Unstuck Day 15,,"To view my Android Photography portfolio, just make a noise.  If it is quite, the portfolio review will return to the main image. If it is noisy, it will move forward. ",31144646,https://cdn2.scratch.mit.edu/get_image/project/236909876_480x360.png,2018-07-20T04:03:07.000Z,2018-07-20T04:28:40.000Z,2018-07-20T04:16:26.000Z,4,1,0,0,0,,
+236911681,Getting Unstuck Day 15,"earth blockshade @curlykat (also known as meh)
+code-me
+cat sprite-scratch editor","press green flag
+shows loudness levels
+click earth blockshade to enter commands
+space to stop everything
+r to reset loudness level list",28402186,https://cdn2.scratch.mit.edu/get_image/project/236911681_480x360.png,2018-07-20T04:34:37.000Z,2018-07-20T05:25:03.000Z,2018-07-20T05:22:34.000Z,5,1,0,0,0,,
+236900623,All we need is ♥ (for Scratch),"I'm sooo excited about this project!
+
+The Scratch Conference will start in a few days and I wanted to celebrate my love for Scratch and share it with the awesome community of people around Scratch.
+
+Making this project took me hours, and during the process I got stuck, unstuck, stuck again, changed my mind plentiful of times, introduced bugs, discovered bugs, introduced more bugs, added, deleted, undeleted, edited scripts, costumes, ideas, and listened to this song hundreds of times!
+
+It's one way to express my deepest and lifelong gratitude to:
+
+- @mres, @natalie, and the @Scratchteam for creating Scratch
+- @karenb and the @ScratchEdTeam for getting me unstuck
+- the Beatles for composing this song
+- @yknups for the sprites I remixed in this project
+- the entire Scratch community for their love
+
+with ♥, 
+@tarmelop",Click the green flag and sing along,2286560,https://cdn2.scratch.mit.edu/get_image/project/236900623_480x360.png,2018-07-20T01:27:01.000Z,2018-07-24T20:27:08.000Z,2018-07-20T05:42:08.000Z,18,6,6,0,0,,
+236918202,Getting Unstuck: Day 15 - version 2,"Stimolata dal suggerimento di @alirb, ho creato la versione 2 del progetto, inserendo - oltre alla condizione ""rumore"" - la condizione ""silenzio"".
+
+Credits: 
+images - https://www.flaticon.com 
+tutorial - ""Coding - Programmare è un gioco!"" di Ferraresso-Colombini-Bonanome, DeA scuola","Clicca sulla bandierina verde.
+Se fai troppo rumore, i palloncini si gonfiano fino a scoppiare.
+Se fai silenzio, i palloncini si rimpiccioliscono e cambiano colore.
+
+Click on the green flag.
+If you make too much noise, the balloons will swell up to burst.
+If you are silent, the balloons get smaller and change color.",19789360,https://cdn2.scratch.mit.edu/get_image/project/236918202_480x360.png,2018-07-20T06:53:36.000Z,2018-07-20T09:09:33.000Z,2018-07-20T08:52:58.000Z,9,3,1,0,0,,
+236921838,Il risveglio dello squalo,,Provate a usare differenti toni di voce/rumori per vedere come si comporta lo squalo!,34169307,https://cdn2.scratch.mit.edu/get_image/project/236921838_480x360.png,2018-07-20T08:00:42.000Z,2018-07-20T10:32:34.000Z,2018-07-20T08:11:05.000Z,2,1,0,0,0,,
+236838468,a noisy walk,My mike wasn't working so i tried it this way - could not work out how to make a steady volume increasing  so resorted to random!,,33472226,https://cdn2.scratch.mit.edu/get_image/project/236838468_480x360.png,2018-07-19T11:30:33.000Z,2018-07-20T10:35:40.000Z,2018-07-20T10:32:39.000Z,4,1,0,0,0,,
+236918694,G.U. Day 15,"Ho seguito un tutorial sul canale YouTube di  ""Mondo Computazionale"" per usare un'estensione per far parlare gli sprite (Facciamo parlare Scratch con la sintesi vocale).
+Operazione riuscita sul sito ScratchX.org, ma non credo che si possa importare sulla piattaforma Scratch ""normale"".","Brevissimo progetto .
+",13746945,https://cdn2.scratch.mit.edu/get_image/project/236918694_480x360.png,2018-07-20T07:03:43.000Z,2018-07-20T10:37:43.000Z,2018-07-20T10:37:43.000Z,7,0,0,0,0,,
+236903128,Stormy weather,"This project responds to the #GettingUnstuck Day 15 challenge:  ""Create a project that shows different backgrounds depending on how loud the room is.""
+
+I've been playing with the loudness settings to test sensitivity.  It would be fun to include other types of inclement weather and even nature noises (that users would need to replicate, of course!).
+
+Rainy Street photo from chrismetcalfTV https://www.flickr.com/photos/laffy4k/155406169
+Lightning audio by Mike Koenig http://soundbible.com/2016-Thunder-Strike-2.html","Click the green flag, then clap your hands--softly or loudly.",527557,https://cdn2.scratch.mit.edu/get_image/project/236903128_480x360.png,2018-07-20T02:07:13.000Z,2018-07-20T11:17:59.000Z,2018-07-20T11:17:59.000Z,10,2,0,0,0,,
+236932747,G.U. Day 15 - SCARABOCCHI - RosaDigitale voicedraw remix,"Remix del Progetto Rosa Digitale ( Milano -  CodeMOOC live speciale 8 marzo per disegnare un cuore). 
+Ho modificato alcuni blocchi per ottenere un effetto scarabocchio.","Clicca sulla bandierina verde.
+Remix di un Progetto Rosa Digitale.",13746945,https://cdn2.scratch.mit.edu/get_image/project/236932747_480x360.png,2018-07-20T11:22:23.000Z,2018-07-20T12:20:10.000Z,2018-07-20T12:20:09.000Z,6,0,0,0,0,149047690,149047690
+236939403, ffred's solution to Steven's song - collab project,"Credits: 
+1.To asparklekat for Steven's Song! - the original project which inspired this one.
+2. To ffred for helping me solve my problem when I got stuck. He created the radio as a separate sprite and showed me the right blocks to use. Then I added the change background colour feature.
+Many thanks. This project is a collab project with ffred. 
+
+It works now! : )","Click green flag to start.
+
+Getting unstuck #Day 15
+
+",158902,https://cdn2.scratch.mit.edu/get_image/project/236939403_480x360.png,2018-07-20T13:21:42.000Z,2018-07-20T20:59:13.000Z,2018-07-20T13:25:44.000Z,10,1,0,0,0,,
+236923709,Getting Unstuck #15: Sirtaki dance and loudness sens,"Thanks to this challenge and ""Chromophobia"" https://scratch.mit.edu/projects/236675985/ by @karenb, I familiarized myself with the loudness sensor and its use!
+
+Scratch project was created as activity #15 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+
+Day #15 Challenge: Create a project that shows different backgrounds depending on how loud the room is. ","Adjust the speaker level to high volume, press the green flag and enjoy the music and the effect of the loudness sensor!",1202362,https://cdn2.scratch.mit.edu/get_image/project/236923709_480x360.png,2018-07-20T08:31:39.000Z,2018-07-25T10:43:00.000Z,2018-07-20T14:45:58.000Z,8,2,0,0,0,,
+236897217,Scratch Headroom (Unstuck 15),I loved Max Headroom as a kid and it wasn't until relatively recently that I found out that it wasn't actually computer generated. This project seemed like a chance to revisit this character. ,"Press the green flag for a sound sensitive Max Headroom experience. I'm on a plane now, so I've got a narrow range of sound responses set,  and will probably change them later.",27690149,https://cdn2.scratch.mit.edu/get_image/project/236897217_480x360.png,2018-07-20T00:28:50.000Z,2018-07-21T20:51:51.000Z,2018-07-20T15:13:21.000Z,17,5,0,0,0,,
+236945797,day 15,,"Loudnessmeter .. sort off. 
+Loudness interval from 0 to 120 is projected from 0 to 180 degrees.
+
+Try with this song .. https://www.youtube.com/watch?v=QRS6ZQ8tr6Q
+",771142,https://cdn2.scratch.mit.edu/get_image/project/236945797_480x360.png,2018-07-20T14:48:08.000Z,2018-07-20T16:21:10.000Z,2018-07-20T15:44:01.000Z,4,1,0,0,0,,
+236961966,Getting Unstuck #15 Volo tra fiori rossi,Un semplice progetto per Getting Unstuck giorno 15,"Clicca sulla bandierina verde
+provoca un rumore per far volare le farfalle tra i fiori",17320587,https://cdn2.scratch.mit.edu/get_image/project/236961966_480x360.png,2018-07-20T18:24:12.000Z,2018-07-20T19:03:48.000Z,2018-07-20T18:56:36.000Z,4,1,0,0,0,,
+236990346,Knight Errant -- Unstuck Challenge 15,"I appreciate the Unstuck Challenge prompts because I don't think I would've explored the loudness feature on my own.  I'm not sure what a classroom full of students testing out their loudness might look/sound like, but it might be fun! 
+
+",Click the flag and follow the knight's command!,11608238,https://cdn2.scratch.mit.edu/get_image/project/236990346_480x360.png,2018-07-21T03:18:50.000Z,2018-07-21T04:09:36.000Z,2018-07-21T04:03:48.000Z,3,0,0,0,0,,
+236991690,Getting Unstuck Day 15 - A day in the country,"I spent some time thinking about how quickly I wanted the backdrops to change, and tried to smooth the effect adding ghosting. This means that if you are testing it at home with your voice you want to hold the note for the full effect! ",This project reacts to the sound and the backdrop changes depending on the volume level. Enable your microphone and enjoy.,4610900,https://cdn2.scratch.mit.edu/get_image/project/236991690_480x360.png,2018-07-21T03:53:49.000Z,2018-07-21T04:15:54.000Z,2018-07-21T04:14:11.000Z,3,0,0,0,0,,
+237001316,Day 15 Loudness,This seemed to work sometimes but didn't work much of the time. ,Are your surroundings at a safe volume? Click on the green arrow to find out.,32833725,https://cdn2.scratch.mit.edu/get_image/project/237001316_480x360.png,2018-07-21T08:04:56.000Z,2018-07-21T09:34:17.000Z,2018-07-21T09:34:17.000Z,6,0,0,0,0,,
+236968619,Getting Unstuck: Day 15-2,"Ho preso il progetto da ScratchLibro ed ho inserito la condizione volume microfono.
+
+I took the project from ScratchLibro and I entered the microphone volume condition.","Clicca sulla bandierina verde.
+Se fai troppo rumore nel cielo appaiono i fuochi di artificio. Se c'è silenzio il cielo rimane buio.
+
+Click on the green flag.
+If you make too much noise in the sky the fireworks appear. If there is silence, the sky remains dark.
+",18667079,https://cdn2.scratch.mit.edu/get_image/project/236968619_480x360.png,2018-07-20T20:06:45.000Z,2018-07-21T13:42:54.000Z,2018-07-21T12:56:17.000Z,6,2,0,0,0,106033886,10000832
+237031277,Unstuck Day 20 Remix of Day15,"Day 20 is Day 15 project remixed  - oops NOT remixed.  I jforgot - 
+If I just make changes to the project instead of remixing it the first project is GONE!!!!! 
+It is gone from My Stuff and it is gone from the original Day 15 Unstuck Studio.
+I wanted to make a project that had a series of unrelated actions so that a player needed to figure out what was happening in this project.
+Sorry it is so late today.  I arrived in Boston this morning and had to decide whether to do the Unstuck homework or ... play hookey and see the sites.  The tourist in me won out!!! Visited JFK Museum.  ",Click on the Green Flag to start and read the instructions.  Then the game starts with the clicking of the Space Bar.  Are you able to figure out the coding of a project by watching it?  What are the 8 coding actions in this game? ,14232182,https://cdn2.scratch.mit.edu/get_image/project/237031277_480x360.png,2018-07-21T19:54:27.000Z,2018-08-01T17:15:53.000Z,2018-07-21T20:09:40.000Z,4,2,0,0,0,,
+236958904,Day 15 - version 2 remix MIRACOLO DELLA NATURA," E' IL REMIX DI antonellamazzobel https://scratch.mit.edu/projects/236918202/
+  (CHE RINGRAZIO).
+ IL SUO LAVORO PREVEDEVA DEI PALLONCINI CHE      CRESCEVANO E SCOPPIAVANO....HO FATTO DELLE VARIAZIONI SIA PER LO STAGE CHE PER GLI SCRIPT E ANCHE UNA LIEVE VARIAZIONI NELLA PROGRAMMAZIONE.","Clicca sulla bandierina verde.
+Se fai troppo rumore, i fiori crescono fino a scoppiare.
+Se fai silenzio, i fiori  si rimpiccioliscono e sembrano sparire.
+
+",34259094,https://cdn2.scratch.mit.edu/get_image/project/236958904_480x360.png,2018-07-20T17:45:11.000Z,2018-07-21T20:11:15.000Z,2018-07-21T20:05:08.000Z,3,0,0,0,0,236918202,236918202
+237030937,Getting Unstuck 15,"I wanted to play around with the idea of having time to be loud and time to be quiet. There are still a few bugs in it - Giga & Nano sometimes jump when the green flag is clicked, and sometimes wait until the first time the door opens. There's something screwy there with the ""mom"" variable but I'm not sure what it is.",Click the green flag to have a late-night dance party. Be careful that Mom doesn't hear you!,18044195,https://cdn2.scratch.mit.edu/get_image/project/237030937_480x360.png,2018-07-21T19:45:10.000Z,2018-07-21T21:47:43.000Z,2018-07-21T21:43:46.000Z,4,2,0,0,0,,
+237036936,Unstuck Day 15 project,"Inspired by a true story; my pug Thor was sleeping on my lap when I began exploring the Day 15 studio, and needless to say, he was not too happy when I kept making noise to interact with other people's projects!","Click the flag, then don't wake the pug!",17786521,https://cdn2.scratch.mit.edu/get_image/project/237036936_480x360.png,2018-07-21T22:20:13.000Z,2018-07-21T22:58:44.000Z,2018-07-21T22:57:41.000Z,4,0,0,0,0,,
+237038424,Burgler Alarm Unstuck #15,"I started getting behind on the challenges. Trying to catch up, so this one is pretty simple. I used the sound editor to make the volume of the alarm get louder and softer.",Click the green flag. As the alarm gets louder and softer the background will change.,124311,https://cdn2.scratch.mit.edu/get_image/project/237038424_480x360.png,2018-07-21T23:01:54.000Z,2018-07-21T23:59:41.000Z,2018-07-21T23:59:41.000Z,4,0,0,0,0,,
+237068067,Shhh!,I had the sprite change instead of the background.,Click the Green Flag to begin.  There are two levels of loudness to get reactions.,1196430,https://cdn2.scratch.mit.edu/get_image/project/237068067_480x360.png,2018-07-22T12:16:00.000Z,2018-07-22T12:46:27.000Z,2018-07-22T12:46:27.000Z,6,0,0,0,0,,
+237071843,Getting Unstuck - Day 15,"My inspiration....doing this project while watching The Open on TV.
+
+Instead of changing backgrounds I chose to use the loudness to affect story flow.
+
+I would like to add sound effects, like golf swing and ball strike.  Any free sound library suggestions would be appreciated.
+
+My most difficult part...getting the timing.  Still believe that instead of using wait blocks it's easiest to broadcast between sprites to insure timing.","Getting Unstuck Day 15 - Create a project that shows different backgrounds depending on how loud the room is. 
+
+You only need to click the green flag.  It makes it's own noise, but feel free to cheer as well.  Tiger Woods cannot hit is shot until he has silence for 5 seconds.",14400846,https://cdn2.scratch.mit.edu/get_image/project/237071843_480x360.png,2018-07-22T13:55:49.000Z,2018-07-22T17:16:24.000Z,2018-07-22T16:42:21.000Z,5,1,0,0,0,,
+237015567,EFFETTI E MUSICA,"Progetto creato per GettingUnstick. giorno 15.
+","Clicca sulla bandierina, osserva e ascolta...se vuoi remixa e completa il progetto!
+Ci sono effetti nel colore e nel volume del suono che si modifica al cambiare dello sfondo.",14651357,https://cdn2.scratch.mit.edu/get_image/project/237015567_480x360.png,2018-07-21T14:05:19.000Z,2018-07-22T19:02:55.000Z,2018-07-22T19:02:01.000Z,5,0,0,0,0,,
+237088208,day 15,"I need a better strategy to sync the music and the dancing. Is there a block - keep dancing until the music is done?
+... and my when on edge wasn't working to keep me on the stage.. although it's cute the way I dance off....",Hi - I'm a dancing beetle. Just welcome me and I will dance for you!,124064,https://cdn2.scratch.mit.edu/get_image/project/237088208_480x360.png,2018-07-22T20:18:30.000Z,2018-07-22T20:51:54.000Z,2018-07-22T20:50:21.000Z,6,0,0,0,0,,
+237112661,Getting Unstuck Day 15: Color changing picture,"Image from the MET Public Domain Images
+
+View of Toledo
+El Greco","Click the green flag and allow the software to access your microphone.  As you get louder, the picture changes colors.",1353497,https://cdn2.scratch.mit.edu/get_image/project/237112661_480x360.png,2018-07-23T03:32:26.000Z,2018-07-23T03:50:04.000Z,2018-07-23T03:49:04.000Z,1,0,0,0,0,,
+236873613,Day 15 of Getting Unstuck,This was a fun project. I also used this with my camp students this summer.,Click on Green Flag. As background noise changes so does the spiral,588430,https://cdn2.scratch.mit.edu/get_image/project/236873613_480x360.png,2018-07-19T18:15:03.000Z,2018-07-23T13:02:21.000Z,2018-07-23T13:01:30.000Z,1,0,0,0,0,,
+237151112,Unstuck Day 15,My remix project from Technolgyguy,"Click the green flag, click &quot;allow&quot; and make some noise!",34216021,https://cdn2.scratch.mit.edu/get_image/project/237151112_480x360.png,2018-07-23T14:22:42.000Z,2018-07-23T14:34:58.000Z,2018-07-23T14:33:35.000Z,4,0,0,0,0,17407016,17407016
+237161783,Unstuck-15,,,13846307,https://cdn2.scratch.mit.edu/get_image/project/237161783_480x360.png,2018-07-23T15:38:43.000Z,2018-07-23T15:42:35.000Z,2018-07-23T15:42:35.000Z,3,0,0,0,0,,
+237163242,Unstuck 15,The Loudness value increases or decreases depending on how loud or quiet the sound is that is being detected by the microphone connected to Scratch.,Click the flag to start. ,840815,https://cdn2.scratch.mit.edu/get_image/project/237163242_480x360.png,2018-07-23T15:55:13.000Z,2018-07-23T17:36:51.000Z,2018-07-23T17:22:54.000Z,6,0,0,0,0,,
+147114892,Owen Spiral Mindbender,From the book Coding Projects in Scratch.,Click the green flag and get dizzy.,17824064,https://cdn2.scratch.mit.edu/get_image/project/147114892_480x360.png,2017-02-25T05:36:48.000Z,2017-02-25T06:38:04.000Z,2017-02-25T06:31:01.000Z,4,1,0,0,0,,
+237215874,Getting Unstuck Day 15,"Getting Unstuck Day 15 Reflection:
+This might be my favorite project so far!  I think I need to tweak the numbers a bit, but I didn't want to get too loud when people are sleeping.  :)
+I've seen teachers use a noise-meter before, usually an app or a part of Smart Notebook.  I wanted to see if I could create one.  I looked for public domain stoplight images I could modify.  The one I chose can be found here: http://moziru.com/explore/Traffic%20Light%20clipart%20black%20and%20white/#go_post_10344_street-light-clipart-street-stop-2.png",Click on the green flag to keep track of the noise level.,30095573,https://cdn2.scratch.mit.edu/get_image/project/237215874_480x360.png,2018-07-24T03:26:07.000Z,2018-07-24T03:52:05.000Z,2018-07-24T03:52:04.000Z,7,1,0,0,0,,
+237243573,Getting Unstuck: Day 15,Andrés Gil Ruiz,"My first work with volume.
+
+I Think is useful for classroom.",27636310,https://cdn2.scratch.mit.edu/get_image/project/237243573_480x360.png,2018-07-24T10:55:32.000Z,2018-07-24T11:11:39.000Z,2018-07-24T11:11:02.000Z,5,1,0,0,0,,
+205654323,Loud fishes - Getting Unstuck - Day 15,,Click the green flag.  The fishes will swim around - but if it gets too loud they end up moving to a new area - away from the noise!,19641362,https://cdn2.scratch.mit.edu/get_image/project/205654323_480x360.png,2018-02-22T19:47:49.000Z,2018-07-24T11:36:01.000Z,2018-07-24T11:34:50.000Z,2,0,0,0,0,,
+237258477,Getting Unstuck - Day 15,I will need to adjust the loudness meter once I use this in my classroom.  ,Click on the flag to begin.,2502473,https://cdn2.scratch.mit.edu/get_image/project/237258477_480x360.png,2018-07-24T14:21:46.000Z,2018-07-24T14:45:19.000Z,2018-07-24T14:44:05.000Z,3,0,0,0,0,,
+214676848,Color fest remix,,"Muovere il mouse sullo stage.
+Parlare al microfono spazio per ""gettare"" il colore.",13575540,https://cdn2.scratch.mit.edu/get_image/project/214676848_480x360.png,2018-04-07T17:15:48.000Z,2018-07-24T15:50:57.000Z,2018-04-18T15:47:37.000Z,10,1,0,0,0,214674573,214674573
+237309480,Unstuck - Day 15,"I think I will be using this project as a way to keep my class volume low.  I may have to set the sensitivity of my microphone, but the concept is here.
+I tried to create this without looking at other projects, but soon found some cool variations on the same concepts.",How loud is the room? Press the green flag to begin the sound check.,2456527,https://cdn2.scratch.mit.edu/get_image/project/237309480_480x360.png,2018-07-25T00:45:19.000Z,2018-07-25T01:00:27.000Z,2018-07-25T01:00:27.000Z,1,0,0,0,0,,
+237372755,Getting Unstuck: Day 15,"By Filipe Mendes
+#CreativeComputing",When the loud grow the background becomes more and more red,2980392,https://cdn2.scratch.mit.edu/get_image/project/237372755_480x360.png,2018-07-25T15:43:35.000Z,2018-07-25T15:53:16.000Z,2018-07-25T15:52:19.000Z,3,0,0,0,0,,
+237392149,Unstuck 15 - Sound Change,"Back to the idea of a combination of randomness and input to create artwork. I wonder if I replaced the randomness with some order - like writing top to bottom, left to right - if you could see patterns in music or speech. I wish there was a way to detect pitch and other qualities of sound to have more inputs for patterns - to change shape, etc...",Press the Green Flag and make some noise to change the color patterns.,7902,https://cdn2.scratch.mit.edu/get_image/project/237392149_480x360.png,2018-07-25T19:25:58.000Z,2018-07-25T19:45:22.000Z,2018-07-25T19:41:09.000Z,1,0,0,0,0,,
+237393823,Loudness (Getting Unstuck [Day 15]),This is for Getting unstuck day 15!,"Green flag, Make Noise to change the back drop",13594403,https://cdn2.scratch.mit.edu/get_image/project/237393823_480x360.png,2018-07-25T19:48:53.000Z,2018-07-25T19:59:36.000Z,2018-07-25T19:59:36.000Z,3,0,0,0,0,,
+237448404,Getting Unstuck - dag 15,#GettingUnstuck,Click on the green flag to keep track of the noise level.,25631396,https://cdn2.scratch.mit.edu/get_image/project/237448404_480x360.png,2018-07-26T08:37:22.000Z,2018-07-26T08:52:03.000Z,2018-07-26T08:51:19.000Z,1,1,0,0,0,237215874,237215874
+237494733,Getting Unstuck Day 15,"Getting Unstuck: Day 15 
+
+This is a tool I can actually use in my classroom for measuring voice levels. The learners would actually enjoy seeing this, especially since it was coded by me. 
+
+Special shoutout to andrewpilla for the idea! ",Click the green flag. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/237494733_480x360.png,2018-07-26T19:59:48.000Z,2018-07-26T20:19:26.000Z,2018-07-26T20:16:57.000Z,3,0,0,0,0,,
+237500581,Día 15,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/237500581_480x360.png,2018-07-26T21:28:39.000Z,2018-07-26T21:29:03.000Z,2018-07-26T21:29:03.000Z,1,0,0,0,0,,
+237542911,l'audio,"Getting Unstuck 15
+Create
+Create a project that shows different backgrounds depending on how loud the room is. ",clicca la bandierina ,21462276,https://cdn2.scratch.mit.edu/get_image/project/237542911_480x360.png,2018-07-27T07:45:43.000Z,2018-07-31T14:06:47.000Z,2018-07-27T07:54:13.000Z,4,1,0,0,0,,
+237545063,Getting Unstuck Day 15,"I LOVE this kind of project that uses loudness sensing. They were always so popular when I was a teacher.
+This one has been made for #GettingUnstuck Day 15 #CreativeComputing.
+I remember years ago trying to make a loudness monitor for the classroom which would give the kids visual feedback when they got too loud in class. I never really got it working back then. This 
+seems to work a little better.
+I'd like to make one with a bar that grows larger as loudness goes up.",Click the Green Flag and make some NOISE!,287832,https://cdn2.scratch.mit.edu/get_image/project/237545063_480x360.png,2018-07-27T08:28:32.000Z,2018-07-27T08:49:05.000Z,2018-07-27T08:39:09.000Z,6,1,0,0,0,,
+237542375, Day 15 Getting unstuck Apple fireworks,Getting Unstuck Day 15: Create a project that shows different backgrounds depending on how loud the room is. ,,8789156,https://cdn2.scratch.mit.edu/get_image/project/237542375_480x360.png,2018-07-27T07:35:05.000Z,2018-08-01T19:53:12.000Z,2018-07-27T21:52:19.000Z,2,1,0,0,0,,
+237772627,Viaja con nosotros! Getting unstuck day 15,"I've learned to detect loudness and use this value to select an stage. I've divided the loudness by 10 to map the 100 possible values of loudness to 10 stages.
+",Cuanto más necesitados estás de vacaciones...más fuerte puedes gritar. ¿Lo probamos? ,2680901,https://cdn2.scratch.mit.edu/get_image/project/237772627_480x360.png,2018-07-30T16:15:54.000Z,2018-07-30T17:13:58.000Z,2018-07-30T16:39:40.000Z,7,1,0,0,0,,
+237772851,getting unstuck day 15,I have learn to use wlouness to chage the ,,23020553,https://cdn2.scratch.mit.edu/get_image/project/237772851_480x360.png,2018-07-30T16:18:54.000Z,2018-08-03T17:47:59.000Z,2018-07-30T17:08:55.000Z,5,1,0,0,0,,
+237851304,Day 15 - Loud room,,Shout in the microphone to wake me up!,24154277,https://cdn2.scratch.mit.edu/get_image/project/237851304_480x360.png,2018-07-31T10:46:13.000Z,2018-07-31T11:01:46.000Z,2018-07-31T11:01:46.000Z,8,2,0,0,0,,
+237869461,"#GettingUnstuck15 - Loudness, please","Sprite taken from the Scratch repository.
+
+I think it can be easily improved, but how? Please remix it if you consider!","Press Green flag and follow the instructions. Press <space key> to finish.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 15
+
+""Create a project that shows different backgrounds depending on how loud the room is"".
+
+This projects uses the mic to change between different background colours (green = calm; yellow = a bit noise; red = too much loud!).",1112440,https://cdn2.scratch.mit.edu/get_image/project/237869461_480x360.png,2018-07-31T15:18:11.000Z,2018-07-31T15:36:11.000Z,2018-07-31T15:36:11.000Z,6,2,0,0,0,,
+237897513,# Unstuck Day 15 Using  Loud,I have had trouble getting back to the beginning tried alsorts but at least the noise changes.,I think you know what to do know push green falg,31492686,https://cdn2.scratch.mit.edu/get_image/project/237897513_480x360.png,2018-07-31T21:33:07.000Z,2018-08-01T07:58:44.000Z,2018-07-31T22:36:33.000Z,4,1,0,0,0,,
+238128038,Getting Unstuck - Day 15,"The challenge for day 15 of Getting Unstuck is: ""Create a project that shows different backgrounds depending on how loud the room is.""
+
+I set up three different backgrounds and they would constantly flicker, so I did some research and discovered that the loudness goes to 100 (and not 10).   :-) 
+
+Backdrop Images for Pixabay:
+https://pixabay.com/en/audience-backlit-band-battle-1868137/
+https://pixabay.com/en/concert-performance-audience-336695/","Click the green flag, turn your mic on, and get ready to rock!",24696341,https://cdn2.scratch.mit.edu/get_image/project/238128038_480x360.png,2018-08-03T04:49:46.000Z,2018-08-04T04:48:19.000Z,2018-08-03T05:09:48.000Z,2,1,0,0,0,,
+238227282,day-15,,premi la bandierina verde e poi batti le mani...,16822769,https://cdn2.scratch.mit.edu/get_image/project/238227282_480x360.png,2018-08-04T16:39:09.000Z,2018-08-04T16:41:11.000Z,2018-08-04T16:40:43.000Z,3,1,0,0,0,,
+238452877,Getting Unstuck - Day 15,I loved creating this project because it's based on a story I love and involves the user in its actions.,"You are a wizard on a trip to find the Soceror's Stone. However, Cerberus blocks your path. You can't just stand there! You need to sing the three headed dog a soft melody. But beware, sing too loud and you may just wake up the ferocious beast.",25334812,https://cdn2.scratch.mit.edu/get_image/project/238452877_480x360.png,2018-08-07T15:20:06.000Z,2018-08-07T16:11:07.000Z,2018-08-07T16:09:33.000Z,4,1,0,0,0,,
+238382791,GETTING UNSTUCK15: Hello!,,"Press the green flag
+Are you NOISY? Look what happens!",16573108,https://cdn2.scratch.mit.edu/get_image/project/238382791_480x360.png,2018-08-06T21:51:38.000Z,2018-08-07T20:34:46.000Z,2018-08-07T17:23:26.000Z,4,1,0,0,0,,

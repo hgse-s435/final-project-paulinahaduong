@@ -1,0 +1,626 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+236272241,Colorful sine waves,"Even though I have limited time to work on these, I've been trying to challenge myself to explore aspects of Scratch I haven't used before. Although I've known that you can use RGB colors in Scratch, I've never actually tried, and a long long time ago, I used to be really into geometry. So, this is a simple project, but it forced me to learn a little more about how to implement sine functions in Scratch, explore RGB color range, and also use the sensing color block! Looks simple, but I learned a lot. :)","Press the green flag to start, the stop button to clear, and move the sliders around to experiment with RGB colors.",2745846,https://cdn2.scratch.mit.edu/get_image/project/236272241_480x360.png,2018-07-12T23:23:50.000Z,2018-07-13T10:04:04.000Z,2018-07-13T10:00:21.000Z,40,17,0,0,0,,
+236177857,Xylophone Music,"I *really* wanted to make a Pac Man style game for today's challenge. After working on it for too long, getting super frustrated, and making dinner, I came back with a totally different idea. I wanted to see if I could do a xylophone game where the music was controlled by colors, as opposed to each xylophone key being a separate sprite. I'll keep working on my Pac Man project and share it another day :)","Click the mallet to play music. Press ""h"" to add harmony to your song!
+
+Press space to put the mallet(s) away.",19163721,https://cdn2.scratch.mit.edu/get_image/project/236177857_480x360.png,2018-07-12T01:26:15.000Z,2018-07-12T23:31:57.000Z,2018-07-12T02:20:59.000Z,34,16,3,0,0,,
+236179878,"Color Reader! (Getting Unstuck, Day 9)","When I first started the project, it was a bit of a disaster. I was using the original, full-color Starry Night and it was wayyyy too many colors to try to detect. I was feeling a bit demoralized and thought about abandoning the project entirely. And then I thought, ""If I can't make the code easier (detecting these millions and millions of colors), could I make something _else_ easier?"" And that's when I had the insight to make the image ""easier"" by reducing the number of unique colors in the image. (I found Van Gogh's Starry Night on Google's Art and Culture, took a screen capture of it, then reduced the number of colors in Photoshop.) Of course, it doesn't look as beautiful or as vivid as the original—but I think you can still tell that it's Starry Night. I'm excited about this prototype. :)","My friend Dock is color blind. He occasionally appears in my office and asks what colors he's wearing (and if they make sense together). For today's Getting Unstuck challenge of color sensing, I was wondering how he experiences art.
+
+Press the green flag, then move your mouse over the stage.",39526,https://cdn2.scratch.mit.edu/get_image/project/236179878_480x360.png,2018-07-12T01:59:40.000Z,2018-07-13T10:35:46.000Z,2018-07-13T10:26:50.000Z,56,23,3,0,0,,
+236290500,Drops,"This project was created for Day 9 of Getting Unstuck. Today's goal was to create a project that makes use of color sensing blocks. I wanted to create the feeling of objects falling alternately through air and fluid. Of course, there had to be some accompanying sound. 
+
+If I were going to spend more time on this project, I would explore different instrument samples and more interesting chord progressions.
+
+Vibraphone samples courtesy of University of Iowa Electronic Music Studios (http://theremin.music.uiowa.edu/index.html)
+",Press the green flag and enjoy!,56239,https://cdn2.scratch.mit.edu/get_image/project/236290500_480x360.png,2018-07-13T05:39:58.000Z,2018-07-13T15:05:48.000Z,2018-07-13T10:30:22.000Z,47,19,11,0,0,,
+236233594,Helicopter Doodler,"This project is inspired by a recent read -- 'The Boy Who Would be a Helicopter: The Uses of Storytelling in the Classroom' by Vivian Paley  
+
+Doodle a scene from a story you've been dreaming, a frustration you've been feeling, something inspired by a project in a Getting Unstuck Studio -- whatever you'd like! 
+
+Then, clear it away! 
+(or take a screen shot and share it with a friend!)
+
+
+I'm excited to create a program for creating! I'd like to play around with the keys/inputs. Perhaps on-screen buttons to press would be simpler. I'm also torn about including an ""erasing' function. Thoughts?","After pressing the green flag, bring the helicopter to a color on top and click the mouse to pick it up! 
+
+Press p when you're ready to doodle
+Press SPACE if you'd like to pause
+Go to bottom left to change the size and shade of pen
+                           (there are so many color possibilities!)
+Press c to clear the canvas",25705937,https://cdn2.scratch.mit.edu/get_image/project/236233594_480x360.png,2018-07-12T15:10:41.000Z,2018-07-13T11:15:55.000Z,2018-07-13T11:15:55.000Z,28,9,2,0,0,,
+236108618,maze game day 9,Thanks to @nerve_centre in helping my class come up with this idea.,Use the arrow keys to move around the maze.,11349852,https://cdn2.scratch.mit.edu/get_image/project/236108618_480x360.png,2018-07-11T11:52:04.000Z,2018-07-13T11:03:54.000Z,2018-07-13T11:02:15.000Z,12,7,2,0,0,,
+234645731,Unstuck Day 8 maze,Use left-right-up-down keys to move around and touch the blue block at the left corner to go to the next level.,Simple maze game with 3 levels. Can make it harder by introducing moving (cloned) enemies that will take energy (must have energy variable). The options are endless.,33890948,https://cdn2.scratch.mit.edu/get_image/project/234645731_480x360.png,2018-06-30T09:55:36.000Z,2018-07-19T08:54:25.000Z,2018-07-13T11:05:20.000Z,10,3,0,0,0,,
+125970445,Cheese Catcher Getting Unstuck Day 9,,"Quick! 
+
+You have 30 seconds to find all the cheese! They will only show up if your white trail passes over them. Can you get all ten of them? 
+
+Use your arrow keys to move around the screen.",4610900,https://cdn2.scratch.mit.edu/get_image/project/125970445_480x360.png,2016-10-17T08:24:27.000Z,2018-07-25T12:13:22.000Z,2016-10-17T22:36:21.000Z,22,4,0,0,0,,
+236310264,Day 9 - Touching Colour,,Some doubts between Pink and Red!!!,24154277,https://cdn2.scratch.mit.edu/get_image/project/236310264_480x360.png,2018-07-13T11:13:52.000Z,2018-07-13T11:26:59.000Z,2018-07-13T11:26:44.000Z,26,7,1,0,0,,
+236310586,Getting Unstuck: Day 9,"Simple bouncing ball, could be adapted to a pong clone",,24912473,https://cdn2.scratch.mit.edu/get_image/project/236310586_480x360.png,2018-07-13T11:19:47.000Z,2018-07-16T16:36:59.000Z,2018-07-13T11:34:48.000Z,12,4,0,0,0,,
+236308956,Unstuck Day 9: Touching Color,"I made this project in response to the prompt for Challenge #9-using the touching color block- of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+This was fun as it came together! The part I got stuck on was the prize sprite wasn't changing to the right color costume each time. It turned out both the arrow sprite and the prize sprite were doing something in triggered by receiving the prize broadcast and since the prize sprite conditions depended on a variable set by the arrow I had to add a slight delay to the prize sprite so the variable would have time to be set by the arrow. I find a lot of times things don't happen as you expect because of timing in Scratch.","What will Dee get? Spin the wheel to choose a gift for Dee!
+Argh I'm finding sometimes it doesn't work but I have to go to jury duty...will try to fix later. Hmm added a longer delay in the prize, seems to be working consistently.
+Added some sound and an intro.
+Still can't figure out why it sometimes picks the color it has gone past...
+Ohh! I stupidly put the color detection in the arrow instead of the little dot that is more precise.",214174,https://cdn2.scratch.mit.edu/get_image/project/236308956_480x360.png,2018-07-13T10:52:06.000Z,2018-07-13T20:52:37.000Z,2018-07-13T11:36:18.000Z,25,6,1,0,0,,
+236310438,Getting Unstuck Day 9,"I had great fun doing this.  I'm still not certain how to get sprites facing the right direction, so I don't know how to make the cat face the way it is gliding . Any help anyone?","Can the mouse get to the cheese or will the cat scare him away?
+Click the green flag to start then use the arrow keys to control the mouse.",3297086,https://cdn2.scratch.mit.edu/get_image/project/236310438_480x360.png,2018-07-13T11:16:48.000Z,2018-07-14T14:06:45.000Z,2018-07-13T11:42:07.000Z,10,5,0,0,0,,
+236310332,Getting Unstuck: Day 9!,"My biggest take-away from this project was to have the sprite rotate but for the costume to not rotate visually. 
+
+I found Scratch has three rotation styles:
+-Full rotation (default)
+-Left/Right
+-No rotation (this is what I selected)
+
+This was helpful to get keep the sprites from ending up upside down or sideways.","Click the green flag. 
+Sprite will change costume depending on what color it touches.
+Click the STOP sign to stop.",17807175,https://cdn2.scratch.mit.edu/get_image/project/236310332_480x360.png,2018-07-13T11:15:02.000Z,2018-07-13T16:13:07.000Z,2018-07-13T11:51:19.000Z,6,3,0,0,0,,
+236308857,Sul prato,Ho realizzato il gioco per Getting Unstuck Day 9: il comportamento dello sprite varia quando vengono toccati determinati colori.,"Clicca sulla bandierina verde e ruota il gattino premendo la barra di spazio. Toccando la striscia celeste in alto, il tuo punteggio aumenta di cinque; toccando quella marrone in basso, diminuisce di cinque. Cerca di ottenere più punti che puoi in trenta secondi.
+
+***** Change the cat's direction by pressing the space bar *****",17698999,https://cdn2.scratch.mit.edu/get_image/project/236308857_480x360.png,2018-07-13T10:50:23.000Z,2018-07-13T12:09:13.000Z,2018-07-13T12:05:35.000Z,13,3,0,0,0,,
+236311314,Shooting Star,I wanted to use the timer but I could not make it stop when the star did.,Press the green flag to start,30508500,https://cdn2.scratch.mit.edu/get_image/project/236311314_480x360.png,2018-07-13T11:33:28.000Z,2018-07-13T12:33:13.000Z,2018-07-13T12:08:07.000Z,17,8,0,0,0,,
+236312588,Getting Unstuck Day9,What's something that went wrong with today's project? A few things like always!! The chameleon doesn't completely disappear because of the different shade of outline but it turned out that was quite an unexpected good thing. When I was reseting the condition of the beetle and chameleon I had to test it a few times as I kept missing something.,Use the right arrow key to sneak up on the beetle. ,17809789,https://cdn2.scratch.mit.edu/get_image/project/236312588_480x360.png,2018-07-13T11:54:28.000Z,2018-07-13T12:20:13.000Z,2018-07-13T12:12:58.000Z,19,7,0,0,0,,
+236313362,Getting Unstuck Day 9,"I have been thinking about line following robots. Seemed like the perfect opportunity to try out very simple rules, eg move forwards; if touching red turn right; if touching blue turn left. Seems to work surprisingly well. I like the idea that Scratch could be used to prototype real world robot algorithms.
+
+I started with Scratch Cat rather than a ball, but extremities would ""catch"" on the colours and lead to twirling and getting stuck.
+
+I'd like to experiment further with different angles and number of steps. Maybe with a timer to see how fast the ball completes the track. This could be automated to determine the best parameters.
+
+More complex tracks would be fun. And maybe a player controller car to race the computer controlled (AI?) ball.","Getting Unstuck Day 9
+
+Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?).
+
+Just run the project and the ball will use simple rules to travel around the uncoloured track.",2314547,https://cdn2.scratch.mit.edu/get_image/project/236313362_480x360.png,2018-07-13T12:07:47.000Z,2018-07-13T12:31:42.000Z,2018-07-13T12:23:58.000Z,8,2,0,0,0,,
+236312399,Getting Unstuck: Day 9,,Use keyboard arrows and bring the yellow ball to the purple square. Do not touch the maze black walls.  ,24340467,https://cdn2.scratch.mit.edu/get_image/project/236312399_480x360.png,2018-07-13T11:51:32.000Z,2018-07-13T13:05:44.000Z,2018-07-13T12:34:11.000Z,12,3,0,0,0,,
+236312804,Anty Business,"I wanted to use the 'touching color' block on a photographed leaf, which caused some initial problems because of the many different shades of green. I improved this a bit by making several 'touching color' blocks sampled from different points on the green leaves, and connecting them with 'and' blocks, but it still doesn't work all the time :)
+
+Also, I don't know why the drum loop stops before the very end of the script... (solved by @MrQuentin)",Just Green Flag,27306974,https://cdn2.scratch.mit.edu/get_image/project/236312804_480x360.png,2018-07-13T11:58:03.000Z,2018-07-14T00:22:08.000Z,2018-07-13T12:42:24.000Z,21,9,0,0,0,,
+231622297,Playing with Color Sensing - A Random Walk,,The cat is taking a random musical walk around the stage and indicating when it senses green by saying green and turning green and when it is touching white by saying while and returning to its natural Scratchcat color.,4615776,https://cdn2.scratch.mit.edu/get_image/project/231622297_480x360.png,2018-06-28T21:19:16.000Z,2018-07-13T14:22:43.000Z,2018-07-13T12:48:06.000Z,5,3,0,0,0,,
+236257547,Day 9 - Meetups Manifesto!,"This was super fun to figure out because I realized it wasn't only sensing, but also a lot of ""if..then..if else"" happening. I had to think about how to isolate ",This project is in process! Press S to start and later use the down key to select a sticky note! (Currently only the dark green of inspiration works) :). More to come!,24267830,https://cdn2.scratch.mit.edu/get_image/project/236257547_480x360.png,2018-07-12T19:14:47.000Z,2018-07-13T12:53:52.000Z,2018-07-13T12:53:52.000Z,17,4,0,0,0,,
+236313758,getting unstucked day9,,click on the green flag and enjoy!,25103547,https://cdn2.scratch.mit.edu/get_image/project/236313758_480x360.png,2018-07-13T12:14:13.000Z,2018-07-13T12:56:27.000Z,2018-07-13T12:56:27.000Z,20,5,0,0,0,,
+236316281,Getting Unstuck: Day 9,Gioco di colori e di sfondi. In realtà il nome dei colori può essere in diverse lingue per utilizzare questo progetto per consolidare le conoscenze linguistiche sui colori.,Clicca la bandierina verde,10086796,https://cdn2.scratch.mit.edu/get_image/project/236316281_480x360.png,2018-07-13T12:50:51.000Z,2018-07-13T13:00:34.000Z,2018-07-13T12:59:25.000Z,9,3,0,0,0,,
+236311214,Day 9,,,24884035,https://cdn2.scratch.mit.edu/get_image/project/236311214_480x360.png,2018-07-13T11:31:59.000Z,2018-07-13T13:01:48.000Z,2018-07-13T13:01:48.000Z,14,4,0,0,0,,
+236311672,Getting Unstuck #9,"I was really stuck with this, so checked out the studio and was inspired by @karenb, @mizzpeters and @jsh's projects. I thought it would be great to get an aural interpretation of an artwork. Like @karenb I struck the problem of too much depth of colour, but I think I picked up enough of them to get the idea.
+
+There's still so much to do to improve this. With more time I'd add the ability to change the instruments of each sprite, and a slider to change the number of beats played. The Speed slider really doesn't change things as much as I'd like.
+
+This is one of my favourite paintings:
+https://cv.vic.gov.au/stories/creative-life/from-watercolours-to-decorative-arts/australian-home-painting-by-howard-arkley/
+",Just press the green flag.,141519,https://cdn2.scratch.mit.edu/get_image/project/236311672_480x360.png,2018-07-13T11:39:16.000Z,2018-07-13T13:05:21.000Z,2018-07-13T13:05:21.000Z,21,8,1,0,0,,
+236314236,Give me a letter ,"E' un semplice gioco da usare a scuola: scelta casuale della lettera iniziale per una parola ( Arriva un bastimento carico di..)
+ This is a simple spin to choose a initial random letter and write a word: I think to use this at school.","Clicca sulla bandierina verde e poi sulla freccia rosa.
+Click on the gree flag, then on the pink line.",11312120,https://cdn2.scratch.mit.edu/get_image/project/236314236_480x360.png,2018-07-13T12:22:18.000Z,2018-07-13T13:08:10.000Z,2018-07-13T13:05:38.000Z,17,8,0,0,0,,
+236314032,hungry mouse,I like the way the mouse creeps!,"Click the green flag to start
+The mouse will follow the mouse - he is hungry and also wants to sleep.
+Can you help him find the fortune cookie and his bed?",33472226,https://cdn2.scratch.mit.edu/get_image/project/236314032_480x360.png,2018-07-13T12:18:50.000Z,2018-07-13T16:50:23.000Z,2018-07-13T13:07:53.000Z,8,3,0,0,0,,
+132152444,Getting Unstuck: Day 9,CodeMOOC 2016. Thanks to prof A. Bogliolo,Hit the letter with the paddle. A point if you take it but you lose points if you touch the bottom edge,19738986,https://cdn2.scratch.mit.edu/get_image/project/132152444_480x360.png,2016-11-22T06:06:13.000Z,2018-07-13T13:10:52.000Z,2016-11-22T06:09:27.000Z,7,1,0,0,0,105543343,105543343
+236314004,Getting Unstuck day 9,"I started with one sprite bouncing around the stage and changing costumes. I duplicated this sprite twice. I did not realize that the conditionals that change their colors would be ""True"" when the sprites are touching each other (duh). Then I decided to add random ""music"" to the touching. I discovered that the notes and the color change/movement had to be in different scripts or else the sprites stopped moving after each step while the note played. The scale is G major in case you were wondering. I need to tinker some more with the speed the sprites are moving to see if the ""music"" could be a little more pleasing to the ear. ",Click the green flag,17767933,https://cdn2.scratch.mit.edu/get_image/project/236314004_480x360.png,2018-07-13T12:18:30.000Z,2018-07-24T11:59:45.000Z,2018-07-13T13:10:02.000Z,16,7,1,0,0,,
+236315688,Day9b,,"Click on the green flag to start.
+I wanted to plant poppies on the land and lilies in the water but I couldn't make it work",34225248,https://cdn2.scratch.mit.edu/get_image/project/236315688_480x360.png,2018-07-13T12:43:50.000Z,2018-07-13T13:22:09.000Z,2018-07-13T13:21:05.000Z,16,4,0,0,0,,
+236245174,Getting Unstuck: Day 9 — Generative Art,"Reflection
+
+I wanted to improve on my Day 7 project in which multiple cloned pens draw sine waves to the screen. Instead of using dumb agents (that's the technical term) I integrated the color touch block so that the pens can respond to their environment.
+
+The idea is simple, randomly pick a place to start a pair of smart agents, randomly choose a direction for the first agent and a user-defined offset (controlled by the slider) for the second, and let them move until they detect black, at which point they stop.
+
+Overall, it works pretty well. However, one issue is the color touching block looks specifically for black. Because of anti-aliasing drawn lines, some of the pixels are dark grey and don't register with the color sensing block. I could complain, but I think the generated compositions look better because of this glitchiness. ",Move the slider and watch as the art emerges.,26264460,https://cdn2.scratch.mit.edu/get_image/project/236245174_480x360.png,2018-07-12T17:05:10.000Z,2018-07-15T14:52:11.000Z,2018-07-13T13:51:02.000Z,28,14,7,0,0,,
+236315040,Colourful Music (Getting Unstuck Day 9),"This is my second Unstuck project. The first one I shared on my main account: @PinkyPepper.
+
+This project is inspired by todays project of  @mizzpeters, which I like a lot : https://scratch.mit.edu/projects/236177857/
+
+I tried to use costum blocks for the musical notes, but that didn't work out. I don't know why. Then I used messages instead and it worked like I wished it would work.
+
+Sounds from Scratch 1.4
+
+Colour palette: @ceebee
+
+","Move the mouse to touch the hearts and the flowers with your magical wand to hear some musical notes.
+
+This project is made for Day 9 of the Getting Unstuck Challenge:
+Create a project that involves the touching colour blocks in the Sensing category.",11833500,https://cdn2.scratch.mit.edu/get_image/project/236315040_480x360.png,2018-07-13T12:35:16.000Z,2018-07-24T19:21:50.000Z,2018-07-13T13:50:20.000Z,21,6,2,0,0,,
+236318902,Unstuck 9 Maze Challenge ,Another quick game. So much fun!,Use the arrow keys to navigate through the maze!,25417130,https://cdn2.scratch.mit.edu/get_image/project/236318902_480x360.png,2018-07-13T13:18:32.000Z,2018-07-14T11:45:37.000Z,2018-07-13T13:57:22.000Z,11,5,0,0,0,,
+236323201, GIOCHIAMO CON L'ARANCIONE  DAY 9,"E' IL REMIX DI UN MIO LAVORO CREATO DURANTE IL MIO PRIMO CORSO DI AGGIORNAMENTO SULL'USO DI SCRATCH
+
+P.S.
+IL CORSO L'HO FATTO NEL MESE DI GIUGNO!!!!","BASTA CLICCARE SULLA BANDIERA PER AVVIARE IL GIOCO.
+ATTENDERE QUALCHE SECONDO EEEEE...
+ POI SI USANO LE FRECCE DIREZIONALI.",34259094,https://cdn2.scratch.mit.edu/get_image/project/236323201_480x360.png,2018-07-13T14:02:28.000Z,2018-07-13T14:06:10.000Z,2018-07-13T14:02:28.000Z,5,1,0,0,0,,
+236324432,Unstuck Day 9 Rushing,"I used vector mode and the reshape tool to create the background shapes.  LOVE that feature.  
+
+Very simple project ... but would be great for little kids to start using the color sensing block.  ",Click the Green Flag to start.  User will use the mouse/trackpad to move the sprite around the page.  When the sprite crosses different colors on the page different notes will sound.  ,7525698,https://cdn2.scratch.mit.edu/get_image/project/236324432_480x360.png,2018-07-13T14:16:03.000Z,2018-07-13T14:32:25.000Z,2018-07-13T14:31:28.000Z,17,9,3,0,0,,
+236323477,Getting Unstuck Day9,Book: Imparare a programma di Boscaini,Color Pong ,13275782,https://cdn2.scratch.mit.edu/get_image/project/236323477_480x360.png,2018-07-13T14:05:25.000Z,2018-07-13T14:32:05.000Z,2018-07-13T14:27:31.000Z,5,0,0,0,0,,
+236321680,food race remix,"Started this project with middle school students yesterday  in a library community outreach program with KidMuseum- hence the remix tag!
+As our skills are growing, we are working through issues with organizing scripts to keep track when there is a lot going on. Being new to this my",Click green flag to start then use arrow keys to move the frog to eat the beetles,34099462,https://cdn2.scratch.mit.edu/get_image/project/236321680_480x360.png,2018-07-13T13:47:13.000Z,2018-07-13T13:50:42.000Z,2018-07-13T13:47:27.000Z,4,2,0,0,0,236135774,236135774
+236321506,Getting Unstucked day9,Immagini https://www.vecteezy.com e https://www.flaticon.com/,"Fai clic sulla bandiera verde
+Click on the green flag",18667079,https://cdn2.scratch.mit.edu/get_image/project/236321506_480x360.png,2018-07-13T13:45:20.000Z,2018-07-13T14:51:26.000Z,2018-07-13T14:44:38.000Z,15,6,0,0,0,,
+236320797,Unstuck 09 Sensing colour,"I always wanted to learn how to create a PacMan game, and a simple maze navigation seemed like a good start. Super happy with what I learned on this challenge. Next time I'd like to learn how to turn the maze walls into a sprite, and also how to have the ghost creatures auto traveling around. 
+","Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). For example, you could have a sprite moving around on a colorful background, with the sprite behaving differently depending on which color it is touching, like in a maze game.",19123745,https://cdn2.scratch.mit.edu/get_image/project/236320797_480x360.png,2018-07-13T13:38:51.000Z,2018-07-13T15:09:49.000Z,2018-07-13T15:06:30.000Z,4,0,0,0,0,125578302,125578302
+236321208,Day 9 - Pre Symphony,"Sounds like symphony warming up. There must exist some algorithm to make it sound less discordant but my scope... Would also be fun to make the color light up when it is strikes but then each color would need to be a sprite. Additionally, there seems to be a timing factor in that the sprite has to sense the color at a certain pace for it to register. In any event, again, had a blast doing it and the sidetrack investigations were as compelling as the challenge. This is great! Though time is a factor, I definitely plan to stick it out.
+
+Day 9 - Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). For example, you could have a sprite moving around on a colorful background, with the sprite behaving differently depending on which color it is touching, like in a maze game.",Click Flag,109272,https://cdn2.scratch.mit.edu/get_image/project/236321208_480x360.png,2018-07-13T13:42:45.000Z,2018-07-25T01:17:17.000Z,2018-07-13T15:02:15.000Z,14,3,0,0,0,,
+236250546,Music Bending Machine,"I've had to recreate this in Scratch 1.4 in order for my PicoBoard to work - but I know some people have success using later editions of Scratch, including web based Scratch, with Pico.   When Pico is connected, I like to replace the slider with a pressure sensor.
+
+Problems I'm stuck on: I can't actually bend a note until the beat is complete, and then I can change the note before it repeats. I've settled on a beat of .15.  Does anyone know how to play a sustained note but bend the note while it is being played using a slider?","Use with both MakeyMakey and a PicoBoard. Connect 5 spoons to Makey Makey's four arrows plus space bar. The program should allow one to bend notes using the sliding potentiometer. A note will be true if the potentiometer is set at 50.
+
+Currently this is configured to play without the slider, and you can use your keyboard arrows and space bar. (There's a duplicate sprite that has the Pico blocks removed). Be sure to hit the green flag first.
+
+The suggested starting sequence is up arrow, right arrow, left arrow, down arrow, space bar.",33815227,https://cdn2.scratch.mit.edu/get_image/project/236250546_480x360.png,2018-07-12T18:00:13.000Z,2018-07-13T17:11:04.000Z,2018-07-13T17:11:04.000Z,15,1,0,0,0,,
+236313088,Getting Unstuck: Day 9,"Credits
+Images: https://www.flaticon.com
+
+","Fare clic sulla bandiera verde.
+Click the green flag.",19789360,https://cdn2.scratch.mit.edu/get_image/project/236313088_480x360.png,2018-07-13T12:02:37.000Z,2018-07-15T23:36:51.000Z,2018-07-13T15:32:52.000Z,27,8,3,0,0,,
+236327931,Day 9 Getting Unstuck Color Interactions,"My idea was to make an homage to Josef Albers and allow the user to change the colors noting that different colors would make the sizes of the boxes appear different but it's not working. :(
+
+Everything appears to be on different layers so the shapes are going in front or behind each other so the sensing blocks are not working. You can see I got frustrated and tried a broadcast solution. I wanted to get unstuck myself before sharing.. but....","drag the black ball around to change the colors but it's not working :(
+
+I'm stuck!
+I'm stuck about why the shapes are not on the same layer and thus unable to affect each other.
+AND
+I'm stuck about why I am unable to make a square without a border or with a transparent border.",124064,https://cdn2.scratch.mit.edu/get_image/project/236327931_480x360.png,2018-07-13T14:58:29.000Z,2018-07-14T14:33:38.000Z,2018-07-13T15:32:11.000Z,16,0,0,0,0,,
+113498666,Q-game,"Thank you, Alexey Garbuzenko for the idea of this project
+Scratch On!","Q-Game puzzle was first released on mobile phones and then ported to lot of platforms. Game is simple but challenging set of puzzles. Move your billiard balls to pockets with corresponding color.
+Use mouse for select/unselect ball, arrow keys for move ball.
+Up-left corner - restart button
+Down-left corner - custom level
+Use fullscreen mode!
+Enjoy!",139209,https://cdn2.scratch.mit.edu/get_image/project/113498666_480x360.png,2016-06-12T13:37:59.000Z,2018-07-13T15:41:25.000Z,2016-06-12T13:44:12.000Z,33,4,1,0,0,,
+236313434,Hungry Beetle,"Getting Unstuck day-9
+by Massimo Marletta
+","Help the Beetle to eat the apple, avoiding the poisoned lines which appear and disappear randomly.
+Use arrow keys to move.",4804940,https://cdn2.scratch.mit.edu/get_image/project/236313434_480x360.png,2018-07-13T12:08:58.000Z,2018-07-13T15:48:17.000Z,2018-07-13T15:43:26.000Z,8,1,0,0,0,,
+236321672,Getting Unstuck Challenge 9 - Paint,"Thinking about using touching color I thought of a drawing game. I structured a few things unlike how I usually would because I don't use the touching color much but it was fun experience.
+
+Pretty fun making a single mouse press design and then hitting z to watch it go away on its own
+
+The undo block works pretty well too. I was going to make it without screen refresh but I enjoy watching it backtrack over the last mouse down moves. ","In game. 
+Quick reference under the info button.
+mouse down to draw
+up/down arrows to change colors
+left/right to change size
+press z and watch, it will undo your moves(sometimes takes 2 taps). 
+
+(I have to add the pen size, so this undo is assuming that the pen sized isn't changed prior to pressing z. )",3158946,https://cdn2.scratch.mit.edu/get_image/project/236321672_480x360.png,2018-07-13T13:47:09.000Z,2018-07-14T03:15:55.000Z,2018-07-13T15:45:14.000Z,10,3,0,0,0,,
+236323768,day 9,,"press green flag, then use arrow keys to move, be careful about lava !",34188789,https://cdn2.scratch.mit.edu/get_image/project/236323768_480x360.png,2018-07-13T14:08:50.000Z,2018-07-13T16:03:56.000Z,2018-07-13T16:00:52.000Z,2,0,0,0,0,,
+236331627,Bouncing Watermelon -- Unstuck Challenge 9,"Though this isn't a very elaborate project, it was good practice in seeing how to make sprites respond to elements on the page.  If I were going to work on this more, I'd want to add more interactivity with the user.  My original idea was to have a ""Plinko"" style game in which dropping the watermelon produced random results.  I decided that project would take too much time at this point, so I scaled down my original plan just to test out the features.  Perhaps with more time, I'll be able to return to my original idea.","Drag the watermelon anywhere on the page and watch what happens.
+
+",11608238,https://cdn2.scratch.mit.edu/get_image/project/236331627_480x360.png,2018-07-13T15:41:44.000Z,2018-07-13T16:12:55.000Z,2018-07-13T16:09:13.000Z,6,0,0,0,0,,
+236324009,Day 9,"music - Edvard Grieg's Morning Mood from Peer Gynt via www.yourclassical.org
+
+I really struggled with this and never got it to do what I wanted. The second I read the challenge I knew I wanted to make a chameleon. I can't draw well enough for that, so switched to a butterfly.
+I fought with the color changing for almost an hour and a half! I WANT to be able to create a variable that senses color and then changes the sprite to match that color. I could not figure out how to do that. I tried to create a block that would recognize color, but no. I then fell back on ""if touching color x"" ""set color to x"". Looking up all the color values. That doesn't work - FYI - I still don't really know why.
+I then simplified my background to only 4 (sorry about how lurid) colors and learned that the value you set in color is altered by the color at which your sprite starts! When it was white, the color change was so infinitesimal I couldn't really see it! Okay, turned it to a nice vibrant purple and then one color at a time experimented with numbers until they shifted to a reasonable approximation of the desired color.
+Thanks to MrQuentin for bearing with the increasingly unhinged ranting that accompanied today's project and figuring out that part about the original color of the sprite affecting the color changes! 
+I wonder if the previous iterations would work now that the sprite is purple, but will have to test that later.",Click the green flag!,18341966,https://cdn2.scratch.mit.edu/get_image/project/236324009_480x360.png,2018-07-13T14:11:21.000Z,2018-07-14T01:07:09.000Z,2018-07-13T16:19:43.000Z,13,8,1,0,0,,
+236323175,Mouse Maze,"I have also taught the basics of the ball interaction with the maze background to second grade students. They have created additional background mazes, but all their mazes start in the same x and y position. I removed the list of x and y coords to move the ball to different starting points for them.","This game is designed for Kindergarten students to practice controlling the mouse. Click the green flag to begin, grab the purple circle with the mouse, and move it to the yellow finish line to get to the next maze. If you touch the red, you go back to start.
+
+For the Getting Unstuck challenge, I have started adding additional obstacles and challenges to some of the mazes. Maze two has a narrow passageway, maze three has a disappearing/reappearing path, and maze six has a red wall sliding back and forth across the path. Any other ideas for obstacles? Please let me know.",14632339,https://cdn2.scratch.mit.edu/get_image/project/236323175_480x360.png,2018-07-13T14:02:02.000Z,2018-07-13T23:00:32.000Z,2018-07-13T16:22:24.000Z,4,1,2,0,0,76311920,76311920
+236325897,Getting Unstuck - Day 9,"The hardest part of this project was choosing the sprites.  Realistic flowers made id difficult to use the ""touching color"" because of the shaded portions.  It was easier to use clipart with solid colors. The timing for the introduction was also tricky so that the reader can get through the introduction before the game begins.  I could have used broadcast events to time it easier, but choose wait blocks instead.","Getting Unstuck Day 9 - Create a project that involves the touching color blocks in the Sensing category
+
+Use the arrow keys to fly the hummingbird to collect nectar from his preferred flowers.  Stay with a flower as long as possible to rack up the points.",14400846,https://cdn2.scratch.mit.edu/get_image/project/236325897_480x360.png,2018-07-13T14:34:07.000Z,2018-07-13T16:44:57.000Z,2018-07-13T16:26:00.000Z,13,6,1,0,0,,
+236331067,Getting Unstuck: Day 9. Color matching.,,"Press the green flag to start play.
+Look what appens every time the ball touchs differentes bars coloured and how the score change: if the ball touchs the yellow bar score change by 1, if the ball touchs the red bar score change by 2, if the ball touchs the green bar score change by 3, if the ball touchs the blue bar score change by 4.
+If you want the count restart from 0 click the space bar.",18190669,https://cdn2.scratch.mit.edu/get_image/project/236331067_480x360.png,2018-07-13T15:34:38.000Z,2018-07-13T18:31:31.000Z,2018-07-13T16:27:05.000Z,16,3,0,0,0,,
+236310323,"Color Reader! (Getting Unstuck, Day 9) remix",Sono solo in grado di remixare....... grazie a Karen! ;),"Clicca sulla bandierina verde e segui le istruzioni. Ciao!
+",17600576,https://cdn2.scratch.mit.edu/get_image/project/236310323_480x360.png,2018-07-13T11:14:51.000Z,2018-07-13T16:55:23.000Z,2018-07-13T16:53:51.000Z,7,2,0,0,0,236179878,236179878
+236337657,Unstuck_9,,"Click on the flag to start the classic Pong.  Use your green paddle to keep the ball AWAY from the red edge.  If you do, beware!!
+",9694576,https://cdn2.scratch.mit.edu/get_image/project/236337657_480x360.png,2018-07-13T16:56:41.000Z,2018-07-13T17:00:18.000Z,2018-07-13T16:59:20.000Z,2,1,0,0,0,,
+236334056,#009 Getting Unstuck 9 - Sensing Color,,"When the plane touches the gray in the cloud, it makes a sound.  When it touches the building, a clone is made and placed next to the first building and the costume changes...",20126730,https://cdn2.scratch.mit.edu/get_image/project/236334056_480x360.png,2018-07-13T16:11:00.000Z,2018-07-19T18:02:00.000Z,2018-07-13T16:26:57.000Z,5,0,0,0,0,,
+236337147,Infection v2,"I chose to revist my project from the randomness day, which already used `touching color`. Adding both a third state (immune) and a ""healing"" zone increased the complexity of tracking states slightly and also forced me to think more critically about when I should be ""infecting"" - previously infected dots were trying to infect each other which caused unecessary slowdowns. I'm also playing around with the graphic effects a bit, which I've never toyed with much.",,1092342,https://cdn2.scratch.mit.edu/get_image/project/236337147_480x360.png,2018-07-13T16:50:29.000Z,2018-07-14T01:53:44.000Z,2018-07-13T17:02:56.000Z,6,3,0,0,0,,
+236336856,Unstuck Day 9,This was fun!,Click he green flag to see what happens to the frog as it wonders nears a stream.,11885888,https://cdn2.scratch.mit.edu/get_image/project/236336856_480x360.png,2018-07-13T16:47:27.000Z,2018-07-13T17:15:39.000Z,2018-07-13T17:03:09.000Z,6,1,0,0,0,,
+236338229,Donut Collector Take 2 - GettingUnstuck#9,"GettingUnstuck#9 - ""Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?)""
+
+This is a bit of a cheat as it is a copy of yesterday's mini game with ""if touching sprite"" replaced with ""if touching color"". 
+
+I tried a different idea with a character moving and saying something when standing in a blue ""puddle"" or brown ""mud"". But I hit issue with ""touching color"" being true over and over and over and I couldn't think of a good way to move the sprite away from the colour fully.  I successfully got the sprite to bounce back the latest movement if it had just touched the colour. But then I realised that if I turned the sprite and more than a tiny part of it's body was in the colour then it got stuck!
+
+Hopefully other people's project will give me hints to get around this.",Move the cat using the arrow keys. Collect all 10 donuts to complete the game.,15872912,https://cdn2.scratch.mit.edu/get_image/project/236338229_480x360.png,2018-07-13T17:03:52.000Z,2018-07-13T17:18:28.000Z,2018-07-13T17:15:54.000Z,3,0,0,0,0,,
+236318282,Day 9 - Getting Unstuck,,,26079479,https://cdn2.scratch.mit.edu/get_image/project/236318282_480x360.png,2018-07-13T13:12:39.000Z,2018-07-24T22:20:50.000Z,2018-07-13T17:41:53.000Z,7,1,0,0,0,,
+236339412,GU_Day9_sidetracked,"I was curious about the relationship between complementary colors. After reading an article, I learned they are opposite each other on the color wheel. I started playing with the idea of find complementary colors in clothes. This was fun to make. However, it does not follow the intent of Day 9. After I share this, it's back to work!","Click on the green flag, then choose what color blouse you would like. The project will choose a complementary colored skirt to wear with it. ",24741621,https://cdn2.scratch.mit.edu/get_image/project/236339412_480x360.png,2018-07-13T17:18:32.000Z,2018-07-13T17:50:10.000Z,2018-07-13T17:50:10.000Z,3,1,0,0,0,,
+197337809,Help TacoCat (Unstuck 9),"This is a remixed tribute my maker educator friend, Mark Barnett.  He shared the orignal version few years ago at conference. Project 9 was a great opportunity to revisit it an make some tweaks to the original.
+
+The dog animation took me more time than expected to figure out, specifically, how to go back and forth how I envisioned. The Scratch Ed blog had some great user created examples which really helped.","Press the flag to being. Help Cat find Taco by navigating through the maze with the arrow keys. Watch out for the walls and especially for the dog.
+
+(This is meant to be combined with a Makey Makey and custom controller.)",27690149,https://cdn2.scratch.mit.edu/get_image/project/197337809_480x360.png,2018-01-11T16:54:52.000Z,2018-07-13T18:23:36.000Z,2018-07-13T17:49:01.000Z,3,1,0,0,0,,
+236341517,Getting Unstuck #9,,"As you move the mouse pointer, the Scratch Cat will say he loves that color. This simple demo could be modified and used for learning colors.",10296314,https://cdn2.scratch.mit.edu/get_image/project/236341517_480x360.png,2018-07-13T17:45:48.000Z,2018-07-13T17:54:22.000Z,2018-07-13T17:53:23.000Z,13,3,0,0,0,,
+236340127,Getting Unstuck 9,"My goal is to try something new on each of these challenges, and this time it was downloading and animating sprites. 
+
+I didn't really get stuck on anything that's here, although I did also try to add an axe sprite that the woodsman could throw. I couldn't figure out how to make it go toward the clones of the monster instead of the original (hidden) monster, so I ended up scrapping that idea.
+
+Woodsman & Monsters sprites by Warlock's Gauntlet team on OpenGameArt.org
+Music is Spooky Theme by Mystified from the Free Music Archive","Click the green flag to start then use your mouse to navigate the woodsman through the cave. Don't touch the cave walls, and avoid the monsters!",18044195,https://cdn2.scratch.mit.edu/get_image/project/236340127_480x360.png,2018-07-13T17:27:52.000Z,2018-07-24T00:02:55.000Z,2018-07-13T18:10:11.000Z,5,1,0,0,0,,
+236339380,Getting Unstuck - Day 9 (color touch),"I remixed my day 5 project (the jumping sprite) to work on figuring out how to get the penguin to jump on and walk off the rainbow with ""gravity"". 
+
+I got a little overly ambitious and tried to throw in a scrolling background as well... it worked for a bit, but now is stuck! I'd love any suggestions or pointers to tutorials :)","Click the right arrow to go forward, the left arrow to go backwards, and the up arrow to jump — try jumping on the rainbow!",2752403,https://cdn2.scratch.mit.edu/get_image/project/236339380_480x360.png,2018-07-13T17:18:07.000Z,2018-07-13T20:47:22.000Z,2018-07-13T18:14:51.000Z,7,1,0,0,0,,
+236342047,GU_Day9,"As I played with my project, I realized that I could use similes in the speech bubbles. (Students could be challenged to use different literary devices in their projects.) If I had more time, I would tinker with having the speech bubble disappear if the ballerina moves off from the color.","The world is a stage! (I have been enjoying sharing with other Scratchers from 6 continents!)
+Click on the green flag. Use the arrow keys to move the ballerina. When she touches the colored block, she shares a simile.",24741621,https://cdn2.scratch.mit.edu/get_image/project/236342047_480x360.png,2018-07-13T17:52:40.000Z,2018-07-13T18:35:32.000Z,2018-07-13T18:31:34.000Z,3,1,0,0,0,,
+236345240,Molecular Generator,"Getting Unstuck: Day 9
+
+sometimes atom failed to make a bond and turned endlessy. To solve this issue I have added the possibility to move again that atom somewhere, just pressing space while it's turning
+","35 atoms for creating a molecular structure in chaotic way. Every time a bond is created, you will listen a ""pop""
+If an atom cannot make a bond and continues to turn endlessly, you can press the SPACE Key to make it move towards other atoms.",2143382,https://cdn2.scratch.mit.edu/get_image/project/236345240_480x360.png,2018-07-13T18:33:00.000Z,2018-07-14T06:18:41.000Z,2018-07-13T18:41:26.000Z,13,4,0,0,0,,
+236346907,Getting Unstuck Day 9,,Move the control with the keyboard left and right arrows to capture the balls at the correct side combining the colors. ,32626504,https://cdn2.scratch.mit.edu/get_image/project/236346907_480x360.png,2018-07-13T18:55:16.000Z,2018-07-13T19:00:39.000Z,2018-07-13T18:59:16.000Z,9,4,0,0,0,,
+236315487,Challenge20 - Platformer,"Disclaimer: this is an engine for a touching color game. I only have 2 levels drawn as examples. Wanted to create something extra using touching color and this came to mind. (Have to add x collision, whenI get back I will)
+
+Had a few minutes and had always wanted to create a game where the user gets to play it how they want. I didn't have time for the whole game so I thought I'd create an engine with all condtions ready to go.
+
+Red resets, yellow next level, too low on stage resets","Redoing this from a few projects ago. Thought I'd see it through, add a few levels and few extra effects. Will add more levels when I have time. 
+
+Draw bridges, platforms, whatever to get Scratch to the yellow. 
+
+Arrow Keys left/right/up
+
+You get 50 line points to draw platforms to get your cat to yellow
+
+Space resets the level
+Z to undo your last line",3158946,https://cdn2.scratch.mit.edu/get_image/project/236315487_480x360.png,2018-07-13T12:41:23.000Z,2018-07-24T14:52:37.000Z,2018-07-13T19:18:11.000Z,13,2,1,0,0,,
+236341133,Magic colour ball,"The main idea came from an interesting game developer studio called BinaryZoo. They made one of the best Asteroids clones ever, Echoes, which I tried to remake in Scratch (check my project Asteroidx) but the inspiration for this mini-game is Mono. In Mono you have to shoot at coloured blobs that leave a trail after they explode. The trail influences other blobs hovering upon them, like speeding up, making them spin towards you or shooting.","Our hero has a magic ball that is influenced by colours! Red makes it spin anticlockwise while blue turns it clockwise.
+
+First you have to paint the background. Aim the brush with the mouse and click to leave a spot. 1 & 2 change from red to blue. After you made the course, press space and the Cat will throw the ball in front of it!",12148328,https://cdn2.scratch.mit.edu/get_image/project/236341133_480x360.png,2018-07-13T17:40:37.000Z,2018-07-13T19:26:20.000Z,2018-07-13T19:23:44.000Z,8,1,0,0,0,,
+236316738,COLORI IN MOVIMENTO -G.U. Day 9,"Ho modificato  un video le istruzioni di un video pubblicato da Andrea Ferraresso  sulla pagina F.B. ""Codong anche tu"".
+","Clicca sulla bandierina.
+I blocchi colore non funzionano come dovrebbero.
+Gli effetti sono minimi .",13746945,https://cdn2.scratch.mit.edu/get_image/project/236316738_480x360.png,2018-07-13T12:56:20.000Z,2018-07-13T21:57:42.000Z,2018-07-13T19:36:04.000Z,10,1,0,0,0,,
+236348935,day 09,,"Click on a green flag for start. Ginger cat is ""attached"" to the mouse. Move the cat to his friend Red cat. He'll say Hello. Move the cat to water (be sure to have sound on) .. ",771142,https://cdn2.scratch.mit.edu/get_image/project/236348935_480x360.png,2018-07-13T19:26:40.000Z,2018-07-13T19:50:13.000Z,2018-07-13T19:39:46.000Z,2,0,0,0,0,,
+236351520,Getting Unstuck Day 9 - touching color,,Playing around with variables and color change block.,11634746,https://cdn2.scratch.mit.edu/get_image/project/236351520_480x360.png,2018-07-13T20:08:10.000Z,2018-07-13T20:25:21.000Z,2018-07-13T20:24:56.000Z,3,1,0,0,0,,
+236329676,Getting Unstuck Day 9,I'm not certain if it was because my browser kept freezing today but I tried a few different combinations of changes and the sprite would get stuck on the first one.  The forever block also caused issues in that respect and I had to tweak that.,"Press Green Flag to Begin
+Press Space Bar to Clear
+
+If Scratch touches the black background the sprite color will change by 10.
+If Scratch touches the red circle pixilation will change by 1.
+If Scratch touches the orange circle sprite will switch costumes.
+If Scratch touches blue circle sprite will make meow sound.
+
+
+",34190765,https://cdn2.scratch.mit.edu/get_image/project/236329676_480x360.png,2018-07-13T15:17:52.000Z,2018-07-13T20:37:58.000Z,2018-07-13T20:32:08.000Z,11,1,0,0,0,,
+236338683,9 GIORNO,,"OGGI MI SONO PROPRIO DIVERTITA !
+BASTA PREMERE LA BANDIERINA VERDE",28304428,https://cdn2.scratch.mit.edu/get_image/project/236338683_480x360.png,2018-07-13T17:09:17.000Z,2018-07-13T20:36:13.000Z,2018-07-13T20:35:13.000Z,4,2,1,0,0,,
+236354561,unstuck9,with the > you move the dragon to abby. When her shirt is red everything is okay or else she gets red.,The dragon and the girl. Will the girl end up all red or will she be welcome at the castle?,1072279,https://cdn2.scratch.mit.edu/get_image/project/236354561_480x360.png,2018-07-13T20:56:55.000Z,2018-07-14T07:52:45.000Z,2018-07-13T20:58:17.000Z,4,0,0,0,0,,
+236351993,Getting Unstuck #9: touching color blocks in the Sensing category,"Scratch project was created as activity #9 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+
+Day #9 Challenge: Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). For example, you could have a sprite moving around on a colorful background, with the sprite behaving differently depending on which color it is touching, like in a maze game. ",Press the green flag!,1202362,https://cdn2.scratch.mit.edu/get_image/project/236351993_480x360.png,2018-07-13T20:14:23.000Z,2018-07-14T07:42:26.000Z,2018-07-13T21:02:04.000Z,9,2,1,0,0,,
+236354402,Fresh Test Day #9 Getting Unstuck,"What's something that went wrong with today's project? Well, the bananas do not move with the mouse like I wanted.",Press the green arrow and move the bananas around to find the freshest spot.,28676433,https://cdn2.scratch.mit.edu/get_image/project/236354402_480x360.png,2018-07-13T20:54:19.000Z,2018-07-13T21:11:11.000Z,2018-07-13T21:05:12.000Z,3,0,0,0,0,,
+236314243,Octopus Dreams,"Credit: Soundbible.com for the bubble sound.
+Notes: my own underwater photo.
+
+Reflection:  Yesterday's unfinished ""use a variable to count"" project didn't go anywhere and so today it became a ""use the color sensing blocks"". 
+
+I wanted to change the perspective and have the background move with the arrow keys instead of the Sprite. like this project: https://scratch.mit.edu/projects/106716589/
+
+I used the Scratch wiki on color settings to help me get unstuck.
+
+","Getting Unstuck #9
+
+Use the arrow keys to help the octopus escape his bad dream.",399245,https://cdn2.scratch.mit.edu/get_image/project/236314243_480x360.png,2018-07-13T12:22:30.000Z,2018-07-13T21:49:32.000Z,2018-07-13T21:49:32.000Z,2,1,0,0,0,,
+236346574,Stuck in the mud,,"Just a bit of fun. I'm sure there's a game in here somewhere. 
+
+Drive the cat with the arrow keys. Get in the mud...
+
+Nevertheless, using colour to impact a player sprite is gaming 101. Slow a racing car down, create a portal, whatever...",7393328,https://cdn2.scratch.mit.edu/get_image/project/236346574_480x360.png,2018-07-13T18:50:10.000Z,2018-07-13T19:47:07.000Z,2018-07-13T19:41:07.000Z,2,0,0,0,0,,
+236339748,Getting Unstuck Day 9,I was inspired by a game I played when I was a child: simon.,"Click the ""push"" botton to start.
+A sequence of four colours (and notes) will appear and, at the end, you should replicate such sequence by clicking the right colours in the correct order.",14159575,https://cdn2.scratch.mit.edu/get_image/project/236339748_480x360.png,2018-07-13T17:22:50.000Z,2018-07-13T17:28:41.000Z,2018-07-13T17:24:17.000Z,12,4,1,0,0,,
+236312115,Unstuck Day 9 - Colorful Fish,"The challenge was figuring out what move blocks worked best to insure the fish traveled through the 5 different colors. When I tried using the random block with the glide block, he didn't always change color. I'm assuming it's because the proper part of his body didn't touch the color. ",Press the flag to see the little fish swim through the colorful ocean waters. He will change based on the colorful of the water. There's a little surprise when he bumps into a starfish.,10715270,https://cdn2.scratch.mit.edu/get_image/project/236312115_480x360.png,2018-07-13T11:46:44.000Z,2018-07-25T13:05:18.000Z,2018-07-13T22:13:36.000Z,8,2,0,0,0,,
+236308594,Getting Unstuck Day 9: Germ Free?,"I know it's too much :)  
+I wanted to try to make a Pac-man style game that modelled the immune system.  LOL.  
+When part of a loop is moved and there is too many code, instructions got mixed up. (Next time, I will make numbered copies of draft versions.)
+I do like the paths I created for sprites to follow. Put ""guide"" sprites along white path and told sprites to move from one to another, then hid them. Used ""random"" to vary routes. They worked nicely until I moved parts of the code.  
+Wanted ""Smiling Sprites"" to turn to a frown when touching ""Grumpy Spites"".  Wanted ""Grumpy Sprites"" to change colour when they touched the ""Grinning Blue Sprites"".  Wanted to clone the moving sprites, but just had them create stamps along the path, which is somewhat entertaining. (Might have wanted too much.)
+Technically, one or two ""Grumpy Sprites"" changed colour, so the objective of the challenge was reached (?)
+Stay tuned for a simple project tomorrow :)","Create a project that involves the touching color blocks in the Sensing category.
+Watch sprites sort-of chase each other along the path. Press green flag to start.
+",18337230,https://cdn2.scratch.mit.edu/get_image/project/236308594_480x360.png,2018-07-13T10:46:24.000Z,2018-07-14T19:19:21.000Z,2018-07-13T21:56:45.000Z,4,1,0,0,0,,
+236217360,Getting Unstuck: Day 8&9,"I followed the tutorial here: https://inventwithscratch.com/mazegame/
+
+Note: When encountering a wall while moving right, the cat jumped back really far. I didn't notice that I had grabbed the ""set x tp ..."" blcok instead of the ""changge x by ..."" block.","1) Click the green flag at the top.
+2) Use the arrows on the keyboard to move the mouse through the maze.",14143361,https://cdn2.scratch.mit.edu/get_image/project/236217360_480x360.png,2018-07-12T12:44:17.000Z,2018-07-13T22:49:27.000Z,2018-07-13T22:46:53.000Z,9,4,0,0,0,,
+236313319,Pokemon evolution,"Getting Unstuck Day 9: Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and the color is touching?).
+Two years ago I was in Boston with my friend Sandy for Scratch Conference and we were catching Pokemon. :)
+She took this picture of the Pokemon what inspired me to make this project using color sense.
+
+Harp sound from Karen's project. 
+
+https://www.spriters-resource.com/custom_edited/pokemoncustoms/","Click on the green flag to start and then follow the instructions to see the Pokemon evolution!
+",2176961,https://cdn2.scratch.mit.edu/get_image/project/236313319_480x360.png,2018-07-13T12:07:07.000Z,2018-07-14T00:18:22.000Z,2018-07-13T23:29:54.000Z,13,4,1,0,0,,
+236361041,Space Pinball ,"I've created a very a simple pinball game.
+Today I've found really difficult how to bounce the ball in a more realistic way by using variables. 
+Unfortunately, I've couldn't implemented it yet, so I've decided to improve it later on.
+Any suggestions or comments are welcomed.
+","Press the green flag.
+Press Space button to start the game.
+Press the left arrow key to use one flipper and the right key to use another.
+Try to get as many points as possible.
+Enjoy it!!
+
+                    ---Getting Unstuck day 9---:
+Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?)",4413079,https://cdn2.scratch.mit.edu/get_image/project/236361041_480x360.png,2018-07-13T23:05:12.000Z,2018-07-19T19:26:51.000Z,2018-07-13T23:52:42.000Z,5,2,0,0,0,,
+236355941,Bouncing Ball Unstuck #9,"I started with a Pong game idea, but wanted to do something different. Instead of a game, the ball just bounces randomly hitting notes. At some point I might try to make the ball hit notes in order so that it plays a specific tune.",Click the green flag and watch the bouncing ball play notes.,124311,https://cdn2.scratch.mit.edu/get_image/project/236355941_480x360.png,2018-07-13T21:21:04.000Z,2018-07-14T14:59:01.000Z,2018-07-13T23:53:31.000Z,16,4,0,0,0,,
+236345651,Getting Unstuck: Day 9,"When I saw the sensing colour challenge I could only think of a painting to continue my Mexican context. ""Self Portrait with
+Necklace of Thorns"" by Frida Kahlo in 1940. This painting remembers sadness and very deep meanings you can read at:
+http://www.fridakahlofans.com/c0350.html
+
+Sprites obtained from different sources. Dragonfly: PngImg.com, Monkey: chilango.com, hummingbird obtained from video: https://www.youtube.com/watch?v=FPRswRWZ23Q&t=166s
+butterflies: canariwiki.
+
+Music: 
+Self-portrait With Hair Down - Elliot Goldenthal",Getting Unstuck Day 9. ,32493591,https://cdn2.scratch.mit.edu/get_image/project/236345651_480x360.png,2018-07-13T18:38:09.000Z,2018-07-14T01:24:54.000Z,2018-07-14T00:16:50.000Z,14,8,0,0,0,,
+236364438,Challenge9Sensing,,"This is a chemistry element/symbol quiz. The butterfly moves about randomly until it hits one of the elements (using the sensing color, as required in the challenge), then it asks what the name of the element that goes with the symbol. ",2190314,https://cdn2.scratch.mit.edu/get_image/project/236364438_480x360.png,2018-07-14T00:18:59.000Z,2018-07-14T10:13:06.000Z,2018-07-14T00:19:58.000Z,22,5,1,0,0,,
+236349276,Getting Unstuck Day 20,"My idea was to have the bear go across different colors which would then change the costume, but I can't seem to get it to work quite right. I attempted it with a number of different backdrops to see if I needed more of a color block, but I think I will have to do a bit more research to get it how I would like.
+
+Edit: This is a rework of the Day 9 for Getting Unstuck Day 20's challenge. Thanks to alirb for the comment and suggestions.","Challenge: Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). For example, you could have a sprite moving around on a colorful background, with the sprite behaving differently depending on which color it is touching, like in a maze game.",34245752,https://cdn2.scratch.mit.edu/get_image/project/236349276_480x360.png,2018-07-13T19:32:00.000Z,2018-07-26T01:00:54.000Z,2018-07-14T00:38:59.000Z,6,1,0,0,0,,
+236362701,Getting Unstuck Challenge 9,"I wanted to create something to use in the class, that was not a game type activity.
+What started off as a simple naming of  the States and Territories then led me to adding additional information/images about the States and Territories.
+Apologies to ACT which was too small to link - will have to work on this!
+Can see this progressing to emblems, flags, etc.
+I think I could have probably used different code to link the broadcasting without duplicating seven individual codes perhaps with a if then block.
+Had to be careful when sprite is touching two colours again more time to be spent on recoding.","Click the green flag.
+Use the arrow keys to place the koala on a colour.
+Once on a colour ( not overlapping two colours!) press the space bar.
+Enjoy learning about Australia.",13484475,https://cdn2.scratch.mit.edu/get_image/project/236362701_480x360.png,2018-07-13T23:40:52.000Z,2018-07-14T01:15:53.000Z,2018-07-14T00:50:47.000Z,8,4,1,0,0,,
+236363129,Synesthesia: Getting Unstuck Day 9 Touching Colour,"So, still not sure why I can't get my notes to synchronise. Even a single clone that plays a note sounds like 5 or 10 notes played not-quite-simultaneously.
+Still not clear on how Scratch treats notes. Does the script stop while the note plays and then continue after or does the command to play the note go out and the script continue in parallel to the note playing?
+>:-\",Press the Green Flag. There are two different patterns (that alternate each time you restart the project) of music to be played,3485356,https://cdn2.scratch.mit.edu/get_image/project/236363129_480x360.png,2018-07-13T23:50:13.000Z,2018-07-16T23:52:53.000Z,2018-07-14T01:05:48.000Z,12,1,0,0,0,,
+236332689,Day9  Color Switch ,"Day 9: Create a project that involves the touching color blocks in the Sensing category 
+
+When I started this project, I thought this would be a quick and easy project, but that was not the case.  It is working but only a very basic version.  I plan to come back to this project again to add better graphics, sounds and more levels. 
+","This is based on the Color Switch Game.  Attempting to build a very basic version of it.
+Click green flag to start
+Press the space bar to make the dot move.  The dot much touches the star but can only go through the matching color.  
+
+Still working on this project.  But I wanted to share anyway.  Some parts are working but not all yet.   ",1294980,https://cdn2.scratch.mit.edu/get_image/project/236332689_480x360.png,2018-07-13T15:54:24.000Z,2018-07-14T17:58:30.000Z,2018-07-14T01:54:18.000Z,14,4,0,0,0,,
+236367966,Getting Unstuck Day 9 WIP,"work in progress
+getting unstuck day 9
+
+here to join: https://gettingunstuck.gse.harvard.edu/",Use arrow keys,28402186,https://cdn2.scratch.mit.edu/get_image/project/236367966_480x360.png,2018-07-14T01:27:56.000Z,2018-07-14T01:49:38.000Z,2018-07-14T01:48:32.000Z,12,0,0,0,0,,
+236366558,Unstuck Day 9: Cat Chase,"This is a basic remix of the game Cheese Chase by John Woodcock from the book Coding Games in Scratch. The first time I made Cheese Chase, it was so difficult!  This time, things went much more smoothly, although there are still things to work on!","Click on the green flag to begin. You will be using the arrow keys to try and navigate the dog to catch the cat.  If the dog touches the blue wall, it will stop.  Every time you touch the cat, you will score 10 points. Be careful of the ghost, though!  It will randomly pop up.  If it touches the dog, the game is over.  Have fun!",34190490,https://cdn2.scratch.mit.edu/get_image/project/236366558_480x360.png,2018-07-14T01:01:58.000Z,2018-07-14T02:06:12.000Z,2018-07-14T02:06:11.000Z,6,1,0,0,0,,
+236366157,Camouflaged Soccer Ball,"Getting Unstuck Day 9: Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). ",Click the Green Flag to start. Watch the ball bouncing around and changing colors.,25332755,https://cdn2.scratch.mit.edu/get_image/project/236366157_480x360.png,2018-07-14T00:54:23.000Z,2018-07-14T02:29:27.000Z,2018-07-14T02:10:59.000Z,14,5,0,0,0,,
+236367986,Day 9 -Touching color blocks-Coloring Randomness,"Day 8 of Unstuck-Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?).
+
+Created a random pattern with circles and clones. Circles color themselves when clicked and variable is set with crayon. Some tricky parts with circles that get colored behind the crayon sprite. ","Click the green flag to get a picture.
+Click the crayon to choose a color and click the circles to start coloring in the picture.",16509596,https://cdn2.scratch.mit.edu/get_image/project/236367986_480x360.png,2018-07-14T01:28:24.000Z,2018-07-18T01:15:53.000Z,2018-07-14T02:26:00.000Z,16,3,0,0,0,,
+235839308,Random driving based on Colour - Getting Unstuck - Day 9,,"Click the green flag to see the car driving around the grid based on the colour square in drives on. 
+If the car hits the edge it picks another of the angle and tries to do it again.",19641362,https://cdn2.scratch.mit.edu/get_image/project/235839308_480x360.png,2018-07-08T19:58:19.000Z,2018-07-14T02:53:59.000Z,2018-07-14T02:52:07.000Z,13,3,0,0,0,,
+236334263,Getting Unstuck Day 9 - Color ,Not my best effort. But I like that it works.,,18558561,https://cdn2.scratch.mit.edu/get_image/project/236334263_480x360.png,2018-07-13T16:13:34.000Z,2018-07-14T04:45:05.000Z,2018-07-14T04:17:32.000Z,3,0,0,0,0,,
+236374085,Gobo Catch (Getting Unstuck Day 9),,"Click the Green Flag to begin.  How many points can you earn before your game ends.
+
+Use the left and right arrows to move the catcher.  
+Green Gobos= 10 points
+Yellow Gobos= 5 points
+Orange Gobos= 1 points
+Blue Gobos= 1 points
+Avoid the Red Gobos to keep playing",34198395,https://cdn2.scratch.mit.edu/get_image/project/236374085_480x360.png,2018-07-14T03:36:26.000Z,2018-07-15T04:13:22.000Z,2018-07-14T04:55:13.000Z,5,1,0,0,0,,
+236376334,In the garden,"This project responds to the prompt for Getting Unstuck:  Day 9:  ""Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?).""
+
+Today's strategy was ""Work on an old project.""  I started with a different project, which was not successful.  Then I remembered this maze from long ago.  I've added to it, but It still needs much work, so I'll call it a work-in-progress...","Click on the green flag, and follow the instructions to finish the maze!",527557,https://cdn2.scratch.mit.edu/get_image/project/236376334_480x360.png,2018-07-14T04:37:04.000Z,2018-07-14T04:57:52.000Z,2018-07-14T04:55:22.000Z,5,0,0,0,0,,
+236375764,Scratch Cat Catches Balloons!,,Scratch Cat has to Catch all the balloons.  Drag him with the mouse until he grabs the ballons and drag them down to the grass.  If they hit the red line the disappear!,18198558,https://cdn2.scratch.mit.edu/get_image/project/236375764_480x360.png,2018-07-14T04:22:02.000Z,2018-07-14T06:10:36.000Z,2018-07-14T06:10:36.000Z,3,0,0,0,0,,
+236376277,Mail Sorting Robot - Getting Unstuck Day 9,,Robots and sensors are changing our transportation industry.   Clic the green Flag to see how this color sensing robot works.,17257831,https://cdn2.scratch.mit.edu/get_image/project/236376277_480x360.png,2018-07-14T04:35:54.000Z,2018-07-14T13:43:50.000Z,2018-07-14T07:50:40.000Z,12,2,1,0,0,,
+236383670,Getting Unstuck - Day 9 Actvity,"At first I wanted it to be a race where something happened to the winner but then I just had fun with the random block and having the beetles constantly moving down the red track.
+
+I love the little programming bug where because of the random positioning where sometime the beetles turn too early because they are sensing the tiny white eye sections :-). ","Press the green flag and watch the beetles react to the different colours on the screen.
+
+I have used forever loops so press the red stop button when you have seen enough.",15946,https://cdn2.scratch.mit.edu/get_image/project/236383670_480x360.png,2018-07-14T07:47:50.000Z,2018-07-14T09:00:17.000Z,2018-07-14T08:55:08.000Z,3,1,0,0,0,,
+235937348,day 9 ,,"press the flag
+ use the keυ 1 2 3 4 5",23593293,https://cdn2.scratch.mit.edu/get_image/project/235937348_480x360.png,2018-07-09T19:35:16.000Z,2018-07-14T09:09:30.000Z,2018-07-14T09:06:32.000Z,6,0,0,0,0,,
+236384661,Ceci c'est ne pas un projet,"Today I visited the SF Museum of Modern Art and completely felt in love with Magritte. So I decided to make something about it.
+
+I've been spending more than 2 hours on a different project (inspired by the painting ""Clear Ideas"") but couldn't get anything good from it. I thought it was a great opportunity to check out again the ""getting unstuck tip"" on the website. 
+
+I tried ""Just Keep Going"" for a while, but I was feeling more and more frustrated. I was inspired by the ""Problem? Opportunity!"" but still didn't know how to apply that to my super stuck situation.. Finally reading the ""Try Something Different"" gave me the courage and confidence to put all my previous work aside and start with a completely new project, and this time I tried to keep it as simple as I could.
+
+I started with a simple painting of the sky, decided to add only one object, and focus on finding a way to use color sensing. I experienced the same problem of @karenb with the painting having many different colors. Then I realized that the different shades of gray of the clouds could become an opportunity to add a bit of randomness.. so the umbrella get stuck only when their handle touches a specific color.
+
+Now it's 2:25am, and I'm exhausted, and joyful, and proud. 
+This is not (just) a Scratch project!
+
+Enjoy! :)",Click the green flag and be open to be surprised.,2286560,https://cdn2.scratch.mit.edu/get_image/project/236384661_480x360.png,2018-07-14T08:13:34.000Z,2018-07-19T01:47:35.000Z,2018-07-14T09:18:25.000Z,14,8,2,0,0,,
+236391360,Unstuck 9,,Use arrow keys to move around and collect the dots to score. The cat needs to reach the colored patch to get to the next level.,18827386,https://cdn2.scratch.mit.edu/get_image/project/236391360_480x360.png,2018-07-14T10:55:53.000Z,2018-07-14T11:00:50.000Z,2018-07-14T10:56:26.000Z,3,1,0,0,0,,
+236392630,Unstuck Day 9,"I am not a very creative person and I am amazed at all of you who are.  While my projects function, they pale in comparison to the others on t",Click the green flag.  Listen for the cheer when the ball touches the yellow dot.,24826697,https://cdn2.scratch.mit.edu/get_image/project/236392630_480x360.png,2018-07-14T11:31:25.000Z,2018-07-14T11:45:04.000Z,2018-07-14T11:45:04.000Z,1,0,0,0,0,,
+236397747,Bouncing ball Day 9 Getting Unstuck Day 9,Getting Unstuck Day 9: Create a project that involves the touching color blocks in the Sensing category ,,8789156,https://cdn2.scratch.mit.edu/get_image/project/236397747_480x360.png,2018-07-14T13:33:26.000Z,2018-08-01T20:01:58.000Z,2018-07-14T14:18:41.000Z,3,0,0,0,0,,
+236337596,Getting Unstuck: Day 9(sunbathing),,Click the sun and start sunbathing.,12775966,https://cdn2.scratch.mit.edu/get_image/project/236337596_480x360.png,2018-07-13T16:55:46.000Z,2018-07-14T15:50:06.000Z,2018-07-14T15:50:06.000Z,11,2,0,0,0,,
+236399943,Stanley goes for a walk,"Oh I am so behind time. I told myself I must get this done or I will have a backlog to clear. Hope you enjoy this one cos I had a lot of fun with 
+Stanley.","Click green flag to start.
+
+Stanley is a cousin of Steven. He is a curious bug and never listens to what his mum says.
+
+Getting Unstuck # Day 9",158902,https://cdn2.scratch.mit.edu/get_image/project/236399943_480x360.png,2018-07-14T14:23:35.000Z,2018-07-15T13:49:09.000Z,2018-07-14T15:45:27.000Z,6,2,0,0,0,,
+236404357,Gordon_Getting Unstuck Day 9-2,,click green flag to start bear moving,18900622,https://cdn2.scratch.mit.edu/get_image/project/236404357_480x360.png,2018-07-14T15:55:41.000Z,2018-07-14T16:10:53.000Z,2018-07-14T16:10:52.000Z,4,2,0,0,0,,
+236325989,Unstuck Day 9 - Touch Color,"I think there are a number of variations possible here, including letting the user navigate the car, and making the maze a little tighter. What would you do differently?","Challenge:
+Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?).
+
+So this is not really a game, just a way to test out the Touching Color blocks. Here is the goal: The car must reach the green square. It bounces off of black, but the black is occasionally modified by white squares that appear randomly throughout, thus allowing the car to temporarily go through the wall. The car is self-driving. The timer is there to see how long it takes to reach the goal, and after five minutes, the ""journey"" ends regardless. My lowest time is 27 seconds.",25286049,https://cdn2.scratch.mit.edu/get_image/project/236325989_480x360.png,2018-07-13T14:35:23.000Z,2018-07-15T15:44:03.000Z,2018-07-14T17:31:57.000Z,5,0,0,0,0,,
+236406142,Getting Unstuck: Day 9,"This is my project for Day 9 of the Getting Unstuck programming challenge. I added a sound to make the animation more funny.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). For example, you could have a sprite moving around on a colorful background, with the sprite behaving differently depending on which color it is touching, like in a maze game.
+
+It will be a busy night for Clark Kent! :D",34314391,https://cdn2.scratch.mit.edu/get_image/project/236406142_480x360.png,2018-07-14T16:33:37.000Z,2018-07-14T18:02:28.000Z,2018-07-14T17:54:38.000Z,5,1,0,0,0,,
+202714156,Day 9 of Getting Unstuck Maze Levels game ,"This was a fun project and I like to teach building mazes several ways, whether doing drawings like this, or using other maze type backgrounds. This simple game is any easy way to have kids draw their own backgrounds to create a project. I find kids really enjoy making starting projects like this.","Use the arrow keys to move through the mazes.
+
+Day 9 of Getting Unstuck project using color",588430,https://cdn2.scratch.mit.edu/get_image/project/202714156_480x360.png,2018-02-07T20:18:25.000Z,2018-07-24T13:01:09.000Z,2018-07-14T18:24:14.000Z,4,0,0,0,0,,
+236378377,My Favorite Artists Unstuck Day 9,,"Use the left, right, up , and down arrows to move avatar to the color blocks, or, simply click and drag.",31144646,https://cdn2.scratch.mit.edu/get_image/project/236378377_480x360.png,2018-07-14T05:29:28.000Z,2018-07-15T23:44:50.000Z,2018-07-14T20:07:43.000Z,7,0,0,0,0,,
+236413800,Day 9: (v2) Happy Coding!,Kept it simple this time!,Getting Unstuck Day: Create a project that involves the touching color blocks in the Sensing category. Click on one of the faces to see what happens when your code works in Scratch!,18337230,https://cdn2.scratch.mit.edu/get_image/project/236413800_480x360.png,2018-07-14T19:17:57.000Z,2018-07-21T02:10:36.000Z,2018-07-14T20:08:55.000Z,5,0,0,0,0,,
+236330322,G.U. Day 9 - 2-2,"Grazie mille a CyberParra, che ho conosciuto il 25 Marzo a Bologna, in occasione del Meetup di LCL .","Clicca sulla bandierina verde.
+Ho cercato di sistemare i blocchi colore come mi ha suggerito CyberParra per un altro progetto.
+C'è ancora qualche problema con alcuni effetti.
+Pazienza
+",13746945,https://cdn2.scratch.mit.edu/get_image/project/236330322_480x360.png,2018-07-13T15:25:22.000Z,2018-07-14T20:38:45.000Z,2018-07-14T20:37:02.000Z,11,2,0,0,0,,
+236328317,Getting Unstuck Day 9 Challenge,I used the Raspberry Pi Foundation's Projects page to make this Dodgeball game. ,,17824064,https://cdn2.scratch.mit.edu/get_image/project/236328317_480x360.png,2018-07-13T15:02:49.000Z,2018-07-24T21:54:52.000Z,2018-07-13T15:02:50.000Z,5,0,0,0,0,40065008,40065008
+236420394,Touching Colours Effects,"I hadn't tried getting a flying sprite to fly randomly but to stay upright before this challenge. I had to explore some different sprite abilities for this. I also discovered that the most recently moved sprite was the one that would show on top, until that my bird was going behind the flowers. Now I've got the bird moving in front of the flowers but the bird faces in a different direction with each flap of his wings. If I had more time I would fix that.",Click on the green flag and watch what happens as the bird touches different colours.,32833725,https://cdn2.scratch.mit.edu/get_image/project/236420394_480x360.png,2018-07-14T22:05:21.000Z,2018-07-14T22:07:23.000Z,2018-07-14T22:07:23.000Z,3,1,0,0,0,,
+236394892,Getting Unstuck - Day 9,"This is currently a work in progress. Currently, the diver rotates to face a specific direction depending on the arrow pressed. However, the arrow pressed puts the diver in a specific position that may not be the same as the original costume. As a result, I will probably need to create 4 separate costumes for the diver and change the costume depending on the arrow pressed.
+
+Inspired by the work of the Thai Navy Seals in their Rescue Mission this month.","Press the Up, Down, Right and Left Keys to move the diver to safety. ",25334812,https://cdn2.scratch.mit.edu/get_image/project/236394892_480x360.png,2018-07-14T12:26:13.000Z,2018-07-14T22:47:36.000Z,2018-07-14T22:45:03.000Z,4,1,0,0,0,,
+236425149,Day 9 Unstuck,Function over form for this project but I did learn about the left right rotation lock which looks way better then just pointing in different directions,"Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). For example, you could have a sprite moving around on a colorful background, with the sprite behaving differently depending on which color it is touching, like in a maze game.",20446522,https://cdn2.scratch.mit.edu/get_image/project/236425149_480x360.png,2018-07-15T00:09:57.000Z,2018-07-15T00:26:40.000Z,2018-07-15T00:26:40.000Z,3,0,0,0,0,,
+177057108,Touching Color- Day 9,"Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). ",Click the green flag to start.  Can you help the Scratch Cat get to the yellow circle?,25165723,https://cdn2.scratch.mit.edu/get_image/project/177057108_480x360.png,2017-09-28T17:23:45.000Z,2018-07-18T02:14:48.000Z,2018-07-15T03:03:12.000Z,4,1,0,0,0,,
+236441299,Getting Unstuck: Day 9,"Getting Unstuck: Day 9
+Challenge: Create a project that involves the touching color blocks in the Sensing category.
+Thanks to carlapoppi! Her today's project  gave me the idea to improve this project.",Click on the green flag to start. Scratch is strange today!,17615581,https://cdn2.scratch.mit.edu/get_image/project/236441299_480x360.png,2018-07-15T07:31:19.000Z,2018-07-22T14:53:09.000Z,2018-07-15T08:10:29.000Z,14,0,0,0,0,,
+236452668,Day 9 - Follow,This project is inspired to the touch sensor turtle described by Papert in Mindstorms.,"Click on the green flag to start the beetle at a random position.
+
+The beetle will eventually follow the border of the red area. It it gets stuck, click again on the green flag.",214,https://cdn2.scratch.mit.edu/get_image/project/236452668_480x360.png,2018-07-15T12:47:32.000Z,2018-07-15T13:15:39.000Z,2018-07-15T13:15:39.000Z,6,1,0,0,0,,
+236454525,Unstuck Day 9 - Sensing Color,"This started as an idea to get a bug to dance, but somehow turned into a game. I want to come back to it and clean it up sometime - I think it has the potential to be a fun little game.","The object of the game is to get the bug to the orange from as far away as possible. Once activated the bug will move based on the color of the square it is above. You will have no control once it starts, so you must work backward from the orange and figure out where you can start from! Your score is the distance away from the orange when you start (if you successfully get to the orange!)
+
+Click the Green Flag to create a random background. Move the bug to the square you want to start on (the little grey dot on the bug's back is the sensor) and click the bug to begin. Clicking Space will reset the bug to the center without changing the background.
+
+",7902,https://cdn2.scratch.mit.edu/get_image/project/236454525_480x360.png,2018-07-15T13:36:35.000Z,2018-07-15T13:42:47.000Z,2018-07-15T13:37:05.000Z,5,1,1,0,0,,
+236457550,UnStuck Day 9,FUN PROJECT.... ,Just move the cat by left and right arrow,34216021,https://cdn2.scratch.mit.edu/get_image/project/236457550_480x360.png,2018-07-15T14:48:45.000Z,2018-07-15T14:49:56.000Z,2018-07-15T14:49:21.000Z,13,2,0,0,0,,
+236454914,Space Race Day 9 colour sensing,"I am a bit late with today's project as I was away for the weekend.  Aiming to get caught up.  I see that there is a Remix day coming up, so I may revisit this as there were things that I'd like to do, but didn't have time today to look further into.
+
+Something that went twrong.... I used a bit of code that i had previously written but it was vertically, and not horizontally moving so this took a bit of sussing out to get right.  I also wanted to change the rocket colour to the colour of the item it touched, but I just couldnt get it working for me.","Day 9 
+#CreativeComputing
+Catch the space junk!
+Green flag to start game.
+Space bar to get in position
+S key to allow the space junk to fly!
+
+Enjoy!",24864870,https://cdn2.scratch.mit.edu/get_image/project/236454914_480x360.png,2018-07-15T13:46:22.000Z,2018-07-15T15:11:45.000Z,2018-07-15T14:56:49.000Z,1,0,0,0,0,,
+236353551,Getting Unstuck: Day 9,,"Click on the green flag to start!
+
+I had fun experimenting with the touching colour block!",34197892,https://cdn2.scratch.mit.edu/get_image/project/236353551_480x360.png,2018-07-13T20:39:50.000Z,2018-07-15T15:13:04.000Z,2018-07-15T15:09:09.000Z,7,0,0,0,0,,
+236456729,Getting Unstuck: Day 9,"Andrés Gil Ruiz.
+
+*I've been improving in the use of messages.
+
+RULES: Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). ","Use the colored circles to guide the dinosaur to its birthday cake.
+
+Yellow: left.
+Blue: right.
+Green: up.
+Orange: down.
+Red: Reduce the size.
+Pink: Increase the size.
+",27636310,https://cdn2.scratch.mit.edu/get_image/project/236456729_480x360.png,2018-07-15T14:29:45.000Z,2018-07-15T16:16:02.000Z,2018-07-15T16:09:44.000Z,4,0,0,0,0,,
+236417898,Getting Unstuck 9,Day 9 of Getting Unstuck: -Lo sprite si comporta in modo diverso a seconda del colore che sta toccando-,Clicca sulla bandierina verde ,15572972,https://cdn2.scratch.mit.edu/get_image/project/236417898_480x360.png,2018-07-14T20:59:49.000Z,2018-07-18T07:54:41.000Z,2018-07-15T08:00:02.000Z,6,0,0,0,0,,
+236463877,Getting unstuck day 9,Sensing colours for lose and win.,Move the crab with arrows to find the exit of the maze.,2680901,https://cdn2.scratch.mit.edu/get_image/project/236463877_480x360.png,2018-07-15T17:17:55.000Z,2018-07-15T18:11:49.000Z,2018-07-15T18:09:09.000Z,5,0,0,0,0,,
+236467189,Unstuck Day 9,"This challenge brings up a question/problem students sometimes have in class. Touching the color yellow or pink adds or subtract from the points. However, the points are adding up too quickly because of the speed of the loop. Putting in a wait works, but is an awkward solution. Does anyone have a better solution?","green flag for instructions.
+Space bar to start game.
+Use arrow keys to move bug.",11305008,https://cdn2.scratch.mit.edu/get_image/project/236467189_480x360.png,2018-07-15T18:34:21.000Z,2018-07-15T20:11:04.000Z,2018-07-15T20:11:04.000Z,6,0,0,0,0,,
+182075794,Lori's Corn Maze,,Click the flag to start and use the arrow keys to get to the end of the maze. Be careful-there may be some unpleasant surprises!,16010675,https://cdn2.scratch.mit.edu/get_image/project/182075794_480x360.png,2017-10-25T11:10:09.000Z,2017-11-10T19:17:44.000Z,2017-11-09T19:18:16.000Z,2,0,0,0,0,,
+236508435,#GettingUnstuck_9,"Programming different movements. I mean ""ahead"" ""turn left"" ""turn right"".","Lead the ladybug until green point:
+- Right arrow, move ahead
+- ""a"" turn left
+-""d""  turn right",16962202,https://cdn2.scratch.mit.edu/get_image/project/236508435_480x360.png,2018-07-16T08:24:59.000Z,2018-07-16T08:41:03.000Z,2018-07-16T08:35:22.000Z,3,0,0,0,0,,
+236328571,Day 9 Getting Unstuck - paint bucket blueout,"This is incomplete, but it does use color detection per the Getting Unstuck challenge.
+
+One difficulty I encountered was figuring out how to draw on a sprite with the pen. You can't do that, but you can use a stamp to get the image of a sprite on the backdrop then hide the sprite as suggested at https://scratch.mit.edu/discuss/topic/114508/?page=1#post-1008090.
+
+I might be able to solve the bug by starting the drawing on the mid point of the area to be filled at the same y value where I clicked instead of starting at the click location. I ran out of time to pursue this since there are so many other challenges to try.  There is also another bug that shows up when trying to fill the start that's a little different.","Click anywhere to fill all non-black areas of that object with blue. 
+This runs painfully slow unless you use enable Turbo Mode (under the Edit menu) before running.
+
+Bug: It does not fill above or below where you click if that area is narrower than where you clicked. 
+
+",1013358,https://cdn2.scratch.mit.edu/get_image/project/236328571_480x360.png,2018-07-13T15:05:26.000Z,2018-07-25T13:02:01.000Z,2018-07-16T14:15:50.000Z,4,0,0,0,0,,
+236541266,`Day 9 Color Sensing,,"When the butterfly flies around, if it encounters a green bubble, it will move and turn. A yellow bubble and it slowly glides to a random coordinate, and a red bubble makes it stop.",10309968,https://cdn2.scratch.mit.edu/get_image/project/236541266_480x360.png,2018-07-16T15:22:51.000Z,2018-07-16T15:40:12.000Z,2018-07-16T15:39:18.000Z,2,0,0,0,0,,
+236539349,Unstuck - Day 9,"This was s cool project.  We started with the idea of a magic mitten.  When it would touch different colors something would happen.  We drew the mitten on the Scratch Cat.  The cat is controlled with the arrow keys and when the mitten touches a color on a ball, the background switches.  
+Can someone help me with this?
+I want to be able to play a zoop sound when the ball is touched, but I can't get it to stop repeating the sound.  The answer is probably obvious.","Click the green flag to start.
+Use up, down, left, right to move the Scratch Cat to the magic transport balls.  Touch the balls with the red mitten to travel to distant lands.",2456527,https://cdn2.scratch.mit.edu/get_image/project/236539349_480x360.png,2018-07-16T15:06:09.000Z,2018-07-16T15:40:37.000Z,2018-07-16T15:40:37.000Z,2,0,0,0,0,,
+236549038,Camaleonte ,,Just Click on the the flag,3602053,https://cdn2.scratch.mit.edu/get_image/project/236549038_480x360.png,2018-07-16T16:42:29.000Z,2018-07-19T09:31:02.000Z,2018-07-16T16:58:42.000Z,8,2,0,0,0,,
+236544938,Getting Unstuck Day 9 - Rainbow Cat,This program uses the touching color blocks in the Sensing category to turn the cat different colors. I like that this program uses a lot of the different techniques I have learned so far by creating with Getting Unstuck.,Press the green flag to start/restart the program. Use the right arrow to move the cat through the program.,22156688,https://cdn2.scratch.mit.edu/get_image/project/236544938_480x360.png,2018-07-16T16:00:11.000Z,2018-07-21T23:10:16.000Z,2018-07-16T16:58:21.000Z,4,0,0,0,0,,
+236563250,Race game,"I am running short on time so the graphics are a bit rough. 
+
+One item I need to investigate - why the confetti that falls upon finish doesn't clear when the game is restarted. 
+
+This is a project I wish I had more time for - the sensing and colours is something that has always tripped me up.  ","The car will go forward by itself - you must steer using the right and left arrows.  
+The red dots are turbo dots - the car will go a bit faster there - be sure to steer!
+Make one lap and reach the yellow finish line without crashing good luck. ",2876976,https://cdn2.scratch.mit.edu/get_image/project/236563250_480x360.png,2018-07-16T18:57:05.000Z,2018-07-16T19:57:34.000Z,2018-07-16T19:54:50.000Z,4,0,0,0,0,,
+205290807,#GettingUnstuch Treasure Island,,Use the mouse to guide the ship around the island to get to the gold treasure. Try not to touch the island.,18062705,https://cdn2.scratch.mit.edu/get_image/project/205290807_480x360.png,2018-02-21T13:00:06.000Z,2018-07-17T02:30:41.000Z,2018-07-17T02:22:13.000Z,1,0,0,0,0,,
+236405239,generative art - starry starry night,"Getting Unstuck: Day 9
+https://gettingunstuck.gse.harvard.edu/
+Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). 
+
+Huge thanks to Vincent van Gogh for The Starry Night, and to @KarenB for reducing the painting's colors, which made this undertaking technically feasible in Scratch :)","Press the green flag and enjoy the remixed ""starrified"" painting :)
+Click the + or - star buttons on the bottom right to try finer or coarser detail.
+
+Turbo Mode is recommended: 
+Hold the shift key and press the green flag.",34248043,https://cdn2.scratch.mit.edu/get_image/project/236405239_480x360.png,2018-07-14T16:14:37.000Z,2018-07-17T11:05:23.000Z,2018-07-17T10:43:51.000Z,3,0,0,0,0,236179878,236179878
+236109873,Labirinto,Autor: Jocemar do Nascimento,"Para jogar, use o Mouse, clicando nas Setas ou as Setas do Teclado.",1734014,https://cdn2.scratch.mit.edu/get_image/project/236109873_480x360.png,2018-07-11T12:10:10.000Z,2018-07-11T15:09:04.000Z,2018-07-11T15:08:25.000Z,19,7,0,0,0,,
+236393875,Unstuck 9,I had to select colours in a way they do not interfere within each other. At the beginning I chose the black colour and it hidden the bananas before the monkey could sense it.,,13846307,https://cdn2.scratch.mit.edu/get_image/project/236393875_480x360.png,2018-07-14T12:02:28.000Z,2018-07-17T12:29:16.000Z,2018-07-17T12:27:16.000Z,2,0,0,0,0,,
+236565543,L'UNICORNO SALTERINO,"Progetto creato per Getting Unstuck, giorno 9 (utilizzo del sensore ""colore"")","Clicca sulla bandierina verde per iniziare, clicca sull'unicorno per vedere dove va e cosa succede...",14651357,https://cdn2.scratch.mit.edu/get_image/project/236565543_480x360.png,2018-07-16T19:24:01.000Z,2018-07-17T12:47:28.000Z,2018-07-17T12:47:01.000Z,4,0,0,0,0,,
+236645088,Getting Unstuck #9,#GettingUnstuck ,Clicca sulla bandierina verde,17320587,https://cdn2.scratch.mit.edu/get_image/project/236645088_480x360.png,2018-07-17T14:58:57.000Z,2018-07-17T15:28:17.000Z,2018-07-17T15:27:16.000Z,3,0,0,0,0,,
+236669510,9 : Colours of music,,"Use the hand to play on the colours
+
+Play one note if you use the finger - more if you use the whole hand.",1252137,https://cdn2.scratch.mit.edu/get_image/project/236669510_480x360.png,2018-07-17T18:46:06.000Z,2018-07-17T19:12:23.000Z,2018-07-17T19:11:29.000Z,2,0,0,0,0,,
+211066025,Triangle Insanity remix,"Piccola modifica.Continua modifica
+","It's another pen project. What more can I say?
+
+
+",13575540,https://cdn2.scratch.mit.edu/get_image/project/211066025_480x360.png,2018-03-19T19:54:40.000Z,2018-07-19T07:38:55.000Z,2018-03-19T20:05:31.000Z,26,2,0,0,0,118320452,118320452
+236846983,aMAZEing,"Ellie character inspired by the book Elmer by David McKee.
+
+I'm thinking that this might be simple project that I could use with my second graders.","Click the Green Flag to begin.
+
+Use the arrow keys to help Ellie navigate through the mazes. Avoid the purple and green walls to reach the orange and pink blocks at the end.",1196430,https://cdn2.scratch.mit.edu/get_image/project/236846983_480x360.png,2018-07-19T13:29:09.000Z,2018-07-19T14:07:52.000Z,2018-07-19T14:07:52.000Z,1,0,0,0,0,,
+90826834,Getting Unstuck - Day 9,"I started this as a basic maze and then I decided to add the inventory items to make it a little more challenging.  Since this was a color activity, they were just color circles otherwise, I would have tried to come up with a theme and used actual items that fit the story of why the main character has to make it through the maze.  If I had more time, I would add problems (math or word problems) when the ball touched each of the color circles.  You would have to get the answer correct to get the credit.  I enjoyed making this project.  Music ",Click on the flag to begin.  Use the arrow keys to move the ball around the maze.  Don't touch the walls or you will have to go back to the beginning!  Make sure you gather all the items in your inventory before you get to the end of the maze.  Have fun!,2502473,https://cdn2.scratch.mit.edu/get_image/project/90826834_480x360.png,2015-12-09T17:55:19.000Z,2018-07-19T17:51:56.000Z,2016-02-23T18:00:47.000Z,4,0,0,0,0,,
+236734592,Getting Unstuck Day 9,These are taking me longer and longer to finish.  But I am learning so much!,Click the green flag and good luck!,34221568,https://cdn2.scratch.mit.edu/get_image/project/236734592_480x360.png,2018-07-18T11:09:52.000Z,2018-07-19T21:03:18.000Z,2018-07-19T20:56:01.000Z,3,0,0,0,0,,
+236495887,Getting Unstuck Day 9,"Getting Unstuck Day 9 Reflection:
+This was my hardest challenge yet - I restarted this project a few times because I couldn't get it to work.  I think my problem was in choosing backgrounds from the library.  They have more color variation, so trying to make my sprite react to different colors didn't work properly.  This project is a lot simpler than I intended it to be (from a coding standpoint anyway!), but it's also the project I've learned the most from so far.",Click on play and use the arrow keys to help the mouse get to the cheesy puffs.  But don't touch the walls or you have to start over!,30095573,https://cdn2.scratch.mit.edu/get_image/project/236495887_480x360.png,2018-07-16T04:31:59.000Z,2018-07-20T04:11:54.000Z,2018-07-20T03:30:39.000Z,2,0,0,0,0,,
+236857606,Unstuck Day 9 project,"I had the hardest time with this project - something in my code connected to the sensing blocks kept crashing the Shockwave Flash player. I was able to get this much to work and decided to leave it as is before I ran into more bugs. Good practice ""getting unstuck"" I guess! #unstuck #creativecomputing #sensing",Move the cat with the arrow keys to play a song on the rainbow piano!,17786521,https://cdn2.scratch.mit.edu/get_image/project/236857606_480x360.png,2018-07-19T15:21:41.000Z,2018-07-20T04:42:02.000Z,2018-07-19T15:38:37.000Z,11,1,0,0,0,,
+236921885,Getting Unstuck - dag 9,#GettingUnstuck,Use the arrowkeys to move around and let the cat tell what colors he hit.,25631396,https://cdn2.scratch.mit.edu/get_image/project/236921885_480x360.png,2018-07-20T08:01:28.000Z,2018-07-20T08:16:15.000Z,2018-07-20T08:14:48.000Z,8,0,0,0,0,,
+236762250,#GettingUnstuck9 - Touching (primary) colours,All sprites and costumes taken from the Scratch repository.,"Press green flag and follow the instructions
+- Click the colors to say the name
+- Press space bar to finish the program.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 9.
+
+""Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?)""",1112440,https://cdn2.scratch.mit.edu/get_image/project/236762250_480x360.png,2018-07-18T16:19:06.000Z,2018-07-20T15:54:30.000Z,2018-07-20T15:54:29.000Z,1,0,0,0,0,,
+236963277,getting unstuck day 9,,green flag,17636749,https://cdn2.scratch.mit.edu/get_image/project/236963277_480x360.png,2018-07-20T18:43:06.000Z,2018-07-20T18:44:34.000Z,2018-07-20T18:43:53.000Z,2,0,0,0,0,,
+236972212,Unstuck Day 9,"I used the Cat first &made 4 costumes each one facing up, down, left, & right. Then coded using the Point 0, 90, -90, 180 blocks but the cat never faced the correct way when it moved. I then selected a ball thinking directionality won't matter but there is a shading on the ball that changes with each direction.","Click the Green Flag to play the Maze Game. Right Arrow - move right; Left Arrow - Move left; Up Arrow - more up; Down Arron - Move down;
+A Key - move down & right; B Key - move down & left;C Key - more up & right; D Key - move up & left
+Touch the Pink walls and you start all over AGAIN!",14232182,https://cdn2.scratch.mit.edu/get_image/project/236972212_480x360.png,2018-07-20T21:09:24.000Z,2018-07-20T22:42:19.000Z,2018-07-20T22:42:18.000Z,2,0,0,0,0,,
+237007984,day-9,,"usare le frecce per muovere il gatto e prendere la pallina gialla. La pallina gialla fa acquistare 2 punti, mentre le altre fanno perdere un punto",16822769,https://cdn2.scratch.mit.edu/get_image/project/237007984_480x360.png,2018-07-21T10:52:28.000Z,2018-07-21T11:41:16.000Z,2018-07-21T11:39:58.000Z,1,0,0,0,0,,
+237027753,Unstuck: Day 9 ,,"Click on the green flag to start!
+I had fun learning how to create a new backdrop and scripts. ",840815,https://cdn2.scratch.mit.edu/get_image/project/237027753_480x360.png,2018-07-21T18:30:45.000Z,2018-07-21T19:40:08.000Z,2018-07-21T19:31:08.000Z,9,2,0,0,0,236353551,236353551
+237022275,GettingUnstuck9 : cat and mice,,Press the green flag,16573108,https://cdn2.scratch.mit.edu/get_image/project/237022275_480x360.png,2018-07-21T16:29:28.000Z,2018-08-03T09:11:10.000Z,2018-07-21T20:29:07.000Z,3,0,0,0,0,,
+237043793,Getting Unstuck: Day 9,"Image is from the MET Public Domain Images
+Composition
+Piet Mondrian","Use the arrow keys to help the butterfly locate the hidden cheese puffs.
+Click the green flag to start or reset the game.",1353497,https://cdn2.scratch.mit.edu/get_image/project/237043793_480x360.png,2018-07-22T01:17:56.000Z,2018-07-22T01:57:35.000Z,2018-07-22T01:56:22.000Z,2,0,0,0,0,,
+237041525,Getting Unstuck: Day 9,"Getting Unstuck: Day 9 
+
+I enjoyed playing around with the colors; however, I did struggle with trying to get the colors to match. With a little help from a friend from home, I got it to work. 
+
+Shout out to 33limekilnsja for the assistance in the initial code! ",Click the green flag. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/237041525_480x360.png,2018-07-22T00:23:51.000Z,2018-07-22T03:22:30.000Z,2018-07-22T03:22:30.000Z,6,1,0,0,0,,
+237082996,Getting Unstuck Day 9,"Adapted for Getting Unstuck Day 9 from an earlier project. This project uses the Touching Colour block to detect if pacman touches the walls of the maze.
+To improve this project I could make the keys more responsive by putting them in a forever block.
+To make it more like a pacman game, more dots could be added.
+",Use the cursor keys to guide the PacMan sprite to the target block on the opposite side of the screen. Eat the dots and dodge the monsters. Don't touch the maze walls!,287832,https://cdn2.scratch.mit.edu/get_image/project/237082996_480x360.png,2018-07-22T18:15:01.000Z,2018-07-29T16:04:49.000Z,2018-07-22T18:17:11.000Z,1,0,0,0,0,,
+237214716,Día 9,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/237214716_480x360.png,2018-07-24T03:06:04.000Z,2018-07-24T03:08:53.000Z,2018-07-24T03:06:41.000Z,1,0,0,0,0,,
+237260280,GIOCO PALLINA,"Getting Unstuck: Day 9
+Crea
+Crea un progetto che coinvolge i blocchi di colore toccati nella categoria Sensing (ad esempio, toccando il colore? E il colore è commovente?). Ad esempio, potresti avere uno sprite che si muove su uno sfondo colorato, con lo sprite che si comporta in modo diverso a seconda del colore che sta toccando, come in un gioco di labirinto. (",USA LE FRECCE PER PRENDERE LA PALLINA,21462276,https://cdn2.scratch.mit.edu/get_image/project/237260280_480x360.png,2018-07-24T14:41:06.000Z,2018-07-24T15:15:49.000Z,2018-07-24T15:14:34.000Z,2,0,0,0,0,,
+205612900,Unstuck: Day 9,"By Filipe Mendes
+Getting Unstuck strategies
+#CreativeComputing.","Press the green flag and play.
+If gobo touches the color green gobo returns to the begin. If gobo touch the home wins.
+Use the arrow keys to play.
+Have Fun ;)",2980392,https://cdn2.scratch.mit.edu/get_image/project/205612900_480x360.png,2018-02-22T17:20:23.000Z,2018-07-25T08:39:30.000Z,2018-04-24T14:56:12.000Z,5,1,0,0,0,,
+237371468,Getting Unstuck: Day 9,,,28439839,https://cdn2.scratch.mit.edu/get_image/project/237371468_480x360.png,2018-07-25T15:28:48.000Z,2018-07-25T15:51:18.000Z,2018-07-25T15:50:51.000Z,7,1,0,0,0,,
+237375930,Unstuck #9 - Desert Colors,,Click on the green flag. ,26618044,https://cdn2.scratch.mit.edu/get_image/project/237375930_480x360.png,2018-07-25T16:22:16.000Z,2018-07-25T16:37:58.000Z,2018-07-25T16:36:58.000Z,3,1,0,0,0,,
+237388809,Getting Unstuck [Day 9],Getting Unstuck Day 9!,Green Flag!,13594403,https://cdn2.scratch.mit.edu/get_image/project/237388809_480x360.png,2018-07-25T18:42:40.000Z,2018-07-25T18:49:47.000Z,2018-07-25T18:49:14.000Z,3,1,0,0,0,,
+237390536,Day 9 - Getting Unstuck - Music Launcher!,,,17812875,https://cdn2.scratch.mit.edu/get_image/project/237390536_480x360.png,2018-07-25T19:03:58.000Z,2018-07-25T19:57:00.000Z,2018-07-25T19:57:00.000Z,4,1,0,0,0,,
+237384141,Getting Unstuck Day 9 - Touching Colors,"This was a cool activity. It reminds me of the dancing game back in the 90's. If I had time, I would like to the cat complete on task and then disappear and reappear in a new location. I would then click the sprite and then the new task would be performed. It would also be cool if I could have had the background have a watercolor effect. All I need is time... :)",Click on the green flag to start the program. Click on Scratch Cat to watch the performed task associated with the color of the grid.,30595057,https://cdn2.scratch.mit.edu/get_image/project/237384141_480x360.png,2018-07-25T17:53:49.000Z,2018-07-25T20:14:26.000Z,2018-07-25T20:07:13.000Z,3,1,0,0,0,,
+237400261,Getting Unstuck - Day 9 : My 2nd attempt!,"Okay, the journey to this project was two-fold.  I started by making a basic animation of the cat jumping on the beach background.  When he was touching the color of the sand he would jump and say that it was too hot, then return back to the sand and continue in a loop.  It was very basic, but it completed the challenge of the day.  I knew that I would have preferred to make my own background, like it was suggested in the email, but had never tried it before. 
+
+Then I went to the library with my daughter and discovered the book, ""Code Your Own Games"" by Max Wainewright and one of the games was the 'Amazing Maze'.  So I had a lot of ""help"" with this one!  I would suggest drawing out your maze first.  I would also like to figure out how to make the cat bounce off the walls or edges if possible, or add an animation for completing the maze successfully.","Click the green arrow to start the maze.
+
+Use the arrow keys to guide Scratch the Cat through the maze.  If you touch any of the walls Scratch will turn around and move back.
+
+Click the green arrow to start over.",24696341,https://cdn2.scratch.mit.edu/get_image/project/237400261_480x360.png,2018-07-25T21:28:10.000Z,2018-07-25T22:21:18.000Z,2018-07-25T21:37:07.000Z,2,1,0,0,0,,
+236636926,AhhMazing Maze ,,"This program has a BUG! How can you fix it so that the ball resets to the original location when it touches the pink wall of the maze?
+
+HINT: Examine the scripts for the ballerina. How do these work properly?",34331091,https://cdn2.scratch.mit.edu/get_image/project/236636926_480x360.png,2018-07-17T13:47:01.000Z,2018-07-19T13:36:43.000Z,2018-07-17T18:43:28.000Z,2,1,0,0,0,166112480,140317189
+237702014,Getting Unstuck - Day 9 - Touching Color Block,"Getting Unstuck - Day 9 - Touching Color Block
+
+https://us18.campaign-archive.com/?u=5dd4d8b32f719a30cbde507c6&id=2dd7fec183
+
+""Sometimes the best way to learn something is by doing it wrong and looking at what you did.""—Neil Gaiman",Press green flag to start. ,8880372,https://cdn2.scratch.mit.edu/get_image/project/237702014_480x360.png,2018-07-29T20:35:56.000Z,2018-07-29T21:00:52.000Z,2018-07-29T20:43:16.000Z,2,1,0,0,0,,
+237691964,Day 9 - Musical Squares,"This could still use some work.  It has a big of a delay. Also, what I really wanted was for it to play a note when the ladybug first lands on the colored square but then stop. I sort of worked around, but it could be better.  It was fun playing a little bit with the paint tool and learning about the color sensing. I am behind though, so onto Day 10! ",Use the arrows to move around and it will say which color it is on and play a note. ,31044612,https://cdn2.scratch.mit.edu/get_image/project/237691964_480x360.png,2018-07-29T16:31:11.000Z,2018-07-30T14:41:37.000Z,2018-07-30T14:38:12.000Z,4,1,0,0,0,,
+237811121, Getting Unstuck: Day 9,,Hit the ball to change the color,34283191,https://cdn2.scratch.mit.edu/get_image/project/237811121_480x360.png,2018-07-31T00:37:20.000Z,2018-07-31T00:55:46.000Z,2018-07-31T00:54:52.000Z,3,2,1,0,0,,
+237703289,#Unstuck 9 Colour blocks,Watched a tutorial to help with controls on this and learnt a different way fo shrinking sprite plus how to change colours.,When click the green flag move the pointer onto the different colours and see what happens. Take the cat back to bottom left corner.,31492686,https://cdn2.scratch.mit.edu/get_image/project/237703289_480x360.png,2018-07-29T21:05:09.000Z,2018-07-30T05:35:16.000Z,2018-07-29T21:26:40.000Z,2,1,0,0,0,,
+236464369,getting unstuck 9,I have learn to detect colors,,23020553,https://cdn2.scratch.mit.edu/get_image/project/236464369_480x360.png,2018-07-15T17:28:50.000Z,2018-08-03T17:43:52.000Z,2018-08-02T11:42:06.000Z,2,1,0,0,0,,
+238210263,day 9,"Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). ","Press space to shoot unwanted stars
+catch only the blue stars to gain points
+
+based on a CSFirst project",24618980,https://cdn2.scratch.mit.edu/get_image/project/238210263_480x360.png,2018-08-04T09:07:05.000Z,2018-08-07T15:48:52.000Z,2018-08-04T09:11:26.000Z,2,1,0,0,0,33384474,33384474
+238222322,09 Getting Unstuck - Sensing Colour,,"Help monkey collect fruit for his fruit salad!
+
+Click the green arrow to begin.",5401184,https://cdn2.scratch.mit.edu/get_image/project/238222322_480x360.png,2018-08-04T14:41:05.000Z,2018-08-04T15:19:04.000Z,2018-08-04T15:18:23.000Z,4,1,0,0,0,,

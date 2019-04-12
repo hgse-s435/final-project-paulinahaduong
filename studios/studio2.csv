@@ -1,0 +1,864 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+235601849,Day 2: Flower stamps!,"Originally I drew my own flower (purple circle w/ green petals) and made that move around the screen as a clone, but then I wondered how hard it would be to draw using the pen tool (I am always astounded by @scmb1's use of the pen!). The answer? Very hard! I wanted to recreate my purple circle and green oval petals, but couldn't figure out how to fill them in. Also couldn't figure out how to draw beautiful parabolas.
+
+Anyway, eventually I sought some inspiration from others' pen drawings, poking around the Scratch ""Help with Scripts"" forum as well as just searching the community to find other pen flowers. There were many different ways to accomplish this, but since I had already succeeded in drawing pen circles, I decided to draw connecting circles with random colors in order to make flowers. 
+
+Highly inspired by @P0lliw0g's Pen flower drawing: https://scratch.mit.edu/projects/76609616/ ","Press the green flag to start the project, then click anywhere on the screen. In order to make imperfect flowers, click close to the edges (is this a feature or a bug? TBD). Turn sound on for random notes when each flower appears.",2745846,https://cdn2.scratch.mit.edu/get_image/project/235601849_480x360.png,2018-07-05T16:47:23.000Z,2018-07-06T09:55:43.000Z,2018-07-06T09:55:43.000Z,29,6,1,0,0,,
+235615393,Getting Unstuck Day 2: Flower Stamp,"**Thank you so much to @mstone326 for your help in getting unstuck! I'm so happy I was able to get this project to be what I envisioned!**
+
+Field image from public domain pictures. 
+Flower drawing loosely based off of this tutorial: https://www.drawingnow.com/tutorials/119946/how-to-draw-a-flower-step-by-step/
+
+I had a lot of fun with this challenge! I wanted to challenge myself to learn something new, so I looked at the flower drawing tutorial and used the paint editor to make my flowers. My students always struggled with the paint editor, so I wanted to spend more time using it to see what might be frustrating for them. It was definitely more time-consuming than I thought!
+
+What you currently see (the random colored flowers) is only one part of what I had hoped to make. I also want to make a little ""flower palette"" where you can choose what color flower to stamp. I couldn't get this to work last night because of the way I programmed the flowers to stamp (any time the background is clicked). You can see what I was trying to do if you look at my ""purple"" broadcast blocks. Would love any advice for how to make this extra part of my project work!","Press the green flag to start. Then, click where you'd like to make a flower garden!
+
+If you'd like to add different color flowers, press the space bar and click on the color you want!",19163721,https://cdn2.scratch.mit.edu/get_image/project/235615393_480x360.png,2018-07-05T19:42:10.000Z,2018-07-09T00:23:08.000Z,2018-07-06T17:22:59.000Z,42,5,1,0,0,,
+235616850,Unstuck Day 2 - Flower Surprise! ,"This was a fun project to make! I enjoyed playing around with the paint editor to create my flower—it makes me even more excited for 3.0's redesigned editor! 
+
+The one thing I found trickey about this project was that I couldn't figure out why a flower kept popping up whenever I'd press the green button. That's why I did the ""wait x seconds"" block— I imagine it was taking the press of the green button as a 'mouse down'...Does anyone have any thoughts about a different way to approach this?","Unstuck Challenge Day 2:
+Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be?
+
+I wanted to play with the idea of tesselation— when you click you don't know if you will get a flower or a bird!",24267830,https://cdn2.scratch.mit.edu/get_image/project/235616850_480x360.png,2018-07-05T20:06:17.000Z,2018-07-06T16:49:17.000Z,2018-07-05T20:20:32.000Z,17,3,1,0,0,,
+235590337,21 Days of Flowers,"I'm quite fond of the visual effects I played with in this project. If I had more time, I would figure out how to implement this with cloning instead of with stamping. I wanted to use cloning because I wanted the petals to fall away at some point—but I couldn't figure it out (yet!).
+
+Credits
+I found the petal via a Google Image search for ""petal"". I found the poem at poets.org: https://www.poets.org/poetsorg/poem/petals","Every time you click on the background, a flower appears. After 21 clicks (in honor of the 21 days of Getting Unstuck), a poem about petals appears, and the project resets. Everything is iterative!
+
+",39526,https://cdn2.scratch.mit.edu/get_image/project/235590337_480x360.png,2018-07-05T15:18:40.000Z,2018-07-24T11:27:50.000Z,2018-07-06T10:01:17.000Z,69,21,9,0,0,,
+235644324,Bouquet,"This project was created for day two of Getting Unstuck.
+
+What I like about this project: 
+It was fun figuring out how to generate text using Scratch. 
+
+What I would work on, if I had more time: 
+I would add a feature such that, once in a while, one of the letters in each word would have a single letter with a hint of color. ",Click the background.,56239,https://cdn2.scratch.mit.edu/get_image/project/235644324_480x360.png,2018-07-06T03:32:06.000Z,2018-07-06T14:01:40.000Z,2018-07-06T10:08:28.000Z,41,13,2,0,0,,
+235674403,4 Flower Garden,"This was fun. I wanted to draw my own sprites, something I never do, and obviously I am still terrible at (I am comfortable with my terrible art abilities!) But I really wanted my flowers to appear randomly around the page, so it was fun messing around with random, and then I realized that random could fit inside broadcast! So I could make the broadcast be one of 4 randomized flowers. 
+Setting up the x/y I always find it easier to use the x/y stage. However, when I switched over to something nice for flowers it looked like I had made my flowers TOO random. They were growing in the concrete. So I limited my Y coords randomness to stay inside the mulch where the flowers belonged. ",Click anywhere on the stage to create one of four flowers. ,22706156,https://cdn2.scratch.mit.edu/get_image/project/235674403_480x360.png,2018-07-06T11:11:11.000Z,2018-07-06T11:33:40.000Z,2018-07-06T11:30:11.000Z,28,5,1,0,0,,
+235674621,Getting Unstuck Day 2,The fill with emptiness tool rocks.  Thank you to all the super smart people out there.,"When Green flag is pressed, simply click on the backdrop to make flowers appear.",24826697,https://cdn2.scratch.mit.edu/get_image/project/235674621_480x360.png,2018-07-06T11:14:04.000Z,2018-07-08T20:59:35.000Z,2018-07-06T11:44:09.000Z,15,4,1,0,0,,
+235675752,Getting Unstuck: Day 2,"This took me back to my Logo days. I fell in love with Logo because it was a fun way to explore the beauty of geometry. If I had all day, I would create more geometrical flowers to make a Math Garden! ","Click the green flag to get started.
+Click anywhere on the background to draw a flower with a stem.",17807175,https://cdn2.scratch.mit.edu/get_image/project/235675752_480x360.png,2018-07-06T11:28:52.000Z,2018-07-06T12:33:55.000Z,2018-07-06T11:54:26.000Z,18,6,2,0,0,,
+235676661,Getting Unstuck Day02 - Flower Clicker,"This is a remixed (❤️) project, originally co-created this spring by students and me (a Lego flower grew next to the computer with WeDo motor also). The original was not activated by a mouse click.","Click = Flower!
+
+Nice suggestion for a watering can. I added one!",14632339,https://cdn2.scratch.mit.edu/get_image/project/235676661_480x360.png,2018-07-06T11:41:07.000Z,2018-07-06T19:55:01.000Z,2018-07-06T11:50:01.000Z,20,4,1,0,0,,
+235678171,Getting Unstuck Day2,"What did you like most about your project? I like the random size/colour. I also like brightening up that brick wall, it's crying out for some flowers in this garden. 
+
+What would you do with it next, if you had more time? I love the idea of geometric art flowers. I'd change my sprite to use the pen function and do some flower patterns instead.",,17809789,https://cdn2.scratch.mit.edu/get_image/project/235678171_480x360.png,2018-07-06T12:00:50.000Z,2018-07-06T12:11:49.000Z,2018-07-06T12:07:27.000Z,21,4,1,0,0,,
+235677200,day 2 flower surprise,I wanted the flowers to be random but in the grass but sometimes they bunch too much. How can I change that?,"Click anywhere on the grass to make flowers grow. My mother always said gardens should be planted in threes. My sister likes to coordinate colors so I compromised in slight color changes to keep color families together. Of course, a garden always needs a supervisor and of course the sun had to get in on the fun too.",124064,https://cdn2.scratch.mit.edu/get_image/project/235677200_480x360.png,2018-07-06T11:49:09.000Z,2018-07-06T14:34:31.000Z,2018-07-06T12:11:00.000Z,10,2,1,0,0,,
+235678003,Flower! - Getting Unstuck! - Day 2,"The one thing that I had to get unstuck was that I was 'stamping' my flower so when I was using the pen for the stem it was in front of it.. but that wasn't the desired way.  So I changed the stem to a costume and stamped it first and then the petals and then the centre. 
+This was more the desired outcome!","I used a function and some random numbers to create my flowers for this challenge today. 
+
+Click the mouse on the background and the flower of a random number of petals (4-8) and colour will appear. 
+
+Enjoy!",19641362,https://cdn2.scratch.mit.edu/get_image/project/235678003_480x360.png,2018-07-06T11:58:49.000Z,2018-07-08T02:43:12.000Z,2018-07-06T12:19:27.000Z,16,5,2,0,0,,
+235675310,day2 - poppy field 2,,,34225248,https://cdn2.scratch.mit.edu/get_image/project/235675310_480x360.png,2018-07-06T11:23:14.000Z,2018-07-06T12:23:22.000Z,2018-07-06T12:23:22.000Z,5,2,1,0,0,,
+235677342,Getting unstuck - dag 2,"Display a flower each time that the user clicks on the background.
+#GettingUnstuck!",Click on the green grass to add some fine flowers.,25631396,https://cdn2.scratch.mit.edu/get_image/project/235677342_480x360.png,2018-07-06T11:51:02.000Z,2018-07-06T12:28:39.000Z,2018-07-06T12:28:39.000Z,26,4,1,0,0,,
+235680354,Getting Unstuck Day 2,,Every click makes a flower of variable size bloom in the position in which you click.,14159575,https://cdn2.scratch.mit.edu/get_image/project/235680354_480x360.png,2018-07-06T12:28:41.000Z,2018-07-06T12:31:38.000Z,2018-07-06T12:29:29.000Z,11,5,1,0,0,,
+235679303,growingflowers,Put a background in the backpack and use it as sprite. Easy but it works.,Click on the background to see ,33890948,https://cdn2.scratch.mit.edu/get_image/project/235679303_480x360.png,2018-07-06T12:15:06.000Z,2018-07-06T12:35:23.000Z,2018-07-06T12:30:48.000Z,7,2,1,0,0,,
+235679825,simple flowers,I forgot to put the clear in at the start to get rid of all the stamps!,,33472226,https://cdn2.scratch.mit.edu/get_image/project/235679825_480x360.png,2018-07-06T12:21:31.000Z,2018-07-06T13:06:54.000Z,2018-07-06T12:43:02.000Z,10,2,1,0,0,,
+235678334,Day 2 - click to grow flowers,I used clones to make copies of the original flower. It just came natural to clone and move the new clone to the mouse position on the screen.,Just click the green flag and see what happens.,24154277,https://cdn2.scratch.mit.edu/get_image/project/235678334_480x360.png,2018-07-06T12:03:00.000Z,2018-07-06T12:43:49.000Z,2018-07-06T12:42:43.000Z,8,2,1,0,0,,
+235682013,day_2,,,8010550,https://cdn2.scratch.mit.edu/get_image/project/235682013_480x360.png,2018-07-06T12:47:06.000Z,2018-07-06T12:54:57.000Z,2018-07-06T12:54:57.000Z,13,3,1,0,0,,
+235675924,Day 2: Planting the 8-bit flower,,Click anywhere to make it bloom! :),24957617,https://cdn2.scratch.mit.edu/get_image/project/235675924_480x360.png,2018-07-06T11:31:14.000Z,2018-07-09T09:09:24.000Z,2018-07-06T13:00:56.000Z,8,3,1,0,0,,
+235682482,Getting Unstuck Day 2,"I decided to do this in as unusual way as I could think of:
+- the backdrop detects clicks
+- it creates a clone of a costumeless drawing sprite for each click
+- it uses the pen with a large pen size value to draw circles without having to move the pen
+
+I liked this approach because the clones mean you could be drawing more than one flower at a time. I think it's fun not to have any costumes for the sprite - so no worrying about hiding the original sprite when using clones. I could add some more variety to the flowers drawn by having a whole set of parameters beyond size and colour. Maybe the pen could be used to draw spirograph flowers. Stalks would be fun. Maybe add an animated bee to enjoy the flowers.
+","Getting Unstuck Day 2
+
+Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be?",2314547,https://cdn2.scratch.mit.edu/get_image/project/235682482_480x360.png,2018-07-06T12:52:23.000Z,2018-07-06T13:38:19.000Z,2018-07-06T13:11:59.000Z,9,2,1,0,0,,
+235677346,FIORI NELLO SPAZIO /Getting Unstuck 2,Ho sbirciato qualche progetto. Grazie a tutto il gruppo.,"Getting Unstuck  Secondo giorno.
+
+Fiori che sbocciano e ruotano nello spazio.",13746945,https://cdn2.scratch.mit.edu/get_image/project/235677346_480x360.png,2018-07-06T11:51:05.000Z,2018-07-06T13:15:41.000Z,2018-07-06T13:08:26.000Z,14,6,1,0,0,,
+235682439,day2,,,8507982,https://cdn2.scratch.mit.edu/get_image/project/235682439_480x360.png,2018-07-06T12:51:47.000Z,2018-07-06T13:16:22.000Z,2018-07-06T13:16:21.000Z,10,2,1,0,0,,
+235681332,My flower garden ,#Getting Unstuck Day 2,"Click green flag to start.
+
+Click stage to see all the flowers in my garden. ",158902,https://cdn2.scratch.mit.edu/get_image/project/235681332_480x360.png,2018-07-06T12:39:03.000Z,2018-07-25T04:35:52.000Z,2018-07-06T13:18:10.000Z,13,5,2,0,0,,
+235679573,Watch the Garden grow ,"Spend way too much time erasing background. Can not figure out how the erase background feature in the bitmap works. So ... Then had some trouble with the appearing and disappearing. So decided to use a couple of broadcasts. (Cheap shot.. I know). And of course when I was all done.. I realized the background had yellow, not orange BE susans! Oh well ! ",,14017205,https://cdn2.scratch.mit.edu/get_image/project/235679573_480x360.png,2018-07-06T12:18:24.000Z,2018-07-06T13:31:18.000Z,2018-07-06T13:24:35.000Z,14,2,1,0,0,,
+235684010,Day 2,,Click the background to add more flowers.,22256610,https://cdn2.scratch.mit.edu/get_image/project/235684010_480x360.png,2018-07-06T13:09:02.000Z,2018-07-06T13:27:29.000Z,2018-07-06T13:27:03.000Z,3,2,1,0,0,,
+235682866,Getting Unstuck Day 2,"Most of the time I spent on this went into drawing the flower. I was inspired to work on my digital drawing skills by a student I worked with this summer. My biggest problem with the digital drawing has always been impatience, but I am working on it. 
+
+If I had more time before today's soccer matches, I would have drawn different flowers rather than duplicating and changing the colors.",Click the upper half of the stage to plant flowers in the garden.,17767933,https://cdn2.scratch.mit.edu/get_image/project/235682866_480x360.png,2018-07-06T12:56:46.000Z,2018-07-06T13:32:11.000Z,2018-07-06T13:32:11.000Z,21,4,1,0,0,,
+235676015,us2-Click on the Beach,Used conditionals on x & y coordinates to generally restrict the placement to areas with sand and to ensure a full tree or umbrella shows. ,"Press Green Flag to begin. 
+- Choose Palm Tree or Umbrella
+- Click the beach image to plant your choice in the sand.",22788794,https://cdn2.scratch.mit.edu/get_image/project/235676015_480x360.png,2018-07-06T11:32:13.000Z,2018-07-06T13:36:56.000Z,2018-07-06T13:30:54.000Z,8,2,1,0,0,,
+235683010,Day 2 Flower Challenge of Getting Unstuck,"This is the Day 2 Challenge of Getting Unstuck. 
+
+",Click on Green Flag to start then whenever you click more flowers appear,588430,https://cdn2.scratch.mit.edu/get_image/project/235683010_480x360.png,2018-07-06T12:58:02.000Z,2018-07-06T13:40:12.000Z,2018-07-06T13:30:44.000Z,23,6,1,0,0,,
+235683940,Flowers in the Rain,"I was going to have a bunch of flower costumes, then I thought about drawing flower shapes.
+
+It was raining this morning, so I added that, too.
+Thunder sound from www.freesoundeffects.com","Getting Unstuck Day 2: Display a flower each time that the user clicks on the background.
+
+Click on the background.  If you like to click fast, use turbo mode.
+
+If you wait, rain will start to water your flowers.",399245,https://cdn2.scratch.mit.edu/get_image/project/235683940_480x360.png,2018-07-06T13:08:13.000Z,2018-07-23T22:55:00.000Z,2018-07-06T13:49:41.000Z,14,3,2,0,0,,
+235685977,Gordon_Day 2 Getting Unstuck,"need to work on the timing required to pause the ""track the mouse script"" so that the sprite has draw flowers but not too much time to lag.",Click green flag to start.  When you click in the play field you will draw a flower.  Click the space bar to clear all flowers.,18900622,https://cdn2.scratch.mit.edu/get_image/project/235685977_480x360.png,2018-07-06T13:29:40.000Z,2018-07-06T14:01:43.000Z,2018-07-06T13:56:00.000Z,9,3,1,0,0,,
+235685844,Day 2 of Getting Unstuck,"Day 2 of Getting Unstuck, la sfide continua.
+Alla ricerca di blocchi mai usati, ma sicura che ci sono. Sperimentando varie ipotesi per poi raggiungere un risultato, che non sarà mai definitivo, perchè una volta condiviso vengono in mente nuove idee ed ipotesi.",Clicca sulla bandierina verde e segui le istruzioni di Scratch,10086796,https://cdn2.scratch.mit.edu/get_image/project/235685844_480x360.png,2018-07-06T13:28:29.000Z,2018-07-06T14:03:40.000Z,2018-07-06T14:01:28.000Z,21,5,1,0,0,,
+235687774,Day 2-Click to create flower - Growing a Garden,"Day 2 Getting Unstuck - Display a flower each time that the user clicks on the background. 
+
+I used multiple costumes with different kinds of flowers and an operator to choose a random costume. I used this same approach to play different tones for each stamp and give the user time to move the cursor. I think it would be neat to create a variable so a voice sang the name of each kind of flower in the project.",Click on the background to create your garden.,16509596,https://cdn2.scratch.mit.edu/get_image/project/235687774_480x360.png,2018-07-06T13:49:08.000Z,2018-07-18T01:20:19.000Z,2018-07-06T14:26:09.000Z,20,7,2,0,0,,
+235689796,Getting Unstuck Day 2,"After the trauma of yesterday this worked really well so I am feeling a lot better about this.
+I still had to look at someone else's code, but I'd nearly got it right.",Click the background to make the flowers appear,3297086,https://cdn2.scratch.mit.edu/get_image/project/235689796_480x360.png,2018-07-06T14:13:32.000Z,2018-07-06T14:29:28.000Z,2018-07-06T14:29:28.000Z,8,2,1,0,0,,
+235690101,Flower Frenzy,"So, I maybe interpreted this project differently than others, but I got a chance to play around with cloning...and I had never actually used the ""when stage clicked"" block before!",Just click!,18678040,https://cdn2.scratch.mit.edu/get_image/project/235690101_480x360.png,2018-07-06T14:18:20.000Z,2018-07-06T14:30:29.000Z,2018-07-06T14:29:26.000Z,4,2,1,0,0,,
+235690003,Unstuck Day 2,,,8448794,https://cdn2.scratch.mit.edu/get_image/project/235690003_480x360.png,2018-07-06T14:16:44.000Z,2018-07-06T14:31:04.000Z,2018-07-06T14:31:04.000Z,6,2,1,0,0,,
+235691379,Challenge2Flower,"Ran into issues with the clone limit, but, upon advice from karenb, I fixed it with the stamp block. ","After the wizard finishes speaking, click for flowers. ",2190314,https://cdn2.scratch.mit.edu/get_image/project/235691379_480x360.png,2018-07-06T14:35:15.000Z,2018-07-24T11:45:34.000Z,2018-07-06T14:38:25.000Z,9,2,1,0,0,,
+235674911,Getting Unstuck Challenge 2,"I love playing in Scratch as much as my students do.
+
+I pulled in an image of a cactus and editing it to make sure the background was empty. I added a water droplet sound for fun.","Click on the green flag to start. When you click your mouse on the background, cacti will appear.",21000359,https://cdn2.scratch.mit.edu/get_image/project/235674911_480x360.png,2018-07-06T11:17:58.000Z,2018-07-06T14:39:38.000Z,2018-07-06T14:37:50.000Z,4,1,1,0,0,,
+235690906,Getting Unstuck #2,,,18174236,https://cdn2.scratch.mit.edu/get_image/project/235690906_480x360.png,2018-07-06T14:28:52.000Z,2018-07-06T14:44:28.000Z,2018-07-06T14:44:28.000Z,6,1,1,0,0,,
+235688453,Beautiful flowers,,"Click the green flag to start, then click anywhere on the picture and four pictures will eventually pop up.  ",18512618,https://cdn2.scratch.mit.edu/get_image/project/235688453_480x360.png,2018-07-06T13:57:16.000Z,2018-07-06T14:56:47.000Z,2018-07-06T14:56:47.000Z,5,1,1,0,0,,
+235691826,Day 2 Flowers,,Start by clicking on the green flag. Click anywhere to make flowers. Use the space bar to clear flowers.,3079669,https://cdn2.scratch.mit.edu/get_image/project/235691826_480x360.png,2018-07-06T14:41:04.000Z,2018-07-06T15:02:44.000Z,2018-07-06T15:00:04.000Z,31,11,3,0,0,,
+235674469,Droppin' Daisies,"I'd never used pen blocks in a project before, and used this project to try it out. For help, I used the tips window quite a bit, and also searched online to read about pen blocks on the Scratch Wiki and Discussion Forum pages.
+
+I used variables on sliders so new Scratchers can play with the behavior of the project before they even hit the 'See Inside' button. This also gives them some familiarity with what each variable block affects, so they will have some background knowledge once they start looking at the scripts.
+
+This variables idea is more developed in the Bug Maker project I made back in January: https://scratch.mit.edu/projects/200011652/#player","Click the stage to have the butterfly drop a seed. Pick your daisy color and brightness with the variable sliders, or turn up 'Variety!' and be surprised!
+
+What variable settings did you use to make your garden?
+
+Made for Day 2 of 'Getting Unstuck' (display a flower each time that the user clicks on the background)
+
+",27306974,https://cdn2.scratch.mit.edu/get_image/project/235674469_480x360.png,2018-07-06T11:12:05.000Z,2018-07-28T19:02:35.000Z,2018-07-06T15:03:18.000Z,27,6,2,0,0,,
+235691231,Day 2 Getting Unstuck part 2,Second attempt at this and I decided to refine my first idea once I'd had a look at other people's.  I feel that I've really learnt a lot today. ,Click the grass to make your garden grow.,3297086,https://cdn2.scratch.mit.edu/get_image/project/235691231_480x360.png,2018-07-06T14:33:03.000Z,2018-07-06T15:04:01.000Z,2018-07-06T15:04:01.000Z,16,2,1,0,0,,
+235690291,Getting Unstuck: Day 2,"Reflection
+
+I wanted to generate a variety of different flowers from a simple set of rules and I wanted them to be animated as they were being drawn onto the screen. To accomplish this, I started with a simple flower shape and set it to hidden at the start. When the stage is clicked, the sprite is cloned and a process begins that creates a randomly generated flower. Two loops are used, one for creating the size and colors, while the other is used to animate the flower as it grows. Once an animation completes, the image is stamped. Once then entire process completes, the clone is deleted to prevent the project from slowing down. If I spent more time on this I would have created custom flower graphics.",Click screen to generate a flower.,26264460,https://cdn2.scratch.mit.edu/get_image/project/235690291_480x360.png,2018-07-06T14:21:12.000Z,2018-07-06T15:24:59.000Z,2018-07-06T14:51:54.000Z,21,6,2,0,0,,
+235684481,Get Unstuck #2 Flowers,My first time using the stamp command. Changing the color seemed to be a natural choice.,Click to plant the flowers,199913,https://cdn2.scratch.mit.edu/get_image/project/235684481_480x360.png,2018-07-06T13:14:31.000Z,2018-07-06T15:19:58.000Z,2018-07-06T15:10:17.000Z,9,4,2,0,0,,
+235690771,GettingUnstuck_#2,"This project was created for Getting Unstuck Day2. I'm going to apply the Clone function and randomly change the costumes of the flower sprite. By the way, I want to let the flowers bloom have different scales, so I use the y-coordinate as the parameter while setting up the size.   ","Click the background, and the flowers will be blooming. ",31325002,https://cdn2.scratch.mit.edu/get_image/project/235690771_480x360.png,2018-07-06T14:26:58.000Z,2018-07-26T03:38:13.000Z,2018-07-06T15:07:10.000Z,15,5,3,0,0,,
+235692086,Unstuck Day #2,"Unstuck Day #2
+Display a flower each time that the user clicks on the background.","Click on the background to draw a random flower.
+Press the spacebar to clear the screen.
+",24464388,https://cdn2.scratch.mit.edu/get_image/project/235692086_480x360.png,2018-07-06T14:44:17.000Z,2018-07-06T15:30:41.000Z,2018-07-06T15:23:27.000Z,8,3,1,0,0,,
+235692495,Getting Unstuck: Day 2,"Getting Unstuck: Day 2
+Challenge: Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be? 
+
+I had fun doing this project. I used a new block: go to mouse-pointer.
+","Click on the background in any place, will appear a flower.",17615581,https://cdn2.scratch.mit.edu/get_image/project/235692495_480x360.png,2018-07-06T14:50:27.000Z,2018-07-22T14:57:32.000Z,2018-07-09T15:12:36.000Z,8,1,1,0,0,,
+235695579,Planting Flowers,"I was trying to use ""clone,"" but after the first click, every flower was cloning instead of adding one at a time. I looked at some other projects and they used ""stamp,"" which I had never tried. I learned something new today!",Click on the background to plant a flower.,13189460,https://cdn2.scratch.mit.edu/get_image/project/235695579_480x360.png,2018-07-06T15:28:42.000Z,2018-07-06T16:27:24.000Z,2018-07-06T15:51:47.000Z,13,2,1,0,0,,
+235696014,Unstuck Day 2,"Using graphics effects for these sprites created a conflict with the script that said ""hide / forever [ if mouse down ] > show"".
+
+Using the If / else block instead of the mere if block solved this problem.","Click the green flag, then click the stage and move your cursor around while holding the mouse down.
+
+One flower will follow the mouse; a second flower will follow the first flower.
+
+Update: at @paulinah's suggestion, a flower appears wherever the mouse is",33815227,https://cdn2.scratch.mit.edu/get_image/project/235696014_480x360.png,2018-07-06T15:34:38.000Z,2018-07-07T15:49:11.000Z,2018-07-06T15:55:27.000Z,6,3,1,0,0,,
+235688017,Getting Unstuck Day 2 - flowers,"This one I started out by checking out all the other project. I got tons of ideas of how to randomize the flower size and color.  I can now see the value of students remixing other projects. I learned a lot just by checking out how others had done it!
+
+Two things I'd like to learn how to do:
+1) I want the flowers to fade/disappear after a few seconds so the user has to keep adding flowers. Perhaps using clones?
+2) I used conditionals to restrict where the user could click to plant a flower (so they can't click off the screen). But I found that flowers still ended up hanging off the screen. I need to figure out how to make it so the flowers can't hand half off the screen.","Click the green flag to start. Click anywhere in the dirt to plant a flower. Make your flower garden grow!
+
+Created for Getting Unstuck Day 2: Display a flower each time that the user clicks on the background.",2803184,https://cdn2.scratch.mit.edu/get_image/project/235688017_480x360.png,2018-07-06T13:52:11.000Z,2018-07-06T16:06:41.000Z,2018-07-06T16:01:51.000Z,11,3,1,0,0,,
+235695093,Untstuck_Day2_Wynne,I used the stamp tool.  I'm not sure why I had to change the values of x and y to make it stamp where the mouse was clicked.  That took some trial and error to figure out.,Help spruce up the landscape by adding flowers.  Press the space bar or the green flag to clear and start over.,21171472,https://cdn2.scratch.mit.edu/get_image/project/235695093_480x360.png,2018-07-06T15:22:37.000Z,2018-07-07T01:22:25.000Z,2018-07-06T16:17:41.000Z,6,1,1,0,0,,
+235699186,Getting Unstuck Day 2 - flowers remix,"The original project poster asked about making the flowers not go off screen. I also added one possible fading clone script.
+
+The off-the-edge code checks to see if the sprite is touching the edge before stamping. If it does, it points towards the center and moves ten steps, then repeats until it is not touching the edge.
+
+To point towards the center, I hid a ball sprite at x:0 y:0 and had the flower sprite point towards that sprite.","Click the green flag to start. Click anywhere in the dirt to plant a flower. Make your flower garden grow!
+
+Created for Getting Unstuck Day 2: Display a flower each time that the user clicks on the background.",14632339,https://cdn2.scratch.mit.edu/get_image/project/235699186_480x360.png,2018-07-06T16:17:10.000Z,2018-07-06T16:47:33.000Z,2018-07-06T16:22:35.000Z,10,3,1,0,0,235688017,235688017
+235681964,Unstuck 2 - Flowers,"Fun oppurtunity to play a little bit with randomness (petal color and leaf placement). Started with the idea that there would be more moving parts, so I set everything up as functions (new blocks) but I ended up not really needing to. Halfway through I started thinking about petal placement and the Fibbonoci sequence, but that will have to wait for another project!",Click and enjoy!,7902,https://cdn2.scratch.mit.edu/get_image/project/235681964_480x360.png,2018-07-06T12:46:39.000Z,2018-07-06T16:45:03.000Z,2018-07-06T16:24:51.000Z,6,2,1,0,0,,
+235694667,day2,,,23593293,https://cdn2.scratch.mit.edu/get_image/project/235694667_480x360.png,2018-07-06T15:17:30.000Z,2018-07-06T16:25:45.000Z,2018-07-06T16:25:44.000Z,6,1,1,0,0,,
+235696407,Flower Power,Unplug Day 2: Display a flower each time that the user clicks on the background. ,Click the green flag to start. Click anywhere on the background to see a flower.,25332755,https://cdn2.scratch.mit.edu/get_image/project/235696407_480x360.png,2018-07-06T15:39:36.000Z,2018-07-06T16:54:39.000Z,2018-07-06T16:04:46.000Z,19,2,1,0,0,,
+235699623,Unstuck Day 2 Rushing,"I used a lesson I teach my 4th and 5th graders each year as the inspiration for this challenge.  Learning about functions is part of our computer science curriculum and this is a fun way to help them practice creating functions with parameters.
+
+I created two functions -- one for the flower and one for the stem.  Using the ""pick random number"" block made it very easy to have different color flower petals and centers -- as well as flowers with different numbers of petals.  
+
+This project was adapted from a lesson I found in a DK publishing book called ""Coding Projects in Scratch"". ","Draw flowers using Functions!  Click the Space Bar to clear any ""gardens"" and Click the Green Flag to start the program.  Every time you click your mouse on the stage, you will grow a flower. ",7525698,https://cdn2.scratch.mit.edu/get_image/project/235699623_480x360.png,2018-07-06T16:23:34.000Z,2018-07-06T17:38:25.000Z,2018-07-06T16:39:55.000Z,24,9,5,0,0,,
+235697206,Getting Unstuck #2: Interactive flowers,"Scratch project was created as activity #2 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+Day #2 Challenge: Display a flower each time that the user clicks on the background. 
+I used the stamp block after seeing other similar projects! My first choice was the clone block, but I realized stamp works better!
+Article: http://scratchfromscratch.com/pdfs/chapter5.pdf",Press the green flag.,1202362,https://cdn2.scratch.mit.edu/get_image/project/235697206_480x360.png,2018-07-06T15:50:41.000Z,2018-07-07T17:23:33.000Z,2018-07-06T16:38:00.000Z,12,2,1,0,0,,
+235696410,GettingUnstuck#2 - Multicoloured Flower Power,"Getting Unstuck challenge/exercise#2 - ""Display a flower each time that the user clicks on the background""
+
+Started off thinking I would need lots of flower sprites. Then it got messy and some searching suggested clones. Check out the use of the ""clone"" variable's use to stop clone's being cloned on later clicks.
+
+Based on other people's work it looks like the ""stamp"" block may have made things easier (so lesson learned for today!)",Click the grassy background to make a new flower appear (a different colour with each click!),15872912,https://cdn2.scratch.mit.edu/get_image/project/235696410_480x360.png,2018-07-06T15:39:39.000Z,2018-07-06T17:03:08.000Z,2018-07-06T16:42:51.000Z,10,1,1,0,0,,
+235689291,Getting Unstuck Challenge 2 - Plant,"My wife has several of these in our yard. Thought I'd use it as my idea. And yes, that is me...........
+
+I have to work out the layering system for multiple clones and their location within the planter, stored in a list. Each flower has an id, size and y position stored in a list. Will add that later on. 
+
+I also plan to turn this project into a Counting Game for my Kindergarten/1st Grade students. Ex: Please plant 2 red, 1 pink, 1 orange flower. Once they do they will watch them grow, then the next plant instructions will come.
+
+I also may add a save system to reload your planter if you wanted","Click the Green Flag
+
+Click the planting area of the flower bed. 
+
+Added delete function. Hold space and click a flower you planted to delete it from the box 
+",3158946,https://cdn2.scratch.mit.edu/get_image/project/235689291_480x360.png,2018-07-06T14:06:53.000Z,2018-07-07T02:15:11.000Z,2018-07-06T16:46:29.000Z,21,8,2,0,0,,
+235701746,Unstuck Day 2 Rushing remix,"This is a great original project. I modified the script so the ball follows the mouse around, then checks to see if it is touching the green grass color before creating a clone. It lags a little bit so won't always make a flower if I click too fast.
+
+I also made the stalk length and width vary slightly. What can I say? I actively seek ways of adding random blocks to my code.","Draw flowers using Functions!  Click the Space Bar to clear any ""gardens"" and Click the Green Flag to start the program.  Every time you click your mouse on the stage, you will grow a flower. ",14632339,https://cdn2.scratch.mit.edu/get_image/project/235701746_480x360.png,2018-07-06T16:53:15.000Z,2018-07-06T17:00:07.000Z,2018-07-06T16:57:39.000Z,4,2,1,0,0,235699623,235699623
+235696256,Basil Flowers [editing],"I'd like to keep working to get the flowers to stay, and THEN to create a scissor sprite which can be used to cut off the flowers to keep the delicious leaves growing!
+
+scissor sprite from:
+https://pngtree.com/element/down?id=MjcxNTg2Nw==&type=1",The basil is eager to grow and ready to bloom! Press the basil to bloom flowers!,25705937,https://cdn2.scratch.mit.edu/get_image/project/235696256_480x360.png,2018-07-06T15:37:37.000Z,2018-07-24T10:24:12.000Z,2018-07-06T16:59:29.000Z,19,4,1,0,0,,
+235692994,I love flowers - - Getting Unstuck day 2,,"Click on the green flag.
+Click anywhere on the background to display a new flower.
+
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->
+Getting Unstuck: Day 2 - #CreativeComputing
+
+A flower is displayed each time that the user clicks on the background.
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->",24583107,https://cdn2.scratch.mit.edu/get_image/project/235692994_480x360.png,2018-07-06T14:56:32.000Z,2018-07-06T17:02:02.000Z,2018-07-06T17:02:02.000Z,23,6,1,0,0,,
+235699416,Getting Unstuck: Day 2. A world of flowers,,"Every time you click on the background, many flowers appear.",18190669,https://cdn2.scratch.mit.edu/get_image/project/235699416_480x360.png,2018-07-06T16:20:19.000Z,2018-07-06T17:14:28.000Z,2018-07-06T17:14:28.000Z,8,3,1,0,0,,
+235675028,#GettingUnstuck_2,,,16962202,https://cdn2.scratch.mit.edu/get_image/project/235675028_480x360.png,2018-07-06T11:19:28.000Z,2018-07-06T17:21:18.000Z,2018-07-06T17:21:18.000Z,5,1,1,0,0,,
+235702225,#GettingUnstuck2 Growing GIF Flowers,"Flower taken from http://www.gifs.cc/flowers.shtml
+
+Clones need some extra CPU, so please don't create a lot :)","Press Green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 2
+
+""Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be?""
+
+",1112440,https://cdn2.scratch.mit.edu/get_image/project/235702225_480x360.png,2018-07-06T17:00:09.000Z,2018-07-18T16:12:15.000Z,2018-07-06T17:32:07.000Z,10,4,1,0,0,,
+235704309,Getting Unstuck Day 2,,,32626504,https://cdn2.scratch.mit.edu/get_image/project/235704309_480x360.png,2018-07-06T17:27:43.000Z,2018-07-06T20:31:58.000Z,2018-07-06T20:29:28.000Z,6,2,1,0,0,,
+235702110,Flower gardener Day 2 Getting Unstuck,"What did you like most about your project? I love the different flowers and that if you hold down your mouse, they keep growing in one spot.
+
+What would you do with it next, if you had more time? I originally wanted the flowers to come one per click, so I would try to figure out how to make that happen.","Click the green flag, click where you want to plant a flower. 
+
+Press the space bar to clear your flowers.",28676433,https://cdn2.scratch.mit.edu/get_image/project/235702110_480x360.png,2018-07-06T16:58:26.000Z,2018-07-09T19:36:35.000Z,2018-07-06T17:53:44.000Z,11,2,1,0,0,,
+235705089,Getting Unstuck Day 2 Revised,"I decided to use the clone block. This was a great challenge for me, I have never used the clone block or checked for a mouse click before.
+I noticed I had to add a wait so a flower is not placed when I cleck the green flag.
+
+7/24 - update to use the clone block from the stage which works better. Also added a different flower and multiple costumes in different colors. Used random to select the color and size of the clone.
+","Click the green flag to begin planting flowers.
+Updated from Day 20.
+",11305008,https://cdn2.scratch.mit.edu/get_image/project/235705089_480x360.png,2018-07-06T17:38:36.000Z,2018-07-24T19:05:01.000Z,2018-07-06T17:59:56.000Z,9,4,1,0,0,,
+235697829,Getting Unstuck Day 2 #1,,"Click on the background to add a flower. I uploaded a flower petal and worked with different ways to repeat it to make a flower. I had to adjust the rotational axis so it was at the end of the flower petal, not the center by default. I also added a black ellipse on the end to create the center part of the flower.",17824064,https://cdn2.scratch.mit.edu/get_image/project/235697829_480x360.png,2018-07-06T15:58:43.000Z,2018-07-06T18:06:14.000Z,2018-07-06T15:59:12.000Z,5,1,1,0,0,,
+235706419,Getting Unstuck Day 2 #2,,Click on the background to add a flower. Instead of uploading a flower petal I drew a petal using the Scratch editor. When you draw the axis is the center already so I just drew my petal out from the center. This worked too.,17824064,https://cdn2.scratch.mit.edu/get_image/project/235706419_480x360.png,2018-07-06T17:56:49.000Z,2018-07-06T18:07:34.000Z,2018-07-06T18:02:31.000Z,9,4,2,0,0,,
+235704185,Day 2,"After clicking through yesterday's studio, I really wanted to make use of the variables. I just never think of using them! However, this was my automatic solution and I had a hard time pushing myself into a new way - I might play with this more or create a new one later.
+
+Music - Vivaldi Spring Movement I Allegro by John Harrison with the Wichita State University Chamber Players via Free Music Archive",Click the Green Flag,18341966,https://cdn2.scratch.mit.edu/get_image/project/235704185_480x360.png,2018-07-06T17:26:10.000Z,2018-07-06T18:14:53.000Z,2018-07-06T18:00:42.000Z,14,4,1,0,0,,
+235614853,Unstuck Day 2: Daisy Days,"Made daisy sprites.
+Took me a while to figure out how to change flowers - first time using ""costumes"".  Appreciate having many samples of coding stamps and clones as examples!  ",Display a flower each time that the user clicks on the background. ,18337230,https://cdn2.scratch.mit.edu/get_image/project/235614853_480x360.png,2018-07-05T19:33:26.000Z,2018-07-06T18:04:04.000Z,2018-07-06T18:04:04.000Z,29,6,2,0,0,,
+235704919,Day 2 - plant flowers in the desert,"Getting Unstuck: Day 2
+Display a flower each time that the user clicks on the background","click on the stage where you want a flower grows up.
+
+",2143382,https://cdn2.scratch.mit.edu/get_image/project/235704919_480x360.png,2018-07-06T17:36:13.000Z,2018-07-06T20:49:29.000Z,2018-07-06T18:10:21.000Z,17,4,2,0,0,,
+235701889,Untitled-4,,"Натисніть зелений прапорець, щоб розпочати роботу з проект.",34214776,https://cdn2.scratch.mit.edu/get_image/project/235701889_480x360.png,2018-07-06T16:55:14.000Z,2018-07-06T18:18:51.000Z,2018-07-06T18:17:36.000Z,9,2,1,0,0,,
+235706472,Getting Unstuck | Day 2 | 21 Days of Flowers remix,"I changed it to one day, just to mess around with the clone code you left in the script area. 
+
+I tried a few basic shapes (line, ellipse, circle) then made each petal a clone, growing then shrinking, changing colors along the way. Is this closer to ""falling petals?""","Every time you click on the background, a flower appears. After 21 clicks (in honor of the 21 days of Getting Unstuck), a poem about petals appears, and the project resets. Everything is iterative!",14632339,https://cdn2.scratch.mit.edu/get_image/project/235706472_480x360.png,2018-07-06T17:57:34.000Z,2018-07-06T18:34:45.000Z,2018-07-06T18:21:59.000Z,14,2,2,0,0,235590337,235590337
+235705607,Getting Unstuck 2,I used clones to create a flower whenever the mouse was down. I had to add some waits in to prevent it from being a little too sensitive and creating a ton of flowers at once.,"Click the green flag to get started, then click the background to add a flower to the flowerbed. You can also hold the mouse down to add multiple flowers. Click the squirrel to remove the flowers.",18044195,https://cdn2.scratch.mit.edu/get_image/project/235705607_480x360.png,2018-07-06T17:45:55.000Z,2018-07-06T19:17:38.000Z,2018-07-06T18:22:14.000Z,6,1,1,0,0,,
+235699394,Getting Unstuck Day 2 flower power,Well I cheated... I went through the questions board.  A lot of this thinking can be attributed to P444.  So P444 if you are out there... Thank you so much.  For what it is worth I did spend a good hour trying to figure this out before going to the boards. ,Click where you want the picture of the flower to appear. ,34141039,https://cdn2.scratch.mit.edu/get_image/project/235699394_480x360.png,2018-07-06T16:20:01.000Z,2018-07-06T18:27:28.000Z,2018-07-06T18:24:09.000Z,4,1,1,0,0,,
+235707351,Unstuck Day 2,If I had more time I would find a better flower or take more time to draw the one I made a little neater.,,26877789,https://cdn2.scratch.mit.edu/get_image/project/235707351_480x360.png,2018-07-06T18:09:53.000Z,2018-07-06T18:34:02.000Z,2018-07-06T18:32:59.000Z,6,1,1,0,0,,
+235708476,Day 2 Unstuck Flower Creation,"I like the simplicity of the stamp tool here.  But what I really wanted to do was use the pen down tool and draw out my flower with commands.  
+
+Unfortunately I kept running into issues with letting it run after the mouse down was detected.",Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be? ,20446522,https://cdn2.scratch.mit.edu/get_image/project/235708476_480x360.png,2018-07-06T18:24:34.000Z,2018-07-06T18:53:33.000Z,2018-07-06T18:51:59.000Z,8,2,1,0,0,,
+235709545,Getting Unstuck | Day 2 | 21 Days of Flowers remix,"I attempted the clone approach to make the petals fade after a few seconds. It was only semi-successful. Making all the petals clones very quickly made the program glitch like crazy. I combined the clone/stamp approaches to at least the get the last petal to fall and fade away. It still gets a little glitchy if you click too fast though. If you wait a few seconds for old clones to be deleted before adding new ones it's okay.
+
+I thought this project was so pretty, and I liked the idea of leaving in unused code blocks with comments to show process. I will definitely use that with my students next year. Thanks Karen!","Every time you click on the background, a flower appears. After 21 clicks (in honor of the 21 days of Getting Unstuck), a poem about petals appears, and the project resets. Everything is iterative!",18044195,https://cdn2.scratch.mit.edu/get_image/project/235709545_480x360.png,2018-07-06T18:39:12.000Z,2018-07-06T19:14:03.000Z,2018-07-06T19:09:30.000Z,6,2,1,0,0,235590337,235590337
+235689859,Flower chain reation! (Getting Unstuck Day 2),"Thinking about something appearing when the stage was clicked reminded me something. And then I realized it was one of my first scratch projects.
+So I adapted it in a floral version.
+Modifying a code I had written a lot of years ago is hard (I regret I didn't comment it out) and I notice now I know a bit better Scratch so I could make it simpler.
+Anyway, I'm very proud of this game because I played it on prehistorical smartphones :) and I like how it is similar to the original game.
+If I had more time I would have use images with higher quality and simplified the code.","One click per level.
+Trigger a flower chain reaction!
+
+P.s. There is at least one magic easter egg :)",2417641,https://cdn2.scratch.mit.edu/get_image/project/235689859_480x360.png,2018-07-06T14:14:28.000Z,2018-07-06T19:32:31.000Z,2018-07-06T19:17:07.000Z,19,7,3,0,0,,
+235710022,day 2,,press green flag and injoy,34188789,https://cdn2.scratch.mit.edu/get_image/project/235710022_480x360.png,2018-07-06T18:46:25.000Z,2018-07-07T04:41:08.000Z,2018-07-06T19:29:55.000Z,7,1,1,0,0,,
+235709095,Let flowers bloom,"This was a good excuse to explore Scratch colors; I've never really taken the time to do that. If I had more time, I'd investigate ways to filter out certain color ranges.","Click the stage to plant a flower ; )
+Click the X to clear the stage.",1188602,https://cdn2.scratch.mit.edu/get_image/project/235709095_480x360.png,2018-07-06T18:34:02.000Z,2018-07-06T19:47:01.000Z,2018-07-06T19:32:11.000Z,9,3,2,0,0,,
+235711805,Hayfever,"One downside of looking to the studio to be inspired... you want to recreate some of the best projects and you  don't get creative yourself... at least that's what I had trouble with this time.  
+
+Again, I am struggling with keeping things light and fun... god, I must be a blast around the kids!  ","Getting Unstuck - Day #2.
+
+Click anywhere on the stage to paint a flower.  Be careful - don't paint too many flowers...:)
+",2876976,https://cdn2.scratch.mit.edu/get_image/project/235711805_480x360.png,2018-07-06T19:12:25.000Z,2018-07-06T19:47:21.000Z,2018-07-06T19:44:43.000Z,14,3,1,0,0,,
+235712146,Getting Unstuck: Day 2,,,26997619,https://cdn2.scratch.mit.edu/get_image/project/235712146_480x360.png,2018-07-06T19:17:43.000Z,2018-07-06T19:55:27.000Z,2018-07-06T19:55:26.000Z,11,3,2,0,0,,
+235692278,Getting Unstuck Day 2 Flower Clones on Mouse,,,11634746,https://cdn2.scratch.mit.edu/get_image/project/235692278_480x360.png,2018-07-06T14:46:59.000Z,2018-07-08T17:16:34.000Z,2018-07-06T19:46:26.000Z,9,1,1,0,0,,
+235711054,Unstuck - Day 2,"This was a tough challenge!  But we enjoyed making it!  Again, I worked with my daughter to complete this project.  Here are some things we tried.
+First we found a background that would be suitable for planting flowers.
+Then we created a flower sprite with three costumes. We wanted a different flower to appear where your mouse was pointing each time you clicked your mouse.
+We experimented with the stamp block under pen, but could not make the flower appear when we clicked, so we added the if...then conditional with a mouse down sensing block in it.  It still wasn't working.  I explained to my daughter that when you clicked the green flag, it only checked one time to see if the mouse was down, so we would need a forever block wrapped around it, so the program would constantly check to see when the mouse was down.  The stamp feature still would not work, so we experimented with the create a clone of myself block.  It was working, but only one flower would be stamped, so we added a next costume block.  Now it printed three different flowers all at once.  Adding a wait block solved that issue.  Next, we wanted to hide the initial flower, so we added the hide block before the forever and put in a show block after the if...then conditional.  Finally, we had to decide whether or not to keep the Scratch Cat.  Of course, we kept him - he's the hero.  He gives the user a purpose and directions for planting a garden.
+
+After looking at other people's projects, I liked how jrushing72 used functions to define drawing random sized/colored flowers.  I may use that example for my define a block lesson later this year.  I also found a project that had a similar problem as mine and I made a suggestion to add a wait block.     
+",Click the green flag to start!,2456527,https://cdn2.scratch.mit.edu/get_image/project/235711054_480x360.png,2018-07-06T19:01:57.000Z,2018-07-06T19:56:50.000Z,2018-07-06T19:40:54.000Z,7,2,1,0,0,,
+235705501,Unstuck 2,I wanted a variable that gives exactly three flowers (which was the hardest part),"Starts with green flag
+Spacebar asks for the size of the flower
+Pen draws the flower
+",1072279,https://cdn2.scratch.mit.edu/get_image/project/235705501_480x360.png,2018-07-06T17:44:28.000Z,2018-07-06T20:12:44.000Z,2018-07-06T20:03:58.000Z,13,1,1,0,0,,
+235714243,Day 2 - Getting Unstuck,I thought this lesson was going to take a lot longer but actually really like what I came up with rather quickly.  It also sparked a number of ideas for projects to integrate into other content areas.  ,The schools flower bed is looking a little bare.  Click the green flag and then move the flowers around and click to fill in the empty spaces with some colorful flowers.  ,21213359,https://cdn2.scratch.mit.edu/get_image/project/235714243_480x360.png,2018-07-06T19:53:03.000Z,2018-07-06T20:09:15.000Z,2018-07-06T20:04:51.000Z,10,1,1,0,0,,
+235694837,Day 2 roses,Click the mouse for more roses.,,214,https://cdn2.scratch.mit.edu/get_image/project/235694837_480x360.png,2018-07-06T15:19:28.000Z,2018-07-06T20:11:52.000Z,2018-07-06T20:11:52.000Z,11,4,1,0,0,,
+235713998,Getting Unstuck: Day 2,,,9505598,https://cdn2.scratch.mit.edu/get_image/project/235713998_480x360.png,2018-07-06T19:48:40.000Z,2018-07-06T20:19:32.000Z,2018-07-06T20:19:32.000Z,17,2,1,0,0,,
+235712536,Bloom to Fade: Getting Unstuck Day 2 Flowers,"Getting Unstuck Day 2 Flowers
+
+Creativity: 
+I realized right away that if you kept clicking and adding more flowers, the screen would get really full so that there would have to be some way for the flowers to disappear or be removed. I decided that their petals would fall to the ground before they faded away.
+
+Production:
+Fairly straightforward with a bit of testing and iteration. Drawing the flowers with Scratch's drawing tools was not that difficult. I did run into a bug where the flowers wouldn't change colour each time I clicked, because I put the code for that inside the ""When a clone is created"" block, rather than before the creation of the clone. That means each clone started at the first colour and only changed colour once, so they all ended up at the same colour. Additionally, I had some trouble working out the code to make the size of the flower depend on the y-position of the mouse when clicked. I did have to use my math skills on that one to figure out how to make the size a function of the y-position.
+
+Getting Unstuck:
+I went back to good old paper and pencil to graph the size of the flower as a function of the y-position of the mouse. I used y=mx+b and initially messed up on calculating my b value. The great thing about Scratch is that when I tested it, I saw immediately that the program wasn't doing what I expected it to do, so that I knew I had made an error. Not sure I would have caught that without the immediate feedback. Not so much getting unstuck with my coding as my coding helping me get unstuck with my math!
+Still not sure how to make the flowers appear when the mouse button comes up, as you can simply hold the mouse down as you move it around on the screen.",Move the mouse around and click anywhere on the green grass!,3485356,https://cdn2.scratch.mit.edu/get_image/project/235712536_480x360.png,2018-07-06T19:23:58.000Z,2018-07-07T17:48:05.000Z,2018-07-06T20:09:55.000Z,10,2,1,0,0,,
+235710051,Rose Clicker,"Getting Unstuck Challenge Day 2: ""Display a flower each time that the user clicks on the background."" After playing around with unlimited rose clicks, I decided to keep score and limit it to a dozen, followed by a final message from the sun. Not too complicated, but fun!","Click the green flag to start, then click anywhere on the screen to grow a long-stemmed rose. Once you've grown a dozen, you'll receive a special message!",17801875,https://cdn2.scratch.mit.edu/get_image/project/235710051_480x360.png,2018-07-06T18:47:00.000Z,2018-07-06T20:27:48.000Z,2018-07-06T20:27:48.000Z,9,2,1,0,0,,
+235709811,Day 2 - Getting Unstuck,,,26079479,https://cdn2.scratch.mit.edu/get_image/project/235709811_480x360.png,2018-07-06T18:43:04.000Z,2018-07-24T22:18:49.000Z,2018-07-06T20:48:01.000Z,26,11,6,0,0,,
+235716222,Moon Garden,"I've always liked creating ""interactive gardens"", so I was happy to have a chance to tinker with a new type of interactive garden as part of the Getting Unstuck initiative (challenge #2), organized by the ScratchEd Team: https://gettingunstuck.gse.harvard.edu
+
+The project using cloning to create multiple flowers. At first, I tried to broadcast a message directly from the stage to the flower sprite, telling it to clone. But that led to a bug, since the clones were also receiving the broadcast message. So I added a ""seed"" sprite as an intermediate sprite (between the stage and flower).","Click anywhere on the moon to plant a seed, then watch your flower grow!",167,https://cdn2.scratch.mit.edu/get_image/project/235716222_480x360.png,2018-07-06T20:29:24.000Z,2018-07-08T12:40:19.000Z,2018-07-06T20:56:06.000Z,131,23,10,0,0,,
+235713288,Getting Unstuck Day 2,I learned about vector drawing by making this project. I had no experience with it before this project. ,Click the background and see a surprise. ,266894,https://cdn2.scratch.mit.edu/get_image/project/235713288_480x360.png,2018-07-06T19:35:52.000Z,2018-07-06T21:26:03.000Z,2018-07-06T21:01:50.000Z,6,1,1,0,0,,
+235715012,Getting Unstuck Day 2,"To continue my ocean theme, I decided to have coral reef appear instead of regular flowers for the challenge of displaying a flower every time the background is clicked. By having the coral change color with each click, I added a bit of the vibrancy that coral reef naturally brings to the oceans. 
+
+This was definitely more of a challenge, but it certainly helped to be able to see how others approached the task. ",Click the green flag. Then click anywhere to make the coral reef appear. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/235715012_480x360.png,2018-07-06T20:07:42.000Z,2018-07-06T21:06:51.000Z,2018-07-06T20:55:39.000Z,12,2,1,0,0,,
+235718263,Unstuck 2,I have learned how to use the category PEN in a creative way. Never thought that PEN can be so powerful :) ,,13846307,https://cdn2.scratch.mit.edu/get_image/project/235718263_480x360.png,2018-07-06T21:06:27.000Z,2018-07-06T21:13:35.000Z,2018-07-06T21:09:41.000Z,6,1,1,0,0,,
+235715546,Getting Unstuck - Day 2,It took longer for me to create the flower I wanted and to get a transparent background than to make the actual program. I did jump into cloning this time...I have wanted to figure out how to do that and decided this was a good time to look through the tutorials. Took forever to figure out how to make the flower go away in the beginning with the green flag.,Mom's vase is empty. Click to place fill Mom's vase with pretty flowers! Click the green flag to start over!,2360384,https://cdn2.scratch.mit.edu/get_image/project/235715546_480x360.png,2018-07-06T20:16:29.000Z,2018-07-06T21:17:47.000Z,2018-07-06T21:17:47.000Z,15,1,1,0,0,,
+235694882,Getting Unstuck Day #2: Flowers Dance,"Getting Unstuck: Day 2 - Display a flower each time that the user clicks on the background.
+I remixed an old project to adapt it to the Day#2 challenge, making it interactive. It was not easy because there were so many sprites to control. 
+The original project was made inspired by a wonderful e-card I received from a friend.
+I tried to explore, wondering how could we make an e-card using Scratch. To give originality, I used a picture from an oil work made by myself.
+From the picture, each small group of flowers was cut off to became a separated sprite. 
+Each one goes into the valse ""dancing"".
+Music:  Tchaikovsky's ""Flowers Valse"". 
+
+
+","click on the green flag to start.
+Then click on the ground to add flowers to the vase.
+
+
+
+",2176961,https://cdn2.scratch.mit.edu/get_image/project/235694882_480x360.png,2018-07-06T15:19:53.000Z,2018-07-10T00:30:56.000Z,2018-07-06T21:27:55.000Z,18,6,1,0,0,,
+235717690,Unstuck 02 - Click to show flower,Thank you to PinkGoldPeachyKeen for ideas on structure.,Click the mouse to show a flower.,19123745,https://cdn2.scratch.mit.edu/get_image/project/235717690_480x360.png,2018-07-06T20:56:03.000Z,2018-07-06T21:22:07.000Z,2018-07-06T21:19:16.000Z,18,2,1,0,0,,
+235713302,in flanders fields,"In my country is war now and more than 10 000 people were killed. This project for their memory. Two things are very difficult for me - make working code and write this text by English, and I apologize for this.",Click to any place on stage and the red flower will grow up. I,23356305,https://cdn2.scratch.mit.edu/get_image/project/235713302_480x360.png,2018-07-06T19:36:04.000Z,2018-07-06T21:45:08.000Z,2018-07-06T21:31:53.000Z,8,1,2,0,0,,
+235715853,Getting Unstuck: Day 2,Used Code Club Ghostbusters project to help with the random flower effect,Keep clicking on the stage,34197892,https://cdn2.scratch.mit.edu/get_image/project/235715853_480x360.png,2018-07-06T20:22:17.000Z,2018-07-12T21:29:13.000Z,2018-07-06T20:54:56.000Z,5,1,1,0,0,,
+235719371,Roses Growing - Ungar Challenge #2,"I couldn't figure out how to allow the user to sprout multiple flowers at a time . I wanted each flower to fade after about 2 seconds, but in theory the user should be able to spout multiple flowers in different areas at the same time. Couldn't do it :-)",Click the green flag and then click anywhere on the background to insta-plant a flower.,34185712,https://cdn2.scratch.mit.edu/get_image/project/235719371_480x360.png,2018-07-06T21:28:37.000Z,2018-07-07T23:39:51.000Z,2018-07-06T21:50:09.000Z,5,1,1,0,0,,
+235678783,Getting Unstuck: Day 2,"Image:
+https://www.vecteezy.com/vector-art/124781-pansies-vector-collection
+
+WOW! How exhausting! It helped me to look at the published projects. Thanks!!!","Click the green flag.
+Show a flower every time the user clicks on the background.",19789360,https://cdn2.scratch.mit.edu/get_image/project/235678783_480x360.png,2018-07-06T12:08:28.000Z,2018-07-06T22:05:34.000Z,2018-07-06T20:01:01.000Z,9,2,1,0,0,,
+235681367,flower power day 2,,"Click on green flag to start.
+Click on the screen for the flower to appear",11349852,https://cdn2.scratch.mit.edu/get_image/project/235681367_480x360.png,2018-07-06T12:39:31.000Z,2018-07-06T22:35:01.000Z,2018-07-06T22:35:00.000Z,7,3,1,0,0,,
+235721549,Day Two Tupac ,"This was hard. I worked on it without looking for a long time, but then I had to cheat. I found out that some of my ideas were on the right track but just not quite right. I'm starting to think this format is a little buggy. Idk, maybe I'm just frustrated because I couldn't figure it out on my own.
+
+Thanks for the help, misspsmith",Click on the background and you get more flowers.,10309968,https://cdn2.scratch.mit.edu/get_image/project/235721549_480x360.png,2018-07-06T22:16:13.000Z,2018-07-25T01:19:22.000Z,2018-07-06T22:44:24.000Z,8,1,2,0,0,,
+235719852,Getting Unstuck Day 2,I looked inside the beautiful project by rbotero for ideas on how to create this program. I tweaked the structure slightly so the flowers were not continuously generated when the mouse is clicked but rather allows time for the user to move around the screen to different locations before clicking again. When creating this project I learned more about the pen scripts. Previously I had never thought to use the stamp tool. I like that my project stamps the flower in three different colors.,First click the green flag to start/reset the program. Then click somewhere on the screen to plant a flower. You may repeat this process as many times as you desire. Have fun!,22156688,https://cdn2.scratch.mit.edu/get_image/project/235719852_480x360.png,2018-07-06T21:37:35.000Z,2018-07-06T23:04:34.000Z,2018-07-06T22:37:52.000Z,6,2,1,0,0,,
+235720900,Getting Unstuck: Day 2,"Unstuck thanks to @rbotero 's work
+
+Icons made by Freepik from https://www.flaticon.com/ is licensed by Creative Commons BY 3.0",,599612,https://cdn2.scratch.mit.edu/get_image/project/235720900_480x360.png,2018-07-06T22:00:54.000Z,2018-07-06T22:56:04.000Z,2018-07-06T22:56:04.000Z,7,2,1,0,0,,
+235719912,Cherry blossom,"- What did you like most about your project? 
+
+I like the zoom effect on flowers.
+
+- What would you do with it next, if you had more time?
+If I have more time I'd like to draw my own flowers and make an animation of a cherry tree where flowers could blossom little by little.
+
+--Credits--
+I found the images on pixabay website:
+https://pixabay.com/en/","Click the mouse anywhere on the background and a flower will appear.
+
+Getting Unstuck Day 2: Display a flower each time that the user clicks on the background.
+
+--Approach--
+I decided to make a simple project by using the cloning.
+At first, when I tested the program the flower appeared constantly and I didn't like it, so I used the ghost effect to disappear it thanks to a comment by @scratchteacheralpha032.
+After that, I added a wait block each time I pressed the mouse, because I realized that when the flower started as a clone, it appeared like 3 flowers.
+Then, I added like a zoom effect on the flower using ""repeat blocks"" and ""change size blocks"".
+",4413079,https://cdn2.scratch.mit.edu/get_image/project/235719912_480x360.png,2018-07-06T21:38:54.000Z,2018-07-19T19:24:43.000Z,2018-07-06T22:45:30.000Z,11,2,1,0,0,,
+235722935,Getting Unstuck Challenge Day 2,I've always loved using fading out clones of sprites. Click to leave a permanent record of this blooming flower. Thanks to giphy for the gif file.,,4610900,https://cdn2.scratch.mit.edu/get_image/project/235722935_480x360.png,2018-07-06T22:47:57.000Z,2018-07-06T23:05:28.000Z,2018-07-06T23:04:29.000Z,6,3,1,0,0,,
+235722379,#Getting Unstuck День2,,,34214931,https://cdn2.scratch.mit.edu/get_image/project/235722379_480x360.png,2018-07-06T22:36:38.000Z,2018-07-06T23:10:30.000Z,2018-07-06T23:10:30.000Z,3,2,1,0,0,,
+235706183,Magic flowers Getting Day 2 Getting Unstuck ,"Getting Unstuck Day 2: tinkering with interactive flowers.
+
+Credits
+I found the flower via Pixabay.com",Click on the green flag ,8789156,https://cdn2.scratch.mit.edu/get_image/project/235706183_480x360.png,2018-07-06T17:53:20.000Z,2018-08-01T19:59:10.000Z,2018-07-06T23:10:05.000Z,13,2,1,0,0,,
+235713416,Unstuck flowers,"Yesterday I tried not to be influenced by other people's projects, so I made my project before looking at others. Today I tried the opposite approach: I started with a tour of other people's gardens, I picked my favorite flowers, put them in my backpack and planted them in my project. I see it as a way to celebrate diversity and getting inspired by others.
+
+Thanks to: 
+@mizzpeters @karenb @ClarendonRoadCC @carlapoppi @chrise07
+@clarimer @edmondmm @PinkGoldPeachyKeen @mres @colemantigers and all the unstuck friends for their beautiful flowers and inspiration!",Click on the grass to make flowers appear!,2286560,https://cdn2.scratch.mit.edu/get_image/project/235713416_480x360.png,2018-07-06T19:38:12.000Z,2018-07-19T01:49:21.000Z,2018-07-06T23:20:29.000Z,23,7,2,0,0,,
+235689403,Day 2 - Flower Power,"I used the exercise to explore adding gifs. I tried using Photoshop to help automate the process, but between it and Fireworks, couldn't find a way to import them with a clear background. PNGs import with clear backgrounds but wouldn't import in the order I wanted which is why I ended up using a black background. Also found the maximum file size pretty quickly as each GIF used a lot of space. GIFs were posted on GIPHY. Fun!",Click,109272,https://cdn2.scratch.mit.edu/get_image/project/235689403_480x360.png,2018-07-06T14:08:26.000Z,2018-07-07T23:34:37.000Z,2018-07-06T23:31:24.000Z,6,2,1,0,0,,
+235722518,Flower Power (Getting Unstuck Day 2),"Thanks to @rbotero for the script to clear the background at the beginning and the idea to use the stampe. 
+
+
+Lots of playing around to get it the way I wanted.",Click the mouse to add flowers.  Click the space bar to stop.,34198395,https://cdn2.scratch.mit.edu/get_image/project/235722518_480x360.png,2018-07-06T22:39:37.000Z,2018-07-15T04:06:10.000Z,2018-07-06T23:49:28.000Z,8,2,1,0,0,,
+235720231,Bug School,"This project responds to the prompt for Getting Unstuck:  Day 2:  ""Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be?'""
+I originally thought that the ""Prof"" sprite would draw the flowers, but realized that the coding would take a lot of time!  So I decided to go with the Stamp block and have a few different flower drawings in the form of costumes.
+
+ I did get stuck at one point, and used the strategy ""Ask a friend.""  My teenage son was a great resource person :) ","Click on the green flag to start, then click anywhere on the blackboard!",527557,https://cdn2.scratch.mit.edu/get_image/project/235720231_480x360.png,2018-07-06T21:46:21.000Z,2018-07-07T00:31:48.000Z,2018-07-07T00:28:40.000Z,13,5,1,0,0,,
+235727354,Getting Unstuck Day 2 ,"This project is not at all what I visioned. For some reason there is a strip of the background on the right side where my flowers will not appear. There seems to be some problem with where my mouse goes. If you have suggestions please comment and let me know how I could fix it. 
+
+I started this project thinking I would use the clone option however, I went with the stamp block. I might try to remix this and use the clone block.
+I did enjoy creating my flowers and playing around with the color effect. ",Use the mouse pointer to click around the screen. With each click of the mouse a new flower will appear. ,24781756,https://cdn2.scratch.mit.edu/get_image/project/235727354_480x360.png,2018-07-07T00:27:48.000Z,2018-07-09T00:18:17.000Z,2018-07-07T01:20:13.000Z,6,2,1,0,0,,
+235725685,Day 2 Unstuck-Watercolor Flower,"I chose to use the clone block.  At first, I was going to use the stamp and hide, and then  I thought it would be easier to use the clone.  
+
+WATERCOLORS - music by Marcelo Cesena and Dorian Rimsin","My answer to Day 2 Unstuck: Display a flower each time that the user clicks on the background.
+
+Click on green flag to start and click where ever you would like to see a pretty orange flower!",1294980,https://cdn2.scratch.mit.edu/get_image/project/235725685_480x360.png,2018-07-06T23:53:29.000Z,2018-07-07T02:31:17.000Z,2018-07-07T01:28:20.000Z,12,3,1,0,0,,
+235674874,Sunflower Garden (pen),"I wanted to create sunflowers by drawing with the pen blocks. One challenge I had was creating the color gradient on the petals to make them look like they were changing from orange to yellow-- I tried a few different ways but ultimately settled on changing color and shade in a loop and experimenting until I got the colors I wanted.
+
+I had fun learning about the math of sunflowers! The seeds are in spirals called Fermat's spirals: https://en.wikipedia.org/wiki/Fermat%27s_spiral
+
+Song: ""Song for a Pea"" for Podington Bear","Click to place a sunflower!
+
+One thing that I've loved about Scratch since I first started using it is that it allows you to apply math to create art. On the surface, this doesn't look like it uses math, but actually, it uses a lot of trig. Take a look inside!",246290,https://cdn2.scratch.mit.edu/get_image/project/235674874_480x360.png,2018-07-06T11:17:35.000Z,2018-07-09T21:13:29.000Z,2018-07-07T02:00:24.000Z,733,118,72,0,0,,
+235730240,Untitled,"Having never done Scratch before, these challenges are really pushing my thinking.  I tried drawing my own sprite this time and learned the difference between cloning and duplicating.",clicking any key creates a clone of a drawn flower Sprite.  The clones are stacked on each other and can be moved.  The green flag erases the beach to start again.,34205973,https://cdn2.scratch.mit.edu/get_image/project/235730240_480x360.png,2018-07-07T01:21:06.000Z,2018-07-07T02:29:44.000Z,2018-07-07T02:19:57.000Z,5,3,1,0,0,,
+235728896,Day 2 - Flowers in the Sky,"Stars are the flowers of the sky, right? I learned about clones while doing this project. I found that use the When I am Clicked for the background, worked better than ""if mouse down."" ",Click on the green flag. Then click anywhere in the sky. A new star will appear and spin.,31044612,https://cdn2.scratch.mit.edu/get_image/project/235728896_480x360.png,2018-07-07T00:57:50.000Z,2018-07-07T02:33:17.000Z,2018-07-07T02:11:59.000Z,12,2,1,0,0,,
+235733210,GettingUnstuckDay2Flowers,,Getting Unstuck Day Two excercise.  Click on the stage to make more flowers,18198558,https://cdn2.scratch.mit.edu/get_image/project/235733210_480x360.png,2018-07-07T02:14:15.000Z,2018-07-07T04:36:08.000Z,2018-07-07T02:33:47.000Z,15,4,2,0,0,,
+235700989,Unstuck Day 2 - Increasing Flowers,"Challenge: Display a flower each time user clicks on background.
+
+I realized that if I used broadcast on the background script, it would only allow me to create 9 clones. By changing the background script to create a clone of the flower when clicked, I can now create infinite clones. I had never done cloning before and found this tricky. But it makes sense now.
+
+Update: I added a second background, changed the flower sprites to have multiple colors flowers and snazzed up the butterfly.","Click on flag to start. Then click on background to make flowers appear. When the sun sets, the flowers will disappear, although you can click and add more.",10715270,https://cdn2.scratch.mit.edu/get_image/project/235700989_480x360.png,2018-07-06T16:42:42.000Z,2018-07-28T01:09:15.000Z,2018-07-07T00:11:07.000Z,9,1,1,0,0,,
+235733196,Unstuck Day 2: Flowers,"I uploaded one of my pictures to use as the sprite.  I went to the costume tab and used the eraser to get rid of the background so only the flower was visible. I really wasn't sure how to make the flowers disappear, so thank you to augusto- I looked at your script for help.","Click on the green flag to begin. Each time you click on the stage, new flowers will appear.",34190490,https://cdn2.scratch.mit.edu/get_image/project/235733196_480x360.png,2018-07-07T02:13:56.000Z,2018-07-07T03:04:37.000Z,2018-07-07T02:56:28.000Z,9,1,1,0,0,,
+235692482,Chihuly Flowers (Getting Unstuck #2),"I recently visited the Biltmore in Asheville and saw the Chihuly glass exhibit. I used pictures from that visit as my ""flowers"". I made different stage backdrops for each ""flower"" and coded it using ""when stage clicked"" and ""next backdrop"". ",Click the green flag to begin.,124311,https://cdn2.scratch.mit.edu/get_image/project/235692482_480x360.png,2018-07-06T14:50:17.000Z,2018-07-07T02:52:04.000Z,2018-07-07T02:45:34.000Z,7,1,1,0,0,,
+235734743,Getting Unstuck Challenge 2,"Am loving the variety of ideas from others - ranging from simple to complex coding.
+This challenge allows for creativity via the creation of the sprite and how to code.
+I chose to shape create my sprite.
+I chose to add the random block to create different sizes, using a simple stamp block as well.
+Inspires a range of ideas for curriculum areas - maths, science in particular.",Click the green flag to fill the garden with different sized sunflowers.,13484475,https://cdn2.scratch.mit.edu/get_image/project/235734743_480x360.png,2018-07-07T02:43:36.000Z,2018-07-07T03:21:55.000Z,2018-07-07T03:15:54.000Z,14,1,1,0,0,,
+235736424,Day 2,,Click on the screen to add a flower,24884035,https://cdn2.scratch.mit.edu/get_image/project/235736424_480x360.png,2018-07-07T03:19:20.000Z,2018-07-07T03:36:54.000Z,2018-07-07T03:26:31.000Z,10,1,1,0,0,,
+235734808,Getting Unstuck: Day 2,"Thank you @clarimer for inspiring me!
+
+I learned how to use random operators to program for colour, size and tone. 
+I simply wanted to try it!
+
+Music: Xochipitzahuatl (Flor Menudita) - Tempus Quartet
+"," Jose Guadalupe Posada's Catrina loves flowers! Click on the green flag and decorate her hat, her dress, all around her!",32493591,https://cdn2.scratch.mit.edu/get_image/project/235734808_480x360.png,2018-07-07T02:44:58.000Z,2018-07-12T00:32:00.000Z,2018-07-07T03:44:17.000Z,19,5,4,0,0,,
+235716385,Getting Unstuck: Day 2,"Credit:
+blackboard eraser clip art : https://clipartuse.com/blackboard-eraser-clipart-68138",Click the background to fill the screen with flowers.  Eraser keeps the screen from getting too filled up.,17257831,https://cdn2.scratch.mit.edu/get_image/project/235716385_480x360.png,2018-07-06T20:32:25.000Z,2018-07-07T13:02:07.000Z,2018-07-07T04:51:55.000Z,9,2,1,0,0,,
+235700354,Unstuck Day 2 - Flower Power,,,18558561,https://cdn2.scratch.mit.edu/get_image/project/235700354_480x360.png,2018-07-06T16:34:05.000Z,2018-07-07T01:34:31.000Z,2018-07-07T01:34:31.000Z,10,1,1,0,0,,
+235743837,Unstuck Day 2,If i have many times i want make the flower dance ^_^,Just click the background please....,34216021,https://cdn2.scratch.mit.edu/get_image/project/235743837_480x360.png,2018-07-07T06:19:36.000Z,2018-07-11T03:30:15.000Z,2018-07-07T06:20:06.000Z,14,1,1,0,0,,
+235744521,Day-2,"I way - move the sprite to another place
+II way - use ""stamp""
+III way - use cloning
+Scratch On!
+Happy Summer!","Getting Unstuck - Day 2
+Display a flower each time that the user clicks on the background. 
+Choose one of the three ways to solve the problem - press 1, 2 or 3
+Move cursor and press mouse button
+Move the cursor and press the mouse button to display the flower.
+Back - return to main screen",139209,https://cdn2.scratch.mit.edu/get_image/project/235744521_480x360.png,2018-07-07T06:36:03.000Z,2018-07-07T07:30:41.000Z,2018-07-07T07:23:17.000Z,10,2,1,0,0,,
+235747402,Unstuck #2,I found this quite tricky. But here it is.,,141519,https://cdn2.scratch.mit.edu/get_image/project/235747402_480x360.png,2018-07-07T07:37:28.000Z,2018-07-07T07:43:02.000Z,2018-07-07T07:42:18.000Z,6,1,1,0,0,,
+235744996,Getting Unstuck: Day 2,,"""Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be?""",5819312,https://cdn2.scratch.mit.edu/get_image/project/235744996_480x360.png,2018-07-07T06:46:53.000Z,2018-07-08T07:13:53.000Z,2018-07-07T10:37:11.000Z,9,1,1,0,0,,
+235754602,GettingUnstuck-02,Tanks to angiulina84 for the nice proposal to change size depending on y coordinate,"Let's make it bloom!
+Click on the ground to have flowers blooming. Green flag to clean.
+I plan to add more kind of flowers and have different things happening when clicking on the sky.",25876369,https://cdn2.scratch.mit.edu/get_image/project/235754602_480x360.png,2018-07-07T10:04:35.000Z,2018-07-07T16:51:38.000Z,2018-07-07T10:57:22.000Z,7,2,1,0,0,,
+235709480,Getting Unstuck: Day 2,,"1. Click the flag.
+2. Click the background.
+3. See the flower appear.",14143361,https://cdn2.scratch.mit.edu/get_image/project/235709480_480x360.png,2018-07-06T18:38:39.000Z,2018-07-07T11:31:26.000Z,2018-07-07T11:31:26.000Z,15,1,1,0,0,,
+235758718,Getting Unstuck: Day 2,"Display a flower each time that the user clicks on the background.
+
+I thought cloning would be a good way to make more and more flowers appear. But not sure how to make only one flower appear each time the stage is clicked...it seems the clones also make clones of themselves.",Click the stage...then click it again...and again!,86693,https://cdn2.scratch.mit.edu/get_image/project/235758718_480x360.png,2018-07-07T11:41:27.000Z,2018-07-10T11:06:24.000Z,2018-07-07T11:57:04.000Z,12,3,1,0,0,,
+235762101,Getting Unstuck: Day 2,,,24340467,https://cdn2.scratch.mit.edu/get_image/project/235762101_480x360.png,2018-07-07T13:03:04.000Z,2018-07-07T13:23:23.000Z,2018-07-07T13:23:23.000Z,13,3,1,0,0,,
+235762165,Getting Unstuck: Day 2,,"Täytä erämaa kukilla. Klikkaa taustaa hiirellä. Poista kukat klikkaamalla vihreää lippua.
+Click the stage...then click it again...and again.",12775966,https://cdn2.scratch.mit.edu/get_image/project/235762165_480x360.png,2018-07-07T13:04:30.000Z,2018-07-07T13:33:30.000Z,2018-07-07T13:27:28.000Z,5,1,1,0,0,,
+235706852,Flower Display,"I learned so much from looking at others' projects. Thanks! I had never used the stamp block before. I was inspired to draw my own flowers.  Since I don't have a green thumb, these are flowers that I can actually manage! :)",Click the green flag to begin and then click on the background to create flowers.,1196430,https://cdn2.scratch.mit.edu/get_image/project/235706852_480x360.png,2018-07-06T18:02:44.000Z,2018-07-22T18:56:45.000Z,2018-07-07T13:39:35.000Z,9,2,1,0,0,,
+235763142,Day 2,,Click on green flag,7505824,https://cdn2.scratch.mit.edu/get_image/project/235763142_480x360.png,2018-07-07T13:25:01.000Z,2018-07-07T13:49:48.000Z,2018-07-07T13:49:32.000Z,13,1,1,0,0,,
+235764570,Unstuck-Day 2,,,19884927,https://cdn2.scratch.mit.edu/get_image/project/235764570_480x360.png,2018-07-07T13:55:03.000Z,2018-07-07T15:07:48.000Z,2018-07-07T15:07:48.000Z,10,2,2,0,0,,
+235764951,Getting Unstuck Day 2,,"Click Green Flag to Start
+
+Click Background to Stamp Flower
+
+Press Space Bar to Clear",34190765,https://cdn2.scratch.mit.edu/get_image/project/235764951_480x360.png,2018-07-07T14:02:48.000Z,2018-07-07T15:11:23.000Z,2018-07-07T15:10:23.000Z,9,1,1,0,0,,
+235767972,Logo Flower Power! (Unstuck Day #2),"Had a good time with this one - wasn't sure how to approach it at first, so I just started with the background, then tinkered around with the send/receive message blocks. I'd like to go back later and fine tune this - the goal would be to not have the flower double so much.
+
+The flower was made with TurtleArt and then combined with the fist in Inkscape - it's my ""constructionsta"" logo.",Click the green flag to start.,27690149,https://cdn2.scratch.mit.edu/get_image/project/235767972_480x360.png,2018-07-07T15:04:07.000Z,2018-07-07T15:19:52.000Z,2018-07-07T15:16:06.000Z,3,1,1,0,0,,
+235769402,Getting Unstuck Day 2,I had to have help on this one-it is really useful being able to see other people's codes. So many different ways to approach it!,Click the dirt to plant a flower,16010675,https://cdn2.scratch.mit.edu/get_image/project/235769402_480x360.png,2018-07-07T15:31:18.000Z,2018-07-07T16:22:35.000Z,2018-07-07T15:54:17.000Z,3,1,1,0,0,,
+235773261,Flowering around (Getting Unstucked D2),"I struggled to  manage the clones...at the beginning I've used the situation ""when stage clicked"" ---->""send message"" but for every click The number of clones in each spot increases...so strange!!
+I changed the code cheating a little bit....each time you click the mouse (no matter if it the stage or not) you'll create a clone!!
+The bee is usefull to keep the a low number of clones at the same time..preventing lagging!! :)",Click the green flag to run the project and then on the  stage to see some flowers blooming....and a funny bee!!,6030800,https://cdn2.scratch.mit.edu/get_image/project/235773261_480x360.png,2018-07-07T16:49:16.000Z,2018-07-07T17:01:26.000Z,2018-07-07T16:49:47.000Z,6,2,1,0,0,,
+235774926,GU_Day2,"Day 2 of Getting Unstuck: Display a flower each time that the user clicks on the background. 
+","Click the green flag. Then, click the background to watch multicolored ""flowers"" appear. ",24741621,https://cdn2.scratch.mit.edu/get_image/project/235774926_480x360.png,2018-07-07T17:22:39.000Z,2018-07-07T17:41:54.000Z,2018-07-07T17:39:20.000Z,6,1,1,0,0,,
+235766271,Unstuck-Day2,"At first, I had multiple sprites, but couldn't figure out how to get them to keep appearing with a lot of mouse clicks.  I had made more sprites to accommodate more mouse clicks. I then peeked inside some of the other people's projects in my #GettingUnstuck studio, and saw they were using the stamp, so I went back in and used that idea! I also have my appearing at random x,y coordinates.","Click the green flag to start, then click the background to make flowers appear. Keep clicking until you have enough flowers! To stop, press the space bar.",3294920,https://cdn2.scratch.mit.edu/get_image/project/235766271_480x360.png,2018-07-07T14:28:59.000Z,2018-07-07T18:45:44.000Z,2018-07-07T17:28:06.000Z,3,1,1,0,0,,
+235767817,#GettingUnstuck Day 2,"I looked at other projects to gather some inspiration and some were just way too out of my league, but fantastic projects!!! I came up with this simple program that suited my level of experience. I still want to know how I can begin my project with a blank stage, then have my flowers appear. I tried hide and clear, but somehow those codes didn't work in my sequence. #GettingUnstuck",Click on the stage for flowers to appear. ,18062705,https://cdn2.scratch.mit.edu/get_image/project/235767817_480x360.png,2018-07-07T15:01:14.000Z,2018-07-07T17:56:33.000Z,2018-07-07T17:43:03.000Z,2,1,1,0,0,,
+235778215,Day 2 Planting Flowers in the Desert,,"Click on the green flag to activate. Holding down the mouse button, click and plant a flower. Keep holding and plant a row. Colors will change as you keep planting.
+To clear and start over, press the space bar.",17846897,https://cdn2.scratch.mit.edu/get_image/project/235778215_480x360.png,2018-07-07T18:30:18.000Z,2018-07-07T18:44:42.000Z,2018-07-07T18:44:41.000Z,6,2,1,0,0,,
+235776874,Unstuck Day 2 project,"Unstuck Day 2 project #CreativeComputing #GettingUnstuck 
+
+Credit to user @SAMved's project https://scratch.mit.edu/projects/28483860/ which helped me figure out the code to create my flower.",Click anywhere to help Scratch cat plant some flowers in this empty field!,17786521,https://cdn2.scratch.mit.edu/get_image/project/235776874_480x360.png,2018-07-07T18:03:02.000Z,2018-07-07T18:55:01.000Z,2018-07-07T18:22:27.000Z,14,2,1,0,0,,
+235780464,Unstuck Challenge 2,"Reflection: 
+
+1) I liked creating the flower in using the costume editing feature.  It was fun and I was able to create something simple.  This may be a tool I focus on more during my lessons.  It was a quick solution for me when I couldn't find the sprite I wanted. However, it may take a student longer to come to the same solution. 
+
+2) I also liked adding in the background and the sun.  Having an open challenge like this allows for student creativity.  I can see using this as an extension activity for some of my scratch lessons for my students. 
+
+3) If I had more time, I would probably add a way to delete the clones.  Another thing I could add is to have the flowers change color as they are created.  ",Click anywhere on the ground and help plant 10 flowers in the garden! ,24494372,https://cdn2.scratch.mit.edu/get_image/project/235780464_480x360.png,2018-07-07T19:17:42.000Z,2018-07-07T19:40:40.000Z,2018-07-07T19:17:56.000Z,7,1,1,0,0,,
+235780580,#002 Challenge  - Flower Click Background,,This was hard!  Whenever you click another flower will show.  Problem is you can click ANYWHERE and another flower will show.  ,20126730,https://cdn2.scratch.mit.edu/get_image/project/235780580_480x360.png,2018-07-07T19:20:25.000Z,2018-07-07T19:59:00.000Z,2018-07-07T19:58:16.000Z,4,1,1,0,0,,
+235701779,Challenge #2,,,3101944,https://cdn2.scratch.mit.edu/get_image/project/235701779_480x360.png,2018-07-06T16:53:33.000Z,2018-07-11T18:53:09.000Z,2018-07-06T20:09:47.000Z,7,1,1,0,0,,
+235787715,Getting Unstuck - Day ,"This was tough! I am brand new to programming so I struggled, but thanks to this super supportive group's facebook page I figured it out. It took an extra day but I got it!!",This flower bed needs some help! Move the mouse around and click to add flowers to the bed!,34208406,https://cdn2.scratch.mit.edu/get_image/project/235787715_480x360.png,2018-07-07T22:23:01.000Z,2018-07-07T22:39:05.000Z,2018-07-07T22:39:05.000Z,14,2,1,0,0,,
+235788543,Unstuck2-KP,Curious about the other ways to show a flower. Feeling rusty in my scratch knowledge. ,Click stage to see backdrop change and display a set of backdrops that show a flower or not :) ,1752484,https://cdn2.scratch.mit.edu/get_image/project/235788543_480x360.png,2018-07-07T22:44:49.000Z,2018-07-07T22:52:53.000Z,2018-07-07T22:51:34.000Z,7,2,1,0,0,,
+235787044,Flowers,,Just click the background to produce flowers,11482292,https://cdn2.scratch.mit.edu/get_image/project/235787044_480x360.png,2018-07-07T22:04:31.000Z,2018-07-07T22:57:30.000Z,2018-07-07T22:55:22.000Z,14,4,1,0,0,,
+235721980,dandelion... sort of - Getting Unstuck day 2,"At start I planned  create a dandelion for every click but got stucked into drawing a realistic stem, the corolla was unsatisfying too.
+
+Time to restart and think again on the problem. Note for me: Learn to draw stems, it shouldn't be so difficult! (Any suggestion, Anyone?)
+
+I have got a new Idea, plant a seed and let the flower grow for a while and then wither,
+The first part of the project was set, but the withering part let me a little depressed. Better let flowers fly away (and I already had the dandelion seeds).
+
+The result is the project you see on the left.
+
+What I would have done if I had more time.
+===============================
+Lets say that already used a little more time to create the project, I would have added an minimalistic ambient music, and maybe revert to the original project. 
+
+The look is sketched as I feel it was the best option for this kind of project (apart that I'm not really strong at drawing).
+
+The least pleasant part 
+=================
+As usual the sprite editor is not the best of the ones I've tried in this years but, it does his work quite well. Just it does not works as I expect and usually I resort to Inkscape to create my graphics. This time I stuck with the standard tools and had to work a little more to obtain something viable.
+
+What Noticed looking around
+=====================","Click on the stage, i prefer the lower left triangle, to plant some dandelions and look at them spreading into the world.
+
+If I was you I would click a lot and then pause for a while.",2458985,https://cdn2.scratch.mit.edu/get_image/project/235721980_480x360.png,2018-07-06T22:26:03.000Z,2018-07-08T00:57:39.000Z,2018-07-07T23:20:27.000Z,11,3,2,0,0,,
+235753237,Day Two: Let your heart bloom!,"Another quick try using an animated gif I found on the internets!  
+
+I like this activity because using the mouse click effectively always has been a mystery to me.  I made a lot of mistakes and learned a LOT!",,27658530,https://cdn2.scratch.mit.edu/get_image/project/235753237_480x360.png,2018-07-07T09:34:44.000Z,2018-07-08T01:49:21.000Z,2018-07-07T10:50:51.000Z,9,2,1,0,0,,
+235798470,Getting Unstuck Day 2,"Clones are fun, try it. :)
+
+Try holding down on the mouse button. I'm not quite musically inclined, so any suggestions on what instrument or note range to play when the flowers appear are welcome!","Getting Unstuck Day 2
+
+Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be? ",31281136,https://cdn2.scratch.mit.edu/get_image/project/235798470_480x360.png,2018-07-08T02:47:29.000Z,2018-07-08T03:04:32.000Z,2018-07-08T03:00:27.000Z,8,1,1,0,0,,
+235798909,Getting Unstuck 2,"Trying to catch up from being a day behind, so keeping it simple!",Click!,34228007,https://cdn2.scratch.mit.edu/get_image/project/235798909_480x360.png,2018-07-08T02:58:32.000Z,2018-07-08T03:16:16.000Z,2018-07-08T03:15:07.000Z,3,1,1,0,0,,
+235792769,Flowers in the field,To clear press the space bar.,I am afraid I have no idea how I made this work.  I don't understand the stamp application vs. the make a copy of a sprite.,14542522,https://cdn2.scratch.mit.edu/get_image/project/235792769_480x360.png,2018-07-08T00:34:58.000Z,2018-07-08T04:29:35.000Z,2018-07-08T04:02:43.000Z,11,1,1,0,0,,
+235802231,Too Many Flowers,This was part of my Getting Unstuck Day 2 project. I couldn't figure out how to make the flower stay there and then have another one appear. So instead I just went like this where it clones itself every time you click and soon flowers just appear everywhere.,Click the green flag to start. Click anywhere on the background. Overwhelm the soldier with flowers and love.,4737145,https://cdn2.scratch.mit.edu/get_image/project/235802231_480x360.png,2018-07-08T04:34:24.000Z,2018-07-08T06:07:10.000Z,2018-07-08T06:07:10.000Z,9,0,0,0,0,,
+235821305,Getting Unstuck Day 2,"Made for Getting Unstuck Day 2.
+
+Inspired by Seymour Papert and Turtle Logo I thought I would use the pen tools and draw things that are a bit like crystal flowers. When doing any Logo I'm always reminded of a photo in the MIT museum of Seymour with one of the big early turtles.
+
+I started with drawing the flowers in a random place but this felt a little strange so I changed it to draw at the mouse pointer to give the user more control. The random block is still there though, if you want to give it a try.
+The next thing I'd like to do is let the user choose a colour from a palette. Maybe choose the line thickness as well.
+","Click the Green Flag.
+Click anywhere on the background to draw a flower.",287832,https://cdn2.scratch.mit.edu/get_image/project/235821305_480x360.png,2018-07-08T13:01:58.000Z,2018-07-08T13:40:48.000Z,2018-07-08T13:30:02.000Z,6,2,2,0,0,,
+235825394,Getting unstuck: Day 2,"Getting Unstuck Day 2 
+This project was a lot trickier than I thought it was going to be! 
+
+I discovered and used the 'When Stage clicked' block for the first time. 
+
+I also started to better understand the use of the 'Stamp' block.
+
+Ultimately I am pleased with the effect I have achieve 
+
+
+","Click the green flag to start
+
+Click anywhere around the tree to plant some flowers in the garden ",3284151,https://cdn2.scratch.mit.edu/get_image/project/235825394_480x360.png,2018-07-08T14:40:00.000Z,2018-07-08T15:03:39.000Z,2018-07-08T14:54:10.000Z,10,1,1,0,0,,
+235827438,Unstuck 2: Flower Power,Struggling through play! Love it! ,,25417130,https://cdn2.scratch.mit.edu/get_image/project/235827438_480x360.png,2018-07-08T15:27:42.000Z,2018-07-08T15:52:00.000Z,2018-07-08T15:51:06.000Z,3,1,1,0,0,,
+235828309,Unstuck Day 2 - Mouse Click,I learned a lot from the others in this studio. Loved the ghosting effect as well as the change in color effect. Thank you to others who have posted to this studio!,"Challenge: 
+Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch.
+
+Click anywhere on the stage to make a flower appear there. The flower will change colors for a while, then disappear.",25286049,https://cdn2.scratch.mit.edu/get_image/project/235828309_480x360.png,2018-07-08T15:47:13.000Z,2018-07-15T15:42:50.000Z,2018-07-08T16:06:28.000Z,4,1,1,0,0,,
+235830542,Peony Season,"Peonies are one of my favorite flowers, but they only bloom between April and June. During these months, I fill my home with any many peonies as I can find.
+
+I looked inside a few projects in the Day 2 studio before getting started on my project. It was interested to see the different strategies people used to accomplish their projects. 
+
+I drew the peony in the Paint Editor. I knew I wanted the finished project to be a stage filled with peonies of all colors and sizes, so I played around with the color and size effects. 
+",Click the stage to fill the screen with as many different-colored peonies as you'd like! ,7664502,https://cdn2.scratch.mit.edu/get_image/project/235830542_480x360.png,2018-07-08T16:41:48.000Z,2018-07-08T17:37:16.000Z,2018-07-08T17:12:35.000Z,12,2,2,0,0,,
+171451003,Disegna tanti fiori,"Ho utilizzato le equazioni parametriche:
+x = n sin mt  *  cos t              y = n sin mt  *  sin t
+dove x e y sono le coordinate del punto in cui si trova la penna; dal parametro n dipende la dimensione del fiore; da m il numero di petali; al variare di t avviene lo spostamento che consente di tracciare le coppie di petali e completare un fiore; x1 e y1 sono le coordinate di un punto a partire dal quale viene disegnato un fiore e a,b le coordinate della penna in base a un sistema di riferimento che abbia l'origine in (x1,y1). OK, spero sia una spiegazione abbastanza chiara!       
+    :)))
+#gettingunstuck2
+","Clicca sulla bandierina verde, muovi il mouse e clicca per disegnare i fiori. ",17698999,https://cdn2.scratch.mit.edu/get_image/project/171451003_480x360.png,2017-08-17T10:14:24.000Z,2018-07-08T17:31:32.000Z,2017-08-17T10:43:45.000Z,42,4,4,0,0,,
+235838692,Unstuck Day 2 Attempt 2,"This one was hard!
+","Click the green flag.  Wait one second, click anywhere to make a flower.",23449511,https://cdn2.scratch.mit.edu/get_image/project/235838692_480x360.png,2018-07-08T19:43:31.000Z,2018-07-08T20:21:15.000Z,2018-07-08T20:19:58.000Z,5,1,1,0,0,,
+235828984,Getting Unstuck: Day 2,The sprites for the flowers are from iconarchive.com,"Press the letter F and click your mouse to plant a flower.
+Press the letter R and click your mouse to plant a rose.
+Press the letter S and click your mouse to plant a sunflower.
+
+Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be?",25043750,https://cdn2.scratch.mit.edu/get_image/project/235828984_480x360.png,2018-07-08T16:03:54.000Z,2018-07-08T20:27:05.000Z,2018-07-08T20:25:36.000Z,6,1,1,0,0,,
+235838750,Flowers,Please use 'See inside' to read my comments on my process.,Click the Green Flag and then click the mousepad to display additional flowers. I'm not sure why the flower appears to the left of the mouseclick.    Thanks to JCDRobots for suggesting the use of vector to center the flower - works now,34179488,https://cdn2.scratch.mit.edu/get_image/project/235838750_480x360.png,2018-07-08T19:44:56.000Z,2018-07-09T23:14:58.000Z,2018-07-08T20:47:30.000Z,9,1,1,0,0,,
+235841707,Click For Flower,,Click the green flag and then on the screen to get flowers,25706025,https://cdn2.scratch.mit.edu/get_image/project/235841707_480x360.png,2018-07-08T20:59:19.000Z,2018-07-08T21:10:12.000Z,2018-07-08T21:09:43.000Z,4,1,1,0,0,,
+235838827,Blooming Flowers,This was very hard. I looked at others project but could not get my sprite to only create 1 at a time. I unfortunately gave up so this is the best you all get. Sorry lol,Press the spacebar to create new flowers.,34227265,https://cdn2.scratch.mit.edu/get_image/project/235838827_480x360.png,2018-07-08T19:46:47.000Z,2018-07-08T21:14:56.000Z,2018-07-08T21:14:56.000Z,5,1,1,0,0,,
+235841275,Appearing Flower,I'm enjoying having a reason and purpose to play on Scratch. Thank you!,"Click on the green flag to start.
+Move the cursor to where you would like a flower and press the space bar. A flower will appear. Create a beautiful garden!",32833725,https://cdn2.scratch.mit.edu/get_image/project/235841275_480x360.png,2018-07-08T20:48:24.000Z,2018-07-13T04:59:00.000Z,2018-07-08T21:26:49.000Z,7,1,1,0,0,,
+235834574,02 Getting Unstuck - Flowers Appear,"Got stuck on this - was trying to use the clone tool, but couldn't figure out how to do it. Took at look at rbotero's solution and realized that the stamp tool was much easier than I was making it. :P","Press the green flag to start, and then click to start planting flowers!",5401184,https://cdn2.scratch.mit.edu/get_image/project/235834574_480x360.png,2018-07-08T18:11:44.000Z,2018-07-08T18:33:35.000Z,2018-07-08T18:32:14.000Z,5,1,1,0,0,,
+235716970,Getting Unstuck Challenge #2,,"When you click on the picture, rain will fall followed by a flower sprouting up. I need to work on getting more flowers to appear. Need to research how to create new sprites with code if that is possible. ",10296314,https://cdn2.scratch.mit.edu/get_image/project/235716970_480x360.png,2018-07-06T20:42:51.000Z,2018-07-09T13:10:34.000Z,2018-07-08T23:37:19.000Z,4,1,0,0,0,,
+235850660,Switch to Flowers,Getting Unstuck: Day 2  This was a very simple way of solving the task.  I love all the other ideas!  I am learning so much!,Click on the background for a surprise!,33988811,https://cdn2.scratch.mit.edu/get_image/project/235850660_480x360.png,2018-07-09T00:35:37.000Z,2018-07-09T00:54:27.000Z,2018-07-09T00:49:04.000Z,3,0,0,0,0,,
+235845710,Getting Unstuck - Day 2,I used cloning for my project. The boolean logic was interesting to play with in order to have the larger clovers.  I would like to figure out how to have the clones chain draw while getting bigger.,"Getting Unstuck Day 2: Display a flower each time that the user clicks on the background. 
+
+I chose 4 leaf clovers.  Anywhere you click a clover will appear.  Hold down the mouse for longer to make larger clovers.",14400846,https://cdn2.scratch.mit.edu/get_image/project/235845710_480x360.png,2018-07-08T22:44:11.000Z,2018-07-09T00:51:26.000Z,2018-07-09T00:46:41.000Z,4,1,0,0,0,,
+235850826,Getting Unstuck - Day 2,"Flower made using the paint tool (original art).
+
+Tried to use the cloning block, but was unsuccessful. Also tried the stamp block, but realized I was doing random spots rather than setting the location at the mouse pointer so the stamping was infinite.
+","Click the green arrow and then tap the background to see effects! Flowers should blossom in random areas of the garden!
+",25334812,https://cdn2.scratch.mit.edu/get_image/project/235850826_480x360.png,2018-07-09T00:39:27.000Z,2018-07-11T07:08:46.000Z,2018-07-09T01:20:31.000Z,3,0,0,0,0,,
+235846789,Getting_Unstuck_Day2,"This was fun but boy did I start overthinking it towards the end!
+
+It highlighted an important part of the creative process - to have a broad goal in mind but also know that as you unpack the idea, you are likely to be think of new, creative aspects that you hadn't thought of at the start.
+
+For this project, that meant adding a ""reset"" button and a ""grow"" button...
+
+I was particularly proud of the (simple) scene changes to simulate the sun going down and a new day with a new field.
+
+Another challenge was working out how to detect the colour green using the mouse so the flowers would only be planted in the field and not the sky.","Click on the field to plant a random flower!
+
+(Doesn't seem to work as well in full-screen mode?)",13763665,https://cdn2.scratch.mit.edu/get_image/project/235846789_480x360.png,2018-07-08T23:13:10.000Z,2018-07-09T02:56:35.000Z,2018-07-09T02:45:09.000Z,5,1,0,0,0,,
+235863867,Fantastical Flowers,,"Click the space bar to make a variety of flowers appear in random places on the screen. If you want more of a particular flower, you can make that happen, too. For orange flowers, click the up arrow key. For purple flowers, click the down arrow key. For additional yellow flowers, click on the left arrow key. Pink flowers will appear if you click on the right arrow key.
+
+To start over with a new flower bed arrangement, just click the green flag. 
+",17755152,https://cdn2.scratch.mit.edu/get_image/project/235863867_480x360.png,2018-07-09T05:19:26.000Z,2018-07-09T05:55:44.000Z,2018-07-09T05:55:44.000Z,5,0,0,0,0,,
+235816727,Love,Hadn't done anything like this before so used a lot of help from online groups., Click to spread random flowers. Hold down click to paint flowers.,30508500,https://cdn2.scratch.mit.edu/get_image/project/235816727_480x360.png,2018-07-08T11:08:03.000Z,2018-07-09T06:00:25.000Z,2018-07-09T05:59:01.000Z,5,1,0,0,0,,
+235867853,Getting Unstuck - Day 2 (Flowers!),"I'm keeping it simple, but I like the idea of changing the flower's size and color for each click. Maybe using cloning!
+
+Flower: http://www.pngpix.com/","Click on the green flag, then click on the background to display a flower every time you click!",2752403,https://cdn2.scratch.mit.edu/get_image/project/235867853_480x360.png,2018-07-09T06:38:30.000Z,2018-07-09T06:50:20.000Z,2018-07-09T06:47:29.000Z,13,1,1,0,0,,
+235869322,Getting Unstuck: Day 2,Simple flowers ,,24912473,https://cdn2.scratch.mit.edu/get_image/project/235869322_480x360.png,2018-07-09T07:03:52.000Z,2018-07-16T16:40:20.000Z,2018-07-09T07:12:38.000Z,8,1,0,0,0,,
+235719619,Unstuck_2,pen up helped as a line was drawn each time a flower was drawn.,click on background to see a flower,9694576,https://cdn2.scratch.mit.edu/get_image/project/235719619_480x360.png,2018-07-06T21:33:04.000Z,2018-07-09T07:12:02.000Z,2018-07-09T07:10:52.000Z,4,0,0,0,0,,
+235868762,day-2,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/235868762_480x360.png,2018-07-09T06:53:23.000Z,2018-07-09T07:31:43.000Z,2018-07-09T07:31:43.000Z,4,0,0,0,0,,
+235889776,Getting Unstucked Day2,,"click on the green flag, then click wherever on the screen",25103547,https://cdn2.scratch.mit.edu/get_image/project/235889776_480x360.png,2018-07-09T12:10:46.000Z,2018-07-09T12:56:59.000Z,2018-07-09T12:56:23.000Z,8,0,0,0,0,,
+235893556,getting unstuck - 2,clone,click the background to make a new flower appear for 10',21105129,https://cdn2.scratch.mit.edu/get_image/project/235893556_480x360.png,2018-07-09T12:55:36.000Z,2018-07-09T13:08:12.000Z,2018-07-09T13:07:04.000Z,6,0,0,0,0,,
+235899806,Unstuck Day#2,"Por Filipe Mendes
+#GettingUnstuck","Pressiona a bandeira verde e depois pressiona o rato no ecrã e planta uma flor.
+",2980392,https://cdn2.scratch.mit.edu/get_image/project/235899806_480x360.png,2018-07-09T13:51:40.000Z,2018-07-09T16:35:44.000Z,2018-07-09T14:09:39.000Z,2,0,0,0,0,,
+235895895,Happy Flower Flower,Day 2 of GU Fun,Click to make flowers appear. Hit space to clear flowers.,25385235,https://cdn2.scratch.mit.edu/get_image/project/235895895_480x360.png,2018-07-09T13:19:45.000Z,2018-07-09T16:41:05.000Z,2018-07-09T14:18:02.000Z,12,1,0,0,0,,
+235892964,Getting Unstuck Day 2_flower click,"Instead of using the pen tool that displayed a version of the same flower upon click, I wanted to create a project where a different flower appears with each click. Code is clunky, but I managed to figure out something that works.",Click to find the flowers.,2860339,https://cdn2.scratch.mit.edu/get_image/project/235892964_480x360.png,2018-07-09T12:49:14.000Z,2018-07-09T14:55:58.000Z,2018-07-09T14:55:58.000Z,9,2,1,0,0,,
+235914084,UNstuck-Day 2-Jazden7,,Click the green arrow. Move the curser and click the mouse... and watch the flowers bloom!,29798770,https://cdn2.scratch.mit.edu/get_image/project/235914084_480x360.png,2018-07-09T15:56:21.000Z,2018-07-09T17:03:02.000Z,2018-07-09T16:53:19.000Z,8,1,0,0,0,,
+235921668,Unstuck-2,,,34091272,https://cdn2.scratch.mit.edu/get_image/project/235921668_480x360.png,2018-07-09T17:11:22.000Z,2018-07-09T17:26:19.000Z,2018-07-09T17:26:19.000Z,8,0,0,0,0,,
+235924236,Geometry of Flowers,,Click for Flowers ,3602053,https://cdn2.scratch.mit.edu/get_image/project/235924236_480x360.png,2018-07-09T17:34:23.000Z,2018-07-09T20:45:07.000Z,2018-07-09T17:44:01.000Z,9,1,0,0,0,,
+235925144,Getting Unstuck Day 2,"Again, learning from examples.  There are so many possibilities when it comes to creating things!",Click on the beach to grow some palm trees.  ,34221568,https://cdn2.scratch.mit.edu/get_image/project/235925144_480x360.png,2018-07-09T17:43:12.000Z,2018-07-09T18:08:38.000Z,2018-07-09T18:08:38.000Z,6,0,0,0,0,,
+235924360,Unstuck 2,"I was trying to add something that says, ""Click the space bar to stop this animation."" But I got stuck!  for some reason, I could not add  more text. I think it was a computer issue.",,746233,https://cdn2.scratch.mit.edu/get_image/project/235924360_480x360.png,2018-07-09T17:35:40.000Z,2018-07-09T18:15:32.000Z,2018-07-09T18:10:40.000Z,6,0,0,0,0,,
+235927342,Getting Unstuck Day 2 - Flower Power,"When the sprite hits the edge, the flower is distorted.  Any suggestions on how to fix this?
+Id fun with this project too but got a little frustrated by the edge. Maybe I could set limiters on edges in the future? 
+I liked the colour change and shape of flower.  This took me ages to work out - I never was great at angles in school especially whenmaking htem join after repetition!
+Id like to try to add more shapes and flowers.","Getting Unstuck Day 2
+Click on the Sprite to get it to draw a flower
+#CreativeComputing
+#GettingUnstuck
+
+Click the sprite to get it to draw.
+Press the spacebar to clear the screen and reset.",24864870,https://cdn2.scratch.mit.edu/get_image/project/235927342_480x360.png,2018-07-09T18:02:54.000Z,2018-07-15T15:04:47.000Z,2018-07-09T18:17:38.000Z,4,0,0,0,0,,
+235926254,Make the desert bloom! -- Unstuck Challenge 2,"
+Flower pic from 
+https://pixabay.com/en/plant-achillea-png-yarrow-blossom-2704445/ (Creative Commons license)","Press the flag to begin.
+
+Click anywhere for a flower to appear.
+
+Spacebar to clear and start again!
+
+If you click enough, you get a message of encouragement and get to start fresh!",11608238,https://cdn2.scratch.mit.edu/get_image/project/235926254_480x360.png,2018-07-09T17:53:33.000Z,2018-07-09T18:23:13.000Z,2018-07-09T18:09:14.000Z,1,0,0,0,0,,
+235928390,Getting Unstuck Day 2,,,24998404,https://cdn2.scratch.mit.edu/get_image/project/235928390_480x360.png,2018-07-09T18:11:49.000Z,2018-07-09T18:32:37.000Z,2018-07-09T18:32:37.000Z,4,0,0,0,0,,
+235925120,Getting Unstuck #2,"#GettingUnstuck
+Un grazie a tutta la comunità per gli esempi",Clicca sulla bandierina verde e poi fai clic con il tasto sinistro del mouse per riempire di fiori il deserto. Puoi anche tenere premuto il tasto sinistro del mouse e trascinarlo sullo sfondo.,17320587,https://cdn2.scratch.mit.edu/get_image/project/235925120_480x360.png,2018-07-09T17:43:02.000Z,2018-07-09T19:06:26.000Z,2018-07-09T19:01:51.000Z,5,0,0,0,0,,
+235936352,Water Lilies,"This project is for Getting Unstuck, Day 2!
+
+I don't usually use the stamp block, so I thought this would be a nice chance to experiment with it. I'd like to add lilypads in the next version (but I don't want them to overlap flowers - need to figure out how to get them to lie underneath if added).
+
+Flower modified from Wikimedia Commons: https://commons.wikimedia.org/w/index.php?search=lilypond-logo&title=Special:Search&go=Go&searchToken=6re5otlvflgp1f6ku3466xld8#/media/File:LilyPond-logo.png","Press the green flag to start, and then click on the water!",17184580,https://cdn2.scratch.mit.edu/get_image/project/235936352_480x360.png,2018-07-09T19:23:23.000Z,2018-07-09T20:26:07.000Z,2018-07-09T20:22:49.000Z,13,1,0,0,0,,
+235941969,Getting Unstuck day 2,,Clicca sulla bandierina e poi premi il tasto spazio,20899850,https://cdn2.scratch.mit.edu/get_image/project/235941969_480x360.png,2018-07-09T20:38:20.000Z,2018-07-09T21:44:26.000Z,2018-07-09T21:35:03.000Z,6,0,0,0,0,,
+235947936,Getting Unstuck: Day 2,,"Click Green flag to start
+Lotus blossoms appear to grown wherever you click your mouse",34186303,https://cdn2.scratch.mit.edu/get_image/project/235947936_480x360.png,2018-07-09T22:10:38.000Z,2018-07-09T22:22:55.000Z,2018-07-09T22:22:18.000Z,9,2,0,0,0,,
+235934449,Getting Unstuck Day 2,"I am having a difficult time figuring this one out, but since I'm playing catch up, I will display what I have and come back later to fix it once I have some new ideas.",Challenge: Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be? ,34245752,https://cdn2.scratch.mit.edu/get_image/project/235934449_480x360.png,2018-07-09T19:02:58.000Z,2018-07-09T23:54:00.000Z,2018-07-09T23:54:00.000Z,5,0,0,0,0,,
+235923526,Unstuck 2,"I am still a beginner, but I am beginning to get unstuck. ",Click anywhere on the backdrop. ,840815,https://cdn2.scratch.mit.edu/get_image/project/235923526_480x360.png,2018-07-09T17:26:48.000Z,2018-07-10T14:15:11.000Z,2018-07-10T00:46:04.000Z,3,0,0,0,0,,
+235954829,Getting unstuck - day 2 - Sea flowers,,"Click anywhere on the stage.
+
+Clicca dove vuoi sullo sfondo.",11087380,https://cdn2.scratch.mit.edu/get_image/project/235954829_480x360.png,2018-07-10T00:21:04.000Z,2018-07-10T01:44:05.000Z,2018-07-10T01:37:47.000Z,4,1,1,0,0,,
+235966970,unstuck day 2,I used the STAMP block - did not quite understand how to use the clone feature yet,"click on the green flag to clear, then click anywhere on the background to POP a new flower in ! ",32864221,https://cdn2.scratch.mit.edu/get_image/project/235966970_480x360.png,2018-07-10T03:43:27.000Z,2018-07-10T04:32:10.000Z,2018-07-10T04:30:50.000Z,4,0,0,0,0,,
+235967166,Getting Unstuck - Day 2 Activity,"This is my project for Day 2 of the Getting Unstuck programming challenge.
+
+I created the flower sprite with the Sprite paint editor.
+
+I used the STAMP block for adding the flowers after first experimenting with the CLONE block and struggling. Further exploring with the clone block in the future maybe.","Click the green flag to start.
+Ruby will tell you what to do.",15946,https://cdn2.scratch.mit.edu/get_image/project/235967166_480x360.png,2018-07-10T03:48:36.000Z,2018-07-10T06:26:05.000Z,2018-07-10T05:44:30.000Z,15,1,1,0,0,,
+235976533,Getting Unstuck: Day 2,,click on the background to make a new flower appear,19738986,https://cdn2.scratch.mit.edu/get_image/project/235976533_480x360.png,2018-07-10T06:55:33.000Z,2018-07-16T10:28:35.000Z,2018-07-10T07:47:29.000Z,9,0,0,0,0,,
+235984932,unstuck day 2,,"Click on the stage to create a flower.
+
+Flowers are created as clones to allow them to rotate.",1165375,https://cdn2.scratch.mit.edu/get_image/project/235984932_480x360.png,2018-07-10T08:43:32.000Z,2018-07-10T09:22:41.000Z,2018-07-10T09:22:41.000Z,12,3,2,0,0,,
+235994887,Getting unstuck day 2,"I've learned how to create a clon when push the stage , and show a random skin.",,2680901,https://cdn2.scratch.mit.edu/get_image/project/235994887_480x360.png,2018-07-10T11:07:49.000Z,2018-07-10T11:32:09.000Z,2018-07-10T11:28:05.000Z,8,1,0,0,0,,
+235994942,getting unstuck day 2,i have learned to use clones,,23020553,https://cdn2.scratch.mit.edu/get_image/project/235994942_480x360.png,2018-07-10T11:08:36.000Z,2018-08-03T17:38:20.000Z,2018-07-10T11:28:16.000Z,5,1,1,0,0,,
+236025449,Getting Unstuck Day 2 LK,,"Click on the green flag to begin.
+Fill the hill with flowers by clicking on the mountainside.",27094795,https://cdn2.scratch.mit.edu/get_image/project/236025449_480x360.png,2018-07-10T15:57:18.000Z,2018-07-10T16:59:24.000Z,2018-07-10T16:59:24.000Z,4,0,0,0,0,,
+236038982,Unstuck Day 2!,,,24710888,https://cdn2.scratch.mit.edu/get_image/project/236038982_480x360.png,2018-07-10T18:04:49.000Z,2018-07-11T18:05:39.000Z,2018-07-10T18:19:14.000Z,6,0,0,0,0,,
+236042269,2 : Flower Power,"I found the flowers here: https://pixabay.com/da/abstrakt-farverige-dekorative-1299099/ - thank you - they are beautiful.
+
+
+
+
+","Click on the green flag and then on the background - how many of each flower do you get? 
+
+There are 4 different flowers as costumes. It is random which costume you can set as a stamp.",1252137,https://cdn2.scratch.mit.edu/get_image/project/236042269_480x360.png,2018-07-10T18:32:04.000Z,2018-07-10T19:00:42.000Z,2018-07-10T18:55:41.000Z,6,3,0,0,0,,
+236042823,Unstuck #2 Flowers,With a lot of help from Topsie!  ,Click the green flag to get growing the garden,24269220,https://cdn2.scratch.mit.edu/get_image/project/236042823_480x360.png,2018-07-10T18:37:07.000Z,2018-07-10T19:03:58.000Z,2018-07-10T19:03:06.000Z,3,0,0,0,0,,
+236043124,Getting Unstuck #02 - Flowers,"Project for the Getting Unstuck challenge series - day 2:
+https://gettingunstuck.gse.harvard.edu/about.html
+
+Music: Morning Mood by Edvard Grieg. 
+Recording is from YouTube's audio library (CC0).
+
+Flower sprites: from publicdomainpictures.net (CC0).
+
+Nice activity, some basic cloning and (in my approach) collision detection. I also scaled the flowers to simulate distance, and further explored day 1's experiments with night&day cycles.",Click on the hills to plant some flowers!,20919879,https://cdn2.scratch.mit.edu/get_image/project/236043124_480x360.png,2018-07-10T18:39:52.000Z,2018-07-10T19:46:09.000Z,2018-07-10T19:37:27.000Z,11,0,0,0,0,,
+236019177,day2,Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be? ,,24618980,https://cdn2.scratch.mit.edu/get_image/project/236019177_480x360.png,2018-07-10T15:02:28.000Z,2018-08-07T15:45:11.000Z,2018-07-10T21:22:49.000Z,7,0,0,0,0,,
+236055779,Getting Unstuck - Day 2,,,17812875,https://cdn2.scratch.mit.edu/get_image/project/236055779_480x360.png,2018-07-10T21:18:10.000Z,2018-07-10T21:34:50.000Z,2018-07-10T21:34:50.000Z,7,0,0,0,0,,
+236025987,Getting Unstuck – Day 2,"Made for Day 2 of Getting Unstuck:
+
+Display a flower each time that the user clicks on the background.",Click to increase power.,588648,https://cdn2.scratch.mit.edu/get_image/project/236025987_480x360.png,2018-07-10T16:02:24.000Z,2018-07-11T17:19:41.000Z,2018-07-10T21:59:53.000Z,6,0,0,0,0,,
+236057706,Unstuck Day 2,"Getting Unstuck Day 2
+
+Made mine a flower wreath!
+
+What did you like most about your project? I liked the way it turned out!  I used a  image from he internet and had it change size and color as it cloned in the form of a flower wreath.  What would you do with it next, if you had more time?  I would add more flowers.",,11885888,https://cdn2.scratch.mit.edu/get_image/project/236057706_480x360.png,2018-07-10T21:48:28.000Z,2018-07-10T22:36:19.000Z,2018-07-10T22:22:42.000Z,8,1,0,0,0,,
+236048806,UnGU02 - flowers for ever...,Now I create flying flowers (my drawing)  with a single click!,Click on green button and then click on the stage1!,34279311,https://cdn2.scratch.mit.edu/get_image/project/236048806_480x360.png,2018-07-10T19:39:46.000Z,2018-07-23T13:20:07.000Z,2018-07-10T23:13:35.000Z,2,0,0,0,0,,
+236057861,Getting Unstuck Day 2 - Scratch & Flowers,"I liked how I was able to restrict the flower planting to a specific area using a random go to XY block...  Next time, if I had more time, I would learn more about how to effectively use clones to make multiple flowers.  Thank you!","Click the Green Flag and listen to Scratch for more instructions.
+",27535268,https://cdn2.scratch.mit.edu/get_image/project/236057861_480x360.png,2018-07-10T21:51:39.000Z,2018-07-11T01:10:11.000Z,2018-07-11T01:04:49.000Z,5,2,0,0,0,,
+235993152,Getting Unstuck - Day 2,#CreativeComputing #GettingUnstuck,"Display a flower each time that the user clicks on the background.
+
+Click once to create a flower on the screen. Hold down the mouse for multiple flowers to appear. Enjoy!",7533440,https://cdn2.scratch.mit.edu/get_image/project/235993152_480x360.png,2018-07-10T10:39:37.000Z,2018-07-11T01:17:35.000Z,2018-07-11T01:08:42.000Z,23,7,1,0,0,,
+235934543,Flower Display- Day 2,"Display a flower each time that the user clicks on the background. 
+
+**My getting unstuck strategy was, ""Be Inspired by Others.""  Thank you to the projects I looked at (I kept clicking on different ones so I can't remember which one exactly helped me!) who helped me figure out why my code wouldn't work.  I was forgetting to code, ""When Stage Clicked,"" on my background! ",Click the green flag to begin and use your mouse to make flowers appear!,25165723,https://cdn2.scratch.mit.edu/get_image/project/235934543_480x360.png,2018-07-09T19:03:57.000Z,2018-07-11T01:57:39.000Z,2018-07-11T01:57:39.000Z,7,0,0,0,0,,
+236089623,day-2,"Getting Unstuck Day-2
+by Massimo Marletta
+
+Every time the user click on the Stage, a clone of the Flower sprite is created. 
+Once the clone is created it is moved to the mouse position and showed.",,4804940,https://cdn2.scratch.mit.edu/get_image/project/236089623_480x360.png,2018-07-11T07:24:33.000Z,2018-07-11T07:33:06.000Z,2018-07-11T07:31:55.000Z,8,0,0,0,0,,
+235988737,Fioriamo,,Progetto seconda settimana,13575540,https://cdn2.scratch.mit.edu/get_image/project/235988737_480x360.png,2018-07-10T09:34:59.000Z,2018-07-11T08:39:47.000Z,2018-07-11T08:39:18.000Z,11,0,0,0,0,,
+236116644,Getting Unstuck2: roses,,Press on the stage,16573108,https://cdn2.scratch.mit.edu/get_image/project/236116644_480x360.png,2018-07-11T13:20:06.000Z,2018-07-27T16:29:54.000Z,2018-07-11T14:46:41.000Z,2,0,0,0,0,,
+236125689,Getting Unstuck day2,,cliccando sullo stage appaiono i fiori,17636749,https://cdn2.scratch.mit.edu/get_image/project/236125689_480x360.png,2018-07-11T14:35:03.000Z,2018-07-11T14:56:24.000Z,2018-07-11T14:56:06.000Z,12,0,0,0,0,,
+236133839,NEL BLU DIPINTO DI ...FIORI! DAY 2,HO PROVATO E RIPROVATO...,"
+PER VEDER COMPARIRE I FIORI SI CLICCA SULLO STAGE
+
+PER RIPULIRE IL CIELO BASTA CLICCARE SULLA BANDIERINA",34259094,https://cdn2.scratch.mit.edu/get_image/project/236133839_480x360.png,2018-07-11T15:43:18.000Z,2018-07-11T15:57:38.000Z,2018-07-11T15:55:31.000Z,2,0,0,0,0,,
+236133955,Getting Unstuck Day 2 - Flower,,,3089308,https://cdn2.scratch.mit.edu/get_image/project/236133955_480x360.png,2018-07-11T15:44:24.000Z,2018-07-11T15:58:30.000Z,2018-07-11T15:58:30.000Z,2,0,0,0,0,,
+236128975,Getting unstuck day 2,,,16426717,https://cdn2.scratch.mit.edu/get_image/project/236128975_480x360.png,2018-07-11T15:02:39.000Z,2018-07-11T16:19:40.000Z,2018-07-11T16:19:40.000Z,2,0,0,0,0,,
+236137326,Day 2 Getting Unstuck,"Create
+Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch—what will your approach be?","Click Flag to begin
+
+Click spacebar for flowers to appear.",18513865,https://cdn2.scratch.mit.edu/get_image/project/236137326_480x360.png,2018-07-11T16:17:23.000Z,2018-07-11T16:52:13.000Z,2018-07-11T16:50:44.000Z,5,1,0,0,0,,
+236146867,Getting unstuck: Day 2,Andrés Gil Ruiz,Without help of my challengemates it would have been impossible,27636310,https://cdn2.scratch.mit.edu/get_image/project/236146867_480x360.png,2018-07-11T17:48:20.000Z,2018-07-11T18:00:36.000Z,2018-07-11T17:58:48.000Z,10,0,0,0,0,,
+236155024,Unstuck2,"Display a baloon each time that the user clicks on the background.
+
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621",,28648400,https://cdn2.scratch.mit.edu/get_image/project/236155024_480x360.png,2018-07-11T19:08:17.000Z,2018-07-11T19:31:50.000Z,2018-07-11T19:27:58.000Z,4,0,0,0,0,,
+236155170,Getting Unstuck - Day 2,This has been challenging me for days!  Thank you all at Getting Unstuck for the inspiration!,"Click on Green Flag
+Click on background",32463998,https://cdn2.scratch.mit.edu/get_image/project/236155170_480x360.png,2018-07-11T19:09:44.000Z,2018-07-11T19:46:25.000Z,2018-07-11T19:44:30.000Z,4,0,0,0,0,,
+236055807,Getting Unstuck [Day 2],This is getting unstuck day 2!,Click on the hill to place the flowers,13594403,https://cdn2.scratch.mit.edu/get_image/project/236055807_480x360.png,2018-07-10T21:18:34.000Z,2018-07-11T21:43:07.000Z,2018-07-11T21:43:07.000Z,4,0,0,0,0,,
+236054459,Getting Unstuck [Day 1],This is getting unstuck day 1!,Click the Green Flag!,13594403,https://cdn2.scratch.mit.edu/get_image/project/236054459_480x360.png,2018-07-10T20:57:46.000Z,2018-07-11T21:44:13.000Z,2018-07-10T21:14:24.000Z,10,1,0,0,0,,
+236089460,Unstuck Day 2,Used a stamp though realise clone may be better. was fun anyway.,Click the greenflag and then the boy he will tell you what to do next,10852184,https://cdn2.scratch.mit.edu/get_image/project/236089460_480x360.png,2018-07-11T07:22:11.000Z,2018-07-12T07:30:35.000Z,2018-07-11T08:53:42.000Z,4,0,0,0,0,,
+236167363,fiore ,"Getting Unstuck: Day 2
+in un primo momento volevo coprire il prato di fiori nascosti che si sarebbero mostrati solo clicccandoli, poi ho trovato una soluzione più rapida....
+
+",clicca sul prato sboccerà un fiore nuovo,21462276,https://cdn2.scratch.mit.edu/get_image/project/236167363_480x360.png,2018-07-11T22:08:56.000Z,2018-07-11T22:43:43.000Z,2018-07-11T22:31:08.000Z,2,0,0,0,0,,
+236173436,Getting Unstuck: Day 2,clone the sprite,"Click on the Green Flag
+making flowers",34283191,https://cdn2.scratch.mit.edu/get_image/project/236173436_480x360.png,2018-07-12T00:11:57.000Z,2018-07-12T00:27:31.000Z,2018-07-12T00:26:04.000Z,8,0,0,0,0,,
+236235518,Getting Unstuck Day 2,"Day 2's Getting Unstuck challenge.
+
+The flowers are created by making clones. The flower is hidden when the user clicks the Green Flag. Each time the stage is clicked, a message is sent out. On receiving the message, the sprite clones itself. When a clone is created, it moves to where the mouse pointer is, and shows itself.","Press the Green Flag, then click on the stage - a flower will appear anywhere you click!",25417558,https://cdn2.scratch.mit.edu/get_image/project/236235518_480x360.png,2018-07-12T15:28:14.000Z,2018-07-12T15:34:49.000Z,2018-07-12T15:34:49.000Z,3,0,0,0,0,,
+236231667,Day 2 Getting Unstuck 2018,Perspective is somewhat maintained by changing the size of the flower as you move the cursor up and down the scene.,"After clicking the green flag to start, click anywhere on the scene to place a flower.",1013358,https://cdn2.scratch.mit.edu/get_image/project/236231667_480x360.png,2018-07-12T14:53:22.000Z,2018-07-12T16:19:48.000Z,2018-07-12T16:10:18.000Z,3,0,0,0,0,,
+236232371,Getting Unstuck Day 2,"Image is from the Metropolitan Museum of Art works in the Public Domain
+
+Wheat Field with Cypresses
+Vincent van Gogh
+
+Used the stamp block to create the flower every time the background is clicked.","Click on the green flag to start or to clear any stamped flowers, then click the background to change van Gogh's wheat field into a field of flowers.",1353497,https://cdn2.scratch.mit.edu/get_image/project/236232371_480x360.png,2018-07-12T14:59:48.000Z,2018-07-12T16:30:13.000Z,2018-07-12T15:30:56.000Z,10,0,0,0,0,,
+236260311,Desert Blooming,Amazed how quickly you can acquire skills in this platform. I have not spent so much time actually playing with Scratch myself and it is very enjoyable creating my own projects in addition to working with students on their own bugs,"Click green flag, then click on the screen",34099462,https://cdn2.scratch.mit.edu/get_image/project/236260311_480x360.png,2018-07-12T19:52:40.000Z,2018-07-14T14:21:13.000Z,2018-07-12T20:20:34.000Z,8,0,0,0,0,,
+236267608,Getting Unstuck 2- Fiori,Creato per la challenge Getting Unstuck day 2.,Cliccando sullo sfondo il prato si rivestirà di fiori coloroti.,22217887,https://cdn2.scratch.mit.edu/get_image/project/236267608_480x360.png,2018-07-12T21:49:36.000Z,2018-07-13T14:19:25.000Z,2018-07-12T23:00:19.000Z,2,0,0,0,0,,
+236270430,Getting Unstuck 2,Getting Unstuck Day 2,clicca sul fiore,15572972,https://cdn2.scratch.mit.edu/get_image/project/236270430_480x360.png,2018-07-12T22:46:36.000Z,2018-07-18T07:56:28.000Z,2018-07-12T23:08:59.000Z,2,0,0,0,0,,
+236211993,Flower Stamp,Scratch #unstuck project,"Click the background to stamp a flower. The flower will be randomly selected from 3 costumes.
+
+Uses Cloning, the Stamp block and Randomly selected block.
+
+#UnstuckDay2 #GettingUnstuck",3669917,https://cdn2.scratch.mit.edu/get_image/project/236211993_480x360.png,2018-07-12T11:28:46.000Z,2018-07-13T05:13:05.000Z,2018-07-13T03:07:02.000Z,3,0,0,0,0,,
+236347881,flying flowers,da completare con una musica...,"Bandiera verde e sfondo
+Click on the green flag and on stage",11312120,https://cdn2.scratch.mit.edu/get_image/project/236347881_480x360.png,2018-07-13T19:11:07.000Z,2018-07-28T07:38:47.000Z,2018-07-13T20:24:48.000Z,3,1,0,0,0,,
+236364731,Flowers!,"This should give the illusion of distance.
+
+The gerbera is taken from https://www.maxpixel.net/Gerbera-Nature-Orange-Close-Bloom-Blossom-Flower-3287095",Click on the green!,12148328,https://cdn2.scratch.mit.edu/get_image/project/236364731_480x360.png,2018-07-14T00:24:53.000Z,2018-07-14T01:07:48.000Z,2018-07-14T01:07:48.000Z,5,0,0,0,0,,
+236375729,Getting Unstuck Day 2,"Getting Unstuck Day 2 Reflection:
+The part of my project I like the best is that I figured out how to make the flowers different colors.  If I had more time, I'd like to figure out how to make them grow, and I'd like to make them different sizes.  It would be cool if there were different types of flowers too, instead of just different colors.","Click the green flag, then click on the stage to make the flowers appear.",30095573,https://cdn2.scratch.mit.edu/get_image/project/236375729_480x360.png,2018-07-14T04:21:12.000Z,2018-07-14T04:44:02.000Z,2018-07-14T04:44:02.000Z,3,0,0,0,0,,
+236388711,Getting Unstuck: Day 2,"This is my project for Day 2 of the Getting Unstuck programming challenge.
+
+I created the flower sprite with the Sprite paint editor and I used the stamp block for adding flowers to the stage. It can be done using the clone block too, but it's tricky, in my opinion.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621",Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch.,34314391,https://cdn2.scratch.mit.edu/get_image/project/236388711_480x360.png,2018-07-14T09:49:35.000Z,2018-07-14T10:15:57.000Z,2018-07-14T10:11:03.000Z,8,1,1,0,0,,
+236316422,Unstuck 2,,,18827386,https://cdn2.scratch.mit.edu/get_image/project/236316422_480x360.png,2018-07-13T12:52:32.000Z,2018-07-13T13:36:21.000Z,2018-07-13T13:36:21.000Z,6,0,0,0,0,,
+236259898,Getting Unstuck: Day 2,"I used cloning feature to display the flowers. I didn't know how to do because each clone was appearing in the same position, so I found the solution in the studio, after watching ""Desert blooming"" from @GASMakers, thanks! - https://scratch.mit.edu/projects/236260311
+
+Bee icon made by Freepik from www.flaticon.com
+Flaticon is licensed by Creative Commons BY 3.0 - CC 3.0 BY","Press the flag to start the project.
+Use the mouse to move the bee, and click on it to make flowers magically appear!
+
+",21887196,https://cdn2.scratch.mit.edu/get_image/project/236259898_480x360.png,2018-07-12T19:46:31.000Z,2018-07-14T14:16:13.000Z,2018-07-14T14:16:13.000Z,7,0,0,0,0,,
+236394016,Flowers,,,34102687,https://cdn2.scratch.mit.edu/get_image/project/236394016_480x360.png,2018-07-14T12:05:38.000Z,2018-07-14T13:56:19.000Z,2018-07-14T13:56:19.000Z,9,0,0,0,0,,
+236400954,Getting Unstuck (Robot Gardener),"This might the beginning of a game or of an interactive story.
+
+Day 2 Getting Unstuck challenge (I'm late!)
+
+https://gettingunstuck.gse.harvard.edu/index.html
+
+
+","Click the green flag to start the gardening game.
+The robot will tell you what you need to know.
+
+Getting Unstuck Challenge 2: Display a flower each time that the user clicks on the background. (In my project you click on the sun!)
+
+Challenge: get the audience involved in telling your story. 
+Behaviors to understand: clicking a sprite to make something else happen; cloning sprites; random numbers to position sprites.",22355433,https://cdn2.scratch.mit.edu/get_image/project/236400954_480x360.png,2018-07-14T14:45:34.000Z,2018-07-14T14:59:46.000Z,2018-07-14T14:53:45.000Z,7,0,0,0,0,,
+236082739,Getting Unstuck - Day 2,Day 2 and the challenge is already beyond what I previously knew!  I was able to design the flower sprite and choose the backdrop.  Then I had to look through several projects to figure out how to get the sprite to display when the background was clicked.  That led me to figuring out how to get the flowers in different sizes as well.,Click on the green flag and then a flower will display each time that the user clicks on the background.,24696341,https://cdn2.scratch.mit.edu/get_image/project/236082739_480x360.png,2018-07-11T05:39:51.000Z,2018-07-14T20:36:32.000Z,2018-07-14T20:34:19.000Z,9,0,0,0,0,,
+236421105,Getting Unstuck Day 2: Growing Flowers,"I borrowed code from a previous project I had done and modified it a bit to draw the flowers. If I had more time, I would add stems to the flowers & make sure they weren't going to be drawn in the sky.",,5271542,https://cdn2.scratch.mit.edu/get_image/project/236421105_480x360.png,2018-07-14T22:24:36.000Z,2018-07-14T23:13:18.000Z,2018-07-14T23:02:52.000Z,12,4,1,0,0,,
+236471094,Flower Power (Getting Unstuck #2),"Getting Unstuck: Day 2
+Display a flower each time that the user clicks on the background.
+
+Decided to use the stamp block to duplicate flowers when the background is clicked, still working on figuring out the clone option. Played around with the size and color to have a variety of flowers. Made it so the flowers appeared where the mouse - pointer was located. Decided to create the background, sun and flower sprites with the paint option.","Click anywhere on the background to create a beautiful flower garden. 
+Click on the sun for a fun message!
+Click on the green flag to start over.",22105327,https://cdn2.scratch.mit.edu/get_image/project/236471094_480x360.png,2018-07-15T20:06:43.000Z,2018-07-16T18:08:14.000Z,2018-07-15T21:01:17.000Z,11,1,0,0,0,,
+236522237,Getting Unstuck Day 2,I decided to go one step further and make the daisy position (left or right) be random.  This adds variety to the garden.  I would like to add other colored daisies as well as different sizes.,Click on the flag to begin/clear flowers.  Click on the background to create a lovely garden of daisies.,2502473,https://cdn2.scratch.mit.edu/get_image/project/236522237_480x360.png,2018-07-16T12:15:42.000Z,2018-07-16T12:57:28.000Z,2018-07-16T12:55:24.000Z,12,0,0,0,0,,
+236533670,Getting unstuck: Day 2 -Making flowers grow,Special thanks to AndrewPilla who's code I remixed as I didn't have a clue!,click on the grass to make flowers appear.,3035045,https://cdn2.scratch.mit.edu/get_image/project/236533670_480x360.png,2018-07-16T14:15:09.000Z,2018-07-17T14:46:39.000Z,2018-07-16T14:27:34.000Z,12,0,0,0,0,236146867,236146867
+236036165,day 2,,,28439839,https://cdn2.scratch.mit.edu/get_image/project/236036165_480x360.png,2018-07-10T17:39:13.000Z,2018-07-16T17:06:08.000Z,2018-07-16T17:04:26.000Z,4,0,0,0,0,,
+236607364,Getting Unstuck: Day 2 remix,,Display a flower each time that the user clicks on the background. There are at least three different ways of programming this in Scratch.,18505490,https://cdn2.scratch.mit.edu/get_image/project/236607364_480x360.png,2018-07-17T07:11:15.000Z,2018-07-17T07:14:56.000Z,2018-07-17T07:14:56.000Z,12,0,0,0,0,236388711,236388711
+236357969,Getting Unstuck Day 2 - Things Grow,"I enjoyed watching my project come to life. I would like to have to have flowers pop up in random locations in the futures. Instead, I have neat little rows of wildflowers. None the less the project is really cool since this is my first time doing this sort of work. :)",Click on the green flag. Then click on the background to watch the flowers and stars populate. ,30595057,https://cdn2.scratch.mit.edu/get_image/project/236357969_480x360.png,2018-07-13T22:01:15.000Z,2018-07-17T22:55:07.000Z,2018-07-17T22:49:38.000Z,5,0,0,0,0,,
+236129082,Getting Unstuck Day 2,,,13275782,https://cdn2.scratch.mit.edu/get_image/project/236129082_480x360.png,2018-07-11T15:03:31.000Z,2018-07-18T09:07:34.000Z,2018-07-18T09:07:34.000Z,16,2,2,0,0,,
+236793948,Getting Unstuck Day 2,"Used this project to create my own sprites.
+Learned how to set each sprite to be hidden within the information box. I needed to refer to other projects to understand how to use clone and stamp blocks.  Hide and Show blocks were useful. Still a few bugs to work out.","Click Green Flag to Start
+Click on the background to add a little spring to our Canadian winter.",26730957,https://cdn2.scratch.mit.edu/get_image/project/236793948_480x360.png,2018-07-18T23:27:31.000Z,2018-07-19T00:55:16.000Z,2018-07-19T00:51:44.000Z,8,0,0,0,0,,
+236791922,Unstuck Day 2,"Interesting the Low Floor, High Ceiling, Wide Wall nature of the daily projects encourages coders to work at their own level and yet ""reach out"" to others in the Studio for help.  ","click on green flag to start
+The plan was to have the Lightning bolt strike and a flower appear.  
+Require assistance to figure out if the co-ordinates of the end of the bolt can broadcast to the flower to make that it's location.",14232182,https://cdn2.scratch.mit.edu/get_image/project/236791922_480x360.png,2018-07-18T22:47:29.000Z,2018-07-19T00:56:04.000Z,2018-07-19T00:56:04.000Z,2,0,0,0,0,,
+236833239,Character Flowers,"Getting Stuck Day 2
+
+I started by creating spiral flowers. I was going to move into creating fractal flowers. But got a little bogged down with this so went with the strategy ""try something else"". Tera Tulip and Giga Gladiolus were born! ",Click the green flag to create Tera Tulip and Giga Gladiolus. Click the background to add more flowers. Enjoy your character garden.,17948274,https://cdn2.scratch.mit.edu/get_image/project/236833239_480x360.png,2018-07-19T10:04:04.000Z,2018-07-19T11:14:53.000Z,2018-07-19T10:31:25.000Z,6,2,1,0,0,,
+236944321,Day 2 - FAI APPARIRE I FIORI!,Grazie a Mme_Roome :),Clicca sulla bandierina verde e poi clicca dove vuoi per far apparire tanti fiori!,17600576,https://cdn2.scratch.mit.edu/get_image/project/236944321_480x360.png,2018-07-20T14:28:19.000Z,2018-07-20T15:18:04.000Z,2018-07-20T14:37:10.000Z,6,1,0,0,0,236471094,236471094
+237044239,Unstuck #2 Flowers,"Unstuck #2 - planting flowers
+
+Each clone will be one of three flowers (pngs from internet). Clones have variable color, brightness and size.","Click on the ground to plant flowers. Flowers are clones, so they cannot be moved once placed.",26618044,https://cdn2.scratch.mit.edu/get_image/project/237044239_480x360.png,2018-07-22T01:28:38.000Z,2018-07-22T13:51:26.000Z,2018-07-22T01:54:59.000Z,7,0,0,0,0,,
+237071600,OwlMorton-Unstuck2,,,21214926,https://cdn2.scratch.mit.edu/get_image/project/237071600_480x360.png,2018-07-22T13:49:38.000Z,2018-07-22T13:56:27.000Z,2018-07-22T13:56:27.000Z,5,0,0,0,0,,
+237071073,Untitled-19,#GettingUnstuck!,,14096918,https://cdn2.scratch.mit.edu/get_image/project/237071073_480x360.png,2018-07-22T13:35:52.000Z,2018-07-22T15:47:31.000Z,2018-07-22T15:38:18.000Z,6,1,1,0,0,,
+237132745,Day2:Flower,,,34128835,https://cdn2.scratch.mit.edu/get_image/project/237132745_480x360.png,2018-07-23T09:32:42.000Z,2018-07-23T10:34:29.000Z,2018-07-23T10:34:29.000Z,5,0,0,0,0,,
+237186582,Getting Unstuck - Day 2,"Getting Unstuck Day 2 Project
+
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621
+
+""No single act will uncover more creative powers than forcing yourself to create consistently.""—James Clear","click on background to plant flowers
+",8880372,https://cdn2.scratch.mit.edu/get_image/project/237186582_480x360.png,2018-07-23T20:38:11.000Z,2018-07-24T22:58:20.000Z,2018-07-23T20:49:08.000Z,6,0,0,0,0,,
+236189122,"AWV - Getting Unstuck, Day 2","Getting Unstuck, day 2.
+I think I should have used clone instead of stamp so that the user could change the appearance of multiple flowers instead of just the latest one. 
+
+I played around with adding a wait before starting the stamp to avoid getting a flower in the upper right by the green flag, but couldn't figure out the right amount of time without causing too much of a delay for the other stamps.","Click the mouse anywhere to make a flower appear. 
+Press the space bar to change the appearance of the latest flower. 
+Click the green flag to clear the scene and start over. ",3823009,https://cdn2.scratch.mit.edu/get_image/project/236189122_480x360.png,2018-07-12T05:28:17.000Z,2018-07-23T21:12:16.000Z,2018-07-23T21:09:08.000Z,2,0,0,0,0,,
+237417154,Getting Unstuck Day 2,,,24777320,https://cdn2.scratch.mit.edu/get_image/project/237417154_480x360.png,2018-07-26T01:10:55.000Z,2018-07-26T02:10:53.000Z,2018-07-26T02:10:53.000Z,2,0,0,0,0,,
+237457616,Unstuck Challenge #2,,,31201896,https://cdn2.scratch.mit.edu/get_image/project/237457616_480x360.png,2018-07-26T11:53:26.000Z,2018-07-26T12:45:39.000Z,2018-07-26T12:45:38.000Z,2,0,0,0,0,,
+237464421,Getting Unstuck 2 - Flower Stamps,"Thanks to @cymnet as I used a bit of their code to get the cloning working properly using their project after my own attempts led to my flowers being a bit too keen to grow!
+
+https://scratch.mit.edu/projects/235993152/#player
+
+I would of loved to make these ghost too, but couldn't find a way to make stamps fade out ",Simply click the stage to make flowers grow!,7665372,https://cdn2.scratch.mit.edu/get_image/project/237464421_480x360.png,2018-07-26T13:39:25.000Z,2018-07-26T15:05:29.000Z,2018-07-26T15:02:00.000Z,8,3,0,0,0,,
+237491794,Día 2,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/237491794_480x360.png,2018-07-26T19:13:36.000Z,2018-08-02T03:44:30.000Z,2018-07-26T19:15:48.000Z,3,1,0,0,0,,
+237521831,Getting Unstuck Day 2,,"Press the Green Flag
+Plant Flowers by clicking on the screen",34331091,https://cdn2.scratch.mit.edu/get_image/project/237521831_480x360.png,2018-07-27T01:52:41.000Z,2018-07-27T02:02:42.000Z,2018-07-27T02:02:17.000Z,7,1,0,0,0,,
+237538830,Flower Stamping Fun/Getting Unstuck Day 2,,Click anywhere to stamp a flower!,28402186,https://cdn2.scratch.mit.edu/get_image/project/237538830_480x360.png,2018-07-27T06:23:43.000Z,2018-07-27T06:28:32.000Z,2018-07-27T06:28:32.000Z,2,1,0,0,0,,
+237544651,Getting Unstuck 2day, 2 dayGetting unstuck,,11617672,https://cdn2.scratch.mit.edu/get_image/project/237544651_480x360.png,2018-07-27T08:21:40.000Z,2018-07-27T10:51:16.000Z,2018-07-27T10:50:28.000Z,5,1,0,0,0,,
+237567108,Getting Unstuck: Day 2,"Image Credits 
+https://www.flaticon.com/
+","Fai clic  sulla bandiera verde per iniziare o cancellare i fiori. Clicca sullo sfondo per creare un campo di girasoli.
+
+Click on the green flag to start or cancel the flowers. Click on the background to create a field of sunflowers.",18667079,https://cdn2.scratch.mit.edu/get_image/project/237567108_480x360.png,2018-07-27T15:33:15.000Z,2018-07-27T16:26:07.000Z,2018-07-27T16:13:03.000Z,7,2,0,0,0,,
+236942248,Day-2-Getting Unstuck Project: Flowers on the Grass,"I have checked some projects in the Studio and learned the codes to complete this project. 
+https://scratch.mit.edu/studios/5142665/ 
+
+thanks to everyone there. ","Click Green Flag first. 
+Then, Just click on the Grass. ",18032106,https://cdn2.scratch.mit.edu/get_image/project/236942248_480x360.png,2018-07-20T13:59:51.000Z,2018-07-28T23:21:17.000Z,2018-07-28T22:50:49.000Z,10,2,0,0,0,,
+237110277,#Unstuck 2 Flowers,"Unstuck 2 planting flowers 
+
+Interesting and took me awhle to try and get them to hide.
+Had o research clones to assist.",Click on the flag and the flowers will move around.,31492686,https://cdn2.scratch.mit.edu/get_image/project/237110277_480x360.png,2018-07-23T02:51:05.000Z,2018-07-23T04:26:25.000Z,2018-07-23T04:24:45.000Z,3,1,0,0,0,,
+237908493,Geting Unstuck Day 2,,Click the Green Flag and then click across the Grass to watch Flowers appear in random spaces.,19992137,https://cdn2.scratch.mit.edu/get_image/project/237908493_480x360.png,2018-08-01T00:05:57.000Z,2018-08-01T00:14:54.000Z,2018-08-01T00:14:54.000Z,8,1,0,0,0,,
+238464573,Flower Click! Day 2 of Unstuck 2018,"I would have spent even more time on this! Love creating these projects following the Getting Unstuck project prompts.
+
+I like the flower garden that grows every time I play this project (and I've done it a good few times now! It's so much fun!)
+
+If I had more time, I'd make more costumes for the flowers and add some sounds and music. Ah yes, music.","Do what the cat says!
+Can you figure out when he says what he thinks about flowers? Guess what triggers it!",1720042,https://cdn2.scratch.mit.edu/get_image/project/238464573_480x360.png,2018-08-07T18:06:32.000Z,2018-08-07T18:48:13.000Z,2018-08-07T18:42:50.000Z,4,1,0,0,0,,

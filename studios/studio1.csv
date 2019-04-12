@@ -1,0 +1,957 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root,,description,instructions
+235480210,Polite cats,"***What did I learn from creating this project?***
+It was so fun to explore the Scratch community and look at other projects to see what kinds of sprites Scratchers have made! I'm not a particularly good artist, so I often find the Backpack to be really helpful for remixing. With credit, of course! Also, walk cycle studios are a great place to find sprites for remixing.
+
+***If I had more time...***
+I would want to make the animation more natural looking, especially when Cat2 turns around. I wonder about making them smaller, so that the stage looks bigger? Or should one cat move off-screen? 
+
+***Questions I have...***
+I struggled to change the color of Cat2 using the color effect, probably because the original sprite is so light colored (the Scratch wiki says that it's harder to do color effects with black, so I imagine that shades of gray would be similar). Help! How do I do that?
+
+***Credits***
+Music: Siesta by Jahzzar (FreeMusicArchive.org)
+Sprites/Project: IcoQuest's Walk Cycle project","I started with a remix, but added a few changes: 
++ Added a second cat and pointed the cat to walk towards the first cat.
++ When they bump into each other the second cat walks around.
++ Changed the music.
++ Added more broadcasting instead of responses to a key press (so that commands are linked to each other and will be easier to update in the future if I don't want the sprites to respond to a space key press).",2745846,https://cdn2.scratch.mit.edu/get_image/project/235480210_480x360.png,2018-07-04T15:53:12.000Z,2018-07-04T16:32:06.000Z,2018-07-04T16:20:25.000Z,46,5,1,0,0,146478891,146478891,blank,110,
+226789077,Polite Octopus,"This version of the project was a good way to re-familiarize myself with some of the different sprites and backgrounds. I also wanted to explore offering the sprites two different courses of movement. I wonder about slowing down one of them, or perhaps making them much smaller? ",Just press the green flag!,2745846,https://cdn2.scratch.mit.edu/get_image/project/226789077_480x360.png,2018-05-31T20:26:18.000Z,2018-07-05T09:23:51.000Z,2018-05-31T20:26:36.000Z,20,2,1,0,0,,,filled,,
+235502124,galactic interaction,"This is my first Scratch project!
+
+The initial concept involved thinking about blood cells eating a bacteria. That is way too complicated for me at this point, so I tried to boil it down to the most minimal but similar interaction, which ended up being two objects passing each other in a hallway. (I thought maybe the blue and yellow would somehow intersect and turn into green, one absorbing the other.)
+
+This pushed me toward exploring perception and depth of the objects and how they interact in the frame. I wanted to make it seem like one was getting closer to the other and vice versa.
+
+Turning them into planet-like objects came after I started playing with changing the background to give more of a sense of motion.
+
+I found the interface complicated. I assumed the sprites and pieces of data would reset to a default state when you reset the program. However, they don't... so I got super confused when I tried to make my planet spin. When I decided to revert to my original code, the timing and position were completely off and different from what I had originally. 
+
+Was inspired by @jsh using layers to give the sense that the fish were moving between bubbles. ",Click the green flag,18655106,https://cdn2.scratch.mit.edu/get_image/project/235502124_480x360.png,2018-07-04T20:52:27.000Z,2018-07-05T13:45:49.000Z,2018-07-04T22:53:35.000Z,30,6,2,0,0,,,,,
+235484400,River Waltz,"This project was created for Day 1 of Getting Unstuck.  I found it surprisingly tricky to get the timing that I wanted on the dialogue. I definitely made use of the ""Ask a Friend"" and ""Just Keep Going"" strategies.
+
+Music: Johann Strauss II, ""The Blue Danube"", Strauss Festival Orchestra (1988)",Click the Green Flag. ,56239,https://cdn2.scratch.mit.edu/get_image/project/235484400_480x360.png,2018-07-04T16:29:37.000Z,2018-07-11T00:18:00.000Z,2018-07-04T19:59:19.000Z,64,14,3,0,0,,,,,
+235478923,A Bear and A Cat,"I wanted my project to be a short animation. Given that, I could have easily programmed the same effect without using any sensing and relying entirely on timing, but I think that this sensing-based version makes it more adaptable (e.g., if I move the cat or bear). I'm wondering how else I could have programmed the back-and-forth dialogue (instead of using broadcasting and not using timing). If I was going to spend more time on my project, I'd add a more interesting background and some music, like I saw in @paulinah's project: https://scratch.mit.edu/projects/235480210/
+
+My images are from Wikimedia:
+https://commons.wikimedia.org/wiki/File:Cat_illustration.jpg
+https://commons.wikimedia.org/wiki/File:Sloth_bear_(PSF).png","This is my project for Day 1 of Getting Unstuck!
+
+Press the green flag.",39526,https://cdn2.scratch.mit.edu/get_image/project/235478923_480x360.png,2018-07-04T15:37:16.000Z,2018-07-24T11:27:11.000Z,2018-07-05T10:06:15.000Z,52,4,1,0,0,,,,,
+235560993,Getting Unstuck Day 1,,,2168638,https://cdn2.scratch.mit.edu/get_image/project/235560993_480x360.png,2018-07-05T11:01:40.000Z,2018-07-05T11:23:10.000Z,2018-07-05T11:23:10.000Z,17,1,1,0,0,,,,,
+235564153,défi1,,,34225248,https://cdn2.scratch.mit.edu/get_image/project/235564153_480x360.png,2018-07-05T11:30:55.000Z,2018-07-05T11:33:45.000Z,2018-07-05T11:33:45.000Z,12,2,1,0,0,,,,,
+235562020,#GettingUnstuck Day 1,"I used sprites created using canva as I like the variety of images there (www.canva.com). 
+
+When I thought 'polite' I thought of senior citizens and their charming manners!  
+I'm not sure why I made them float away, ",,4610900,https://cdn2.scratch.mit.edu/get_image/project/235562020_480x360.png,2018-07-05T11:10:51.000Z,2018-07-05T11:45:54.000Z,2018-07-05T11:39:34.000Z,27,3,2,0,0,,,,,
+235562994,Excuse me! (Getting Unstuck Day 1),It was difficult to make the boy look the girl because the sprite looks left when his direction is 90. I reversed the costume :),"Press the green flag to watch this fantastic love story: no matter where he is being hit, he falls in love continuously.
+Will he find the courage to ask her out? :)
+
+Please notice the curious sculpture in the field :)",2417641,https://cdn2.scratch.mit.edu/get_image/project/235562994_480x360.png,2018-07-05T11:20:11.000Z,2018-07-05T11:57:05.000Z,2018-07-05T11:40:38.000Z,21,5,1,0,0,,,,,
+235565850,GettingUnstuck_#1,"This project was created for Getting Unstuck Day1. The two sprites meet up, and something happens...It's good practice to use ""broadcast the message"" of Event to control the timing. I'm going to let the Red triangle randomly start from the right hand side, and keep moving forward to the eyes in the dark. It looks a bit like the hide-and-seek game ;-)",Click the Green Flag. ,31325002,https://cdn2.scratch.mit.edu/get_image/project/235565850_480x360.png,2018-07-05T11:46:09.000Z,2018-07-06T00:47:20.000Z,2018-07-05T11:49:04.000Z,25,6,2,0,0,,,,,
+235564747,Monkeys,,This is the project for Getting Unstuck Day1. Click the green flag,3838439,https://cdn2.scratch.mit.edu/get_image/project/235564747_480x360.png,2018-07-05T11:36:10.000Z,2018-07-05T11:58:38.000Z,2018-07-05T11:58:38.000Z,8,2,1,0,0,,,,,
+235566829,Day 1,,Click the Green Flag.,15023687,https://cdn2.scratch.mit.edu/get_image/project/235566829_480x360.png,2018-07-05T11:54:22.000Z,2018-07-05T12:06:07.000Z,2018-07-05T12:02:36.000Z,12,2,1,0,0,,,,,
+235561590,Getting Unstuck - Day 1,,Click the Green Flag.,19789360,https://cdn2.scratch.mit.edu/get_image/project/235561590_480x360.png,2018-07-05T11:07:00.000Z,2018-07-05T12:14:28.000Z,2018-07-05T12:14:16.000Z,15,5,1,0,0,,,,,
+235564204,Getting Unstuck - dag 1,#GettingUnstuck!,"Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",25631396,https://cdn2.scratch.mit.edu/get_image/project/235564204_480x360.png,2018-07-05T11:31:17.000Z,2018-07-05T12:22:32.000Z,2018-07-05T12:22:32.000Z,9,2,1,0,0,,,,,
+235566126,Getting Unstuck: Day 1,"I used a picture I took at an event last week at the Museum of Science and Industry, Chicago, as the background. I wanted the Robot to seem a little scattered so I used the random command to help him move around the screen. I also had him move 50 steps to the right to give the illusion of the robot taking a step back after Zara says ""Excuse me!"".
+
+I love to see the different strategies used by others. ",Click the green flag to start the project.,17807175,https://cdn2.scratch.mit.edu/get_image/project/235566126_480x360.png,2018-07-05T11:48:43.000Z,2018-07-05T12:26:35.000Z,2018-07-05T12:26:35.000Z,18,2,1,0,0,,,,,
+148711268,CAR CRASH - Day 1,,Click on the green button,11349852,https://cdn2.scratch.mit.edu/get_image/project/148711268_480x360.png,2017-03-06T23:01:43.000Z,2018-07-05T12:48:21.000Z,2017-03-06T23:38:08.000Z,20,4,2,0,0,,,,,
+235571630,Unstuck Day01,"I duplicated and modified a Gobo costume so it could walk.
+Gobo broadcasts ""bump"" to Pico the when the condition ""touching Pico"" is true in Gobo's walking script before Gobo says ""Excuse me."".
+Then Pico waits a second, says ""Certainly,"" and broadcasts ""start walking"" so they can begin again.
+
+Elaboration ideas:
+• count the number of times they bounce off walls before they collide
+• change backdrop color each time a sprite bounces off a wall
+• have them speak from a list of different languages (audio files?)
+","Press the green flag. Gobo starts on the left side and Pico starts on the right side. They walk back and forth until they bump into each other, say a few words, then start the process over again.
+
+I keep getting a glitch where one of Pico's costumes points the wrong way. I've tried clearing the art from the costume and replacing the entire costume, yet the glitch reoccurs.",14632339,https://cdn2.scratch.mit.edu/get_image/project/235571630_480x360.png,2018-07-05T12:34:31.000Z,2018-07-05T19:20:09.000Z,2018-07-05T12:56:15.000Z,18,2,1,0,0,,,,,
+235570505,Day 1 of Getting Unstuck,"Progetto per la sfida del Day 1 of Getting Unstuck.
+Far incontrare due personaggi e farli parlare tra di loro.
+Interessante incrocio di istruzioni.",Clicca sulla bandierina verde e scopri che succede ai tue personaggi.,10086796,https://cdn2.scratch.mit.edu/get_image/project/235570505_480x360.png,2018-07-05T12:25:07.000Z,2018-07-05T13:00:40.000Z,2018-07-05T12:58:28.000Z,14,1,1,0,0,,,,,
+235566953,day-1,,,139209,https://cdn2.scratch.mit.edu/get_image/project/235566953_480x360.png,2018-07-05T11:55:24.000Z,2018-07-05T13:05:17.000Z,2018-07-05T13:05:16.000Z,14,3,1,0,0,,,,,
+235575064,Getting Unstuck_day1,,,104105,https://cdn2.scratch.mit.edu/get_image/project/235575064_480x360.png,2018-07-05T13:03:14.000Z,2018-07-05T13:06:03.000Z,2018-07-05T13:06:03.000Z,11,1,1,0,0,,,,,
+235569547,day 1 getting unstuck - the summer storm,"This project made me think about the storyline development process. The coding felt so natural, like writing sentences, that I became more involved with the story than finding which block to use. This is a feeling I would like to develop in my students this fall. Too often when we give directions or clear instructions, we block the creativity of the story in completing the directions ""properly"".
+
+Question: Right now the story stops showing the rain, which gives away the story. How can I make the preview be the sunny day?","For now, you just watch but this should become interactive too!",124064,https://cdn2.scratch.mit.edu/get_image/project/235569547_480x360.png,2018-07-05T12:17:37.000Z,2018-07-06T11:48:45.000Z,2018-07-05T12:40:54.000Z,18,2,1,0,0,,,,,
+235574730,Excuse me,,,2600671,https://cdn2.scratch.mit.edu/get_image/project/235574730_480x360.png,2018-07-05T13:00:30.000Z,2018-07-05T13:19:07.000Z,2018-07-05T13:19:06.000Z,11,1,1,0,0,,,,,
+235575174,Untitled-4,,,8507982,https://cdn2.scratch.mit.edu/get_image/project/235575174_480x360.png,2018-07-05T13:04:15.000Z,2018-07-05T13:27:59.000Z,2018-07-05T13:27:58.000Z,9,1,1,0,0,,,,,
+235576524,Unstuck Day 1,,,33890948,https://cdn2.scratch.mit.edu/get_image/project/235576524_480x360.png,2018-07-05T13:15:27.000Z,2018-07-06T07:03:20.000Z,2018-07-05T13:33:43.000Z,7,1,1,0,0,,,,,
+235579181,Get Unstuck Day 1,I am still having issues with the second sprite not responding immediately.  It ends up taking two clicks on the flag.  I will have to work on the second sprite's response.,,34190765,https://cdn2.scratch.mit.edu/get_image/project/235579181_480x360.png,2018-07-05T13:38:17.000Z,2018-07-09T13:05:19.000Z,2018-07-05T13:39:10.000Z,8,1,1,0,0,,,,,
+235577973,Day 1: Colourful Apple,"I just start with an idea, the apple turning yellow. Then bananas came in and obviously the monkey!
+Well, after getting yellow, why leave out the other colours?
+
+I have incrementally worked on the story...","Just click on the green flag and watch.
+
+Thanks for watching!",24154277,https://cdn2.scratch.mit.edu/get_image/project/235577973_480x360.png,2018-07-05T13:27:57.000Z,2018-07-05T13:59:58.000Z,2018-07-05T13:44:51.000Z,15,3,1,0,0,,,,,
+235567679,Ice and Fire - Unstuck Day 1,"Phase one
+
+At first I decided to keep the project as simple as possible, but it was too simple: two LHC particles are shot through the screen until they collide, apologize and annihilate the universe (sort of).
+
+It was a very simple project and it was really boring to code, nothing to learn and nothing to think about. At least if I would not want to write on how to cheat with homeworks and get bored to death.
+
+Usually, when I get stuck this way, I start looking for inspiration.
+
+This time I was loosely inspired by an old example of Context Free Art http://www.contextfreeart.org/gallery/view.php?id=185
+
+I keeped the squareness of the patterns but, after a couple of failed attempt I tracked the trail of the sprite to understand the patterns I was coding. It looked good and I got the first version of the project.
+
+The following version got evertime more complex, I had to choose two different colors for differentiate the trail of the sprites, choose to rotate a little the patterns to have a more pleasant look.
+
+Phase two
+
+At this point the project was done: time to have a little fun and optimize it. 
+An aspect I dislike of Scratch is the interface.The screen become cluttered as you start to stack more than a few blocks and then I have to simplify and encapsulate as much functions I can or I get confused. No, zooming out does not do the trick, maybe a collapse would but we do not have such a function.
+
+The trickest part was the sync of the sprites on collision. I knew I should have used the messages but went for the syncronization by waiting blocks. Bad idea. The sprites keep to start at the same time, or, a sprite started to talk but the other did not respond.
+
+What I would do with more time:
+
+I'm quite satisfied of the result so far. An amelioration would be to change the patterns to have hexagonal or triangular shape. I was thinking that just needed a change of a couple of parameters, but I was wrong. I have to take some time to get a grasp on it.
+
+Phase three 
+
+The funniest one, as I really love to peruse the other projects to see the different approaches people have on common problems. Or the creative choice they made to give life to their projects.
+
+One for all for the last category is 
+
+https://scratch.mit.edu/projects/235573012/ by @Mittensbrother
+
+For the technical solutions used in an inspiring setting @CiberParra with https://scratch.mit.edu/projects/235616394/ (though there is a lot of room for impriving the title)
+There are a lot more lovely projects but I need a little rest before the day two ;-)
+
+","Two simple sprites are wandering on the screen drawing on their own. They are so focused to forget of the world around them. But, they are still of good manners and they remember how to be polite.",2458985,https://cdn2.scratch.mit.edu/get_image/project/235567679_480x360.png,2018-07-05T12:01:23.000Z,2018-07-05T23:36:46.000Z,2018-07-05T13:25:39.000Z,34,10,5,0,0,,,,,
+235564995,Being polite - Getting Unstuck day 1,Fine tuning via wait block.,"Click on the green flag.
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->
+Getting Unstuck: Day 1 - #CreativeComputing
+
+Whenever two sprites Nano and Giga collide, Nano says, ""Excuse me!"" and Giga says, ""Certainly."" 
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->
+",24583107,https://cdn2.scratch.mit.edu/get_image/project/235564995_480x360.png,2018-07-05T11:38:34.000Z,2018-07-06T10:00:47.000Z,2018-07-05T14:13:50.000Z,7,3,1,0,0,,,,,
+227699642,Getting Unstuck 1 - ExcuseMe,,press the green flag to start,25867,https://cdn2.scratch.mit.edu/get_image/project/227699642_480x360.png,2018-06-06T07:25:53.000Z,2018-07-05T14:26:50.000Z,2018-07-05T14:26:50.000Z,7,1,1,0,0,,,,,
+163400868,1 day,,"5/7/2018
+1 day unstuck
+",23593293,https://cdn2.scratch.mit.edu/get_image/project/163400868_480x360.png,2017-05-27T06:59:36.000Z,2018-07-05T14:41:34.000Z,2017-05-27T07:22:05.000Z,19,1,1,0,0,,,,,
+235582368,Day 1,,Click the green flag and watch as the two insects  explore the boardwalk and see how they politely interact with one anther. ,22256610,https://cdn2.scratch.mit.edu/get_image/project/235582368_480x360.png,2018-07-05T14:04:29.000Z,2018-07-05T16:53:29.000Z,2018-07-05T14:32:04.000Z,13,2,1,0,0,,,,,
+235584135,Getting unstuck day 1,"I enjoyed the freedom of starting with an idea and then working out what blocks I needed to use. 
+
+I tinkered with the timings of the speech - it's a little glitchy if the butterfly moves to a location that's still close to the unicorn but other than that, both are quite polite to each other as they flit around the meadow. ",Click on the green flag to start. ,3284151,https://cdn2.scratch.mit.edu/get_image/project/235584135_480x360.png,2018-07-05T14:20:43.000Z,2018-07-05T14:37:14.000Z,2018-07-05T14:35:32.000Z,23,1,1,0,0,,,,,
+235584151,Project 1: Getting Unstuck,,,13189460,https://cdn2.scratch.mit.edu/get_image/project/235584151_480x360.png,2018-07-05T14:20:49.000Z,2018-07-05T14:56:11.000Z,2018-07-05T14:56:11.000Z,10,2,1,0,0,,,,,
+235584559,Getting Unstuck Day 1 of 21,,,2202740,https://cdn2.scratch.mit.edu/get_image/project/235584559_480x360.png,2018-07-05T14:24:56.000Z,2018-07-05T15:16:22.000Z,2018-07-05T14:56:44.000Z,10,3,1,0,0,,,,,
+235577653,Day 1 - Excuse me!,"Day 1 - Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",Click the green flag to start.,109272,https://cdn2.scratch.mit.edu/get_image/project/235577653_480x360.png,2018-07-05T13:25:06.000Z,2018-07-25T01:10:05.000Z,2018-07-05T15:00:18.000Z,10,2,1,0,0,,,,,
+235590185,Getting Unstuck Day 1,"To prevent Avery saying ""Excuse me!"" while she was continuing to touch Abby, I introduced a flag. In this way she apologizes only when she touches Abby for the first time, whenever she touches her.
+",,14159575,https://cdn2.scratch.mit.edu/get_image/project/235590185_480x360.png,2018-07-05T15:17:20.000Z,2018-07-05T15:35:39.000Z,2018-07-05T15:18:00.000Z,8,2,1,0,0,,,,,
+235586107,Getting Unstuck Day 1: Polite Bee,"What did you learn from creating this project? 
+I wanted my bee to fly like the cartoon bees I've seen on TV, but had a lot of trouble! Since that wasn't really the focus of today's challenge, and I didn't have the ability to spend all day learning about flight paths on Scratch, I made it a lot simpler than I originally had envisioned.
+
+I did get some help and support from my friends Alexa and Jhenna, and learned about having sprites follow a path (which I'll definitely use in a future project)!",Click the green flag.,19163721,https://cdn2.scratch.mit.edu/get_image/project/235586107_480x360.png,2018-07-05T14:39:59.000Z,2018-07-09T00:30:34.000Z,2018-07-05T15:30:19.000Z,12,4,1,0,0,,,,,
+235583445,Unstuck Day 1,"Used Creative Commons to search for png clipart for the butterfly and the bee
+Resized sprites to fit the background
+created costumes by duplicating and flipping
+Had to troubleshoot turns etc. to get sprites back to the original positions I wanted.",Click the green flag and watch some pollinators ,10702850,https://cdn2.scratch.mit.edu/get_image/project/235583445_480x360.png,2018-07-05T14:13:58.000Z,2018-07-25T13:05:36.000Z,2018-07-05T15:34:36.000Z,9,2,2,0,0,,,,,
+235593293,Unstuck Day 1,for Getting Unstuck with Scratch 2018 Day 1,,33815227,https://cdn2.scratch.mit.edu/get_image/project/235593293_480x360.png,2018-07-05T15:42:58.000Z,2018-07-05T16:09:08.000Z,2018-07-05T16:07:20.000Z,7,2,1,0,0,,,,,
+235590880,Planet Collistion (Challenge Day 1),I adapted the creative concept from Car Crash-Day 1 (thank you Misspsmith) and also shamelessly borrowed her script logic to help me think this through.,Click the green flag and see what happens!,34185712,https://cdn2.scratch.mit.edu/get_image/project/235590880_480x360.png,2018-07-05T15:23:30.000Z,2018-07-05T16:15:33.000Z,2018-07-05T16:07:42.000Z,17,2,1,0,0,,,,,
+235586978,Bumping Ballerinas,I learned I still have a ways to get with getting the sprites to do exactly what I want when I want. ,Just press the green flag to see these beautiful bumping ballerinas.,34227265,https://cdn2.scratch.mit.edu/get_image/project/235586978_480x360.png,2018-07-05T14:48:07.000Z,2018-07-05T16:14:53.000Z,2018-07-05T16:13:29.000Z,11,1,2,0,0,,,,,
+235594636,Unstuck Day 1 project,Unstuck Day 1 project #CreativeComputing #GettingUnstuck ,"Click the flag, then use the arrow keys to navigate the cat to get the fruit salad but avoid bumping into the donut (though he is very polite if you do)",17786521,https://cdn2.scratch.mit.edu/get_image/project/235594636_480x360.png,2018-07-05T15:53:29.000Z,2018-07-07T18:22:51.000Z,2018-07-05T16:15:36.000Z,7,1,1,0,0,,,,,
+235593814,Day 1 Unstuck challenge,"I started off by making the 2 sprites simply walk into each other.  However, before I shared, when I looked at the other shared projects, I decided to try to make it a little more intricate.  I looked inside karenb's project and thanks to her, I now know how to use the broadcast block!","To see my very simple scratch project, simply press the green flag.",25095252,https://cdn2.scratch.mit.edu/get_image/project/235593814_480x360.png,2018-07-05T15:46:55.000Z,2018-07-05T16:16:16.000Z,2018-07-05T16:12:55.000Z,9,1,1,0,0,,,,,
+235586032,Challenge 1,,.Challenge 1 for getting unstuck,18512618,https://cdn2.scratch.mit.edu/get_image/project/235586032_480x360.png,2018-07-05T14:39:08.000Z,2018-07-05T16:32:16.000Z,2018-07-05T16:21:12.000Z,5,1,1,0,0,,,,,
+235573012,On the Prairie of Prax,"This challenge seemed very narrative to me, so I made a short animation of two characters colliding. 'The Zax' by Dr. Seuss is one of my favorites, and deals with the same theme, so I pasted them in the background to give angry Nano some perspective on her situation.
+
+As a parent and teacher, I am constantly asking young people to be patient and understanding with each other. I've learned that in addition to modelling how to forgive someone, teachers should also acknowledge that everyone gets angry and it feels rotten every time. In this project, I gave Nano some time/animation to fume while she came around to forgiveness.
+
+Check out ""The Zax"" in ""The Sneeches and Other Stories"" by Dr. Seuss, 1961","A short animation about forgiveness. Press the Green Flag, and try not to be a Zax.
+
+Made for Day 1 of ScratchEd's Getting Unstuck. Challenge: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",27306974,https://cdn2.scratch.mit.edu/get_image/project/235573012_480x360.png,2018-07-05T12:46:06.000Z,2018-07-05T22:59:12.000Z,2018-07-05T16:32:11.000Z,20,5,2,0,0,,,,,
+235596766,Getting Unstuck #1: Interaction between sprites,"Scratch project was created as activity #1 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+Day #1 Challenge: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",Press the green flag.,1202362,https://cdn2.scratch.mit.edu/get_image/project/235596766_480x360.png,2018-07-05T16:05:33.000Z,2018-07-06T08:10:38.000Z,2018-07-05T16:30:09.000Z,6,2,1,0,0,,,,,
+235599802,Unstuck 1,"This project encouraged me to use the broadcast function that I do not normally use. Other people were very creative and choose to make their projects with more elements and some choose to just complete the task. I am motivated to try more complex code in future ""Unstuck"" projects. ",,24781756,https://cdn2.scratch.mit.edu/get_image/project/235599802_480x360.png,2018-07-05T16:23:14.000Z,2018-07-06T00:18:55.000Z,2018-07-05T16:38:23.000Z,6,1,1,0,0,,,,,
+235599769,Day1 - getting unstuck,"Getting Unstuck: Day 1
+
+""One's destination is never a place, but a new way of seeing things.""—Henry Miller
+
+Prompt: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" 
+","I approached this challenge by 
+first: making two different sprites bounce around the stage
+two: having one respond when they touch
+three: timing the other one to respond upon touching
+and then tweaking everything until adequate.
+
+I'm wondering if broadcasting might have been a better way to do this for timing purposes. I'm also curious to see how others handle what happens after the collision of the two sprites. Do they keep moving in the same directions? Different directions? Are you ok with another ""excuse me?"" ""certainly"" popping up immediately after?",17973618,https://cdn2.scratch.mit.edu/get_image/project/235599769_480x360.png,2018-07-05T16:22:58.000Z,2018-07-05T16:38:50.000Z,2018-07-05T16:35:29.000Z,11,3,1,0,0,,,,,
+235600056,Excuse Me,Getting Unstuck Challenge Day 1,Just click the green flag,25706025,https://cdn2.scratch.mit.edu/get_image/project/235600056_480x360.png,2018-07-05T16:25:32.000Z,2018-07-05T16:42:44.000Z,2018-07-05T16:38:11.000Z,7,1,1,0,0,,,,,
+235601284,Challenge1,"I tried to do ""when they have the same x coordinate, then speak"", but then they were on top of each other. So I did, ""when the diver has the same x coordinate - 150, then speak""
+",Press the green flag. ,2190314,https://cdn2.scratch.mit.edu/get_image/project/235601284_480x360.png,2018-07-05T16:41:13.000Z,2018-07-05T16:47:02.000Z,2018-07-05T16:42:29.000Z,11,1,1,0,0,,,,,
+235602785,Unstuck #1 ,"So my approach was to have each character move randomly, but differently. So the guy with the wheel glides of course. and the other guy just jumps around and changes costume. I wanted them to stay within the frame, so I added if on edge bounce. and I did not want them to spin about, so I told them not to rotate. ",,14017205,https://cdn2.scratch.mit.edu/get_image/project/235602785_480x360.png,2018-07-05T16:58:41.000Z,2018-07-05T17:14:24.000Z,2018-07-05T16:58:43.000Z,9,2,1,0,0,,,,,
+235584340,Bee journey,"I wanted to make a mini story with different backgrounds, characters, costumes and effects.
+Before doing that I've make a list of the different things that I wanted to do on this project. It helped me to organize better my ideas.
+I approach this by:
+- making one sprite moves around the stage while it says or does something at specific moments.
+- switching backdrops when a sprite touches the edge by using messages.
+- showing other sprites with different effects at a specific backdrop.
+I've learned that there are simply ways or more difficult ways to do the same thing.
+
+Some images like the hive and the tree are from pixabay.
+https://pixabay.com/en/
+","This is my first project of ""Getting Unstuck"". 
+
+Day 1 challenge:
+--Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""--
+Press the green flag and enjoy the journey of this little bee.
+",4413079,https://cdn2.scratch.mit.edu/get_image/project/235584340_480x360.png,2018-07-05T14:22:40.000Z,2018-07-19T19:23:33.000Z,2018-07-05T19:49:11.000Z,22,4,1,0,0,,,,,
+235586531,Getting Unstuck Challenge 1 - DUCK!!,"ben sound for jazz music
+sound bible for laughing
+
+layer system fixed (added delay, will adjust that)
+
+slowed down walk animation of artist by using a variable to change costumes. I found she animated too quickly. 
+Next costume changes each costume by 1. I used a variable changed by a decimal to change custome to slow down the time it takes between costume changes. 
+ex: 1,2,3
+ex: .33
+","Challenge 1 of Getting Unstuck - Make 2 sprite touch and say excuse me and certainly.  Click the Green Flag to begin
+
+I programmed this as a sequence of broadcast events. Makes it very easy to debug when you can follow the order and isolate glitches. You can follow the events under the Green Flag in the backdrop. 
+
+The only broadcast not in the sequence order is the broadcast to delete clones that I kept local to the water sprite, it isn't necessary in this project but I like to delete clones not in use, just a good habit",3158946,https://cdn2.scratch.mit.edu/get_image/project/235586531_480x360.png,2018-07-05T14:44:14.000Z,2018-07-06T03:23:19.000Z,2018-07-05T16:26:18.000Z,70,15,8,0,0,,,,,
+235575169,#Getting Unstuck Dia 1 Proyecto,,,33523627,https://cdn2.scratch.mit.edu/get_image/project/235575169_480x360.png,2018-07-05T13:04:13.000Z,2018-07-06T03:13:07.000Z,2018-07-05T15:17:10.000Z,6,1,1,0,0,,,,,
+235604069,Getting Unstuck Day 1,,,2682988,https://cdn2.scratch.mit.edu/get_image/project/235604069_480x360.png,2018-07-05T17:14:50.000Z,2018-07-27T19:17:24.000Z,2018-07-05T17:40:10.000Z,8,1,1,0,0,,,,,
+235590601,Ships That Pass,"If I had more time, I'd work on making the boats move more realistically, and possibly bob up and down. Wondering how else I could have enlivened the animation, like incorporating costumes. 
+
+Images are modified from Wikimedia Commons:
+https://commons.wikimedia.org/wiki/File:Sailboat_Flat_Icon_Vector.svg
+https://commons.wikimedia.org/w/index.php?search=sailboat&title=Special:Search&go=Go&searchToken=9ev4b9d18d3xemwwqpkwwhim8#/media/File:Red_Sunset_%26_Sailboat.JPG (Robert Havasy)
+
+I discovered the Youtube Audio Library! : https://www.youtube.com/audiolibrary/soundeffects","This is for Day 1 of Getting Unstuck!
+
+Press the green flag to start. ",17184580,https://cdn2.scratch.mit.edu/get_image/project/235590601_480x360.png,2018-07-05T15:20:53.000Z,2018-07-05T17:47:13.000Z,2018-07-05T17:44:39.000Z,14,3,1,0,0,,,,,
+235603766,Unstuck Day 1: Sprite Interaction,"I made this as part of Scratch Ed's Getting Unstuck. The challenge was: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""
+
+In honor of FIFA World Cup 2018 I decided to give it a soccer theme. I think I focused too much on all the movement rather than the interaction part. I was disappointed by the ""touch"" block behavior and need to explore that more. Or perhaps its my code.
+
+While researching some code I came across a teacher's comment: ""I teach my students at school to focus on their “Scope” of the project.  We all want to make a huge Zelda or Fifa type game but realistically the “Scope” is far too great for our programming knowledge and what Scratch can do."" 
+
+I thought this was awesome advice and had to use it to bring my skills back to reality, otherwise I'd spend all day getting that soccer ball to move between the players!",Click the green flag.,2803184,https://cdn2.scratch.mit.edu/get_image/project/235603766_480x360.png,2018-07-05T17:10:52.000Z,2018-07-05T17:58:27.000Z,2018-07-05T17:36:17.000Z,21,1,1,0,0,,,,,
+235602610,Getting Unstuck Project One,"Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" (Remember, if you get stuck, find inspiration and support in the Teaching with Scratch Facebook group, our list of Getting Unstuck strategies, or on Twitter at #CreativeComputing.) Courtesy of gettingunstuck.gse.harvard.edu","Quick project Getting Unstuck Project One. Scratchy Cat meets the Bat. A pleasant run-in when they bump into each other. To start, click the green flag. Scratch automatically runs back and forth and the Bat flies around the screen. ",3196212,https://cdn2.scratch.mit.edu/get_image/project/235602610_480x360.png,2018-07-05T16:56:38.000Z,2018-07-05T18:38:03.000Z,2018-07-05T17:51:20.000Z,18,1,1,0,0,,,,,
+235563911,Getting Unstuck Day 1,"Challenge 1 
+Started by using 'when green flag is clicked' and then set original coordinates for each sprite. This was after searching for 'reset' options.
+Timing (wait) and broadcasting (play, ask, broadcast) had to be worked out. Still working on.",Click Green Flag,26730957,https://cdn2.scratch.mit.edu/get_image/project/235563911_480x360.png,2018-07-05T11:28:32.000Z,2018-07-19T01:00:27.000Z,2018-07-19T01:00:27.000Z,6,1,1,0,0,,,,,
+235608171,Getting Unstuck Day1 ,"I had to tinker a bit to find the best way to get the sprites to go back and forth without getting stuck on each other and throwing the dialogue out of order. In most of my projects I have moved away from using ""move_steps"", opting for ""change x by _"". In this case however, ""move_steps"" turned out to be the most efficient way to do things. So I guess I learned not to make things more complicated than they need to be.",Click the green flag. Cheers!,17767933,https://cdn2.scratch.mit.edu/get_image/project/235608171_480x360.png,2018-07-05T18:02:00.000Z,2018-07-05T18:10:50.000Z,2018-07-05T18:10:50.000Z,11,4,1,0,0,,,,,
+235594844,Excuse me,I credit the Calm app that I have been using to meditate lately,"Done as part of a challenge- two characters bump into each other, exchange and part",4608038,https://cdn2.scratch.mit.edu/get_image/project/235594844_480x360.png,2018-07-05T15:54:32.000Z,2018-07-05T19:30:44.000Z,2018-07-05T18:11:18.000Z,9,1,1,0,0,,,,,
+235595042,polite sprites,I wondered about using the broadcast function but though touching would work just as well. I fixed ti so they didn't rotate and had them bounce off the edge.,,33472226,https://cdn2.scratch.mit.edu/get_image/project/235595042_480x360.png,2018-07-05T15:55:26.000Z,2018-07-05T18:43:37.000Z,2018-07-05T18:16:04.000Z,10,1,1,0,0,,,,,
+235605736,Day 1 - Getting Unstuck,"For Day 1 - Getting Unstuck Challenge July 5th, 2018",AZ is bored in a clothing store waiting on his mom. Click the Green Flag to see what happens when he notices a pretty girl walking by.,2360384,https://cdn2.scratch.mit.edu/get_image/project/235605736_480x360.png,2018-07-05T17:35:16.000Z,2018-07-05T18:30:18.000Z,2018-07-05T18:30:18.000Z,6,1,1,0,0,,,,,
+235604834,Day 1 - Getting Unstuck,"The prompt to create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" was more of a challenge than expected.  The first impulse was to create something over the top with a lot of bells and whistles.  I think this is something that students often struggle with, starting big versus starting small.",Press the green flag to run the program.,21213359,https://cdn2.scratch.mit.edu/get_image/project/235604834_480x360.png,2018-07-05T17:24:03.000Z,2018-07-05T18:32:56.000Z,2018-07-05T18:32:56.000Z,11,1,1,0,0,,,,,
+235605847,unstuck 1,"used a lot of broadcasting and wait
+the ballerina is one of my favorite sprites :-)","just click the green flag
+",1072279,https://cdn2.scratch.mit.edu/get_image/project/235605847_480x360.png,2018-07-05T17:36:44.000Z,2018-07-05T18:47:16.000Z,2018-07-05T18:45:46.000Z,16,3,1,0,0,,,,,
+235610054,unstuck #1,,,2995115,https://cdn2.scratch.mit.edu/get_image/project/235610054_480x360.png,2018-07-05T18:25:36.000Z,2018-07-05T18:47:13.000Z,2018-07-05T18:47:13.000Z,8,1,1,0,0,,,,,
+235609812,Getting Unstuck Day 1 (Interactive Story - Reader finishes),"exploring interactions between sprites
+#GettingUnstuck!","Click the green flag to start the interactive story prompt. Then, when prompted complete the story.",17846897,https://cdn2.scratch.mit.edu/get_image/project/235609812_480x360.png,2018-07-05T18:22:15.000Z,2018-07-05T18:53:15.000Z,2018-07-05T18:49:14.000Z,14,1,1,0,0,,,,,
+235611070,Day 1,"I got stuck on making them turn around properly! I didn't pay attention to where their starting x coordinate was and then used the = operator instead of < / > in the repeat until equation. They weren't ever going to get to x=150! I can't taking credit for getting unstuck solo though - as I was berating the dinosaurs for not doing what I wanted, a colleague mentioned having the same problem and the solution. Pair programming for the win!",Click the green flag,18341966,https://cdn2.scratch.mit.edu/get_image/project/235611070_480x360.png,2018-07-05T18:38:48.000Z,2018-07-05T19:12:47.000Z,2018-07-05T19:04:35.000Z,13,2,2,0,0,,,,,
+235606313, Day1 Unstuck: 3 Strikes and you are OUT!,"I used the sensing blocks.  And then used a variable to count the strikes, so on the third strike, I could make UFO1 explode. I think I would have liked to make the ufos movement random.  
+
+Particular like this challenge because there are so many ways to solve the challenge.  How are you going to make the sprite move?  How are you going to signal the collision for the sprites to respond? 
+ ","My answer to the Getting Unstuck: Day 1 Challenge:  Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""  
+
+Press the green flag.",1294980,https://cdn2.scratch.mit.edu/get_image/project/235606313_480x360.png,2018-07-05T17:41:25.000Z,2018-07-08T01:18:18.000Z,2018-07-05T19:09:31.000Z,19,4,1,0,0,,,,,
+235583551,Get Unstuck #1: Excuse Me,,,199913,https://cdn2.scratch.mit.edu/get_image/project/235583551_480x360.png,2018-07-05T14:14:59.000Z,2018-07-05T19:21:38.000Z,2018-07-05T19:12:49.000Z,8,2,1,0,0,,,,,
+235605355,GettingUnstuck#1 - Bat Meets Dinosaur!,"Learnt a little about variables on this. Used a variable to hold the direction of travel (-20 or +20) . Also think I have finally learnt that the 0,0 co-ordinates is in the middle, not the bottom left!
+
+I suspect there is a better way to bounce off walls and change direction without needing to know how many steps it takes!","Getting Unstuck: Day 1 challenge - Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" 
+
+Bat randomly moves up and down while moving side to side and eventually hits dinosaur (who is also going left and right). If the bat goes too high he suddenly forgets how to fly and drops down nearer the dinosaur. A collision brings out the short spoken exchange.",15872912,https://cdn2.scratch.mit.edu/get_image/project/235605355_480x360.png,2018-07-05T17:30:49.000Z,2018-07-05T19:36:57.000Z,2018-07-05T19:16:05.000Z,5,1,1,0,0,,,,,
+235598096,Collide,"Unstuck Day 1: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",Click on the green flag to start.,25332755,https://cdn2.scratch.mit.edu/get_image/project/235598096_480x360.png,2018-07-05T16:14:18.000Z,2018-07-05T19:29:36.000Z,2018-07-05T19:17:17.000Z,13,1,1,0,0,,,,,
+235614192,day 01,,,771142,https://cdn2.scratch.mit.edu/get_image/project/235614192_480x360.png,2018-07-05T19:22:16.000Z,2018-07-05T19:23:51.000Z,2018-07-05T19:23:51.000Z,5,1,1,0,0,,,,,
+235612888,Day 1,The Scratch's cat does a random walk and will eventually touch Gobo.,,214,https://cdn2.scratch.mit.edu/get_image/project/235612888_480x360.png,2018-07-05T19:03:17.000Z,2018-07-05T19:36:46.000Z,2018-07-05T19:33:42.000Z,8,3,2,0,0,,,,,
+235611917,Getting Unstuck Challenge 1,"My approach is fairly conventional, with Cat sensing when it's touching Beetle, then broadcasting. But this way, it's always Cat who apologizes, even if Beetle is the one who runs into Cat. Thinking about ways to determine who's ""at fault"" and should apologize. Also, I might have everybody slow down for a bit after a collision.","Cat and Beetle are playing in the garden, but not watching where they're going! Click the green flag and watch. 
+Then remember to be polite if you run into somebody IRL!",1188602,https://cdn2.scratch.mit.edu/get_image/project/235611917_480x360.png,2018-07-05T18:50:16.000Z,2018-07-05T19:53:58.000Z,2018-07-05T19:40:13.000Z,9,2,1,0,0,,,,,
+235611332,polite stars with broadcast,"This time I tried using the broadcast function with the sprites 
+moving at different speeds and a short wait built in as well.",,33472226,https://cdn2.scratch.mit.edu/get_image/project/235611332_480x360.png,2018-07-05T18:42:24.000Z,2018-07-06T08:35:19.000Z,2018-07-05T19:36:43.000Z,11,4,2,0,0,,,,,
+235614886,Getting Unstuck Day 1,"I chose to use the ""touching"" block to make the two sprites interact, but I'd like to explore more ways to have them interact when they're not overlapping. ",Click on the green flag!,2752403,https://cdn2.scratch.mit.edu/get_image/project/235614886_480x360.png,2018-07-05T19:33:57.000Z,2018-07-05T19:43:58.000Z,2018-07-05T19:40:33.000Z,12,1,2,0,0,,,,,
+235615601,day1,"Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",,24618980,https://cdn2.scratch.mit.edu/get_image/project/235615601_480x360.png,2018-07-05T19:45:21.000Z,2018-08-07T15:44:31.000Z,2018-07-05T19:45:38.000Z,8,1,1,0,0,,,,,
+235614136,Getting Unstuck Day 1,I chose two sprites - diver and a shark - who bump into each other under the sea. I love this project because it makes me feel like one of my students,"Getting Unstuck Challenge 1
+
+Press the green flag to get started.",21000359,https://cdn2.scratch.mit.edu/get_image/project/235614136_480x360.png,2018-07-05T19:21:19.000Z,2018-07-05T20:00:36.000Z,2018-07-05T19:55:07.000Z,11,1,1,0,0,,,,,
+235612785,GettingUnstuck-01,,"Green flag to start.
+During daytime the bat asks for forgiveness and the ball graciously reply, after sunset the roles switch.",25876369,https://cdn2.scratch.mit.edu/get_image/project/235612785_480x360.png,2018-07-05T19:01:57.000Z,2018-07-05T19:55:40.000Z,2018-07-05T19:54:01.000Z,9,3,1,0,0,,,,,
+235605186,Oi! Excuse Me! (ad infinitum),"SpriteGIF: @partyonmarz
+BGs: David Whyte",oi!,8793718,https://cdn2.scratch.mit.edu/get_image/project/235605186_480x360.png,2018-07-05T17:28:34.000Z,2018-07-06T03:01:11.000Z,2018-07-05T20:04:37.000Z,33,8,3,0,0,,,,,
+235590907,Walk in the Woods,,Press the Green Flag to start.,22788794,https://cdn2.scratch.mit.edu/get_image/project/235590907_480x360.png,2018-07-05T15:23:43.000Z,2018-07-05T21:25:14.000Z,2018-07-05T20:08:01.000Z,6,2,1,0,0,,,,,
+235613884,01 Getting Unstuck - Polite Wizards,,Press the green flag to start.,5401184,https://cdn2.scratch.mit.edu/get_image/project/235613884_480x360.png,2018-07-05T19:17:40.000Z,2018-07-05T20:10:09.000Z,2018-07-05T20:08:06.000Z,10,1,1,0,0,,,,,
+235575586,Excuse Me  - Day 1 of Getting UnStuck,"This is a pretty simplified version of two fish colliding and responding back and forth when they do so.
+
+I did not have as much time to work on this as I thought I would.","Click on Green Flag to start
+
+This is for the Day 1 of Getting Unstuck group",588430,https://cdn2.scratch.mit.edu/get_image/project/235575586_480x360.png,2018-07-05T13:07:25.000Z,2018-07-15T21:23:11.000Z,2018-07-05T20:08:42.000Z,6,1,1,0,0,,,,,
+235616394,day1 - Collision in 3D scenario,"I had hard fun playing with layers and custom blocks to simulate 3d walk
+#GettingUnstuck","#GettingUnstuck#1 Challenge: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",2143382,https://cdn2.scratch.mit.edu/get_image/project/235616394_480x360.png,2018-07-05T19:58:30.000Z,2018-07-06T06:37:49.000Z,2018-07-05T20:01:48.000Z,55,13,6,0,0,,,,,
+235616960,UnstuckDay1,,"Unstuck Project Day 1
+
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other    
+sprite says, ""Certainly.""",18198558,https://cdn2.scratch.mit.edu/get_image/project/235616960_480x360.png,2018-07-05T20:07:57.000Z,2018-07-07T04:59:19.000Z,2018-07-05T20:21:12.000Z,7,1,1,0,0,,,,,
+235616461,Day 1 - Getting Unstuck,,,26079479,https://cdn2.scratch.mit.edu/get_image/project/235616461_480x360.png,2018-07-05T19:59:42.000Z,2018-07-24T22:06:39.000Z,2018-07-05T20:27:29.000Z,6,1,1,0,0,,,,,
+235618502,Untitled-3,,Натисніть зелений прапорець,34214776,https://cdn2.scratch.mit.edu/get_image/project/235618502_480x360.png,2018-07-05T20:34:01.000Z,2018-07-05T20:41:37.000Z,2018-07-05T20:40:55.000Z,4,2,1,0,0,,,,,
+235617119,Day 1 - Colliding sealife,"For some reason, when they touch, sometimes it only sees one touching the other, but not both. I probably should use broadcast instead of just ""if touching.""",Click the Green Flag!,31044612,https://cdn2.scratch.mit.edu/get_image/project/235617119_480x360.png,2018-07-05T20:10:10.000Z,2018-07-10T20:30:02.000Z,2018-07-05T20:48:42.000Z,11,1,1,0,0,,,,,
+235582188,Getting Unstuck: Day 1 - Dino Bump,"Getting Unstuck Email series for the prompt
+Scratch team for the initial dino sprites and backdrop.","Base sprites part of the provided Scratch Graphics. I edited both dinos to have a fairly basic walk cycle consisting of 3-4 frames. 
+
+Used broadcast for the final response. ",7665372,https://cdn2.scratch.mit.edu/get_image/project/235582188_480x360.png,2018-07-05T14:03:06.000Z,2018-07-05T20:53:45.000Z,2018-07-05T20:53:45.000Z,10,3,1,0,0,,,,,
+235618780,Getting Unstuck Day 1,"For this challenge I had only the prince move. I originally had them both sensing if the other was touching and was concerned that they both might not sense each other, so I changed it to the prince sensing and then sending a broadcast and wait. He turns the other way after the princess answers him. Broadcast and wait worked better than broadcast in this case because I didn't want the prince to leave until after the princess said ""certainly"".
+",The prince runs into the princess. ,266894,https://cdn2.scratch.mit.edu/get_image/project/235618780_480x360.png,2018-07-05T20:38:41.000Z,2018-07-05T20:59:14.000Z,2018-07-05T20:53:07.000Z,12,2,1,0,0,,,,,
+235618006,Getting Unstuck 1,"I tried to make it random which one will say ""Excuse me"" and which one will say ""Certainly"". It's a little buggy at the moment - sometimes it works right, sometimes they both say ""Excuse me"", and sometimes they are terribly rude. Right now I have both sprites broadcasting different triggers when they collide depending on the results of a random variable, but maybe having only one sprite do it will be more reliable.
+Edit: That made it a little better.
+
+I loved all the different versions of this project in the studio. One thing I didn't do that a lot of other people did was play with sounds and backgrounds. In the future I will work on those fun details!","Press GO! to make Pico and Giga move, and STOP! to make them stop. Click the green flag to reset them to their original positions.
+
+",18044195,https://cdn2.scratch.mit.edu/get_image/project/235618006_480x360.png,2018-07-05T20:25:23.000Z,2018-07-06T17:45:39.000Z,2018-07-05T20:59:46.000Z,14,3,1,0,0,,,,,
+235619862,Getting Unstuck: Day 1,https://gettingunstuck.gse.harvard.edu/strategies.html,"Getting Unstuck: Day 1
+Enjoying playing with spinning patterns and randomly gliding sprites to create a hypnotising animation.
+I did have it creating multiple clones but that was a little too much!",34186303,https://cdn2.scratch.mit.edu/get_image/project/235619862_480x360.png,2018-07-05T20:56:54.000Z,2018-07-05T21:27:36.000Z,2018-07-05T21:22:25.000Z,10,5,2,0,0,,,,,
+235614793,"Small pool, big floats","This project responds to the prompt for Getting Unstuck:  Day 1:  ""Create a project that whenever two sprites collide, one of them says, 'Excuse me!' and the other sprite says, 'Certainly.'""
+The bouncing and colliding wasn't as easy as I thought!  I used two strategies:  1) Problem?  Opportunity! and 2) Try something else.  This led me to give each sprite a territory, and to send the dog back  a layer.  It still isn't perfect, but I'm pleased enough to call it a day!","Just click the green flag, sit back, and enjoy.",527557,https://cdn2.scratch.mit.edu/get_image/project/235614793_480x360.png,2018-07-05T19:32:17.000Z,2018-07-05T21:44:35.000Z,2018-07-05T21:32:10.000Z,16,5,2,0,0,,,,,
+235620578,Happy Cat and Crazy Bettle,"This is Day 1 of the Unstuck project for teachers. It's 21 day of scratch projects you can get more details here https://gettingunstuck.gse.harvard.edu/index.html 
+",Just click the green flag and see what happens,34181964,https://cdn2.scratch.mit.edu/get_image/project/235620578_480x360.png,2018-07-05T21:07:56.000Z,2018-07-05T21:43:19.000Z,2018-07-05T21:41:44.000Z,4,1,1,0,0,,,,,
+235621563,Day 1: The polite alien,,,24957617,https://cdn2.scratch.mit.edu/get_image/project/235621563_480x360.png,2018-07-05T21:23:59.000Z,2018-07-09T09:09:31.000Z,2018-07-05T21:48:12.000Z,8,2,1,0,0,,,,,
+235615218,Getting Unstuck: Day 1,"Getting Unstuck: Day 1
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",Just click the green flag!.,34197892,https://cdn2.scratch.mit.edu/get_image/project/235615218_480x360.png,2018-07-05T19:39:04.000Z,2018-07-10T20:36:20.000Z,2018-07-05T21:51:52.000Z,6,1,1,0,0,,,,,
+235622056,Must to meet,"This project responds to the prompt for Getting Unstuck: Day 1: ""Create a project that whenever two sprites collide, one of them says, 'Excuse me!' and the other sprite says, 'Certainly.'""",Just push the yellow flag to start move objects,23356305,https://cdn2.scratch.mit.edu/get_image/project/235622056_480x360.png,2018-07-05T21:32:08.000Z,2018-07-05T21:54:31.000Z,2018-07-05T21:50:44.000Z,12,1,1,0,0,,,,,
+235622591,Getting Unstuck: Day 1,,,26997619,https://cdn2.scratch.mit.edu/get_image/project/235622591_480x360.png,2018-07-05T21:41:36.000Z,2018-07-05T22:01:58.000Z,2018-07-05T21:58:08.000Z,7,2,1,0,0,,,,,
+235624147,Day_1_HxH,,,8010550,https://cdn2.scratch.mit.edu/get_image/project/235624147_480x360.png,2018-07-05T22:07:23.000Z,2018-07-05T22:15:27.000Z,2018-07-05T22:15:25.000Z,15,1,1,0,0,,,,,
+235621375,Unstuck - Day 1,"Thank you, Karen and Paulina for these Unstuck Challenges!  I cannot wait to do all of them.  After looking at the instructions, I have decided that I would like to do these with my daughter.  Watching her learn and talk through her thought process will help me understand how a student might think their way through the project.  So here's some of our dialogue from today's challenge: 
+Me: Let's read the directions and figure out how we're going to do this.
+Mik: Ok
+Me: Now that you've read the directions, what do you want the project to look like?
+Mik: Can I pick any sprite?
+Me: Sure, but let's not spend too much time deciding.
+Mik: Ok, lets use the Scratch Cat.
+Me (while we are looking for sprites): Do you want both of the sprites to move or just one?
+Mik: Both.  Let's pick one that's pointing away from the cat so he turns around when the cat runs into him.
+Me: Ok - how about the Dog2?
+--------------------
+Me: Because our sprites will be changing directions and moving, I like to initialize the program by setting their starting positions and directions. (***later we realized that we would be changing size as well, so we set the starting size too)
+--------------------
+One of our first troubleshooting issues we ran into was when we tested the program and the dog did not move.
+Me: Hmm, the dog quickly turned around and the Scratch Cat didn't move, but quickly said, ""Excuse me.""  Why?
+Mik: I don't know.
+Me: Well, let's look at the code.  When is the cat supposed to say ""Excuse me?""
+Mik: When it touches the dog?
+Me: Are the two touching each other when we press the green flag?
+Mik (tries it): yes
+Me: Maybe we need a wait command.
+Mik: ok, where should we put it?
+Me: Well, let's look at the code - the first few things happen quickly, but we need them to move to their locations before they move.
+Mik: Let's put it right before they move.
+We tested it and it worked.
+---------------------------
+At one point, Mik wanted to use the send a message command (she remembered this from a previous project we worked on where sprites were having a conversation).  So we discussed where in her code this would work well and I explained how she could call the message whatever she wanted. 
+-----------------------------
+Throughout the creation project, my daughter wanted to add more and more.  Even though we accomplished the challenge, I wanted to see where her creativity would lead her.  
+Mik: I want the dog to get smaller so he looks like he's moved to the side so the cat can pass.
+Me: Ok, lets shrink him - where do you think this would be?
+Mik: Under looks (she looks through the blocks) what about set size to?
+Me: Let's try it.  When do you want this to happen?
+Mik: After he say's, ""Certainly.""
+Me: Ok, now if we are going to be changing the size, what do we need to do at the beginning? 
+Mik: Set his size to big.
+Me: Let's do it.
+----------------------------
+Me: How are you going to get the cat to keep moving after the dog gets smaller?
+Mik: Use a broadcast?
+Me: Exactly - do it.
+---------------------------------
+After running the code, Mik wanted the animation to look even more realistic.
+Mik: Can we make it so the dog gradually gets smaller, not suddenly skipping?
+Me: Sure, lets try changing his size little by little - try a change size by block.  But you want it to keep getting smaller, so what does it need?
+Mik: We could make it repeat.
+At this point, I showed her how to gradually change size by 1 twenty five times to go from 75 to 50. 
+Me: if we use a 1 it will get bigger, what should we do to make it get smaller?
+Mik: Negative 1?
+Me: Try it -- perfect.
+------------------------------
+We could have kept going, but I explained that we already kinda went above and beyond.  I really enjoyed watching my daughter express herself through this activity.  She was really excited and enjoyed the challenge.  If only we had time to sit with all of our students one on one to see their thought process in action.  This is where pair programming and reflections could accomplish similar goals. Getting the kiddos to think about their thinking is important. 
+ 
+",Click Green Flag to Start,2456527,https://cdn2.scratch.mit.edu/get_image/project/235621375_480x360.png,2018-07-05T21:20:56.000Z,2018-07-05T22:33:00.000Z,2018-07-05T22:33:00.000Z,3,1,1,0,0,,,,,
+235624239,Unstuck Day One,,,2356410,https://cdn2.scratch.mit.edu/get_image/project/235624239_480x360.png,2018-07-05T22:08:57.000Z,2018-07-05T22:38:21.000Z,2018-07-05T22:34:07.000Z,6,2,1,0,0,,,,,
+235577612,Getting Unstuck Day-1 project: Raining ,"Having inspired by the weather conditions in Urbana (IL), I created two cloud sprites to cause a rain. This project prompt (show how rain occurs) to children (for elementary school students and maybe even for middle graders) can be helpful to learn the coding through Scratch. I learned the use of ""broadcast"" block.  ",Click the Green Flag to see how rain occurs :) ,18032106,https://cdn2.scratch.mit.edu/get_image/project/235577612_480x360.png,2018-07-05T13:24:43.000Z,2018-07-05T23:31:00.000Z,2018-07-05T22:51:29.000Z,19,3,1,0,0,,,,,
+235621927,Getting Unstuck: Day 1 Collision,,Click the green flag!,18190669,https://cdn2.scratch.mit.edu/get_image/project/235621927_480x360.png,2018-07-05T21:29:58.000Z,2018-07-07T07:30:51.000Z,2018-07-05T22:55:37.000Z,9,2,1,0,0,,,,,
+235626421,Getting Unstuck: Day 1,,,9505598,https://cdn2.scratch.mit.edu/get_image/project/235626421_480x360.png,2018-07-05T22:47:18.000Z,2018-07-05T23:11:44.000Z,2018-07-05T23:11:44.000Z,12,2,1,0,0,,,,,
+235625990,Day 1-Excuse Me Challenge - Rude Wizard,"Day 1 - Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",,16509596,https://cdn2.scratch.mit.edu/get_image/project/235625990_480x360.png,2018-07-05T22:39:31.000Z,2018-07-18T01:21:10.000Z,2018-07-05T23:12:19.000Z,7,1,1,0,0,,,,,
+235626816,Getting unstuck 1,,,10121312,https://cdn2.scratch.mit.edu/get_image/project/235626816_480x360.png,2018-07-05T22:55:19.000Z,2018-07-05T23:13:20.000Z,2018-07-05T23:08:05.000Z,8,1,1,0,0,,,,,
+235625826,Unstuck 01 - Polite divers,"I wanted the divers to swim back and forth, and when they bumped each other, to say ""Excuse Me"" and ""Certainly."" At first I used the glide command but  I realized the sensing wouldn't work quite right.
+I learned that a simple idea can grow complicated quickly. Also the timing of the display messages could be improved I think.
+",Press the green flag and watch :-),19123745,https://cdn2.scratch.mit.edu/get_image/project/235625826_480x360.png,2018-07-05T22:36:30.000Z,2018-07-06T21:22:36.000Z,2018-07-05T23:11:54.000Z,8,1,1,0,0,,,,,
+235622069,Excuse Me!,"Today's prompt: 
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""
+
+I've found the prompt very funny and generative. A few days ago I made a Scratch project with my avatar floating into space, so I started from there. I experimented with different ways to move the sprites while keeping the code simple. Just before adding my project to the studio, I checked out other projects. It was awesome to see the variety of projects generated by that simple prompt, and to recognize so many friends who are participating to this online adventure. I loved to see my friend @lilyland reference to getting ""unstuck"" on her sailboat, so I decided to work more on my project, playing with the idea of getting stuck and unstuck. It was really fun!
+
+The music is ""The Blue Danube Waltz"" by Johann Strauss
+https://www.imagevienna.com/en/services/downloadarea/downloads.html","Green flag to start floating.
+Space bar to get unstuck!
+
+This is for Day 1 of Getting Unstuck!
+https://gettingunstuck.gse.harvard.edu/
+
+",2286560,https://cdn2.scratch.mit.edu/get_image/project/235622069_480x360.png,2018-07-05T21:32:21.000Z,2018-07-19T01:49:28.000Z,2018-07-05T23:28:45.000Z,11,3,1,0,0,,,,,
+235623935, The Hasty Knight Unstuck Day 1,"Getting Unstuck Day 1: Exploring interactions between sprites.
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",Click on the green flag,8789156,https://cdn2.scratch.mit.edu/get_image/project/235623935_480x360.png,2018-07-05T22:03:49.000Z,2018-07-05T23:34:45.000Z,2018-07-05T23:01:31.000Z,14,2,1,0,0,,,,,
+235625991,Hip Hop Champ (Getting Unstuck Day 1),,Click the green flag to get started.,34198395,https://cdn2.scratch.mit.edu/get_image/project/235625991_480x360.png,2018-07-05T22:39:32.000Z,2018-07-15T04:01:37.000Z,2018-07-06T23:48:08.000Z,1,0,0,0,0,,,,,
+235627193,Getting Unstuck: Day 1,Getting Unstuck: Day 1,Click the green flag at the top to get started.,14143361,https://cdn2.scratch.mit.edu/get_image/project/235627193_480x360.png,2018-07-05T23:01:41.000Z,2018-07-05T23:42:18.000Z,2018-07-05T23:41:33.000Z,6,1,1,0,0,,,,,
+235625354,Getting Unstuck Day 1,"#gettingunstuck
+Music by The Roots ""Don't Feel Right""
+I got the idea for a variable from one of the projects in the studio. I had to set the counter higher because the robot randomly moves, so if I only did 3, the project would play for like 5 seconds.
+
+Still working on what will happen after 5 bumps. I have the robot dissolve but I want it to dissolve at the same time as the space sound. ",,17824064,https://cdn2.scratch.mit.edu/get_image/project/235625354_480x360.png,2018-07-05T22:28:04.000Z,2018-07-06T01:58:09.000Z,2018-07-05T23:07:50.000Z,8,1,1,0,0,,,,,
+235623712,5-July: Unstuck: Manners-2,"Through trial and error, I knew that I needed to write a script for each sprite and have them interact.- I looked at the different script categories and found 'color A is touching B.' I added those to both sprites, but found that they didn't react to each other. I searched 'touching' and came across TheLogFather's ""Why touching tests 'fail.'"" That introduced me to the Broadcast block. I then searched on 'Broadcast' and used DockStreetCodes' 'Broadcast and Receive.' After additional experimentation, I got a working project.","Day 1 of gettingunstuck@gse.harvard.edu. Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" Repeats 10 times.",34179488,https://cdn2.scratch.mit.edu/get_image/project/235623712_480x360.png,2018-07-05T22:00:28.000Z,2018-07-05T23:30:29.000Z,2018-07-05T22:03:00.000Z,13,2,1,0,0,,,,,
+235625730,Can I Come In?,"After creating the sprites, I was initially unsure how to have the U.S. respond. I thought initially that I would have the U.S. sprite respond when any character sprite moved (to a set coordinate location within the U.S.), though this wasn't *really* meeting the challenge, just a simulation of what that kind of response might look like. A quick trip to the sensing blocks and I found the 'touching (dropdown)' block, which seemed it would come in handy. A trip back to the control blocks and I found the 'wait until' block. By combining these blocks,  If I signaled to start by pressing the green button, the response became no longer simulated -- if someone moves the character sprites arbitrarily, the U.S. sprite will respond to touching a character sprite. Perhaps I should have the character sprites speak if they're touching the U.S. sprite. I think I'd also like to add some more scenarios and potential conversations.","Press the green flag to start, then click on character sprites (:",25705937,https://cdn2.scratch.mit.edu/get_image/project/235625730_480x360.png,2018-07-05T22:34:47.000Z,2018-07-09T09:59:28.000Z,2018-07-05T23:50:08.000Z,33,8,2,0,0,,,,,
+235613177,Collide 1 #GettingUnstuck,"I'm a newbie to this, so this was not an easy task. I had a difficult time programming Crabby to say ""Certainly"" after it touched diver. I used the If, Then code, but something still was not quite right. The other projects are great, they seem to be pros at this!",,18062705,https://cdn2.scratch.mit.edu/get_image/project/235613177_480x360.png,2018-07-05T19:07:42.000Z,2018-07-06T00:00:50.000Z,2018-07-05T23:57:52.000Z,6,1,1,0,0,,,,,
+235629437,Unstuck Puzzle One,"At first I made an error and sometimes the girl would say ""Excuse Me"" and sometimes she would say ""Certainly"", while the cat only said ""Certainly"".  I think I found my mistake.  Also, next time I want to not have the Sprites moving in circles:-)",Click on  the green flag to make the polite Sprites twirl across the screen.,24826697,https://cdn2.scratch.mit.edu/get_image/project/235629437_480x360.png,2018-07-05T23:39:11.000Z,2018-07-06T11:53:47.000Z,2018-07-06T00:01:31.000Z,10,1,1,0,0,,,,,
+235621162,Well Excuse Me!,"At first I was just going to make this as easy as possible, with some simple code, but I thought I would make it a little more fun by using broadcast, and making sure the dinosaurs didn't get stuck by having them move back to a start spot after they stuck. Sort of wish I had a little more time, I would have added some sounds too!",Click the green button to get the two dinosaurs moving!,22706156,https://cdn2.scratch.mit.edu/get_image/project/235621162_480x360.png,2018-07-05T21:16:50.000Z,2018-07-06T00:09:25.000Z,2018-07-06T00:08:00.000Z,10,1,1,0,0,,,,,
+235629570,Getting Unstuck Day 1,"By exploring other project from the Getting Unstuck series I learned how to use the broadcast feature on Scratch. This proved to be extremely helpful in the design of even this ""simple"" project.",Press the green flag to start/ reset the program.,22156688,https://cdn2.scratch.mit.edu/get_image/project/235629570_480x360.png,2018-07-05T23:41:29.000Z,2018-07-06T00:24:22.000Z,2018-07-06T00:21:35.000Z,22,1,1,0,0,,,,,
+235620078,Day 1 Getting Unstuck,"As I reflect on this I really like the change direction minus 180!  I would like the characters to randomly change angles when they hit the wall.  I also would like them to speak when the sprites collide not when the witch touches the color or the flying hippo.
+
+I also had to hard code some waits in for the dialog so it would jump by fast or just keep repeating because they were still touching.","Press green flag to get started
+
+Prompt: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",20446522,https://cdn2.scratch.mit.edu/get_image/project/235620078_480x360.png,2018-07-05T21:00:22.000Z,2018-07-06T00:48:43.000Z,2018-07-06T00:34:37.000Z,8,2,1,0,0,,,,,
+235610164,Talking Fish (Getting Unstuck #1),"I used sensing and broadcast to execute the ""talking fish"" and divers. I probably could have finished much more quickly but I kept going back to set the timing. It was fun and a good refresher since I haven't used Scratch for a while.",Click the green flag to begin.,124311,https://cdn2.scratch.mit.edu/get_image/project/235610164_480x360.png,2018-07-05T18:27:21.000Z,2018-07-06T00:39:04.000Z,2018-07-06T00:39:04.000Z,28,2,2,0,0,,,,,
+235634322,Day One Colliding Conversations ,"Prompt: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" 
+
+#creativecomputing ","Click the flag to make the sprites move to random coordinates.
+
+I thought I'd use a loop of moving to random coordinates. I first had a bus sprite and the bus and sailboat would bump into each other, but if they didn't go through the middle exactly, it wouldn't always set off the talking. Once I changed to the bat, that fixed that, but sometimes the sailboat says, ""Certainly"" first. Not sure why.",10309968,https://cdn2.scratch.mit.edu/get_image/project/235634322_480x360.png,2018-07-06T00:51:08.000Z,2018-07-25T01:14:56.000Z,2018-07-06T00:51:40.000Z,8,1,1,0,0,,,,,
+235634875,Hoxie Getting Unstuck - Day 1,I like the glide feature I saw other GettingUnstuck users add onto their challenge.,Press the green flag to begin,18558561,https://cdn2.scratch.mit.edu/get_image/project/235634875_480x360.png,2018-07-06T00:58:10.000Z,2018-07-06T01:27:58.000Z,2018-07-06T01:05:53.000Z,8,2,1,0,0,,,,,
+235635062,Getting Unstuck Day 1,"With all the insects out, I knew this was what I wanted to create. I struggled with how to set the timing to make sure the butterfly spoke after the beetle.","Press the flag to view!
+Press space bar to return insects to original position",34208406,https://cdn2.scratch.mit.edu/get_image/project/235635062_480x360.png,2018-07-06T01:01:06.000Z,2018-07-06T01:32:37.000Z,2018-07-06T01:32:37.000Z,7,1,1,0,0,,,,,
+235636378,Unstuck Day 1 Rushing,"In this project for the Scratch ""Getting Unstuck"" series, I created a vignette where Scratch enter the scene on the left and bumps into Abby.  He says ""Excuse me"" -- and she turn to face him and replies ""Certainly"" 
+
+I used broadcast blocks to cue Abby to turn and reply, as well as for scratch to continue moving across the stage.
+
+The repeat until blocks were very helpful when creating this scene.",Click the Green Flag to start.,7525698,https://cdn2.scratch.mit.edu/get_image/project/235636378_480x360.png,2018-07-06T01:24:46.000Z,2018-07-06T17:41:11.000Z,2018-07-06T01:33:03.000Z,7,1,1,0,0,,,,,
+235621979,Fly Away Home,"I created a flying block for the butterfly to flap its wings. When the butterfly collides with the ladybug, a message is broadcast to which the ladybug responds.
+
+I chose the butterfly so I could switch costumes - none of the bugs had costumes so I created a ""wing flap"" one for the ladybug to use when she turns to fly away home.",Click on the Flag to start the summer fun!,2634064,https://cdn2.scratch.mit.edu/get_image/project/235621979_480x360.png,2018-07-05T21:30:47.000Z,2018-07-06T01:56:06.000Z,2018-07-06T01:41:26.000Z,11,3,1,0,0,,,,,
+235636098,Polite Wizards,"I spent a while tinkering with this because I don't like it when the two bump into each other too many times in a row.  I'd prefer one bump, then bump off the walls once before bumping into each other again.","Getting Unstuck day 1
+Goal: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",399245,https://cdn2.scratch.mit.edu/get_image/project/235636098_480x360.png,2018-07-06T01:19:50.000Z,2018-07-06T02:07:56.000Z,2018-07-06T01:45:28.000Z,5,1,1,0,0,,,,,
+235635828,Kitty Walk #GettingUnstuck!, ,press play to start,34192422,https://cdn2.scratch.mit.edu/get_image/project/235635828_480x360.png,2018-07-06T01:14:53.000Z,2018-07-06T01:53:23.000Z,2018-07-06T01:46:30.000Z,5,1,1,0,0,,,,,
+235636332,"Excuse Me, Unstuck Day 1","It has been a very long time since I have completed a Scratch Project.  This is by no means a great example, but I am having fun exploring with Scratch again.",Click on the Green Flag to begin,34190490,https://cdn2.scratch.mit.edu/get_image/project/235636332_480x360.png,2018-07-06T01:23:58.000Z,2018-07-25T15:45:37.000Z,2018-07-06T01:54:38.000Z,13,1,1,0,0,,,,,
+235638917,GettingUnstuck#1-Excuseme,"Thanks to the Scratch Team for organizing the ""Getting Unstuck"" series. This reminds me of projects done early on with Pong, when sometimes sprites do not bounce off properly, and seem to get stuck.
+
+The issue is with sprites which are irregularly shaped as well as not being centered properly. When the ""if touching"" condition is true, the sprite turns around. But after turning around, it is still touching the other sprite, and hence it turns around again, which results in some weird glitchy behaviours.
+
+We found the best way was just to force the sprites to move away from each other once the condition is true, by adding an extra move block inside. Works the best :)","Just click the green flag :)
+
+Day 1 exercise of getting unstuck!
+
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",31281136,https://cdn2.scratch.mit.edu/get_image/project/235638917_480x360.png,2018-07-06T02:03:55.000Z,2018-07-08T02:43:16.000Z,2018-07-06T02:12:47.000Z,5,1,1,0,0,,,,,
+235603895,Unstuck Day 1,"I wanted to play a little bit with clones - a powerful feature that I sometimes forget about until after I've implemented a messier, more complex way to do whatever I'm trying to do!
+",,7902,https://cdn2.scratch.mit.edu/get_image/project/235603895_480x360.png,2018-07-05T17:12:42.000Z,2018-07-06T02:28:22.000Z,2018-07-06T02:16:24.000Z,7,1,1,0,0,,,,,
+235636159,Polite Sprites - Day 1,"This project really forced me to explore the menus and features in Scratch.  I was a little confused when I tried to change my Sprite's costume and my taco flipped upside down and I couldn't fix it - LOL!  
+
+I like how Scratch encourages you to try, try and try again until you figure it out.  This process of learning how to make two Sprites interact was fun, a bit challenging but I was so excited when it finally worked!  I'm excited to learn more and make my projects more fancy :) ",Please click the green flag to begin.  ,27128942,https://cdn2.scratch.mit.edu/get_image/project/235636159_480x360.png,2018-07-06T01:21:01.000Z,2018-07-15T01:31:59.000Z,2018-07-06T02:18:07.000Z,8,1,1,0,0,,,,,
+235636757,Day One,This was way harder than I thought it would be.  Close to an hour and I never did get the sound recordings to play in the correct order. I finally had to call it quits and will have to figure out the problems another time.,Start by pressing green flag.,34205973,https://cdn2.scratch.mit.edu/get_image/project/235636757_480x360.png,2018-07-06T01:30:50.000Z,2018-07-06T02:40:34.000Z,2018-07-06T02:37:56.000Z,11,2,1,0,0,,,,,
+235620768,Getting Unstuck: Day 1,"Paris The Place De L'europe On A Rainy Day 
+Painting by Gustave Caillebotte
+
+
+I loved exploring Scratch features to make this project. I could stay for hours more creating and playing: mixing sounds, music, effects, recording the voices imagining how it was at that time! there are endless possibilities of this go on in this project/paint/story project! :)
+
+
+
+
+","Click on the green flag to bring the painting to life!
+
+Challenge #1: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",2176961,https://cdn2.scratch.mit.edu/get_image/project/235620768_480x360.png,2018-07-05T21:10:40.000Z,2018-07-06T02:49:05.000Z,2018-07-05T23:56:23.000Z,21,8,1,0,0,,,,,
+235639105,Sprites ... In ... Spaaace! (#Unstuck Day 1),"Getting Unstuck: Day 1
+
+The Challenge: ""Create a project that whenever two sprites collide, one of them says, 'Excuse me!' and the other sprite says, 'Certainly.'""
+
+I started with the idea of having the sensing blocks ""detect"" the other sprite, which went fairly smoothly, but I struggled with the movement of the sprites to mimic zero g interactions.
+
+As an educator, one of the most power ideas for students to experience is the ""wide walls"" or multiple ways to approach and solve the same problem.",Press the green flag to begin.,27690149,https://cdn2.scratch.mit.edu/get_image/project/235639105_480x360.png,2018-07-06T02:06:30.000Z,2018-07-06T03:05:40.000Z,2018-07-06T02:49:52.000Z,8,1,1,0,0,,,,,
+235630911,Avoiding an Asteroid Collision,"This project is in response to the Getting Unstuck Challenge (Day 1): ""Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" Lots of bad situations can be avoided through civility, so why not the potential extinction of all life on earth? If only we could reason with an asteroid...wait, then the dinosaurs would still be around. Never mind.",Click the green flag to begin.,17801875,https://cdn2.scratch.mit.edu/get_image/project/235630911_480x360.png,2018-07-06T00:01:52.000Z,2018-07-06T18:46:57.000Z,2018-07-06T02:44:43.000Z,11,2,2,0,0,,,,,
+235620981,Getting Unstuck: Day1,I had a lot of fun creating this project.  The crab spins around when it gets hit by the cat.  ,Just press the Green Flag to start.,17257831,https://cdn2.scratch.mit.edu/get_image/project/235620981_480x360.png,2018-07-05T21:14:05.000Z,2018-07-07T05:25:59.000Z,2018-07-06T02:55:36.000Z,5,1,1,0,0,,,,,
+235642193,Crabby Bumpy,Day 1 GU (Getting Unstuck) Fun,,25385235,https://cdn2.scratch.mit.edu/get_image/project/235642193_480x360.png,2018-07-06T02:50:16.000Z,2018-07-07T23:07:30.000Z,2018-07-06T03:13:48.000Z,8,2,1,0,0,,,,,
+235637251,Getting Unstuck Day #1,"Unstuck Day #1
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ","Click the green flag to play the animation.
+",24464388,https://cdn2.scratch.mit.edu/get_image/project/235637251_480x360.png,2018-07-06T01:38:48.000Z,2018-07-06T03:16:44.000Z,2018-07-06T03:15:35.000Z,11,1,1,0,0,,,,,
+235591264,Getting Unstuck Day 1: Collisions on the Street,I tried to play with clones on this since I haven't done much with clones in the past. I discovered that I had to have at least 2 sprites since a sprite can't check if it's touching one of it's clones - at least not easily. I also appreciate the help I got from @mstone326 to have the clones check if they're touching the main sprite rather than having the main sprite check for the collision. ,Only the black sprite says excuse me.,5271542,https://cdn2.scratch.mit.edu/get_image/project/235591264_480x360.png,2018-07-05T15:26:55.000Z,2018-07-16T17:04:50.000Z,2018-07-06T02:38:45.000Z,20,5,1,0,0,,,,,
+235644438,Getting Unstuck Day 1,"I saw HeloisaZal's idea. What an amazing effect! I tried it and I did my best:D. I like how it looks when you animate real pictures, though editing them is difficult. Useful way to animate a project if you want to work fast. I usually ask students to draw their own ideas but this is a great way to animate too. ",Click green flag to start. Greetings from Mexico!,32493591,https://cdn2.scratch.mit.edu/get_image/project/235644438_480x360.png,2018-07-06T03:35:02.000Z,2018-07-06T04:21:58.000Z,2018-07-06T04:21:58.000Z,10,1,1,0,0,,,,,
+235643852,Bird Watching,,Click the green flag to enjoy a little bird watching with Abby.,17755152,https://cdn2.scratch.mit.edu/get_image/project/235643852_480x360.png,2018-07-06T03:21:59.000Z,2018-07-06T05:59:40.000Z,2018-07-06T04:30:04.000Z,5,1,1,0,0,,,,,
+235645823,Getting Unstuck Day #1: Collision,"Getting Unstuck Day 1
+
+Sprite-sprite collisions are always tricky for students - for example, which sprite should ""own"" the collision detection? How do you avoid race conditions when both sprites collide? For this challenge I opted to avoid using broadcasts and instead went with a simpler approach that has each sprite detect collision separately and respond independently using timers.
+
+To up the challenge level I decided to create a ""wander"" function to replicate a behavior students frequently ask for but have difficulty replicating. A couple of surprising difficulties arose out of this.
+
+First, I couldn't easily couple timed costume changing animations with a smooth movement function. For the cat I resolved this by setting a separate forever loop to animate the costume, but for the dog I attempted a more sophisticated approach that still required a separate forever loop, but uses the mod of a constantly incrementing variable to determine when to animate, which has the benefit of easily stopping animation when the two collide at the cost of being more difficult for a student to understand (would be simpler if Scratch exposed a ""frames elapsed"" var like it does for seconds or minutes).
+
+The second issue is one the frequently trips students (and me!) up when combining collisions at animations - the sprites' collision footprint changes every time the costume changes, which makes it more finicky than feels necessary to respond to collisions only once. I had to push sprites off by several pixels any time a collision was detected to avoid recolliding when the costume changes.",,1092342,https://cdn2.scratch.mit.edu/get_image/project/235645823_480x360.png,2018-07-06T04:02:20.000Z,2018-07-06T04:58:49.000Z,2018-07-06T04:23:06.000Z,6,2,1,0,0,,,,,
+235621434,NicholasCatSplat,"Hey. This is a little game I made with my 8 year old son with a little input from my 11 yo. He loves Scratch and really likes creating with it. 
+
+It was fun working with him because I got to teach him about X and Y axes. 
+I don't always know how to approach Scratch because I love it when I'm given a challenge, but I have problems thinking of something myself. Being given a challenge and working with my sons really helped me. 
+I liked the range of graphics that other people used to create their animations.
+
+Idea - Nathaniel
+Art - Nicholas
+Programming - Ian and Nicholas","Click the Green Flag. Avoid the pink blob by moving the cat using the up, down, left, and right arrows.",4737145,https://cdn2.scratch.mit.edu/get_image/project/235621434_480x360.png,2018-07-05T21:21:48.000Z,2018-07-06T05:07:12.000Z,2018-07-06T04:55:05.000Z,5,1,1,0,0,,,,,
+235649917,Butterfly (Getting Unstuck1),,"Click green flag to start. 
+Greetings from Bulgaria!",24864175,https://cdn2.scratch.mit.edu/get_image/project/235649917_480x360.png,2018-07-06T05:30:57.000Z,2018-07-06T05:53:42.000Z,2018-07-06T05:50:12.000Z,7,1,1,0,0,,,,,
+235653081,Friendly Wizards - #GettingUnstuck,,Click on the green flag,7503612,https://cdn2.scratch.mit.edu/get_image/project/235653081_480x360.png,2018-07-06T06:26:50.000Z,2018-07-06T06:37:27.000Z,2018-07-06T06:36:52.000Z,4,1,1,0,0,,,,,
+235584528,Unicorns in space,"Unstuck Day #1
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""
+
+WHAT I LEARNED:  my greatest challenge is to keep it simple.  I was going down the rabbit hole of cool animations and wanting to get the logic just perfect.  I wanted my project to be humorous but got stuck in the details - BIG NOTE for when I work with the kids! ",Click the Green Flag,2876976,https://cdn2.scratch.mit.edu/get_image/project/235584528_480x360.png,2018-07-05T14:24:39.000Z,2018-07-06T07:03:11.000Z,2018-07-06T06:58:52.000Z,9,1,1,0,0,,,,,
+235654641,Getting Unstuck Day1,"Take a moment to reflect on your creative process in the Notes and Credits section of your project. 
+
+What did you learn from creating this project? That there are so many ways to do the same thing and if you had time you could happily tweak for hours to enhance even the tiniest components. 
+
+What did you notice about how other people approach the challenge? There's such a wide range of projects even though the task is so focussed. The project where roles changed after sunset was a great creative idea, also I'll be looking at the 3d projects some more as they look great. ",,17809789,https://cdn2.scratch.mit.edu/get_image/project/235654641_480x360.png,2018-07-06T06:53:18.000Z,2018-07-06T07:18:16.000Z,2018-07-06T07:03:20.000Z,5,1,1,0,0,,,,,
+235583725,in the fishdom ,,green flag to start,33592099,https://cdn2.scratch.mit.edu/get_image/project/235583725_480x360.png,2018-07-05T14:16:35.000Z,2018-07-06T07:07:46.000Z,2018-07-06T07:07:45.000Z,8,1,1,0,0,,,,,
+235655513,#GettingUnstuck_1,"I´ve seen incredible projects of other people and of course It´s a good way to improve my skills. It´s interesting learn how other people change size of sprites to create a 3D emotion.
+",,16962202,https://cdn2.scratch.mit.edu/get_image/project/235655513_480x360.png,2018-07-06T07:07:46.000Z,2018-07-06T08:44:33.000Z,2018-07-06T08:00:25.000Z,6,1,1,0,0,,,,,
+235660979,GettingUnstack_Day1,,,15734681,https://cdn2.scratch.mit.edu/get_image/project/235660979_480x360.png,2018-07-06T08:14:38.000Z,2018-07-06T08:33:57.000Z,2018-07-06T08:33:57.000Z,9,1,1,0,0,,,,,
+235666603,Day One: Funky Cow,I like to upload funny gifs and I like animations!,This is my Day One Getting Unstuck with Scratch project,27658530,https://cdn2.scratch.mit.edu/get_image/project/235666603_480x360.png,2018-07-06T09:30:36.000Z,2018-07-08T01:48:49.000Z,2018-07-06T10:55:52.000Z,20,6,2,0,0,,,,,
+235667549,Getting Unstuck | Day 1 | A Bear and A Cat remix,,"This is my project for Day 1 of Getting Unstuck!
+
+Press the green flag.",20575890,https://cdn2.scratch.mit.edu/get_image/project/235667549_480x360.png,2018-07-06T09:42:02.000Z,2018-07-06T10:18:06.000Z,2018-07-06T10:18:06.000Z,11,1,1,0,0,235478923,235478923,,,
+235614672,Unstuck Day 1,"I made Mario and Pink Gold Peach sprites and imported them to my Sprite folder.
+I played around with timing of speech, so Peach's response was slightly delayed from Mario's ""Excuse me!""
+Looking forward to Day 2!","Whenever Mario and Pink Gold Peach collide, Mario says, ""Excuse me!"" and Pink Gold Peach says, ""Certainly.""",18337230,https://cdn2.scratch.mit.edu/get_image/project/235614672_480x360.png,2018-07-05T19:29:56.000Z,2018-07-15T14:35:45.000Z,2018-07-05T23:27:49.000Z,12,1,1,0,0,,,,,
+235674988,Random Fish,"I created this project for Day 1 of the ScratchEd ""Getting Unstuck"" adventure (https://gettingunstuck.gse.harvard.edu/about.html). 
+
+I decided to play with randomness, and see where it would lead me...
+
+(I didn't explicitly follow all of the instructions for the challenge -- but that's part of the point!)",Click the Green Flag,167,https://cdn2.scratch.mit.edu/get_image/project/235674988_480x360.png,2018-07-06T11:19:02.000Z,2018-07-06T12:19:37.000Z,2018-07-06T11:35:37.000Z,94,8,3,0,0,,,,,
+235674799,GETTING UNSTUCK 1 Day,"Non conosco l'Inglese, cerco di barcamenarmi con Google traduttore. Chissà come finirà!!!","Attività, in ritardo, del primo giorno, con soluzione molto semplice.
+
+
+",13746945,https://cdn2.scratch.mit.edu/get_image/project/235674799_480x360.png,2018-07-06T11:16:22.000Z,2018-07-06T11:45:03.000Z,2018-07-06T11:45:03.000Z,5,2,1,0,0,,,,,
+235669739,Avery and Pico Getting Unstuck! - Day 1,,"Avery and Pico bump into each other at the Movies...  and wonder which movie they will see!
+
+Click the green flag to start",19641362,https://cdn2.scratch.mit.edu/get_image/project/235669739_480x360.png,2018-07-06T10:12:55.000Z,2018-07-08T02:43:25.000Z,2018-07-06T11:55:31.000Z,5,2,1,0,0,,,,,
+235568868,Getting Unstuck Day 1,"Spent quite a bit of time adding complexity to try to make the walking look better, but in the end decided that I liked the slightly crazy cartoon feel of the far too fast costume changes.
+
+I dived in and implemented the brief as written. I'm very impressed that others took this as the kernel of the project and built an enormous, often very funny, nut around it. Maybe I should spend more time thinking creatively about the brief before I start coding.  ","Project for Day 1 of Getting Unstuck
+
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",2314547,https://cdn2.scratch.mit.edu/get_image/project/235568868_480x360.png,2018-07-05T12:11:50.000Z,2018-07-11T20:04:34.000Z,2018-07-06T12:39:53.000Z,8,1,1,0,0,,,,,
+235681930,Getting Unstuck: Day 1,Polite cats :-),,24912473,https://cdn2.scratch.mit.edu/get_image/project/235681930_480x360.png,2018-07-06T12:46:15.000Z,2018-07-16T16:40:39.000Z,2018-07-06T13:04:08.000Z,3,1,1,0,0,,,,,
+235682645,Unstuck Day 1 - Cat and Lion Collide,"
+Challenge: 2 sprites collide, one says ""Excuse me"" while the other says ""Certainly.""
+
+After looking at other examples, I realized how blah my project is. I loved that others were so creative with their movement. Plus some wrote other words that made it far more entertaining. Technically mine works, but it could have been a lot better.
+
+Updated: Added backgrounds, costumes for lion, changed movement for both sprites and added variable for number of steps cat is taking.
+
+",Click on flag to begin.,10715270,https://cdn2.scratch.mit.edu/get_image/project/235682645_480x360.png,2018-07-06T12:54:05.000Z,2018-07-27T01:26:28.000Z,2018-07-06T13:13:28.000Z,4,1,1,0,0,,,,,
+235682968,Getting Unstuck Day #1 v2 Infinite Walk,"Unstuck Day #1
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ","Click the green flag to play the animation.
+",24464388,https://cdn2.scratch.mit.edu/get_image/project/235682968_480x360.png,2018-07-06T12:57:34.000Z,2018-07-06T13:21:33.000Z,2018-07-06T13:17:56.000Z,6,1,1,0,0,,,,,
+235608446,Gordon_Unstuck Day 1,"This project if for Getting Unstuck Day 1.
+
+ ",Click green flag to start program,18900622,https://cdn2.scratch.mit.edu/get_image/project/235608446_480x360.png,2018-07-05T18:05:23.000Z,2018-07-05T18:31:02.000Z,2018-07-05T18:29:33.000Z,13,1,1,0,0,,,,,
+235566944,Hungry?,,"Click green flag to start.
+
+
+#Getting Unstuck  Day 1",158902,https://cdn2.scratch.mit.edu/get_image/project/235566944_480x360.png,2018-07-05T11:55:20.000Z,2018-07-06T13:31:41.000Z,2018-07-06T13:29:46.000Z,12,3,1,0,0,,,,,
+235681729,It Just Takes One,,Click the Green Flag to begin,1196430,https://cdn2.scratch.mit.edu/get_image/project/235681729_480x360.png,2018-07-06T12:44:10.000Z,2018-07-06T13:49:32.000Z,2018-07-06T13:38:33.000Z,10,2,1,0,0,,,,,
+235581313,Unstuck Day 1,This was a complete disaster!  The task was to get the sprites to interact - that was the easy bit!  What I couldn't do was to make the sprites walk backwards and forwards across the stage.  A complete nightmare!,,3297086,https://cdn2.scratch.mit.edu/get_image/project/235581313_480x360.png,2018-07-05T13:55:42.000Z,2018-07-05T15:01:26.000Z,2018-07-05T14:58:57.000Z,9,1,1,0,0,,,,,
+235683098,Getting Unstuck: Day 1,"Reflection
+
+When I started, I had a few goals in mind. I wanted to create a situation in which two sprites are always colliding with one another. This was accomplished by simply having the two sprite walk back and forth.
+
+A second goal of mine was to ensure that the conditions of the project always start the same way. Location, direction, color, etc, are initialized at the beginning for both sprites.
+
+I wanted to organize the the program. This was accomplished using the a define block for checking collision, and creating a broadcast/receive pair.
+
+Last, I wanted to add a delay to prevent the dialog from being re-triggered should the sprites collide for multiple frames in a row. I learned to use the timer so that there is a minimum 2 second delay before a collision will trigger the dialog again.
+",,26264460,https://cdn2.scratch.mit.edu/get_image/project/235683098_480x360.png,2018-07-06T12:58:50.000Z,2018-07-06T14:05:08.000Z,2018-07-06T13:49:24.000Z,10,1,1,0,0,,,,,
+235674069,Butterflies,,Click the flag,3602053,https://cdn2.scratch.mit.edu/get_image/project/235674069_480x360.png,2018-07-06T11:07:07.000Z,2018-07-06T14:07:47.000Z,2018-07-06T14:07:30.000Z,13,4,1,0,0,,,,,
+235687818,Unstuck Day 1,,,8448794,https://cdn2.scratch.mit.edu/get_image/project/235687818_480x360.png,2018-07-06T13:49:40.000Z,2018-07-06T14:16:04.000Z,2018-07-06T14:15:05.000Z,6,1,1,0,0,,,,,
+235688310,Surprise,"Getting Unstuck: Day 1 
+https://gettingunstuck.gse.harvard.edu/about.html 
+
+",Click the green flag.,2481164,https://cdn2.scratch.mit.edu/get_image/project/235688310_480x360.png,2018-07-06T13:55:46.000Z,2018-07-06T14:57:12.000Z,2018-07-06T14:14:52.000Z,23,6,2,0,0,,,,,
+235684430,Challenge 1,"One of my first ""creative"" scratch programs based on the Getting unstuck challenge day 1.   Not the greatest design as the actions are based on screen geography and not methods but you have to start somewhere.  ",,34141039,https://cdn2.scratch.mit.edu/get_image/project/235684430_480x360.png,2018-07-06T13:13:52.000Z,2018-07-06T15:25:31.000Z,2018-07-06T14:48:20.000Z,7,1,1,0,0,,,,,
+235689398,Unstuck_day1_Wynne,"It was interesting to see how other people had the sprites move once they touched.  With the divers, they would touch several times before getting far enough away to not trigger the say block so I had one hide and show up at a random location.","The challenge was to create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",21171472,https://cdn2.scratch.mit.edu/get_image/project/235689398_480x360.png,2018-07-06T14:08:23.000Z,2018-07-06T15:15:38.000Z,2018-07-06T15:10:42.000Z,6,2,1,0,0,,,,,
+235698647,diver and octupus,"Desenvolvido por Filipe Mendes no Desafio 1 do "" Getting Unstuck""
+#GettingUnstuck",Press the green flag for begin.,2980392,https://cdn2.scratch.mit.edu/get_image/project/235698647_480x360.png,2018-07-06T16:09:46.000Z,2018-07-06T16:18:58.000Z,2018-07-06T16:16:27.000Z,6,1,1,0,0,,,,,
+235697917,geeting unstuck-day1,,,34188789,https://cdn2.scratch.mit.edu/get_image/project/235697917_480x360.png,2018-07-06T15:59:58.000Z,2018-07-06T16:18:49.000Z,2018-07-06T16:18:48.000Z,8,1,1,0,0,,,,,
+235688793,From A to Z Getting Unstuck Day 1,"What did you learn from creating this project? 
+I learned how to get sprite to interact with each other by using the broadcast blocks. It wasn't simple, but the possibilities now seem endless.
+
+What did you notice about how other people approach the challenge?
+Everyone did something different! It was helpful to look at other projects to get ideas that I could then blend into my own. ",Press the green flag to get started.,28676433,https://cdn2.scratch.mit.edu/get_image/project/235688793_480x360.png,2018-07-06T14:01:08.000Z,2018-07-06T16:47:51.000Z,2018-07-06T16:42:11.000Z,2,1,1,0,0,,,,,
+235701565,Challenge #1,,,3101944,https://cdn2.scratch.mit.edu/get_image/project/235701565_480x360.png,2018-07-06T16:50:48.000Z,2018-07-06T16:52:02.000Z,2018-07-06T16:52:02.000Z,16,5,2,0,0,,,,,
+235699079,#GettingUnstuck1 - Hello Mr. Gobo,"Scratchy should be there, and I decided to add Gobo with a mexican hat... because mexican hats are funny =)","Press Green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 1
+
+""Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""""
+
+",1112440,https://cdn2.scratch.mit.edu/get_image/project/235699079_480x360.png,2018-07-06T16:15:53.000Z,2018-07-18T16:11:43.000Z,2018-07-06T16:51:39.000Z,8,0,0,0,0,,,,,
+235703387,Getting Unstuck day 1,,,32626504,https://cdn2.scratch.mit.edu/get_image/project/235703387_480x360.png,2018-07-06T17:15:33.000Z,2018-07-06T17:26:17.000Z,2018-07-06T17:24:51.000Z,5,1,1,0,0,,,,,
+235703238,UnstuckDay 1 NBB,"At first reading this feels like a simple project. However, there are many questions that need to be answered: 
+How will the sprites move?
+What will end the program?
+Will both sprites need to check for a collision?
+As a teacher, I would need to provide much more direction for an assignment such as this. However, this challenge can be introduced at different times throughout a unit as students learn more.",Click the green flag to start.,11305008,https://cdn2.scratch.mit.edu/get_image/project/235703238_480x360.png,2018-07-06T17:13:34.000Z,2018-07-06T17:37:19.000Z,2018-07-06T17:34:07.000Z,4,1,1,0,0,,,,,
+235704219,Getting Unstuck 1,Went with the simplest solution!,Press the green flag to begin.,34228007,https://cdn2.scratch.mit.edu/get_image/project/235704219_480x360.png,2018-07-06T17:26:34.000Z,2018-07-06T17:42:02.000Z,2018-07-06T17:37:31.000Z,7,1,1,0,0,,,,,
+235705468,Getting Unstuck Day 1,It was all about timing.  I first starting using a IF THEN block but it didn't work.  The sprite never sensed the prince.  ,,26877789,https://cdn2.scratch.mit.edu/get_image/project/235705468_480x360.png,2018-07-06T17:43:58.000Z,2018-07-06T18:07:38.000Z,2018-07-06T18:06:30.000Z,5,1,1,0,0,,,,,
+235705525,Competition for Resources: GettingUnstuck1 Collision,"Part of the Getting Unstuck project.
+Creativity:
+I started thinking about a story where one character might say ""Excuse me!"" to another, which got me thinking about how Canadians are stereotyped as excessively polite. There's the beaver. American Independence Day was only two days ago, so there's the eagle. Those sprites I had to find online, as these animals did not exist in Scratch's library. A bit of fiddling to get them the right size, with transparent backgrounds. Where would a beaver and an eagle interact? At a lake. The lake background comes from Scratch's library, and the heron that's already there provided the ""conflict"" necessary for any good story.
+Production:
+A bit fiddly, as I mentioned, to get outside images into Scratch. As for the code, I am not convinced that there isn't a more elegant way to take care of the timing between the ""thought bubbles"" of each character, rather than just hard-coding all the glide, wait, and thought blocks. Likewise with the collision at the end. I used an ""if"" block, but I have a feeling that there are more elegant ways of accomplishing that little bit of interaction.
+Getting Unstuck:
+There was a lot of testing and iterating to get the timing right for the thought bubbles. Initially, I had ""forever"" blocks around the ""if"" blocks to sense when the two characters were touching, but I realized I didn't need them as the two characters would only touch once, and in a defined sequence. It's not like in a game where two sprites might touch at any time, so you would need the ""forever"" block to account for that.","Nothing to do, just press the green flag!",3485356,https://cdn2.scratch.mit.edu/get_image/project/235705525_480x360.png,2018-07-06T17:44:49.000Z,2018-07-06T20:35:26.000Z,2018-07-06T18:36:05.000Z,8,2,1,0,0,,,,,
+235621427,HTGU - Day 1,"Notes: I got stuck and my own pride prevented me from doing much other than unsystematically trying lots of different blocks (and refusing to use resources available to me).
+
+It's not all bad.  I learned about many things in Scratch:
+ - Direction
+ - Costume centers
+ - Cloning
+ - Sensing","My original idea was to have 2 sets of eyeballs in a black room randomly moving around.  However, I wanted to have only 1 sprite move at a time, and the collision would cause the roles to swap.
+
+Turns out that implementing the movement swapping was not as easy to do or is error prone with the approach I took.
+
+The balls often get stuck (no pun intended).",24244805,https://cdn2.scratch.mit.edu/get_image/project/235621427_480x360.png,2018-07-05T21:21:44.000Z,2018-07-07T02:21:15.000Z,2018-07-06T19:00:30.000Z,11,1,1,0,0,,,,,
+235606748,Getting Unstuck Day 1 Bouncing Off Aquarium,,,11634746,https://cdn2.scratch.mit.edu/get_image/project/235606748_480x360.png,2018-07-05T17:45:50.000Z,2018-07-08T17:15:49.000Z,2018-07-06T19:51:48.000Z,8,2,1,0,0,,,,,
+235609492,Getting Unstuck Challenge 1,"This project was created for Scratch ED's Getting Unstuck Challenge. The task was to have two sprites collide, with one of the saying, ""Excuse me!"" While the other one says, ""Certainly!"" 
+
+In honor of my love of the ocean and my favorite upcoming week, Shark Week, I decided to do an under the sea theme. ",Click the green flag. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/235609492_480x360.png,2018-07-05T18:18:05.000Z,2018-07-05T19:11:39.000Z,2018-07-05T19:04:28.000Z,13,1,1,0,0,,,,,
+235717845,Unstuck-1,I love how others have found different solutions for the same input. I learned also how to move sprites in different ways (using random numbers),,13846307,https://cdn2.scratch.mit.edu/get_image/project/235717845_480x360.png,2018-07-06T20:58:26.000Z,2018-07-06T21:05:56.000Z,2018-07-06T21:02:07.000Z,14,1,1,0,0,,,,,
+235715878,Drop-in Spider,"I started with the idea of a spider dropping, but wasn't sure who would be the landing pad...until I started browsing the sprite library. Sitting outside to work on this inspired taking a shot for the background. Although this shouldn't be a surprise, I was surprised at how little tweaks, actions & interactions can take more than a little time!  With more time, I'd like to see if I could streamline things a bit and name the sprites & costumes fittingly,  but for now....here it is.
+I love seeing all the clever scenarios people have come up with in their projects!",Press the green flag to start.,52693,https://cdn2.scratch.mit.edu/get_image/project/235715878_480x360.png,2018-07-06T20:22:47.000Z,2018-07-06T21:15:37.000Z,2018-07-06T21:14:55.000Z,5,2,1,0,0,,,,,
+235718512,day 1,,,3035045,https://cdn2.scratch.mit.edu/get_image/project/235718512_480x360.png,2018-07-06T21:11:17.000Z,2018-07-06T21:20:36.000Z,2018-07-06T21:20:36.000Z,3,1,1,0,0,,,,,
+235707886,Unstuck_1,"broadcasting is very helpful
+",Kitty meets creature ,9694576,https://cdn2.scratch.mit.edu/get_image/project/235707886_480x360.png,2018-07-06T18:17:11.000Z,2018-07-06T21:32:58.000Z,2018-07-06T21:28:00.000Z,3,1,1,0,0,,,,,
+235721930, #GettingUnstuck День1,, #GettingUnstuck День1,34214931,https://cdn2.scratch.mit.edu/get_image/project/235721930_480x360.png,2018-07-06T22:25:07.000Z,2018-07-06T22:29:22.000Z,2018-07-06T22:29:22.000Z,7,1,1,0,0,,,,,
+235700139,Day-1,,Click the green flag,30506213,https://cdn2.scratch.mit.edu/get_image/project/235700139_480x360.png,2018-07-06T16:31:09.000Z,2018-07-06T22:44:52.000Z,2018-07-06T17:10:33.000Z,3,1,1,0,0,,,,,
+235687456,Getting Unstuck: Day 1,,,599612,https://cdn2.scratch.mit.edu/get_image/project/235687456_480x360.png,2018-07-06T13:45:12.000Z,2018-07-06T14:36:55.000Z,2018-07-06T14:36:55.000Z,10,2,1,0,0,,,,,
+235700354,Unstuck Day 2 - Flower Power,,,18558561,https://cdn2.scratch.mit.edu/get_image/project/235700354_480x360.png,2018-07-06T16:34:05.000Z,2018-07-07T01:34:31.000Z,2018-07-07T01:34:31.000Z,10,1,1,0,0,,,,,
+235730987,UnStuck Day 1 AC,,,27094795,https://cdn2.scratch.mit.edu/get_image/project/235730987_480x360.png,2018-07-07T01:34:18.000Z,2018-07-07T01:46:22.000Z,2018-07-07T01:46:21.000Z,6,1,1,0,0,,,,,
+235733437,Getting Unstuck Challenge #1 ,"Simple task that inspires many creative ideas.
+Great task to present to students.
+Could relate to several curriculum areas, by changing basic dialogue.
+ - reading, science health, even asking math questions.
+Cant wait to present to students next term.",Click on the green flag.,13484475,https://cdn2.scratch.mit.edu/get_image/project/235733437_480x360.png,2018-07-07T02:17:58.000Z,2018-07-25T03:19:29.000Z,2018-07-07T02:24:16.000Z,7,2,1,0,0,,,,,
+235735728,Day 1,,,24884035,https://cdn2.scratch.mit.edu/get_image/project/235735728_480x360.png,2018-07-07T03:04:15.000Z,2018-07-07T03:11:56.000Z,2018-07-07T03:11:56.000Z,8,1,1,0,0,,,,,
+235742491,Unstuck Day 1,"I have learn about add sprite, make a sprite move, coordinate of sprite, time management of sprite to move and said some think ",PLANE & CAR,34216021,https://cdn2.scratch.mit.edu/get_image/project/235742491_480x360.png,2018-07-07T05:46:39.000Z,2018-07-07T05:55:24.000Z,2018-07-07T05:49:20.000Z,6,2,1,0,0,,,,,
+235754964,Fantasy dab (Getting Unstuck D1),"I've played with rotations to create the ""flip"" effect.
+I'm pretty sure there's a more elegant way than parallelism to code my sprites but I find this style of scripting very clear and easy to read!!
+
+I had soo much fun creating this project!
+Like most of my students I had no idea of what to do...so first I've searched for some interesting sprites (I love unicorns) and stages and then the idea popped out of my head!!
+","Maybe it's better to not walk or flip with closed eyes, hope Tera and Unicorn learned a lesson!! ;)
+
+This is my first project for the Getting Unstucked series!",6030800,https://cdn2.scratch.mit.edu/get_image/project/235754964_480x360.png,2018-07-07T10:13:03.000Z,2018-07-07T11:05:38.000Z,2018-07-07T10:56:07.000Z,7,3,1,0,0,,,,,
+235757263,Getting Unstuck: Day 1,,,24340467,https://cdn2.scratch.mit.edu/get_image/project/235757263_480x360.png,2018-07-07T11:05:31.000Z,2018-07-07T11:20:16.000Z,2018-07-07T11:20:15.000Z,7,1,1,0,0,,,,,
+235758151,Getting Unstuck: Day 1,,Click the green flag.,86693,https://cdn2.scratch.mit.edu/get_image/project/235758151_480x360.png,2018-07-07T11:27:00.000Z,2018-07-07T12:05:28.000Z,2018-07-07T11:36:45.000Z,11,1,1,0,0,,,,,
+235758097,Getting Unstuck: Day 1,,,12775966,https://cdn2.scratch.mit.edu/get_image/project/235758097_480x360.png,2018-07-07T11:25:29.000Z,2018-07-07T11:45:35.000Z,2018-07-07T11:45:35.000Z,7,1,1,0,0,,,,,
+235762124,Day One,,Click the green flag,7505824,https://cdn2.scratch.mit.edu/get_image/project/235762124_480x360.png,2018-07-07T13:03:29.000Z,2018-07-07T13:21:12.000Z,2018-07-07T13:20:50.000Z,4,1,1,0,0,,,,,
+235763395,Unstuck-Day 1,,,19884927,https://cdn2.scratch.mit.edu/get_image/project/235763395_480x360.png,2018-07-07T13:30:34.000Z,2018-07-07T13:50:26.000Z,2018-07-07T13:50:26.000Z,3,1,1,0,0,,,,,
+235765408,collission,"Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" challenge day #1 #creativecomputing ",Getting unstuck. Click the green flag and watch the dialogue. ,22439315,https://cdn2.scratch.mit.edu/get_image/project/235765408_480x360.png,2018-07-07T14:11:08.000Z,2018-07-07T14:14:34.000Z,2018-07-07T14:12:20.000Z,9,1,1,0,0,,,,,
+235763332,Unstuck-Day1,"For mine, I have the starfish moving somewhat randomly, while the crab moves a set number of steps, has a short pause, and continues to point towards the starfish, no matter where he is.  
+At first I had them both moving randomly, but that proved to be a bit too random!",Click the green flag to see what happens.,3294920,https://cdn2.scratch.mit.edu/get_image/project/235763332_480x360.png,2018-07-07T13:29:02.000Z,2018-07-07T14:27:29.000Z,2018-07-07T14:22:34.000Z,8,2,1,0,0,,,,,
+235765577,Unstuck Challenge 1 ,"Reflection
+
+1) What I learned is that separation of functions is very important. Often I try to put everything into one giant block line, but it does not always work. 
+
+2)  I did look at a few programs in the class studio to see how others completed the challenge.  I then took parts of what others did and used it in my own code. 
+
+3) As I was going through this challenge, I realized how important it is for students to have examples and references.  I will probably create a reference packet of quick coding tips to start students off the semester.  I can have students also create references and example coding tips for students too.  ",Press the green flag to begin.  Press space bar to reset the sprites at the end of the animation. ,24494372,https://cdn2.scratch.mit.edu/get_image/project/235765577_480x360.png,2018-07-07T14:15:06.000Z,2018-07-07T14:27:05.000Z,2018-07-07T14:15:18.000Z,5,1,1,0,0,,,,,
+235767417,Getting Unstuck Day 1,"I had trouble getting my sprites to stop and have the conversation before moving on. I tried several things before settling on this, but afterwards noticed how other people were doing it which was helpful",Click the flag to start,16010675,https://cdn2.scratch.mit.edu/get_image/project/235767417_480x360.png,2018-07-07T14:53:32.000Z,2018-07-15T22:37:37.000Z,2018-07-15T22:37:37.000Z,2,1,1,0,0,,,,,
+235770028,Untitled-9,,,20070304,https://cdn2.scratch.mit.edu/get_image/project/235770028_480x360.png,2018-07-07T15:44:13.000Z,2018-07-07T15:54:00.000Z,2018-07-07T15:54:00.000Z,6,1,1,0,0,,,,,
+235771448,GU_Day1,"Day 1 - Getting Unstuck: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""
+I used broadcast and receive blocks to synchronize the interactions. Then I had fun with cloning flowers along the sidewalk!",Click on the green flag.,24741621,https://cdn2.scratch.mit.edu/get_image/project/235771448_480x360.png,2018-07-07T16:11:36.000Z,2018-07-07T17:22:36.000Z,2018-07-07T16:31:21.000Z,5,1,1,0,0,,,,,
+235772195,Getting Unstuck 1,"This project was made for the Getting Unstuck Creative Computing Day 1.
+I decided to use football after watching England play in the World Cup.
+I thought it would be nice to introduce some manners to the game - not always in evidence in the real game!
+I thought it would be interesting to play around with some randomness to see how it would work out. I also used move and glide to see the difference between the two. I think it would have been harder to move Gobo using the move block.
+For the next steps, I might use cloning to make more flags in random positions and different sizes. Maybe animated.
+Getting Scratch to kick the ball at some point would be cool too.",Click the green flag to go!,287832,https://cdn2.scratch.mit.edu/get_image/project/235772195_480x360.png,2018-07-07T16:26:38.000Z,2018-07-07T17:31:14.000Z,2018-07-07T17:29:17.000Z,12,1,1,0,0,,,,,
+235774809,Unstuck Day 1 - Say Block,"I would like to get the sprites to move a little more smoothly. Also, there are times when they make contact and one stops, but the other keeps going.","Challenge:
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""
+
+Cat and Mouse meet. Click on the flag to begin. ",25286049,https://cdn2.scratch.mit.edu/get_image/project/235774809_480x360.png,2018-07-07T17:19:44.000Z,2018-07-15T15:42:41.000Z,2018-07-07T17:32:54.000Z,12,3,2,0,0,,,,,
+235779598,#001 Getting Unstuck,,I use sensing and broadcasting a message to activate the voice once they collide and then the response.,20126730,https://cdn2.scratch.mit.edu/get_image/project/235779598_480x360.png,2018-07-07T19:00:08.000Z,2018-07-07T19:14:38.000Z,2018-07-07T19:14:07.000Z,5,1,1,0,0,,,,,
+235784033,Unstuck #1,"My biggest problem is figuring out how to have the sprites start at a specific spot and reset at the end of the action.  Who can help me with that?
+",,6907312,https://cdn2.scratch.mit.edu/get_image/project/235784033_480x360.png,2018-07-07T20:42:03.000Z,2018-07-07T21:16:01.000Z,2018-07-07T21:05:56.000Z,9,1,1,0,0,,,,,
+235787945,KP_Unstuck1,"As a teacher of Scratch and coach of Scratch, I needed to revisit my own practice of creating and exploring through this great 21 initiative.
+
+I don't know if I remembered that when my sprite bounces off an edge that my sprite rotated upside down until I set her rotation style. I also noticed that I didn't have to adjust the move direction. Perhaps I just took this for granted :)
+",,1752484,https://cdn2.scratch.mit.edu/get_image/project/235787945_480x360.png,2018-07-07T22:28:51.000Z,2018-07-07T22:42:49.000Z,2018-07-07T22:37:48.000Z,5,1,1,0,0,,,,,
+235792565,accidental encounters,,,14542522,https://cdn2.scratch.mit.edu/get_image/project/235792565_480x360.png,2018-07-08T00:30:44.000Z,2018-07-08T00:31:57.000Z,2018-07-08T00:31:57.000Z,4,1,1,0,0,,,,,
+235698187,Getting Unstuck: Day 1,"Getting Unstuck: Day 1.
+Challenge: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",Click the green flag.,17615581,https://cdn2.scratch.mit.edu/get_image/project/235698187_480x360.png,2018-07-06T16:03:46.000Z,2018-07-22T15:05:41.000Z,2018-07-09T15:13:08.000Z,1,0,0,0,0,,,,,
+235808554,Manners,I changed the script as I thought it could be useful for other things. Was a little time consuming to get the timing just right.,Press the space bar for a surprise,30508500,https://cdn2.scratch.mit.edu/get_image/project/235808554_480x360.png,2018-07-08T07:35:03.000Z,2018-07-19T12:24:50.000Z,2018-07-08T08:00:03.000Z,7,1,1,0,0,,,,,
+235796499,Unstuck.1,Beginner in training....,work in progress.,840815,https://cdn2.scratch.mit.edu/get_image/project/235796499_480x360.png,2018-07-08T01:58:17.000Z,2018-07-08T12:01:35.000Z,2018-07-08T02:29:56.000Z,6,1,1,0,0,,,,,
+235826602,"Unstuck 1: Move, Get Out The Way","After watching a couple other projects, I wished I used variables instead of trying to time it. This was a quick fun project! ",,25417130,https://cdn2.scratch.mit.edu/get_image/project/235826602_480x360.png,2018-07-08T15:07:22.000Z,2018-07-08T15:22:54.000Z,2018-07-08T15:19:39.000Z,6,1,1,0,0,,,,,
+235826347,Getting Unstuck: Day 1,I had a little difficulty finding a way to have the monkey moving down diagonally.  I finally remembered the blocks change x and change y by an amount and this solved my problem.,"Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" (Remember, if you get stuck, find inspiration and support in the Teaching with Scratch Facebook group, our list of Getting Unstuck strategies, or on Twitter at #CreativeComputing.)",25043750,https://cdn2.scratch.mit.edu/get_image/project/235826347_480x360.png,2018-07-08T15:01:57.000Z,2018-07-08T15:47:57.000Z,2018-07-08T15:45:19.000Z,4,1,1,0,0,,,,,
+235828518,Getting Unstuck #1,#Getting Unstuck ,Clicca sulla bandierina verde,17320587,https://cdn2.scratch.mit.edu/get_image/project/235828518_480x360.png,2018-07-08T15:52:23.000Z,2018-07-08T16:37:48.000Z,2018-07-08T16:29:10.000Z,11,2,1,0,0,,,,,
+235828593,I DUE FOLLETTI,Progetto creato per condividerlo su GETTING UNSTUCK,Lo scontro fra due piccoli folletti diventa ...CLICCATE sulla bandierina verde per sapere cosa succede...,14651357,https://cdn2.scratch.mit.edu/get_image/project/235828593_480x360.png,2018-07-08T15:53:54.000Z,2018-07-08T16:52:57.000Z,2018-07-08T16:32:40.000Z,16,2,1,0,0,,,,,
+235830982,Getting unstuck 1,"Mi sono ispirata al gioco Pong e aggiunto alcune istruzioni per fare in modo che gli sprite traccino segni sullo stage
+#gettingunstuck1","Basta cliccare sulla bandierina verde e le palline inizieranno a muoversi. Quando si toccano, una chiede scusa e l'altra risponde: ""Certamente""",17698999,https://cdn2.scratch.mit.edu/get_image/project/235830982_480x360.png,2018-07-08T16:52:01.000Z,2018-07-08T17:24:39.000Z,2018-07-08T17:15:42.000Z,10,1,1,0,0,,,,,
+235833281,Excuse me!,It took me a while to figure out how to make this animation work the way I wanted. I think I'll revisit it to tweak it some more. ,Click the Green Flag to watch a simple animation. ,7664502,https://cdn2.scratch.mit.edu/get_image/project/235833281_480x360.png,2018-07-08T17:42:43.000Z,2018-07-08T18:44:58.000Z,2018-07-08T18:41:12.000Z,40,4,1,0,0,,,,,
+235835532,Unstuck Day 1,"Thanks to AC for working on this project with me.  We learned everything because we haven't done much on this before.  Surprisingly it didn't take us too long!
+",Press space bar to activate.      ,23449511,https://cdn2.scratch.mit.edu/get_image/project/235835532_480x360.png,2018-07-08T18:32:44.000Z,2018-07-20T22:22:42.000Z,2018-07-08T19:00:59.000Z,6,1,1,0,0,,,,,
+235836826,Getting Unstuck #1,"I followed a well known path, since a similar exercise is part of one of my teaching courses. So maybe I didn't use my creativity about this challenge at all...
+BTW my sprites get stuck in the corners all the time, but I didn't want to make the script too heavy.",,10189318,https://cdn2.scratch.mit.edu/get_image/project/235836826_480x360.png,2018-07-08T19:01:06.000Z,2018-07-08T19:26:22.000Z,2018-07-08T19:17:44.000Z,3,1,1,0,0,,,,,
+235699677,Day 1: Getting Unstuck,"I use Scratch Jr. with my young students so it took some persistence and debugging to get this first challenge done.  Love that I am learning by doing! 
+ 
+How do I get my script to restart from the beginning after I press stop?",,34177681,https://cdn2.scratch.mit.edu/get_image/project/235699677_480x360.png,2018-07-06T16:24:23.000Z,2018-07-08T21:28:09.000Z,2018-07-08T21:23:50.000Z,5,1,1,0,0,,,,,
+235599807,Excuse me! Certainly.,A big shout out to 5Bics1 for showing how to get through a glitch I couldn't work out. Thank you 5Bics1! I found this project challenging trying to get the sprites to register each time they actually touched. It took me a while to realise that it was dependent on the right part of each sprite touching before it would activate the reaction.,Click on the green flag and watch these penguins politely crash into each other.,32833725,https://cdn2.scratch.mit.edu/get_image/project/235599807_480x360.png,2018-07-05T16:23:15.000Z,2018-07-13T04:57:03.000Z,2018-07-08T21:48:20.000Z,3,1,1,0,0,,,,,
+229809413,Getting Unstuck Day 1,"I struggled with the sprites getting stuck on each other.  I searched for some help from other Scratchers on how to have sprites bounce off of each other.  There were several different options, some complicated and some easy.  I went for the easier version, having the sprites turn 180 from their current direction after they collide.  They do still get stuck to each other once in awhile.  But, that's not unlike how people might do that when they run into each other and then move to the same side and continue to do the same.","Assignment 1: When two sprites touch have them exchange pleasantries.  
+
+I wanted a random movement.  The two balls bounce around the screen and bounce off the edges and off of each other.  When they run into each other is unpredictable.  ",14400846,https://cdn2.scratch.mit.edu/get_image/project/229809413_480x360.png,2018-06-19T17:13:26.000Z,2018-07-08T22:44:34.000Z,2018-07-08T22:36:20.000Z,5,2,1,0,0,,,,,
+235844414,Getting_Unstuck_Day1,"Reflection:
+I enjoyed putting a few enhancements into my project to personalise it a little.
+I used ""broadcast message"" to handle the conversation between the sprites.
+I found it difficult to balance smooth movement (I used ""glide"" movement) with being able to capture the ""collide with sprite"" event.  I wasn't terribly successful!",,13763665,https://cdn2.scratch.mit.edu/get_image/project/235844414_480x360.png,2018-07-08T22:09:38.000Z,2018-07-08T22:42:08.000Z,2018-07-08T22:40:28.000Z,6,1,1,0,0,,,,,
+235691639,#creativecomputing Challenge #1,,"#creativecomputing Challenge Day 1 - Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",10296314,https://cdn2.scratch.mit.edu/get_image/project/235691639_480x360.png,2018-07-06T14:38:41.000Z,2018-07-06T14:58:42.000Z,2018-07-06T14:57:37.000Z,8,0,0,0,0,,,,,
+235848750,Unstuck Day 1,I learned a great deal of debugging with this project.  It was difficult to make the sprites go where I wanted them to.,"#creativecomputing Challenge Day 1 - Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",33988811,https://cdn2.scratch.mit.edu/get_image/project/235848750_480x360.png,2018-07-08T23:57:19.000Z,2018-07-09T00:35:27.000Z,2018-07-09T00:31:45.000Z,4,0,0,0,0,,,,,
+235848314,Getting Unstuck - Day 1,"Inspired by the Tokyo 2020 Olympics
+","Press the Green Flag and sit back, relax, and enjoy a short animation!",25334812,https://cdn2.scratch.mit.edu/get_image/project/235848314_480x360.png,2018-07-08T23:47:53.000Z,2018-07-09T03:11:01.000Z,2018-07-09T00:35:01.000Z,2,0,0,0,0,,,,,
+235850197,Getting Unstuck: Day 1,,Getting Unstuck: Day 1,27268085,https://cdn2.scratch.mit.edu/get_image/project/235850197_480x360.png,2018-07-09T00:25:37.000Z,2018-07-09T00:47:15.000Z,2018-07-09T00:46:47.000Z,11,0,0,0,0,,,,,
+235853019,Getting UNstuck Day 1,,,728649,https://cdn2.scratch.mit.edu/get_image/project/235853019_480x360.png,2018-07-09T01:21:31.000Z,2018-07-09T01:21:35.000Z,2018-07-09T01:21:35.000Z,7,0,0,0,0,,,,,
+235867388,day_1,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/235867388_480x360.png,2018-07-09T06:31:18.000Z,2018-07-09T06:49:03.000Z,2018-07-09T06:49:03.000Z,8,0,0,0,0,,,,,
+235888354,Getting unstuck Day1,GEtting unstuck day1,click on green flag,25103547,https://cdn2.scratch.mit.edu/get_image/project/235888354_480x360.png,2018-07-09T11:49:27.000Z,2018-07-09T12:04:51.000Z,2018-07-09T12:02:45.000Z,4,0,0,0,0,,,,,
+235889591,Excuse Me Challenge,,Click the green flag,24269220,https://cdn2.scratch.mit.edu/get_image/project/235889591_480x360.png,2018-07-09T12:08:11.000Z,2018-07-09T12:22:50.000Z,2018-07-09T12:22:18.000Z,12,0,0,0,0,,,,,
+235876679,Getting Unstuck #01 - Excuse me!,"Project for the Getting Unstuck challenge series - day 1:
+https://gettingunstuck.gse.harvard.edu/about.html
+
+Some reflections:
+ - I love these open challenges, they lead to very diverse approaches...
+ - I explored two completely unrelated programming ideas: 
+     - the day & night cycle in the background,
+     - the nice ""flying"" movement of the birds.",Just click the green flag & watch!,20919879,https://cdn2.scratch.mit.edu/get_image/project/235876679_480x360.png,2018-07-09T08:49:41.000Z,2018-07-10T19:45:56.000Z,2018-07-09T14:22:35.000Z,4,0,0,0,0,,,,,
+235903227,#creativecomputing Day 1 ,,,23419026,https://cdn2.scratch.mit.edu/get_image/project/235903227_480x360.png,2018-07-09T14:21:09.000Z,2018-07-09T14:29:25.000Z,2018-07-09T14:29:25.000Z,7,1,0,0,0,,,,,
+235910470,UNstuck-Day 1-Jazden7,,,29798770,https://cdn2.scratch.mit.edu/get_image/project/235910470_480x360.png,2018-07-09T15:21:37.000Z,2018-07-09T15:51:58.000Z,2018-07-09T15:51:57.000Z,3,0,0,0,0,,,,,
+235917276,Getting Unstuck Day 1 - Excuse me!,"This was a fun intro to the summer project. I enjoyed using the day blocks. 
+I did use a little help by checking out a project. But then I deleted the whole thing and started over for my own project. 
+It was interesting to see how varied all the projects were. ","Unstuck with Scratch 
+#CreativeComputing     
+#GettingUnstuck",24864870,https://cdn2.scratch.mit.edu/get_image/project/235917276_480x360.png,2018-07-09T16:28:14.000Z,2018-07-15T15:03:06.000Z,2018-07-09T16:56:57.000Z,7,0,0,0,0,235835532,235835532,,,
+235914917,Getting UnStuck Day 1,"This was a fun project that I took a bit farther than the instructions stated. That always seems to happen to me when I get involved with Scratch!  I am on vacation in San Francisco so I decided to set my project here.
+Sorry I am late with this...as I will be with the rest because I am on vacation.  ",,746233,https://cdn2.scratch.mit.edu/get_image/project/235914917_480x360.png,2018-07-09T16:04:51.000Z,2018-07-09T17:59:29.000Z,2018-07-09T16:53:33.000Z,7,0,0,0,0,,,,,
+235888465,Getting Unstuck Day 1,I realized there are many steps to make a simple interaction.  I also realized that there are many ways to do the same thing. Having examples was very helpful. #CreativeComputing #GettingUnstuck,"
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" (Remember, if you get stuck, find inspiration and support in the Teaching with Scratch Facebook group, our list of Getting Unstuck strategies, or on Twitter at #CreativeComputing.)
+
+Don't forget to tag your project with #GettingUnstuck",34221568,https://cdn2.scratch.mit.edu/get_image/project/235888465_480x360.png,2018-07-09T11:51:02.000Z,2018-07-09T17:35:01.000Z,2018-07-09T17:29:06.000Z,5,0,0,0,0,,,,,
+235913814,Getting Unstuck Challenge 1,"Tried and failed, but kept going.
+
+I probably made the code too complicated, but it was fun experimenting.",Just press the green flag!,11608238,https://cdn2.scratch.mit.edu/get_image/project/235913814_480x360.png,2018-07-09T15:53:48.000Z,2018-07-11T18:05:24.000Z,2018-07-09T17:29:09.000Z,7,0,1,0,0,,,,,
+235926460,Getting Unstuck Day 1,,,24998404,https://cdn2.scratch.mit.edu/get_image/project/235926460_480x360.png,2018-07-09T17:55:28.000Z,2018-07-09T18:04:16.000Z,2018-07-09T18:04:16.000Z,8,0,0,0,0,,,,,
+235927706,Unstuck Day 01,,,24710888,https://cdn2.scratch.mit.edu/get_image/project/235927706_480x360.png,2018-07-09T18:05:53.000Z,2018-07-09T22:38:16.000Z,2018-07-09T22:38:16.000Z,5,0,0,0,0,,,,,
+235769724,Sprites Colliding!  Day 1,"Day 1- Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",Use the right and left arrow keys to help the Scratch Cat and Pico get to the baseball!,25165723,https://cdn2.scratch.mit.edu/get_image/project/235769724_480x360.png,2018-07-07T15:37:40.000Z,2018-07-09T19:08:11.000Z,2018-07-09T18:25:29.000Z,9,0,0,0,0,,,,,
+235930364,Getting Unstuck Day 1,The biggest challenge for me on this project was figuring out how to get the sprite to face a different direction and then how to get them at a level that made sense with the background and their relative sizes. I was able to use other works to try and figure out my way around it. Most interesting to me was probably all the different ways people used to have the sprites move and run into each other.,"Challenge: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""
+
+Press the green flag to see my creation!",34245752,https://cdn2.scratch.mit.edu/get_image/project/235930364_480x360.png,2018-07-09T18:27:15.000Z,2018-07-09T18:59:17.000Z,2018-07-09T18:59:17.000Z,8,1,0,0,0,,,,,
+235935936,Getting Unstuck day 1 remix,"So, I decided to make this a collaborative project with my son, NanoWhisp. I let him approach the challenge first, then critiqued and debugged it with him, and I'm doing the reflections.
+
+This one didn't need any serious debugging, although I did refactor it a bit to remove an unnecessary event! Nano used events to communicate between balloon and ball to co-ordinate the conversation. The balloon politely stops moving while the beach ball slowly moves past after saying excuse me - a wonderful characterization! (hi I'm an excessively proud dad right now) And the event routines were very well organized and also I'm excessively proud of that too
+
+Okay, reflection: how would I have approached it differently?
+I would have been tempted to make this universal - could we have a LOT of instances of the same sprite, who somehow can negotiate this between any pair, without specifying in advance which one says ""excuse me""?
+
+ie. I overthink things
+
+That aside though, I love the event approach here. You *could* do the whole thing without any inter-sprite communication, just having them each execute a timed script on contact. But the event approach is easier to modify, and in a sense it's more ""natural"". When one sprite talks to the other, it also behind-the-scene talks to the other through the event system.",Press the spacebar to start movement!,1860684,https://cdn2.scratch.mit.edu/get_image/project/235935936_480x360.png,2018-07-09T19:18:40.000Z,2018-07-09T19:41:49.000Z,2018-07-09T19:41:49.000Z,5,0,0,0,0,235933123,235933123,,,
+235837247,Getting Unstuck  DAY 1 ,,,20899850,https://cdn2.scratch.mit.edu/get_image/project/235837247_480x360.png,2018-07-08T19:10:43.000Z,2018-07-09T20:38:12.000Z,2018-07-09T20:34:27.000Z,7,0,0,0,0,,,,,
+235952862,Getting Unstuck  DAY 1 - The balls,,Click on the green flag.,11087380,https://cdn2.scratch.mit.edu/get_image/project/235952862_480x360.png,2018-07-09T23:48:43.000Z,2018-07-10T00:16:20.000Z,2018-07-10T00:15:02.000Z,4,0,0,0,0,235837247,235837247,,,
+235954033,gettingunstuck1,,,4333664,https://cdn2.scratch.mit.edu/get_image/project/235954033_480x360.png,2018-07-10T00:09:18.000Z,2018-07-10T00:26:47.000Z,2018-07-10T00:26:47.000Z,1,1,0,0,0,,,,,
+235951254,unstuck day 1,"Sorry I'm late with this - quick vacation slowed down my progress! 
+I had to add a 2 second delay to the umpire speech bubble so he would speak AFTER the dog touched him - I saw others doing this in many different ways - so cool!  I dind't think there was one right way - ?",click the green flag,32864221,https://cdn2.scratch.mit.edu/get_image/project/235951254_480x360.png,2018-07-09T23:17:15.000Z,2018-07-10T03:26:28.000Z,2018-07-10T03:23:26.000Z,3,1,0,0,0,,,,,
+235964745,Getting Unstuck - Day 1 Activity,"This is my project for Day 1 of the Getting Unstuck programming challenge. I wanted my bugs to randomly wander around the screen until they bump into one and other when they say ""Excuse me"" and ""Certainly"" as in the challenge instructions.
+
+I experimented with the pick random operator the starting points of the bugs.
+","Press the green flag to start.
+This will continue forever so click the red octagon to stop.",15946,https://cdn2.scratch.mit.edu/get_image/project/235964745_480x360.png,2018-07-10T02:57:01.000Z,2018-07-10T03:37:51.000Z,2018-07-10T03:30:08.000Z,6,3,0,0,0,,,,,
+235969697,1 : Scratch & the Starfish,"The photos is from Sorø, the town where my adventure with Scratch started back in 2012. The photos is from an old project from 2012 so the quality is not the best.
+
+In this project I have played with different ways how to make Scratch look smaller when he walks from far away, how to make him go in a specific direction with help from a ghost sprite and how the starfish react when Scratch bumps into him.
+
+","Just press the green flag and see what happens.
+
+This project is made for day 1 at GetttingUnstuck.",1252137,https://cdn2.scratch.mit.edu/get_image/project/235969697_480x360.png,2018-07-10T04:47:27.000Z,2018-07-10T06:33:31.000Z,2018-07-10T05:23:54.000Z,6,2,0,0,0,,,,,
+235982777,unstuck day 1,"From the Getting Unstuck project, day 1. https://us18.campaign-archive.com/?u=5dd4d8b32f719a30cbde507c6&id=58f14fb2df","Two clouds wander randomly, talking when they touch.
+
+They only talk when they first meet, not repeating the conversation if they stay in contact for a long time. I control that with a variable which is set when they're touching and cleared when they're not. The talking only starts if the variable is clear.",1165375,https://cdn2.scratch.mit.edu/get_image/project/235982777_480x360.png,2018-07-10T08:17:22.000Z,2018-07-10T08:35:46.000Z,2018-07-10T08:30:15.000Z,10,1,0,0,0,,,,,
+235985556,Buonaeducazione,,Spingi la bandierina e vedi un pò di buona educazione....,13575540,https://cdn2.scratch.mit.edu/get_image/project/235985556_480x360.png,2018-07-10T08:51:36.000Z,2018-07-10T09:24:57.000Z,2018-07-10T09:24:16.000Z,17,2,0,0,0,,,,,
+235990719,Getting unstucked day 1,I've learned differents ways to detect collision: with sensors or with messages sent by another sprite. I've practiced with random numbers too. ,an idea from http://gettingunstuck.gse.harvard.edu/,2680901,https://cdn2.scratch.mit.edu/get_image/project/235990719_480x360.png,2018-07-10T10:04:18.000Z,2018-07-10T10:56:48.000Z,2018-07-10T10:17:38.000Z,9,1,0,0,0,,,,,
+235991244,Getting Unstuck day 1,I have learned to move with random numbers,,23020553,https://cdn2.scratch.mit.edu/get_image/project/235991244_480x360.png,2018-07-10T10:12:14.000Z,2018-08-03T11:56:50.000Z,2018-07-10T10:31:27.000Z,7,2,0,0,0,,,,,
+235937225,Excuse me Day 1 Getting unstuck,,,26839169,https://cdn2.scratch.mit.edu/get_image/project/235937225_480x360.png,2018-07-09T19:33:44.000Z,2018-07-10T13:13:45.000Z,2018-07-10T13:13:22.000Z,9,1,0,0,0,,,,,
+236007886,Getting Unstuck #1,,,18174236,https://cdn2.scratch.mit.edu/get_image/project/236007886_480x360.png,2018-07-10T13:34:36.000Z,2018-07-10T13:42:00.000Z,2018-07-10T13:42:00.000Z,7,1,0,0,0,,,,,
+236018155,FOLLETTI  INNAMORATI  - DAY 1,NON E' MOLTO SEMPLICE PER ME. SONO PROPRIO ALLE PRIME ARMI. FORSE NON HO PROPRIO CENTRATO IL COMPITO...,BASTA CLICCARE SULLA BANDIERINA.,34259094,https://cdn2.scratch.mit.edu/get_image/project/236018155_480x360.png,2018-07-10T14:53:40.000Z,2018-07-10T15:02:29.000Z,2018-07-10T14:53:40.000Z,6,1,0,0,0,,,,,
+236023478,Getting Unstuck – Day 1,"Made for Day 1 of Getting Unstuck:
+
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",Can bats see in the dark?,588648,https://cdn2.scratch.mit.edu/get_image/project/236023478_480x360.png,2018-07-10T15:38:16.000Z,2018-07-11T17:20:03.000Z,2018-07-10T15:43:08.000Z,9,1,0,0,0,,,,,
+236028526,Day 1 Getting unstuck,Day 1 of Getting Unstuck ,,11514408,https://cdn2.scratch.mit.edu/get_image/project/236028526_480x360.png,2018-07-10T16:26:02.000Z,2018-07-10T17:10:11.000Z,2018-07-10T17:09:36.000Z,8,1,0,0,0,,,,,
+236036862,UG01_incontro...,,push green button...,34279311,https://cdn2.scratch.mit.edu/get_image/project/236036862_480x360.png,2018-07-10T17:45:55.000Z,2018-07-23T13:22:00.000Z,2018-07-10T18:14:34.000Z,9,1,0,0,0,,,,,
+236047871,Excuse Me!,"@33limekilnsja 
+Getting Unstuck, Day 1. ","This is a bit of a work in progress. It's very basic and a bit rough around the edges but I problem solved until I got there - just what I want my students to do!
+
+Click on the green flag to start.",31507911,https://cdn2.scratch.mit.edu/get_image/project/236047871_480x360.png,2018-07-10T19:28:38.000Z,2018-07-10T20:04:13.000Z,2018-07-10T19:47:33.000Z,18,2,0,0,0,,,,,
+236054395,Unstuck Day 1,"What did you learn from creating this project? I learned that as part of being a good programmer, you need to plan first.  I had to decide which characters, stage and blocks to use.  I had to decide which approach I wanted to use to make th interaction of the Sprites.  I chose to use a sensing and send receive blocks.  What did you notice about how other people approach the challenge?  Everyone has a different strategy so it shows their are multiple ways to solve this challenge and none of them are incorrect!  ",This was fun!,11885888,https://cdn2.scratch.mit.edu/get_image/project/236054395_480x360.png,2018-07-10T20:56:39.000Z,2018-07-10T21:39:42.000Z,2018-07-10T21:06:34.000Z,9,1,0,0,0,,,,,
+236054459,Getting Unstuck [Day 1],This is getting unstuck day 1!,Click the Green Flag!,13594403,https://cdn2.scratch.mit.edu/get_image/project/236054459_480x360.png,2018-07-10T20:57:46.000Z,2018-07-11T21:44:13.000Z,2018-07-10T21:14:24.000Z,10,1,0,0,0,,,,,
+236055038,Day 1 - Getting Unstuck,,,17812875,https://cdn2.scratch.mit.edu/get_image/project/236055038_480x360.png,2018-07-10T21:06:41.000Z,2018-07-10T21:17:49.000Z,2018-07-10T21:12:27.000Z,9,1,0,0,0,,,,,
+236055603,Getting Unstuck Day 1 - Scratch & Witch,"I learned that I am able to make sprites speak using speech bubbles.  As well, I learned how to use the sensing blocks more effectively.  I like how I approached this challenge and I see that many others used a similar approach.  Thank you!
+",Click the Green Flag to begin!  ,27535268,https://cdn2.scratch.mit.edu/get_image/project/236055603_480x360.png,2018-07-10T21:15:32.000Z,2018-07-11T03:27:48.000Z,2018-07-10T21:40:51.000Z,10,4,1,0,0,,,,,
+236056486,GU1,,,580207,https://cdn2.scratch.mit.edu/get_image/project/236056486_480x360.png,2018-07-10T21:28:33.000Z,2018-07-10T21:45:33.000Z,2018-07-10T21:45:33.000Z,9,2,0,0,0,,,,,
+236060901,Getting Unstuck 1,,,25417558,https://cdn2.scratch.mit.edu/get_image/project/236060901_480x360.png,2018-07-10T22:49:08.000Z,2018-07-10T23:33:47.000Z,2018-07-10T23:33:47.000Z,5,1,0,0,0,,,,,
+236063138,"Well, Excuuuuse Me!",I learned how to give a starting coordinate for each sprite. ,"Click on the Green Flag
+Press the space bar.",34191958,https://cdn2.scratch.mit.edu/get_image/project/236063138_480x360.png,2018-07-10T23:33:40.000Z,2018-07-11T00:13:18.000Z,2018-07-11T00:02:20.000Z,9,1,0,0,0,,,,,
+236073416,Getting Unstuck: Day 1,,"Click on the Green Flag
+catch the robot",34283191,https://cdn2.scratch.mit.edu/get_image/project/236073416_480x360.png,2018-07-11T02:08:55.000Z,2018-07-11T02:46:35.000Z,2018-07-11T02:46:34.000Z,7,2,0,0,0,,,,,
+236075969,Unstuck Day 1_delpisiska,,This was fun!,34283309,https://cdn2.scratch.mit.edu/get_image/project/236075969_480x360.png,2018-07-11T02:54:44.000Z,2018-07-17T04:18:20.000Z,2018-07-11T03:15:17.000Z,9,1,0,0,0,,,,,
+236077745,Getting Unstuck - Day 2 - FIX,"Mansur Bin Nisan
+",Enjoy your flower,34222154,https://cdn2.scratch.mit.edu/get_image/project/236077745_480x360.png,2018-07-11T03:35:51.000Z,2018-07-11T03:38:55.000Z,2018-07-11T03:37:03.000Z,10,2,0,0,0,,,,,
+236105539,Excuse-me!!!,"Cool
+
+Autor: Jocemar do Nascimento
+
+Arte: Mauricio de Souza
+",,1734014,https://cdn2.scratch.mit.edu/get_image/project/236105539_480x360.png,2018-07-11T11:09:54.000Z,2018-07-11T11:23:29.000Z,2018-07-11T11:22:29.000Z,7,1,0,0,0,,,,,
+236052058,Getting Unstuck1: meetings ,,,16573108,https://cdn2.scratch.mit.edu/get_image/project/236052058_480x360.png,2018-07-10T20:23:28.000Z,2018-07-27T16:08:38.000Z,2018-07-11T13:15:35.000Z,3,1,0,0,0,,,,,
+236122767,Getting unstuck day 1,,clicca bandierina verde,17636749,https://cdn2.scratch.mit.edu/get_image/project/236122767_480x360.png,2018-07-11T14:10:26.000Z,2018-07-11T14:29:28.000Z,2018-07-11T14:29:04.000Z,11,1,0,0,0,,,,,
+236125510,Getting unstuckDay 1,,,16426717,https://cdn2.scratch.mit.edu/get_image/project/236125510_480x360.png,2018-07-11T14:33:45.000Z,2018-07-11T14:56:37.000Z,2018-07-11T14:53:00.000Z,5,1,0,0,0,,,,,
+236132147,Getting Unstuck Day 1,,,3089308,https://cdn2.scratch.mit.edu/get_image/project/236132147_480x360.png,2018-07-11T15:28:55.000Z,2018-07-11T15:41:41.000Z,2018-07-11T15:41:41.000Z,9,1,0,0,0,,,,,
+236129114,Day 1 Getting Unstuck,,"Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",18513865,https://cdn2.scratch.mit.edu/get_image/project/236129114_480x360.png,2018-07-11T15:03:46.000Z,2018-07-11T16:17:16.000Z,2018-07-11T15:52:02.000Z,8,1,0,0,0,,,,,
+236090420,Getting Unstuck: Day 1,Andrés Gil Ruiz.,"Getting Unstuck: Day 1.
+
+",27636310,https://cdn2.scratch.mit.edu/get_image/project/236090420_480x360.png,2018-07-11T07:35:35.000Z,2018-07-11T16:43:52.000Z,2018-07-11T16:41:52.000Z,5,1,0,0,0,,,,,
+236153250,Unstuck1,https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621,"Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",28648400,https://cdn2.scratch.mit.edu/get_image/project/236153250_480x360.png,2018-07-11T18:49:03.000Z,2018-07-11T19:05:22.000Z,2018-07-11T19:01:51.000Z,6,1,0,0,0,,,,,
+236155102,Getting Unstuck Day 1,,"Press the flag to start the project.
+Use the right arrow key to move the character on the left.
+((after watching the project, please turn off the AC!)
+",21887196,https://cdn2.scratch.mit.edu/get_image/project/236155102_480x360.png,2018-07-11T19:09:11.000Z,2018-07-20T09:22:46.000Z,2018-07-17T16:45:55.000Z,14,2,0,0,0,,,,,
+236164664,Untitled-18,"Getting Unstuck: Day 1
+Ho immaginato un momento di quotidianità tra estranei.
+Ho appreso l'algoritmo della comunicazione tra sprite: avviene seguendo un ordine sequenziale.",,21462276,https://cdn2.scratch.mit.edu/get_image/project/236164664_480x360.png,2018-07-11T21:19:04.000Z,2018-07-11T21:52:24.000Z,2018-07-11T21:48:03.000Z,6,1,0,0,0,,,,,
+236188417,"AWV - Getting Unstuck, Day 1","Getting Unstuck, Day 1",Press Green Flag to see cause/effect ,3823009,https://cdn2.scratch.mit.edu/get_image/project/236188417_480x360.png,2018-07-12T05:11:09.000Z,2018-07-12T05:28:11.000Z,2018-07-12T05:24:27.000Z,5,0,0,0,0,,,,,
+102813015,Blocca la palla,Play for fun,"Clicca sulla bandiera verde usa le frecce per muovere la barra: ogni volta che colpisci la palla conta i punti.
+( inserire la variabile Tempo)
+
+Click on the green flag, use the arrow keys to move the bar: every time you hit the ball counts steps.",11312120,https://cdn2.scratch.mit.edu/get_image/project/102813015_480x360.png,2016-03-23T16:01:05.000Z,2018-07-12T09:44:55.000Z,2016-03-23T16:22:48.000Z,61,3,3,0,0,,,,,
+236211781,Unstuck 1,,,18827386,https://cdn2.scratch.mit.edu/get_image/project/236211781_480x360.png,2018-07-12T11:25:00.000Z,2018-07-12T11:44:00.000Z,2018-07-12T11:44:00.000Z,4,0,0,0,0,,,,,
+236033107,Getting Unstuck Day 1,"Painting is from the Metropolitan Museum of Art Public Domain Works
+Garden at Sainte-Adresse
+Claude Monet
+
+This project is part of the Getting Unstuck Series
+Day 1
+To launch the conversation, I used a sensing block to launch an event when the woman runs into the man with the hat. I had to put it in a forever loop ( a step I often forget)
+
+Added the boat moving in the background for fun.
+","Click on the Green Flag to start
+",1353497,https://cdn2.scratch.mit.edu/get_image/project/236033107_480x360.png,2018-07-10T17:11:40.000Z,2018-07-12T14:46:11.000Z,2018-07-12T14:40:39.000Z,2,1,0,0,0,,,,,
+236219676,Day 1 Getting Unstuck 2018,"The Getting Unstuck Day 1 challenge reminded me about using costumes along with motion and that broadcast is useful for character interaction. Also, I decided to randomize the sprint move commands a little bit and not change the costume with every step in an attempt to make the walking look slightly more natural.
+
+Challenge Archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621",,1013358,https://cdn2.scratch.mit.edu/get_image/project/236219676_480x360.png,2018-07-12T13:08:04.000Z,2018-07-16T15:18:15.000Z,2018-07-12T14:42:20.000Z,7,0,0,0,0,,,,,
+236258670,Day 1 Apologies,"Tried importing the background for the first time! Opens up a lot of possibilities for use in class, so thanks for that!",click green flag,34099462,https://cdn2.scratch.mit.edu/get_image/project/236258670_480x360.png,2018-07-12T19:29:30.000Z,2018-07-14T14:05:15.000Z,2018-07-12T19:50:14.000Z,4,1,0,0,0,,,,,
+236262917,Getting Unstuck 1- distrazione,Creato per la challenge Getting Unstuck Day 1.,"Clicca sulla bandierina verde e vedrai che se si è distratti ci si può scontrare, basta poi essere educati.",22217887,https://cdn2.scratch.mit.edu/get_image/project/236262917_480x360.png,2018-07-12T20:31:31.000Z,2018-07-12T21:46:01.000Z,2018-07-12T21:30:48.000Z,7,2,0,0,0,,,,,
+197829789,"Il palloncino ""Vieni con noi""",,CLICCA LA BANDIERINA,15572972,https://cdn2.scratch.mit.edu/get_image/project/197829789_480x360.png,2018-01-14T20:22:32.000Z,2018-07-15T23:18:46.000Z,2018-01-21T17:04:35.000Z,4,0,0,0,0,,,,,
+236292852,Getting Unstuck 1,Getting Unstuck Day 1,Clicca la bandierina verde,15572972,https://cdn2.scratch.mit.edu/get_image/project/236292852_480x360.png,2018-07-13T06:23:33.000Z,2018-07-18T07:49:02.000Z,2018-07-13T07:17:58.000Z,4,1,0,0,0,,,,,
+236315989,Day1-linda,progetto di prova giorno 1,Incontri casuali,16191340,https://cdn2.scratch.mit.edu/get_image/project/236315989_480x360.png,2018-07-13T12:47:25.000Z,2018-07-13T14:05:18.000Z,2018-07-13T13:52:27.000Z,5,1,0,0,0,,,,,
+236354725,Apples & Butterfiles,"An interesting thing that I tried recently is parallel code for clones.
+
+Fun fact: this is inspired by a Windows 95 screen saver
+",Just click the green flag!,12148328,https://cdn2.scratch.mit.edu/get_image/project/236354725_480x360.png,2018-07-13T20:59:26.000Z,2018-07-23T09:52:54.000Z,2018-07-13T21:07:44.000Z,6,0,0,0,0,,,,,
+236346561,When Sprites Collide - Get Unstuck 1,I noticed that timing is important in this particular program. It also helped to think about the program in parts. I tried to build the parts and then assembled it into the completed solution.,Click on the green flag to see what happens when friends collide. ,30595057,https://cdn2.scratch.mit.edu/get_image/project/236346561_480x360.png,2018-07-13T18:49:58.000Z,2018-07-13T21:30:06.000Z,2018-07-13T21:27:50.000Z,4,0,0,0,0,,,,,
+236374965,Getting Unstuck Day 1,"
+Getting Unstuck Day 1 Reflection:
+I've played around with Scratch a bit, so I had an idea of how I wanted to approach this.  What I learned is how exciting it is to give an open-ended challenge like this.  There were so many creative projects that met the same basic parameters!",Click on the green flag to see how long the fish can swim without bumping into each other.,30095573,https://cdn2.scratch.mit.edu/get_image/project/236374965_480x360.png,2018-07-14T03:59:46.000Z,2018-07-14T04:19:35.000Z,2018-07-14T04:19:35.000Z,6,0,0,0,0,,,,,
+236387547,Getting Unstuck: Day 1,"The Getting Unstuck Day 1 challenge reminded me how to use costumes along with motion. Also, I decided to randomize the direction of the two costumes to make the animation more engaging. 
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Getting Unstuck: Day 1
+
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",34314391,https://cdn2.scratch.mit.edu/get_image/project/236387547_480x360.png,2018-07-14T09:23:17.000Z,2018-07-14T09:48:26.000Z,2018-07-14T09:43:14.000Z,4,0,0,0,0,,,,,
+236365433,dance,,,34102687,https://cdn2.scratch.mit.edu/get_image/project/236365433_480x360.png,2018-07-14T00:39:25.000Z,2018-07-14T04:37:56.000Z,2018-07-14T04:37:56.000Z,7,0,0,0,0,,,,,
+235975197,Getting Unstuck - Day 1,"I have a little bit of experience in Scratch, so I was able to make the sprites move and talk easy enough.  However, I had to look through other projects to figure out how to make the sprites bounce instead of having the monkey overlap the cat.","Press the green arrow and then when the two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" ",24696341,https://cdn2.scratch.mit.edu/get_image/project/235975197_480x360.png,2018-07-10T06:34:52.000Z,2018-07-14T20:21:03.000Z,2018-07-14T20:17:25.000Z,10,0,0,0,0,,,,,
+236467372,unstuck day 1,,,33865418,https://cdn2.scratch.mit.edu/get_image/project/236467372_480x360.png,2018-07-15T18:38:18.000Z,2018-07-15T18:56:20.000Z,2018-07-15T18:49:07.000Z,3,0,0,0,0,,,,,
+236467512,"Swim, swim, swim! (Getting Unstuck #1)","Getting Unstuck: Day 1
+Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly."" 
+
+Took some inspiration from other Getting Unstuck projects on Twitter thanks to #creativecomputing. Good refresher on how to use ""broadcast"". Still a few kinks to work out - I'm new to this!",Use your mouse to guide Mr. Crab through the ocean without bumping into Ms. Fish. ,22105327,https://cdn2.scratch.mit.edu/get_image/project/236467512_480x360.png,2018-07-15T18:41:24.000Z,2018-07-16T18:06:47.000Z,2018-07-15T19:51:26.000Z,6,1,0,0,0,,,,,
+236469562,Getting Unstuck_Day 1_Colliding sprites,"Not too sure if I'm using speed correctly, but it works. I added the reset script, i.e. sprites revert to their original position rather than setting off awkwardly in an odd place where they last stopped. ","Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""",34241372,https://cdn2.scratch.mit.edu/get_image/project/236469562_480x360.png,2018-07-15T19:27:49.000Z,2018-07-15T20:31:20.000Z,2018-07-15T20:25:36.000Z,8,0,0,0,0,,,,,
+224385246,The Dab Master,"Pls ❤️ ⭐️ this game I worked really hard on it.
+And don't forget to follow
+
+(Part 2 coming soon)
+
+Check out my other game here
+https://scratch.mit.edu/projects/225169872/","arrow keys to move
+space to shoot if you have the dab power
+R to restart level",33395994,https://cdn2.scratch.mit.edu/get_image/project/224385246_480x360.png,2018-05-21T04:22:00.000Z,2018-07-31T00:20:43.000Z,2018-05-23T19:51:24.000Z,431,23,15,0,0,,,,,
+225169872,Bloc Block (A Platformer Game),"Part 2 is out here is the link
+https://scratch.mit.edu/projects/237051580/
+
+If you are wondering about how to make a platformer the link is here
+https://scratch.mit.edu/projects/236798745/","Arrow keys to move 
+Don't touch the red lava
+R to restart the level
+Have fun and try to beat the world record!
+
+Don't forget to ❤️ and ⭐️ ",33395994,https://cdn2.scratch.mit.edu/get_image/project/225169872_480x360.png,2018-05-23T21:31:38.000Z,2018-07-23T05:46:05.000Z,2018-05-31T16:16:24.000Z,296,20,18,0,0,,,,,
+229895742,Astro Dash,"If you like this game leave a like ❤️ and star ⭐️ this game!
+","Arrow keys to move 
+Do not touch the asteroids 
+Try to beat the World Record!",33395994,https://cdn2.scratch.mit.edu/get_image/project/229895742_480x360.png,2018-06-20T07:28:51.000Z,2018-07-24T07:35:00.000Z,2018-07-16T10:14:30.000Z,113,8,6,0,0,,,,,
+236518049,Moon Crater formation (polite),"Asteroids making craters on the moon, but politely! My attempt at a solution to 'Get Unstuck! Day 1'. Sprite1 is a (mostly) invisible box covering the 'moon'. When the rocks (asteroids) hit it, they say 'Excuse Me!' and bounce off back into space. 
+
+I wrote another version where the rocks were cloned but Flash and Chrome had a major falling out and I lost it...",Just click the flag,3094436,https://cdn2.scratch.mit.edu/get_image/project/236518049_480x360.png,2018-07-16T11:08:44.000Z,2018-07-16T12:01:16.000Z,2018-07-16T11:33:58.000Z,7,2,0,0,0,,,,,
+236519903,Getting Unstuck - Day 1,"I decided to add little humor and extra animation to this activity. It was more enjoyable than just having two avatars ""bump"" into each other.  I would like to add some sound or some other animation while you are waiting for the butterfly to reach my avatar.",Click on flag to begin.  What will happen when this butterfly meets up with my avatar.,2502473,https://cdn2.scratch.mit.edu/get_image/project/236519903_480x360.png,2018-07-16T11:39:38.000Z,2018-07-16T12:15:21.000Z,2018-07-16T12:10:23.000Z,16,2,0,0,0,,,,,
+236033375,Getting Unstuck: Day 1,,,28439839,https://cdn2.scratch.mit.edu/get_image/project/236033375_480x360.png,2018-07-10T17:14:09.000Z,2018-07-10T17:32:43.000Z,2018-07-10T17:27:38.000Z,9,2,0,0,0,,,,,
+236606784,Untitled-13,,,18505490,https://cdn2.scratch.mit.edu/get_image/project/236606784_480x360.png,2018-07-17T07:01:12.000Z,2018-07-17T07:08:51.000Z,2018-07-17T07:08:51.000Z,5,0,0,0,0,,,,,
+236090730,Getting Unstuck - Day 1,Getting Unstuck - Day 1,Click on the Green Flag,13275782,https://cdn2.scratch.mit.edu/get_image/project/236090730_480x360.png,2018-07-11T07:40:14.000Z,2018-07-18T09:06:20.000Z,2018-07-18T09:06:20.000Z,9,1,0,0,0,,,,,
+236756565,Getting Unstuck: Day 1 Project,"This is Day 1 project for Karen Brennan's & Paulina Haduong's Getting Unstuck project.  Looking forward to meeting them at Scratch18.
+",Press the green flag to begin,14232182,https://cdn2.scratch.mit.edu/get_image/project/236756565_480x360.png,2018-07-18T15:21:44.000Z,2018-07-18T21:51:39.000Z,2018-07-18T21:51:38.000Z,5,1,0,0,0,,,,,
+235884230,Capocciate marine - Getting Unstuck Day 1,"Ho creato un nuovo progetto per partecipare al programma di allenamento Getting Unstuck ^^
+
+Mi farebbe piacere che mi aiutassi con i miei esercizi di coding :) se trovi bug o scorrettezze non esitare ad inviarmi feedback o/remixare e far diventare molto più bello questo breve progetto. Grazie mille <3
+
+Accenni sulla tematica: 
+Rispetta le regole del bravo esploratore subaqueo e tutela l'equilibrio dell'ecosistema dei fondali marini:
+Il privilegio di immergersi con le bombole nel meraviglioso mondo sottomarino con le nostre branchie sintetiche, comporta grande opportunità come anche una serie di responsabilità, tra le quali quelle di rispettare e preservare gli organismi acquatici e l'ambiente in cui essi vivono. 
+","Clicca sulla bandierina verde e dai un occhiata alla breve disavventura di un sub inesperto. 
+  ",13725526,https://cdn2.scratch.mit.edu/get_image/project/235884230_480x360.png,2018-07-09T10:46:13.000Z,2018-07-19T08:48:41.000Z,2018-07-09T11:03:47.000Z,5,1,0,0,0,,,,,
+236815036,Day1:Going to Dance show,,,34128835,https://cdn2.scratch.mit.edu/get_image/project/236815036_480x360.png,2018-07-19T05:06:39.000Z,2018-07-19T10:38:33.000Z,2018-07-19T10:38:33.000Z,7,1,0,0,0,,,,,
+236852382,Day 1 - Getting unstuck ,This is the first project for me as a part of the getting unstuck assignments,Press the Green Flag ,18095179,https://cdn2.scratch.mit.edu/get_image/project/236852382_480x360.png,2018-07-19T14:24:29.000Z,2018-07-19T14:45:07.000Z,2018-07-19T14:37:49.000Z,5,1,0,0,0,,,,,
+236941368,Getting Unstuck Day 1 remix,Grazie a Marlanreg!!!,"Challenge: Create a project that whenever two sprites collide, one of them says, ""Excuse me!"" and the other sprite says, ""Certainly.""
+
+Press the green flag to see my creation!
+Clicca sulla bandierina verde.......... e impara la cortesia!   :)",17600576,https://cdn2.scratch.mit.edu/get_image/project/236941368_480x360.png,2018-07-20T13:48:44.000Z,2018-07-20T14:25:50.000Z,2018-07-20T14:24:20.000Z,11,1,0,0,0,235930364,235930364,,,
+237042277,Unstuck #1 Polite Bats,"Unstuck #1 - conversation
+
+Bat music lasts for 69 seconds.","These bats fly around randomly, but their echolocation is a bit off, so they sometimes bump into one another.  They are polite, however, and try to get out of each other's way.",26618044,https://cdn2.scratch.mit.edu/get_image/project/237042277_480x360.png,2018-07-22T00:41:45.000Z,2018-07-22T13:52:31.000Z,2018-07-22T01:18:42.000Z,10,0,1,0,0,,,,,
+237058614,Incontro di befane. 1 day,,,14096918,https://cdn2.scratch.mit.edu/get_image/project/237058614_480x360.png,2018-07-22T07:54:15.000Z,2018-07-22T09:03:07.000Z,2018-07-22T08:56:41.000Z,2,1,0,0,0,,,,,
+237068838,GettingUnstuck-1,,,8368158,https://cdn2.scratch.mit.edu/get_image/project/237068838_480x360.png,2018-07-22T12:37:12.000Z,2018-07-22T12:38:48.000Z,2018-07-22T12:38:48.000Z,9,1,0,0,0,,,,,
+237071250,OwlMorton-Unstuck1,,,21214926,https://cdn2.scratch.mit.edu/get_image/project/237071250_480x360.png,2018-07-22T13:40:29.000Z,2018-07-22T13:47:48.000Z,2018-07-22T13:47:48.000Z,5,1,0,0,0,,,,,
+237073318,Polite Encounter,,,22657077,https://cdn2.scratch.mit.edu/get_image/project/237073318_480x360.png,2018-07-22T14:30:52.000Z,2018-07-22T14:41:27.000Z,2018-07-22T14:41:07.000Z,6,1,0,0,0,,,,,
+237105562,Scratch Day 1,,,2674356,https://cdn2.scratch.mit.edu/get_image/project/237105562_480x360.png,2018-07-23T01:45:11.000Z,2018-07-23T01:45:47.000Z,2018-07-23T01:45:47.000Z,6,1,0,0,0,,,,,
+237149973,Unstuck Challenge #1,"I could not get the green dinosaur to return back to the same spot when the green flag was clicked- had to add a ""wait"" block after the ""go to x,y "" block. Seems unnecessary but it worked!  All the help videos etc didn't have the wait block so I am not sure why my original code didn't work.... ideas?",,19791368,https://cdn2.scratch.mit.edu/get_image/project/237149973_480x360.png,2018-07-23T14:15:42.000Z,2018-07-23T15:23:42.000Z,2018-07-23T15:20:50.000Z,12,2,0,0,0,,,,,
+235592945,Day One Sprites collide,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/235592945_480x360.png,2018-07-05T15:41:28.000Z,2018-07-10T04:02:43.000Z,2018-07-10T04:02:42.000Z,12,2,0,0,0,,,,,
+237232045,Lines (A Drawing Game),Please ❤️  ⭐️ and follow,"WASD or Arrow Keys to move the painter
+Left click to draw 
+C to clear 
+Space for Rainbow Effects 
+M to change to Clockwise or Counter Clockwise
+Test the rest out by your self and create beautiful art. :D",33395994,https://cdn2.scratch.mit.edu/get_image/project/237232045_480x360.png,2018-07-24T07:39:31.000Z,2018-08-08T11:36:07.000Z,2018-07-24T09:18:39.000Z,330,31,26,0,0,,,,,
+237452601,Pipistrelli educati,,Clicca sulla bandiera verde per iniziare! Fai attenzione a quando i due pipistrelli si incontrano..,34169307,https://cdn2.scratch.mit.edu/get_image/project/237452601_480x360.png,2018-07-26T09:59:17.000Z,2018-07-26T10:14:55.000Z,2018-07-26T10:14:12.000Z,5,1,0,0,0,,,,,
+237502174,Getting Unstuck day1,"Getting Unstuck day1
+","Clicca su bandierina Verde per partire. Usa le frecce direzionali per muovere il cavaliere: se il drago tocca il cavaliere, si scusa.",11617672,https://cdn2.scratch.mit.edu/get_image/project/237502174_480x360.png,2018-07-26T21:52:14.000Z,2018-07-26T21:59:08.000Z,2018-07-26T21:59:08.000Z,7,1,0,0,0,,,,,
+237521219,Getting Unstuck Day 1,,,34331091,https://cdn2.scratch.mit.edu/get_image/project/237521219_480x360.png,2018-07-27T01:45:58.000Z,2018-07-27T01:52:00.000Z,2018-07-27T01:50:42.000Z,6,1,0,0,0,,,,,
+237537239,Getting Unstuck Day 1,"the sprites aren't programmed to stay off the ground, but the ground is there so they aren't floating in mid air.","black cat is arrow keys and white cat is wasd.
+everytime they touch one of them says excuse me and the other says certainly",28402186,https://cdn2.scratch.mit.edu/get_image/project/237537239_480x360.png,2018-07-27T05:42:11.000Z,2018-07-27T06:01:44.000Z,2018-07-27T06:01:44.000Z,7,1,0,0,0,,,,,
+237497138,Getting Unstuck: Day 1,"
+Image Credits 
+https://www.flaticon.com/","Fai clic sulla bandiera verde.
+Click on the green flag.",18667079,https://cdn2.scratch.mit.edu/get_image/project/237497138_480x360.png,2018-07-26T20:37:34.000Z,2018-07-27T14:12:44.000Z,2018-07-27T14:12:44.000Z,11,2,0,0,0,,,,,
+237183832,Getting Unstuck Day 1 Sam,,,34395055,https://cdn2.scratch.mit.edu/get_image/project/237183832_480x360.png,2018-07-23T19:56:28.000Z,2018-07-30T19:37:45.000Z,2018-07-30T19:37:45.000Z,14,1,0,0,0,,,,,
+237108035,#task 1 Unstuck,"I used the microphone as well as words. 
+It was more frustrating than I thought but I have started to get the hang of it.","I redid it by using the xy grid and slower movements. It made it easier to follow a direction.
+Last I added the background. ",31492686,https://cdn2.scratch.mit.edu/get_image/project/237108035_480x360.png,2018-07-23T02:19:06.000Z,2018-07-23T02:49:43.000Z,2018-07-23T02:47:59.000Z,9,1,0,0,0,,,,,
+237907729,Getting Unstuck Day 1,,Just click the Green Flag and Watch the Magic,19992137,https://cdn2.scratch.mit.edu/get_image/project/237907729_480x360.png,2018-07-31T23:57:41.000Z,2018-08-01T00:05:52.000Z,2018-08-01T00:03:46.000Z,12,2,0,0,0,,,,,
+238360819,Getting Unstuck on My Own Day 1,"Working through the prompts from the July 2018 Getting Unstuck project by ScratchEd. Great ideas and exercises!
+I learned that it always takes longer than you think... especially when you insist on creating your own sprites.... ",Green flag and watch the lads!,1720042,https://cdn2.scratch.mit.edu/get_image/project/238360819_480x360.png,2018-08-06T16:15:10.000Z,2018-08-06T16:16:43.000Z,2018-08-06T16:16:43.000Z,6,4,0,0,0,,,,,

@@ -1,0 +1,653 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+237206301,Catch 'em all (v2 - remixed!)-3,"Have spent too many hours on this today and it definitely leaves me frustrated and thinking about the experiences of students and teachers in classrooms. Currently I'm teaching in a classroom with both desktops and laptops (different models, every kid has a slightly different one), and I've run into all kinds of bugs like these, which definitely make the process of learning to code harder! ","UGH. Press the green flag to get a sense of things. I remixed a previous project so that everything falling was part of the scrolling, but ran into a TON of bugs. It works great offline; breaks differently in Chrome (can't move left/right) than it does in Firefox (where the background turns pink and giant for some reason). Debugging encouraged! (It seems like all the sprites work fine, but there's something about the way the background is blown up that Scratch hates? But also, it worked fine in the previous iteration?",2745846,https://cdn2.scratch.mit.edu/get_image/project/237206301_480x360.png,2018-07-24T01:23:11.000Z,2018-07-24T09:30:08.000Z,2018-07-24T09:29:21.000Z,23,3,1,0,0,,
+237208594,"The ""See You At MIT!"" Pass-It-On Project","For Day 20 of Getting Unstuck, I decide to revisit the ""3 Favorite Things"" pass-it-on project from Day 11! I loved learning about the Getting Unstuck community. I also loved that day because people remixed the project to make it better, making each element standalone (using ""when sprite clicked"") instead of sequential (using ""broadcast and wait""). I'm starting this new pass-it-on project in this way that scales better. I hope you'll join in! And I hope to see you in person this week! ❤️✨","Click on me to find out why I'm excited about the MIT Scratch Conference, which is taking place this week! Then add yourself to this pass-it-on project!",39526,https://cdn2.scratch.mit.edu/get_image/project/237208594_480x360.png,2018-07-24T01:51:58.000Z,2018-07-24T10:24:20.000Z,2018-07-24T10:24:20.000Z,91,14,2,0,0,,
+236591011,Truffle's Idea Tumbler,"updates on this iteration for Day 20:
+I made a few detail edits, such as adding in spaces between the responses that Truffle joins as an idea. Sometimes when trying something new, the details are missed, and I'm glad to come back to this! I also added a feature where you can add a question to Truffle's memory. What question might bring some playful ideas?
+
+original notes:
+AHHHHH - This was my first time exploring strings and lists!
+^---- that's a very excited ahhhh!
+
+At first I wasn't even sure what the string blocks might be used for. I started off by looking at the Scratch wiki (https://en.scratch-wiki.info/wiki/String) to see what they even did. (thanks @paulinah)! Then I thought that I would create something that generated randomized text. 
+
+The most exciting part of creating this came as I was thinking of questions to ask. As I plugged in Ask "" "" and wait, and ""add answer to list"" at least 15 times, and saw my code grow longer and longer, I wondered how I could randomize the questions so that they might appear in another order (or be repeated, for re-considering other potential responses.) I thought, if I could put them somewhere and ask for a random one, that would be great. I had just created my first list of the answers to questions. It was a sparkly realization moment when I thought ""what if I stored the *questions* in a list, too??? This way, they could both be randomized when called upon and ALSO be more organized, not making my script forever long. I was honestly feeling kind of unsure about taking on lists -- and there I was, creating lists on lists to be joined in (lovingly) weird strings! I'm excited to see where this new discovery goes!
+
+During the recent Getting Unstuck project on changing scenes, I decided to try a ""pause and come back"" strategy in stuck moments. When I paused, I'd go in the vector editor and work on this cat face, thinking I'd surely use it for something in the future. I felt comfortable enough to play around with creating the cat while also thinking through the challenges in the project I was programming. For this challenge, I didn't spend ANY time on drawing, as I'd already created the cat. I wonder how far I would've gotten in the lists + strings exploration if I were also focusing on creating my own graphics?","After pressing the green flag, press the space bar to start.
+
+Once Truffle has started sharing potential ideas, click on her and she'll share more (:
+
+(update: press up arrow to add a question to Truffle's memory!)",25705937,https://cdn2.scratch.mit.edu/get_image/project/236591011_480x360.png,2018-07-17T02:02:56.000Z,2018-08-07T14:59:33.000Z,2018-07-18T10:35:56.000Z,50,16,3,0,0,,
+237208177,"Visual Editor, Improved","This project was originally created for Day 14 for Getting Unstuck, and then revised for Day 20 of Getting Unstuck. I had originally set out to make a multiline text editing box, maybe even with a scroll bar. Wow, that was harder than I thought it would be. So on Day 14, I settled for the ability to enter characters.  
+
+For Day 20, I added support for the Delete and Enter keys. Again, this was much harder than I thought it would be; it actually makes use of an undocumented Scratch feature, described here: https://scratch.mit.edu/projects/19199766/.  After concluding that there would probably not be an IPO for ""Visual Editor, Improved"", I decided that the only thing left to do before abandoning ship was to add a cool Easter egg. Enjoy!","Press the green flag and enter a brief message in the text box. Only lowercase, unaccented characters and space key accepted for now.  The delete key can be used to fix mistakes; press enter when done. 
+
+Easter egg: What happens when you type a few words but forget to press enter for a few seconds?",56239,https://cdn2.scratch.mit.edu/get_image/project/237208177_480x360.png,2018-07-24T01:46:45.000Z,2018-07-24T17:03:13.000Z,2018-07-24T10:55:19.000Z,20,7,3,0,0,,
+236909884,20,"Unstuck day 20
+This is derivative of a project I began on day 13 and revised on days 14-15.  I've experimented with: connecting it to makeymakey instruments, bending notes based on the cursor's y position, separating graphix from sound, creating feedback loops through the user's microphone, and with eliminating a need for a user.
+
+In this edition I changed the primary graphic to a spinning ball of thread. Given further time, I'd like to gamify this by creating an additional sprite that one tries to ""catch"" or grab with the fingertip. I think it will be necessary to use the timer and reset blocks to establish whether one has caught the other sprite (to distinguish it from a coincidental on stage passing-by).
+
+An exciting discovery from this project has been the ability to use phantom sprites (e.g., no costume) to shadow other sprites, often by looping a glide instruction e.g. to the x/y of the first sprite. At this phase of iteration I may not be using any phantom sprites in a significant way, but - as we near the conclusion of GU - that's the grist on my mill. Another breakthrough from days 13-15 for me was that I could make these graphix without requiring the user to click or press down on the mouse/trackpad. The gentle fingertip and trackpad activity feels like a new Scratch experience. I'm very grateful for these discoveries! Thanks for the provocations!
+
+Followup: made a remix for PicoBoard so the instrument can be set by a force resistant sensor connected to port D https://scratch.mit.edu/projects/237255829/","Green flag. Move fingertip on touchscreen to change note.
+
+",33815227,https://cdn2.scratch.mit.edu/get_image/project/236909884_480x360.png,2018-07-20T04:03:17.000Z,2018-07-24T14:57:36.000Z,2018-07-24T00:47:58.000Z,14,8,1,0,0,,
+237246694,day20 copy,,"Click on the green flag to start.
+You have 10 seconds to multiply the two numbers displayed.",34225248,https://cdn2.scratch.mit.edu/get_image/project/237246694_480x360.png,2018-07-24T11:54:56.000Z,2018-07-24T11:55:17.000Z,2018-07-24T11:55:09.000Z,12,3,0,0,0,,
+237246080,flying flowers copy,"Simply I added some costumes and a music to enjoy a moment of relax.
+Thanks to Grieg for Peer Gynt.","  
+Click on the green flag and on stage.",11312120,https://cdn2.scratch.mit.edu/get_image/project/237246080_480x360.png,2018-07-24T11:43:53.000Z,2018-07-24T12:12:51.000Z,2018-07-24T12:12:30.000Z,14,9,3,0,0,,
+237246470,getting unstucked day20,I remix may day18 project to improve my capacity with cloning. I learn something more. Thanks to @alirb for stimulating my cuoriosity about thhese blocks,click the green flag ,25103547,https://cdn2.scratch.mit.edu/get_image/project/237246470_480x360.png,2018-07-24T11:50:49.000Z,2018-07-24T12:21:01.000Z,2018-07-24T12:21:01.000Z,6,1,0,0,0,,
+237246059,Getting unstuck day 20 ,this is a copy and revised to my 13 day project of Getting unstuck !,"press green flag then Move your mouse on the flower, and u can press space to see it in another way :) !",34188789,https://cdn2.scratch.mit.edu/get_image/project/237246059_480x360.png,2018-07-24T11:43:28.000Z,2018-07-24T12:29:27.000Z,2018-07-24T12:26:12.000Z,7,2,0,0,0,,
+237242777,Unstuck Day 20: Remix of Making Music ,"For my Getting Unstuck challenge Day 20 I decided to add more features to my earlier music playing project. I got stuck big time on what seems to be a bug in Scratch. If a variable is displaying below a Y position of 0 you can't get the options you should get when you right click on it. I finally figured out you only get those options if you move it above 0. Big headache!
+The trickiest part of adding all these features was design. It was hard to think of ways to give the user enough information. I still think some lines on the bars would make it better to show the increments you can differentiate by.","Pick notes to play in a rhythm on the BLUE bar, then click PLAY.
+Play along with your rhythm loop on the LIVE bar.
+You can change both instruments on the RHYTHM and SOLO bars.
+",214174,https://cdn2.scratch.mit.edu/get_image/project/237242777_480x360.png,2018-07-24T10:39:51.000Z,2018-07-24T12:30:15.000Z,2018-07-24T12:23:59.000Z,6,1,0,0,0,,
+237246004,Getting Unstuck Day 20 - Getting Random Improved,"I realized today I missed day 6 which was all about random, so I started to create, and iterated on the fly - I'm calling this day 6 and day 20 as I've spent far longer than usual on the challenge and have made big improvements on my original idea! 
+
+I spent lots of time tweaking how you know as the user if for example two random costumes are the same (so used a changing backdrop to let you know the costume had changed) and also how you can be sure you've clicked one of the sprites below.
+
+Enjoy! ","Here's a project to test your memory.  When you click the green flag, you'll see the sprite with the box around it change costumes.
+
+Once it's finished, click the sprites at the bottom of the screen in the same order that the main sprite changed. Press space bar to see if you got it right, and to advance. ",4610900,https://cdn2.scratch.mit.edu/get_image/project/237246004_480x360.png,2018-07-24T11:42:22.000Z,2018-07-24T12:27:33.000Z,2018-07-24T12:27:33.000Z,8,3,0,0,0,,
+237247119,Unstuck Day 20,"I was so excited with the challenge today because I really wanted some more time to figure out the bug in my code and just could not find any yesterday.  When I first made this program, my flowers only cloned 10 times and it was difficult to see all ten flowers because they cloned on top of one another.  I have fixed that and also added some extra ""fun"" things to jazz this project up a bit.",Just click the green flag.,24826697,https://cdn2.scratch.mit.edu/get_image/project/237247119_480x360.png,2018-07-24T12:03:08.000Z,2018-07-27T00:43:14.000Z,2018-07-24T12:36:14.000Z,7,3,0,0,0,,
+237249191,_clone copy copy,,"solo per usare liste/array e cloni
+",443100,https://cdn2.scratch.mit.edu/get_image/project/237249191_480x360.png,2018-07-24T12:39:27.000Z,2018-07-24T12:45:02.000Z,2018-07-24T12:45:02.000Z,11,2,0,0,0,,
+237250331,#020 Getting Unstuck Studio - Copy and Add to a Project,,"Move mouse around for clones...
+
+I changed the clone so it will follow the mouse and added voice.",20126730,https://cdn2.scratch.mit.edu/get_image/project/237250331_480x360.png,2018-07-24T12:57:09.000Z,2018-07-24T13:11:42.000Z,2018-07-24T13:10:09.000Z,10,2,0,0,0,,
+236137266,Getting Unstuck: Day 20 (what I wanted to make on Day 7),"The idea was taken from here (http://www.boston-baden.com/hazel/Knotware3/explain-key.htm), but also from something I've been wanting to do for ages! I revisited because my original one was a fail... this too is a bit of a fail as I could rotate the image instead...
+",,24912473,https://cdn2.scratch.mit.edu/get_image/project/236137266_480x360.png,2018-07-11T16:16:41.000Z,2018-07-24T13:33:28.000Z,2018-07-11T16:48:18.000Z,28,6,0,0,0,,
+237247912,Getting Unstuck day 20,"For today I added to yesterday's project. I wanted to add a power up that would make it possible to eliminate some of the dealy tacos. I thought about have the cat shoot lightning bolts at the tacos, but that brought up all the complications of aiming and so on. Then I hit on just having a shield that destroyed the tacos if they touch it. At first I made the force field a costume the cat has. That did not work, i guess because the tacos had contradictory instructions. So I made the force field a sprite that always goes to the cat, but is hidden unless the shield is recharged and the user presses <space> before getting hit with a taco. ","green flag to start
+arrow keys to move
+space key for a 2 second force field that destroys tacos 
+
+careful- the force field has to recharge before you can use it again",17767933,https://cdn2.scratch.mit.edu/get_image/project/237247912_480x360.png,2018-07-24T12:17:48.000Z,2018-07-24T21:24:25.000Z,2018-07-24T13:18:36.000Z,8,5,2,0,0,,
+237246765,Day 20 - Day18 - Treasure Island redo,"
+http://soundbible.com/1830-Sad-Trombone.html
+http://freemusicarchive.org/music/Wellington_Sea_Shanty_Society/
+
+I added sound effects, background music, an additional backdrop, a timer, and some more hazards! I also shrunk all the game elements to make it more challenging.","Click the Green Flag and follow the directions
+Space bar to start game
+S to move straight
+R to move right
+L to move left
+Don't go in the water!",18341966,https://cdn2.scratch.mit.edu/get_image/project/237246765_480x360.png,2018-07-24T11:56:23.000Z,2018-07-24T13:27:16.000Z,2018-07-24T13:27:16.000Z,10,8,2,0,0,,
+237254131,Unstuck 20 Clone Rabbits Jumping,"I wanted to complete the following behaviours I didn't have time to include before. Happy with the result. 
+- clones run both left and right
+- clones disappear as they near the left and right edge of screen (first time using the ghost effect).
+I experimented with multiple ""When I start as a clone"" blocks. Love this.
+If I had more time, I would like to make the hopping effect more realistic by making sure when rabbit lands, he changes costume immediately before traveling along the x-axis. I probably should have NOT using multiple ""When I start as a clone"" blocks in order to make it look better. Oh well, the short and simple was good enough for today.
+","Choose one of your projects from a previous day of Getting Unstuck and revise it.
+
+The Rabbit will give you instructions. 
+",19123745,https://cdn2.scratch.mit.edu/get_image/project/237254131_480x360.png,2018-07-24T13:37:31.000Z,2018-07-24T16:47:01.000Z,2018-07-24T13:51:20.000Z,7,2,0,0,0,,
+237253550,day 20 revision and revisiting,"I started learning about Kolam designs. I had never really thought about how graph paper traditionally has the dots in a 90 degree relationship and how if the dots were in a 60 degree relationship - everything would be so different!! This made me wonder about making 90 degree and 60 degree patterns in the same file online. I think I used the clones to track where I was, but I'm still really unsure about what clones are and how they work... and how I might have coded exactly this same result without using clones and most importantly the pros and cons to using clones here!!!! Please help me understand this!!??",Click the green flag to start and see if you can imagine how to make another shape flower,124064,https://cdn2.scratch.mit.edu/get_image/project/237253550_480x360.png,2018-07-24T13:31:49.000Z,2018-07-24T14:08:28.000Z,2018-07-24T14:08:28.000Z,16,8,0,0,0,,
+237258501,Getting Unstuck Day 20 ,"I review my Day 18 project. 
+Now you score the score and when the sprite arrives to touch the red says you won.","Click the green flag.
+
+",13275782,https://cdn2.scratch.mit.edu/get_image/project/237258501_480x360.png,2018-07-24T14:21:56.000Z,2018-07-24T14:31:40.000Z,2018-07-24T14:31:21.000Z,3,2,0,0,0,,
+237258995,Getting Unstuck: Day 20 — Reactive Rainbow,"Reflection
+
+I decided to make a couple of changes to my Day 13 project. I really liked the effect of the colors chasing the mouse, but overall the project needed a few extra tweaks to give it a more finished feel.
+
+The changes I made are: The dots are now smaller. I added the use of the mosaic effect. And the dots are now created in a grid formation rather than randomly.
+
+Even though the changes are minimal, the overall look and feel of the project has improved significantly.",Move the mouse pointer of the red dots.,26264460,https://cdn2.scratch.mit.edu/get_image/project/237258995_480x360.png,2018-07-24T14:27:03.000Z,2018-07-24T16:51:57.000Z,2018-07-24T14:47:38.000Z,12,3,2,0,0,,
+237253174,Cat on a desert island copy,"This is an improved version of the stranded cat. Now with CLOUD VARIABLES.
+
+Cloud variables are very interesting. The most easy thing to do with CV are records tables and halls of fame, but they can be used to do a lot of things, like multiplayer (if you have a good connection).
+I have the feeling that is one of the interesting features that I used the less (besides creating plug-ins for the offline version).
+
+Sounds on freesound.org:
+rainfall by sonitusetaudio
+thunders by juskiddink, Yoyodaman234 and olliehahn12
+","Show and modify variable ""hour"" to see the different states of this scene.
+
+The starting position should reflect the time of the day. The cat goes to bed at 22 o'clock and gets up at 7 in the morning. Some days are rainy!
+
+Every time someone visits the island (in a single day), a fruit will appear!",12148328,https://cdn2.scratch.mit.edu/get_image/project/237253174_480x360.png,2018-07-24T13:27:59.000Z,2018-08-04T14:46:03.000Z,2018-07-24T15:03:40.000Z,14,6,2,0,0,,
+237264270,Challenge20 - Platformer copy,"Had a few minutes and had always wanted to create a game where the user gets to play it how they want. I didn't have time for the whole game so I thought I'd create an engine with all condtions ready to go.
+
+This game allows people to play the way they want. Be creative, get your cat to the yellow. ","Forgot to create a copy. So copied and re added to the studio, removed the first one.
+
+Redoing this from a few projects ago. Thought I'd see it through, add a few levels and few extra effects. Will add more levels when I have time. 
+
+Draw bridges, platforms, whatever to get Scratch to the yellow. 
+
+Arrow Keys left/right/up
+
+You get 50 line points to draw platforms to get your cat to yellow
+
+Space resets the level
+Z to undo your last line",3158946,https://cdn2.scratch.mit.edu/get_image/project/237264270_480x360.png,2018-07-24T15:20:58.000Z,2018-07-25T02:39:31.000Z,2018-07-24T15:21:15.000Z,11,4,0,0,0,,
+237249370,Challenge4SizeRevisit,"This is a redo of my challenge 4 project, which was not working when I posted it. Thanks to scratchteacheralpha032 for remixing it to show me how to fix my problem. Also thanks to mstone326 for help throughout these challenges. I used my list lessons in this one. 
+I also added to this project a list that keeps track of how many answers the user got wrong and gives the user a helpful hint at the end if they didn't get them all right. ",Click on the green flag to test your knowledge of ion charges.,2190314,https://cdn2.scratch.mit.edu/get_image/project/237249370_480x360.png,2018-07-24T12:42:06.000Z,2018-07-24T15:24:08.000Z,2018-07-24T15:20:40.000Z,7,4,0,0,0,,
+237267319,"The ""See You At MIT!"" Pass-It-On Project remix-2",,"Click on me to find out why I'm excited about the MIT Scratch Conference, which is taking place this week! Then add yourself to this pass-it-on project!",22286405,https://cdn2.scratch.mit.edu/get_image/project/237267319_480x360.png,2018-07-24T15:53:27.000Z,2018-07-24T15:53:33.000Z,2018-07-24T15:53:33.000Z,12,3,0,0,0,237208594,237208594
+237257674,Jumping Pico improved,"A bit super Mario-ish?  
+I don't understated the gravity stuff though - grateful for help here
+.I have added the not pressed key condition so you can't just keep the key down to play.
+",Press the  green flag to start and  L R U D arrows to play,33472226,https://cdn2.scratch.mit.edu/get_image/project/237257674_480x360.png,2018-07-24T14:14:11.000Z,2018-07-24T18:26:24.000Z,2018-07-24T16:02:08.000Z,6,2,0,0,0,,
+237270556,"The ""See You At MIT!"" Pass-It-On Project remix",,"Click on me to find out why I'm excited about the MIT Scratch Conference, which is taking place this week! Then add yourself to this pass-it-on project!",19123745,https://cdn2.scratch.mit.edu/get_image/project/237270556_480x360.png,2018-07-24T16:28:55.000Z,2018-07-24T16:31:38.000Z,2018-07-24T16:31:38.000Z,17,3,1,0,0,237208594,237208594
+237204806,Projectile Motion Example - Bowtie Launcher,"This is a demonstration of my approach to scripting realistic projectile motion in scratch. Check out the comments on the script blocks to learn more about how it works.
+
+For Day 20 of Getting Unstuck, I chose to revisit my Bowtie Launcher project to make the scripts clearer and add comments for anyone curious about how they work.","Hold down the mouse to 'charge up' the starting velocity of your shot, then let go to launch.
+
+Adjust Gravity with the slider.",27306974,https://cdn2.scratch.mit.edu/get_image/project/237204806_480x360.png,2018-07-24T01:04:00.000Z,2018-07-24T17:04:19.000Z,2018-07-24T16:30:26.000Z,26,12,5,0,0,,
+237248339,Unstuck Day 20 - Mood Survey w/cloud variables,"This was my project from Unstuck Day 18. I cleaned it up a bit. Plus I added cloud variables. This allows the values to remain. As more users answer the questions, the values will continue to grow.
+
+Thank you to mstone326 for telling me about cloud variables and being a Scratcher. 
+
+The doctor image is from Google and has ""free to use"" usage rights.",Press the flag to begin. You will be asked two questions - your gender and your mood. ,10715270,https://cdn2.scratch.mit.edu/get_image/project/237248339_480x360.png,2018-07-24T12:25:09.000Z,2018-07-25T12:54:59.000Z,2018-07-24T16:41:57.000Z,7,2,0,0,0,,
+237273714,Two Dice Game V2 ,"Unstuck Challenge 20: choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. 
+
+This is a remix from my day 18's challenge. I customized the game to used with my 7th grade probability unit: compound events & law of large numbers.","Click on the green flag to start. You can choose to roll the pair of dice once, or you can ask the computer to roll the dice 10 times or 100 times. The results will be recorded each time. ",25332755,https://cdn2.scratch.mit.edu/get_image/project/237273714_480x360.png,2018-07-24T17:04:47.000Z,2018-07-24T17:23:10.000Z,2018-07-24T17:23:10.000Z,6,5,1,0,0,10130014,10130014
+237144847,musical toy - tiled vibes,"Getting Unstuck: Day 20
+https://gettingunstuck.gse.harvard.edu/
+First, create a studio and add all of your Getting Unstuck projects to it.
+-> https://scratch.mit.edu/studios/5251088/
+
+Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. What's something about the project that would benefit from more time or fresh eyes? 
+-> This version with the colourful polygons is more what I had in mind initially. I'm glad I could spend a little more time on it.
+Yet another improvement will have to wait for another day ^^
+
+
+Getting Unstuck: Day 19
+https://gettingunstuck.gse.harvard.edu/
+Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.
+-> Instruments are human-made, right? ;)","Move your mouse over any shape to play some vibes :)
+Click a shape for another, shorter note.
+Press space to change to different instruments.
+",34248043,https://cdn2.scratch.mit.edu/get_image/project/237144847_480x360.png,2018-07-23T13:18:34.000Z,2018-07-24T22:26:25.000Z,2018-07-23T13:38:12.000Z,18,9,2,0,0,236311759,236311759
+237242702,Unstuck Day 20: Over the Moon (Day 12 Revised),"It works!
+Fix-ups: Repeated motion across screen prevented the broadcast from switching to the next command because the previous instruction was not complete. (Thank you @paulinah for your feedback and advice!) There were too many types of event block command (green flag, space bar, when __ broadcast, when backdrop changes) – messy.  Stages weren't changing on cue.  .  Changed “broadcast and wait” (in Stage coding) to “broadcast” (and not wait) on sprite pages.  Hide/show sprites changed to ""broadcast . . . "" instead of ""when backdrop changes to . . . ""
+","Today's goal: Revise a project from a previous day.
+Press the green flag to join Scratch and friends on their adventure!",18337230,https://cdn2.scratch.mit.edu/get_image/project/237242702_480x360.png,2018-07-24T10:38:23.000Z,2018-07-24T17:45:29.000Z,2018-07-24T17:32:23.000Z,8,4,0,0,0,,
+237270727,LogicGates ver.2.0,"Music: Armin Van Buuren vs. Vini Vici feat. Hilight Tribe - Great Spirit
+
+","Turn on the light bulb, changing the position of the switches and using knowledge of the logical circuits.
+Pressing the switch changes its state.
+Only six levels, but you can do more.",139209,https://cdn2.scratch.mit.edu/get_image/project/237270727_480x360.png,2018-07-24T16:30:52.000Z,2018-07-24T18:13:35.000Z,2018-07-24T18:13:35.000Z,19,8,3,0,0,,
+237271348,Jumping Pico maybe  improved copy,"I have tried with a basic jump block with a y velocity variable
+I don't understated the gravity stuff though - grateful for help here
+And why is Pico so low on my screen?
+
+","Press the  green flag to start and  L and R to walk and U to jump. Collect fruit for points and balloons for floatiness!
+When you 5 for floatiness you win",33472226,https://cdn2.scratch.mit.edu/get_image/project/237271348_480x360.png,2018-07-24T16:38:14.000Z,2018-07-24T18:26:37.000Z,2018-07-24T17:56:35.000Z,2,1,0,0,0,,
+237279501,Day 20 REMIX -Space Race Day 9 colour sensing ,"This was fun although i couldnt work out how to 'remix'my own project so i made a copy and saved it.
+
+I chose to remix this as I enjoyed adding the elements at the start when I first worked on this.    I enjoyed remixing it, but I also do love working from (excuse the pun) scratch!","Day 20 
+REMIXED to add score and screen change.  Hope you enjoy!
+see instructions below
+added (A key makes the rocket do a loop-the-loop!)
+
+Day 9 
+#CreativeComputing
+Catch the space junk!
+Green flag to start game.
+Space bar to get in position
+S key to allow the space junk to fly!
+
+
+Enjoy!",24864870,https://cdn2.scratch.mit.edu/get_image/project/237279501_480x360.png,2018-07-24T18:06:21.000Z,2018-07-25T12:13:15.000Z,2018-07-24T18:47:07.000Z,6,4,0,0,0,,
+237283930,unstuck 20 copy of my unstuck11 ,"I thought this project is a nice introduction to Broadcasting 
+So I translated it to Dutch. 
+After that I added one more broadcasting.",Find a project that uses broadcasting and remix it.unstuck 20 is the copy of my remix. Sometimes I saw projects with the used blocks on the stage. I tried to do the same for more clarification. The timing is discutable: What to show first?,1072279,https://cdn2.scratch.mit.edu/get_image/project/237283930_480x360.png,2018-07-24T18:55:06.000Z,2018-07-24T19:03:05.000Z,2018-07-24T18:59:28.000Z,5,1,0,0,0,236453028,177768853
+235705089,Getting Unstuck Day 2 Revised,"I decided to use the clone block. This was a great challenge for me, I have never used the clone block or checked for a mouse click before.
+I noticed I had to add a wait so a flower is not placed when I cleck the green flag.
+
+7/24 - update to use the clone block from the stage which works better. Also added a different flower and multiple costumes in different colors. Used random to select the color and size of the clone.
+","Click the green flag to begin planting flowers.
+Updated from Day 20.
+",11305008,https://cdn2.scratch.mit.edu/get_image/project/235705089_480x360.png,2018-07-06T17:38:36.000Z,2018-07-24T19:05:01.000Z,2018-07-06T17:59:56.000Z,9,4,1,0,0,,
+237284300,Bug Party planner 2.0 (Getting Unstuck Day 20) ,"Thanks to @Mittensbrother and the Getting Unstuck team for the bug, thanks to @ceebee for the dancing code, thanks to @chrisg for the dancing flower, thanks to @TheDiamonGamer for the idea of the dancing pizza, thanks to @Bubblebomb for the idea of the dancing stickman. Thanks to @ScratchCat for the cool Scratch cat sprites, and thanks to @TheLibrary for the code blocks I used for the confetti.","Plan your own Bug Party. Please answer the questions of the bug.
+
+For Day 20 of Getting Unstuck I added a new backdrop, a party hat for the bugs, and disco lights! The challenge of today was to revise one of your previous day Unstuck projects.
+
+",11833500,https://cdn2.scratch.mit.edu/get_image/project/237284300_480x360.png,2018-07-24T18:59:41.000Z,2018-07-26T14:12:25.000Z,2018-07-24T19:10:26.000Z,16,7,0,0,0,237009654,237009654
+237286327,Jumping Pico helped out with gravity,"Thank you mstone326 for explaining gravity and y velocity to me!
+
+
+","Press the  green flag to start and  L and R to walk and U to jump. Collect fruit for points and balloons for floatiness!
+",33472226,https://cdn2.scratch.mit.edu/get_image/project/237286327_480x360.png,2018-07-24T19:27:09.000Z,2018-07-24T22:24:01.000Z,2018-07-24T19:51:00.000Z,2,0,0,0,0,,
+237268990,Slinky Remix Unstuck #20,"I thought this would be quick and easy - ha! I spent hours remixing this, but I'm really happy with how it turned out. In the original project I defined a block called ""circle"", the sprite drew the circle, moved a little, and made another circle. It was a cool design, but I wanted it to look more like a real slinky.  I ended up almost completely remaking the entire project. In the end I made the sprite the actual circle and stamped it. The code is pretty simple, so it doesn't look like I spent hours on it, but I kept trying different things and then tweaking it until I came up with this.",Click the green flag to begin,124311,https://cdn2.scratch.mit.edu/get_image/project/237268990_480x360.png,2018-07-24T16:12:08.000Z,2018-07-24T19:59:34.000Z,2018-07-24T19:59:34.000Z,43,11,5,0,0,,
+237287241,Day 20 remix Day 17,"Thank you kfugle for your advice.  I remixed this and created a script for each color with lots of broadcast/receive blocks for all the combinations of right and wrong conditions.  Took a lot of thought and errors, but I think it finally works.  Boy did my code grow!  Along with my skills :-)",Follow the prompts after the green flag,11885888,https://cdn2.scratch.mit.edu/get_image/project/237287241_480x360.png,2018-07-24T19:40:59.000Z,2018-07-24T20:08:21.000Z,2018-07-24T20:08:21.000Z,6,2,0,0,0,,
+237278244,Get Smart enhanced_GU_Day20,"Day20 changes include: addition of background music, additional backdrops (including psychedelic flowers as a clue for the final puzzle), only one question per mission, & tightened up some code.
+Original comments: This project took on a life of its own. I didn't get stuck today. Oh, wait, I spoke too soon. When running my project to check it, sometimes the sprite with the intro words becomes very large & off the screen. (Is this b/c I have both bitmap & vector graphics running at the same time?) 
+Since the project is multi-faceted, it took a very long time to accomplish.There is so much more that can be done to enhance it. 
+Inspiration for the Q & A came from @karenb 's project with the escape room. 
+Credits:
+https://www.wouldyoubelieve.com/sounds/SorryAboutThatChief.wav
+https://www.wouldyoubelieve.com/sounds/missedit.wav (and loving it)
+https://en.wikipedia.org/wiki/Get_Smart
+http://pngimg.com/download/35689
+http://ew.com/gallery/25-greatest-tv-spies-ever/
+https://en.wikipedia.org/wiki/Get_Smart#/media/File:Get_Smart_with_Fang_1966.jpg
+https://en.wikipedia.org/wiki/Clock#/media/File:Wooden_hourglass_3.jpg
+https://giphy.com/gifs/get-smart-RU0RlIKOscMvu
+http://soundbible.com/1611-TV-Static.html
+https://www.riddles.com
+https://www.televisiontunes.com/Get_Smart.html","Click the green flag to begin. Then, help Maxwell Smart, Secret Agent 86, on his missions. Answer questions correctly to reveal a secret! 
+(If you want to peek, the answers are in a list.) The questions are chosen at random from a list of 10. You will answer 1 question at a time. If you get one wrong, you will be given another question (or perhaps the same one, again, It's random!)",24741621,https://cdn2.scratch.mit.edu/get_image/project/237278244_480x360.png,2018-07-24T17:52:55.000Z,2018-07-24T20:38:03.000Z,2018-07-24T20:16:29.000Z,8,4,1,0,0,,
+237289525,Jumping Pico gets balloons,"Thank you mstone326 for explaining gravity and y velocity to me!
+
+
+","Press the  green flag to start and  L and R to walk and U to jump. Collect fruit for points and balloons for floatiness!
+",33472226,https://cdn2.scratch.mit.edu/get_image/project/237289525_480x360.png,2018-07-24T20:13:08.000Z,2018-07-24T20:28:31.000Z,2018-07-24T20:28:11.000Z,4,2,0,0,0,,
+237290861,Unstuck Day 20 - Keyboard Appearance remixed,"I changed this from the original the clothing items (and dani) select randomly, but used arrow keys to move through the backdrops. 
+
+My next version would give the user more control to toggle through each of the clothing items and dani options, maybe even toggle through different hair colors, like the backdrop.",This is a remixed dress-up program using keys from day four.,14632339,https://cdn2.scratch.mit.edu/get_image/project/237290861_480x360.png,2018-07-24T20:33:54.000Z,2018-07-24T20:42:42.000Z,2018-07-24T20:40:33.000Z,5,5,0,0,0,,
+237290309,Getting Unstuck: Day 20,"This is my project for Day 20 of the Getting Unstuck programming challenge. I chose to review my ""Getting Unstuck: Day 4"" project because I would have liked to add the possibility of inserting new fishes but I didn't do it because of time. In this new version the user can insert new fish at any time by pressing the SPACE button.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","First, create a studio and add all of your Getting Unstuck projects to it. Done, here is the link: https://scratch.mit.edu/studios/5253085/
+
+Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. 
+
+Press B = the fish gets a little bigger
+Press S = the fish gets a little smaller
+Press M = the fish changes its appearance
+Press SPACE = add a new colored fish (this is a new feature!)",34314391,https://cdn2.scratch.mit.edu/get_image/project/237290309_480x360.png,2018-07-24T20:25:22.000Z,2018-07-24T20:46:36.000Z,2018-07-24T20:43:01.000Z,11,7,0,0,0,,
+237295562,Getting Unstuck Day 20,"With respect to the project I prepared during the day #9, here I've introduced levels and hence the game is a bit more difficult :)",Click on the central button and repeat the proposed sequence.,14159575,https://cdn2.scratch.mit.edu/get_image/project/237295562_480x360.png,2018-07-24T21:48:29.000Z,2018-07-24T21:52:29.000Z,2018-07-24T21:48:56.000Z,8,3,0,0,0,,
+237295057,Day 20-Revisit/Remix day 3 - Wind Instruments,"Day 20 - First, create a studio and add all of your Getting Unstuck projects to it. https://scratch.mit.edu/studios/5246745/
+
+
+Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. 
+
+This is my project from day 3. I added the ability to play all the wind instruments after clicking 6 in a row. You can reset the visual effects with space bar, but it also creates some clones. Lots of stuff going on here. I think I like it.","Green Flag
+Click on pinwheels to hear music
+Click 6 for all to play at the same time
+Length of tone increases over time
+Click spacebar to clear visual effects and create clones",16509596,https://cdn2.scratch.mit.edu/get_image/project/237295057_480x360.png,2018-07-24T21:40:28.000Z,2018-07-24T22:14:56.000Z,2018-07-24T22:07:14.000Z,8,3,0,0,0,,
+237296490,Tag Day20: Getting Unstuck Day 13 copy,"Getting Unstuck Day 13
+
+The idea of interacting with the mouse led me to the idea of tag. I don't know if my project really fulfills the brief, but I enjoyed making it.
+If I were to continue working on it, I would introduce a few other elements, such as making the reaction of ""running away"" sprites dependent on their distance to ""it."" 
+In addition, I would have the characters call out ""You're it!"" or ""I'm it!"" when they were tagged.
+So, I've worked a bit more on making my sprites a bit more individual in their strategies. In addition, I made Scratch Cat's speed more like that of the other sprites.",Press the green flag. Play tag as Scratch Cat.,3485356,https://cdn2.scratch.mit.edu/get_image/project/237296490_480x360.png,2018-07-24T22:03:36.000Z,2018-07-24T22:28:20.000Z,2018-07-24T22:28:20.000Z,5,2,0,0,0,,
+237023264,Getting Unstuck: Day 20 - copy GU 13-2,"Ho scelto il progetto Getting Unstuck Day 13 versione 2
+Ho cercato di migliorare l'effetto neve e ho aggiunto il movimento avanti/indietro al personaggio.
+I chose the Getting Unstuck Day 13 version 2 project
+I tried to improve the snow effect and added the movement back and forth to the character.
+
+Credits: 
+https://www.vecteezy.com
+music - https://www.youtube.com/audiolibrary/music","Fare clic sulla bandierina verde.
+Utilizza:
+- puntatore del mouse
+- freccia in alto
+- freccia in basso
+Click the green flag.
+Uses:
+- mouse pointer
+- up arrow
+- down arrow",19789360,https://cdn2.scratch.mit.edu/get_image/project/237023264_480x360.png,2018-07-21T16:51:41.000Z,2018-08-07T11:40:05.000Z,2018-07-24T22:34:04.000Z,12,3,0,0,0,,
+237248182,Getting Unstuck #20,"For day 20 I decided to rethink day 7. I wan't overjoyed with my day 7 project. And I thought rather than trying to make something that ended with a static result, something that constantly moved may be more interesting.
+I included some of the cloning ideas that I worked with yesterday. I'm happier with this than day 7's project. I could still tinker with this for ages if I had the time.",Just press the green flag.,141519,https://cdn2.scratch.mit.edu/get_image/project/237248182_480x360.png,2018-07-24T12:22:43.000Z,2018-07-25T02:41:53.000Z,2018-07-24T22:40:42.000Z,6,5,0,0,0,,
+237300448,Getting Unstuck Day 20 - Day 9 revisited,"I didn't know what to revisit. I spent ages going between projects. I went through the getting unstuck cards and played with some featured projects. When I returned to my getting unstuck studio I saw my ""robot line follower"" from day 9 and knew it was the one from the notes I'd written about what I'd like to try with more time. I'd never normally write notes like that, so I think I will try to in future to capture my thoughts at the time rather than allowing them to drift away. 
+
+I have been thinking about line following robots. Seemed like the perfect opportunity to try out very simple rules, eg move forwards; if touching red turn right; if touching blue turn left. Seems to work surprisingly well. I like the idea that Scratch could be used to prototype real world robot algorithms.
+
+I started with Scratch Cat rather than a ball, but extremities would ""catch"" on the colours and lead to twirling and getting stuck.
+
+I said: ""I'd like to experiment further with different angles and number of steps. Maybe with a timer to see how fast the ball completes the track. This could be automated to determine the best parameters.""
+
+I've started this. Runs are now automated with randomly selected parameters. I need to sort the list on time to create a proper sense of which parameters work best or even better, plot a surface with the 2 parameters to see the ""shape"" of the parameter space. I also need to add jitter to the start point to see how robust each result is.
+
+Sometimes the robot cheats and returns to the gate by going the wrong way down the track. Maybe need multiple gates to track this?
+
+Oh dear - I said I was going to get an early night tonight...","Getting Unstuck Day 20 - Revisiting Day 9
+
+Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?).
+
+Just run the project and the ball will use simple rules to travel around the uncoloured track. It will run over and over with different speed and angle parameters and store them in 3 lists: time for run, speed and angle. Press s/h to show/hide the lists.",2314547,https://cdn2.scratch.mit.edu/get_image/project/237300448_480x360.png,2018-07-24T23:04:34.000Z,2018-07-25T10:04:57.000Z,2018-07-24T23:34:43.000Z,7,4,0,0,0,,
+237303047,Wandering Race for Watermelon,"This is a remix of Getting Unstuck #7 Pen patterns Wandering for Watermelon https://scratch.mit.edu/projects/236164578/
+At a suggestion from a fellow Scratcher's comment, I added a watermelon explosion.
+
+Reflection:  I have enjoyed creating new challenges each day.  I would recommend the 21 days Getting Unstuck challenge to everyone.  The community was great and I would wait for the 7 am email to come to find out what was the challenge.  Early on I would jump right in to create.  Later I would think about the challenge during my day and then code with a plan.
+
+See you at the Scratch Conference!","Getting Unstuck #20 Revise a previous challenge project.
+
+Click the green flag.  Notice whether Gobo gets out before Scratch Cat finishes drawing the circle and rays.",399245,https://cdn2.scratch.mit.edu/get_image/project/237303047_480x360.png,2018-07-24T23:36:21.000Z,2018-07-25T00:30:58.000Z,2018-07-25T00:30:41.000Z,7,5,0,0,0,,
+237272027,Day 20-Revised copy of Day5-platform:MajorTomCat ,"I decided to go back to my Day5 platform game.  I was very stuck on day 5 but had a lot help from @mstone326 and @HESteachers. Both who were kind enough to remix my original project https://scratch.mit.edu/projects/235953588/
+Using my backpack, I brought in some of their scripts in this version and made some adjustments.  To be honest, I am still not happy with this project, but my time tonight is limited, as I got to pack up and get ready to travel tomorrow for the Scratch@MIT Conference!!!! 
+
+Music: David Bowie Space Oddity ","Click green flag to start.  Level 1 get Major TomCAT to his rocket. Level 2 give Major TomCAT a happy ending and get him home.
+Arrow keys to move left and right and Space key to jump.  When you touch the jetpack, you can fly too. 
+
+Day 20 challenge: choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. 
+I chose https://scratch.mit.edu/projects/235953588/  ",1294980,https://cdn2.scratch.mit.edu/get_image/project/237272027_480x360.png,2018-07-24T16:46:13.000Z,2018-07-25T01:20:08.000Z,2018-07-25T01:04:00.000Z,10,3,1,0,0,,
+237031277,Unstuck Day 20 Remix of Day15,"Day 20 is Day 15 project remixed  - oops NOT remixed.  I jforgot - 
+If I just make changes to the project instead of remixing it the first project is GONE!!!!! 
+It is gone from My Stuff and it is gone from the original Day 15 Unstuck Studio.
+I wanted to make a project that had a series of unrelated actions so that a player needed to figure out what was happening in this project.
+Sorry it is so late today.  I arrived in Boston this morning and had to decide whether to do the Unstuck homework or ... play hookey and see the sites.  The tourist in me won out!!! Visited JFK Museum.  ",Click on the Green Flag to start and read the instructions.  Then the game starts with the clicking of the Space Bar.  Are you able to figure out the coding of a project by watching it?  What are the 8 coding actions in this game? ,14232182,https://cdn2.scratch.mit.edu/get_image/project/237031277_480x360.png,2018-07-21T19:54:27.000Z,2018-08-01T17:15:53.000Z,2018-07-21T20:09:40.000Z,4,2,0,0,0,,
+237308410,Day 19-FIRE!,"Although I'm not doing anything fancy, I'm getting so much better at using Scratch! I try to do fancy stuff and it's not working for me yet. Oh, well, little by little!","We are having wildfires near Yosemite (About an hour from my home). I decided to make a depiction of the fire being put out for good!
+Press flag to start, press space key for the fire to grow. (Somebody didn't put out their campfire :(
+Watch the fire get extinguished!
+
+",10309968,https://cdn2.scratch.mit.edu/get_image/project/237308410_480x360.png,2018-07-25T00:32:53.000Z,2018-07-25T01:11:39.000Z,2018-07-25T01:10:26.000Z,12,4,0,0,0,,
+237314314,Day 20 HELP What animal are you? REMIX2 ,I need more questions too. That would probably help make it more useful.,"This is the project I cannot figure out. It is supposed to be one of those quizzes that tells you what kind of animal you are based on some questions. Well, I got everything to work, except the only problem is, if there is a tie (I used variables to assign a score to answers). Can anybody help me figure out how I'd go about giving a score if none of the animals have the majority of answers?",10309968,https://cdn2.scratch.mit.edu/get_image/project/237314314_480x360.png,2018-07-25T01:45:36.000Z,2018-07-26T02:09:02.000Z,2018-07-25T01:46:02.000Z,2,1,0,0,0,,
+237190289,Unstuck Day 20: Cat Chase revised,"This is a basic remix of the game Cheese Chase by John Woodcock from the book Coding Games in Scratch. The first time I made Cheese Chase, it was so difficult! 
+
+
+When I posted this game for day 9, I only had the dog, the cat and the ghost.  Now, I added the crabs to increase the difficulty.  I also put in the message 'Game Over' to signal the end of the game.  The one thing that I can't seem to get is how to stop the music when the game is completed.","Click on the green flag to begin. You will be using the arrow keys to try and navigate the dog to catch the cat.  If the dog touches the blue wall, it will stop.  Every time you touch the cat, you will score 10 points. 
+There are a few things that can stop you, though.  If a crab touches the dog, the dog won't be able to move and the game is over.  Also, there is a ghost that will randomly pop up.  If it touches the dog, the game is over.  Have fun!",34190490,https://cdn2.scratch.mit.edu/get_image/project/237190289_480x360.png,2018-07-23T21:38:01.000Z,2018-07-25T02:20:09.000Z,2018-07-25T02:15:46.000Z,2,1,0,0,0,,
+237298318,Ninja Duck v1.5,"This is an updated version of Ninja Duck v1.0, now with another challenge.
+I used variables to control each level.
+I added music and cloning features on enemies to make it more challenging too.
+                                          ---Credits---
++ Song: ""A-END"" by Labbed is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+","Press the green flag and then the play button.
+Choose ""Challenge I"" or ""Challenge II"" to start.
+ ++Challenge I++
+Try to avoid the enemies in 20 seconds to win the challenge.
+Press Left and Right arrow keys to move the Duck.
+Use Up key to jump.
+
+ ++Challenge II++
+Try to avoid the baloons in 30 seconds to win the challenge.
+Press Left and Right arrow keys to move the Duck.
+Use Up key to jump.
+Don't touch water or you'll slip.
+
+Enjoy it!
+
+                            --Getting Unstuck Day 20--
+First, create a studio and add all of your Getting Unstuck projects to it. Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. ",4413079,https://cdn2.scratch.mit.edu/get_image/project/237298318_480x360.png,2018-07-24T22:30:17.000Z,2018-08-07T19:14:22.000Z,2018-07-25T02:44:33.000Z,5,2,0,0,0,,
+237319523,Haiku vs Cut-Up: Revisited (Unstuck 20) ,I'm so glad that revisiting an earlier project was the prompt for Getting Unstuck 20. I was in a bit of a rush and had problems tracking down the right music to set the mood for the first version. (Although it was tempting to re-revisit #19.),"Press the flag to let Beat poet and author William Borroughs tranform your words into a poem using the ""cut-up"" technque.
+
+Additions in this revisit: now with motion and music plus a more Blue Note records vibe.",27690149,https://cdn2.scratch.mit.edu/get_image/project/237319523_480x360.png,2018-07-25T02:36:34.000Z,2018-07-25T03:04:13.000Z,2018-07-25T03:03:47.000Z,1,0,0,0,0,,
+237320061,Getting Unstuck Challenge #18 copy,"A remix of Challenge #18.
+I was pushed for time when creating this one and wasn't totally happy with the result, so have now added sounds and fixed the issue of too many comments appearing at once - just by changing the broadcast with a broadcast and wait block!
+
+Have so enjoyed this challenge experience.
+Being in a different timezone meant it felt like I was always coming late to the party!
+I realize I often interpreted the instructions differently to others, sometimes being THAT kid that didn't read instructions carefully!
+I loved seeing others creative coding talents and know the future of coding is very excited if our students are being exposed to such brilliant minds.
+I look forward to the next set of challenges and to presenting them to students.  Thankyou!",Click green flag and watch.,13484475,https://cdn2.scratch.mit.edu/get_image/project/237320061_480x360.png,2018-07-25T02:42:52.000Z,2018-07-25T03:06:38.000Z,2018-07-25T03:06:38.000Z,1,0,0,0,0,,
+237308797,Flower remix! - Getting Unstuck! - Day 20,,"I took my project from Day 2 to remix it.  I liked it as a basic project and thought there might be some interesting ways to add to it. 
+
+I added a random factor for the starting colours and also the differences between colours of the parts of the flowers. 
+
+I also added the random size factor. 
+
+The last thing I changed was I was bored of clicking.  So now it is based on the mouse pointer location. ",19641362,https://cdn2.scratch.mit.edu/get_image/project/237308797_480x360.png,2018-07-25T00:37:29.000Z,2018-07-25T03:37:09.000Z,2018-07-25T00:44:44.000Z,3,1,0,0,0,,
+237328024,My flower garden (copy)-2,"This is my favourite challenge. I used up more time than I had budgeted but it gave me great satisfaction. : )
+
+I decided to try adding a counter to introduce a whole lot of new flowers in a new backdrop with music. It worked.
+
+Credits:
+1. New flowers are copied from ""I Wrote You A Note"" by Lizi Boyd.
+2. The original flowers I learnt to draw from Chika Miyata's book entitled ""How to Draw Almost Everything: An Illustrated Sourcebook"".","Click green flag to start.
+
+Click stage to see all the flowers in my garden. 
+
+Getting Unstuck #Day 20",158902,https://cdn2.scratch.mit.edu/get_image/project/237328024_480x360.png,2018-07-25T04:30:59.000Z,2018-07-25T04:45:23.000Z,2018-07-25T04:32:59.000Z,11,5,1,0,0,,
+237326824,Getting Unstuck #20: Sirtaki dance (redo),"Scratch project was created originally, as ""Getting Unstuck"" activity #15 and then, revised as part of the activity #20. More backdrops were created to better reflect the loudness of the room/music and the backdrop switch conditions improved.
+
+From original project: Thanks to this challenge and ""Chromophobia"" https://scratch.mit.edu/projects/236675985/ by @karenb, I familiarized myself with the loudness sensor and its use!
+
+Day #20 Challenge: First, create a studio and add all of your Getting Unstuck projects to it. Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. ","Adjust the speaker level to high volume, press the green flag and enjoy the music and the effect of the loudness sensor!",1202362,https://cdn2.scratch.mit.edu/get_image/project/237326824_480x360.png,2018-07-25T04:16:53.000Z,2018-07-25T10:06:05.000Z,2018-07-25T04:51:36.000Z,3,0,0,0,0,,
+237340985,Fiore che danza copy,"Copia modificata per Getting Unstuck Day 20
+
+Grazie a @Papami-chan per avermi ispirato con Meditation ",Press the green flag,17698999,https://cdn2.scratch.mit.edu/get_image/project/237340985_480x360.png,2018-07-25T07:51:15.000Z,2018-07-25T08:16:57.000Z,2018-07-25T08:16:20.000Z,5,1,0,0,0,,
+236774142,unstuck day 14,,guess the word: you have to click on the letter (word has length 3),443100,https://cdn2.scratch.mit.edu/get_image/project/236774142_480x360.png,2018-07-18T18:19:20.000Z,2018-07-18T20:15:41.000Z,2018-07-18T19:21:08.000Z,30,1,0,0,0,,
+134877243,Fibonacci_palla remix,"Thanks
+","Partendo dai numeri della serie di Fibonacci abbiamo creato una palla
+",443100,https://cdn2.scratch.mit.edu/get_image/project/134877243_480x360.png,2016-12-07T06:59:45.000Z,2018-07-25T11:47:10.000Z,2018-01-23T18:23:45.000Z,10,2,0,0,0,134366656,134366656
+237272072,water clock,"Getting Unstuck day 20
+by Massimo Marletta
+
+In this project I simulated how a mechanical clock works.
+The project is not intended to be a precise clock (there are obviously better ways to do it).
+I started from a previous project of mine, where I used a pendulum performing a regular motion as the oscillator which gives ""tic"" to the clock. 
+In this revised project I use drops of water dripping from a tap at regular time intervals to generate a ""tic"" broadcast message than make the needles move.
+Each needle when receive the ""tic"" message rotates of a fixed amount, depending on the period of the drops falling and on the ""role"" of the needle (hours, minutes, seconds). In reality it depends on the gears that connect needles to the mechanism.
+The drop block uses ""slide in N seconds"" to generate ""tic"" messages  at regular time intervals.
+
+Credits for images:
+www.flaticon.com
+Tap by Pixel perfect
+Drop & Recipient by Freepik
+Clock by Dimitry Miroliubo","In this project I simulated how a mechanical clock works.
+The project is not intended to be a precise clock (there are obviously better ways to do it).
+A regular phenomenon, as the dripping of water from a tap, can be used as source of a regular pulse that make the clock move.
+The clock synchronizes with the real time clock when the green flag is pressed (seconds are excluded, so that thin needle always starts at 00).
+",4804940,https://cdn2.scratch.mit.edu/get_image/project/237272072_480x360.png,2018-07-24T16:46:49.000Z,2018-07-25T15:29:02.000Z,2018-07-25T09:22:45.000Z,25,7,3,0,0,,
+237293812,walking on the random side - day 1 remix,".""Walk on the wild side"" cover by Chillz https://soundcloud.com/user-307337610/walk-on-the-wild-side
+","The Scratch's cat does a random walk and will eventually touch Gobo or Pico.
+
+If you open the project in edit mode then you can modify the ""coin"" behavior by adding more heads and/or tails to the list.
+
+Try to bias the coin so that the Scratch cat meets only Gobo or Pico.
+
+Would it be possible to bias the coin in such a way that the cat oscillates around the staring position without touching Gobo or Pico?",214,https://cdn2.scratch.mit.edu/get_image/project/237293812_480x360.png,2018-07-24T21:19:39.000Z,2018-07-25T18:54:33.000Z,2018-07-25T10:46:39.000Z,5,1,0,0,0,,
+237349172,Getting Unstuck: Day 20-2,Andrés Gil Ruiz.,"Getting Unstuck Day 3 modified.
+
+Now, you can play the piano with your mouse.
+
+Enjoy it!",27636310,https://cdn2.scratch.mit.edu/get_image/project/237349172_480x360.png,2018-07-25T10:12:33.000Z,2018-07-25T11:17:45.000Z,2018-07-25T11:15:28.000Z,4,1,0,0,0,,
+237353394,Make a Band,"I had an idea but I'm not sure if was my coding or the software that struggled with the sounds so it's a very simple version.
+
+Version 2 is a bit closer to what I wanted after looking at other projects.","Each instrument practices its scales when clicked. Can you find the secret song?
+
+Now you don't have to click (except for the secret sound). You can wave the mouse cursor over any instrument repeatedly.",30508500,https://cdn2.scratch.mit.edu/get_image/project/237353394_480x360.png,2018-07-25T11:37:24.000Z,2018-07-25T11:43:52.000Z,2018-07-25T11:39:52.000Z,2,0,0,0,0,,
+237339520,new day 14,,guess the word: you have to click on the letter (word has length 3),443100,https://cdn2.scratch.mit.edu/get_image/project/237339520_480x360.png,2018-07-25T07:27:55.000Z,2018-08-08T13:55:19.000Z,2018-07-25T12:44:03.000Z,8,1,0,0,0,,
+237355460,Getting Unstuck 20 - Day 7 update,"For this remade project, I decided to incorporate a fair isle pattern into the knitting animation. For now it can only draw a flower, but I would like to have it do a different design each time, either randomly or letting the user choose from a list of designs.
+
+I was a few rows into putting all the stitches into one long script when I realized the top of the design is the bottom in reverse. That made it a lot quicker - I made each row a separate block then did them in reverse after I got to the middle. 
+
+Music is Good Thoughts by Lobo Loco from the Free Music Archive.","Click the green flag to fill the screen with knitting. You can press shift while clicking the green flag to run it in turbo mode, which will create the whole pattern very quickly, as the regular mode is pretty slow. This does make the animation of the needles kind of go away though - I wish there was an in-between!
+
+Also sometimes you need to click the green flag twice to get the needles to start moving? Not sure why.",18044195,https://cdn2.scratch.mit.edu/get_image/project/237355460_480x360.png,2018-07-25T12:18:22.000Z,2018-07-25T12:53:50.000Z,2018-07-25T12:49:44.000Z,7,2,0,0,0,,
+237299470,Day 20 Getting Unstuck - revision of Day 13,"Create a sprite that reacts whenever the mouse pointer gets too close. If you leave the sprite alone for a few seconds, it should react differently.
+
+""ceiling fan blue"" image from wpclipart.com
+
+Reflect: Why did you choose this project to revisit?
+I knew the path the balloon takes when blown could be better modeled by improving the mathematics used to determine the new location. I don't teach geometry or trigonometry so I had to do a little research and some trial and error modeling to figure out if my mathematics was correct so I also used this as a reason to use the Desmos online graphing calculator a little more fully. 
+The mathematics required to determine the path the balloon should take when blown by the fan is demonstrated at https://www.desmos.com/calculator/pftuv8rh3f
+","Move the fan close to the balloon to blow it around. If you leave the balloon alone for a few seconds, it will change color.  The balloon will return to the center if you blow it off the screen.",1013358,https://cdn2.scratch.mit.edu/get_image/project/237299470_480x360.png,2018-07-24T22:49:07.000Z,2018-07-25T13:03:27.000Z,2018-07-25T12:52:41.000Z,1,0,0,0,0,,
+237145175,SCRIGNO42- LE VACANZEVariabili e liste remix,"Ho remixato il progetto di MartaMazzi (che ringrazio) perchè non riuscivo a destreggiarmi fra variabili e liste,
+Progetto creato per Getting Unstuck, giorno 20 (remix del giorno 17)","Questo è un remix del progetto che ho inviato per il giorno 17.
+Ho inserito degli sfondi nuovi...
+CLICCARE SULLA BANDIERINA VERDE E RISPONDERE ALLA DOMANDA DI CAT. Potete scegliere fra 4 luoghi di vacanza (mare, montagna, campagna, lago)...Ricordatevi di scriverli in minuscolo; divertivi a rispondere ogni volta un luogo diverso e...(bisogna cliccare di nuovo la bandierina verde per dare una nuova risposta)
+",14651357,https://cdn2.scratch.mit.edu/get_image/project/237145175_480x360.png,2018-07-23T13:22:24.000Z,2018-07-25T13:23:40.000Z,2018-07-23T14:35:58.000Z,5,0,0,0,0,97018607,97018607
+237361227,Virtual Flowers v.2,"In this version, I moved the water and food over the flowers and then moved them back. I also got the flowers to react the way I wanted them to. Correlates to my ability to take care of flowers, or lack thereof. :) 
+
+I still would like to add variables to monitor hunger, thirst, and light at some point.
+
+I got the original idea from Scratch's Virtual Pet project - from a set of Scratch Coding Cards that I just received. https://scratch.mit.edu/projects/237145343/#editor","Click the Green Flag to begin.
+
+Provide just the right condition for the flowers to grow to their fullest. Be careful not to overdo it!",1196430,https://cdn2.scratch.mit.edu/get_image/project/237361227_480x360.png,2018-07-25T13:35:05.000Z,2018-07-25T14:36:23.000Z,2018-07-25T14:36:09.000Z,2,0,0,0,0,,
+237337132,Getting Unstuck Day20 (Day 5 copy),"
+Getting Unstuck Day 20 modificato in base alle nuove competenze acquisite, ho programmato la variabile salto","Quando gli sprite ricevono il messaggio, premi  il tasto spazio",15572972,https://cdn2.scratch.mit.edu/get_image/project/237337132_480x360.png,2018-07-25T06:52:41.000Z,2018-07-26T13:49:46.000Z,2018-07-25T15:56:07.000Z,3,0,0,0,0,,
+237381759,G.U. Day 20 -  Copia di  G.U. Day 16  SINGER ,"Le richieste sono sempre più difficili per me.
+Ho aperto diversi progetti già caricati nella galleria, troppo complicati per me.
+
+","Copia del Progetto 16-
+Ho aggiunto due sprite.
+Clicca sulla bandierina verde.
+Non troverai risposte alle tue domande, ci lavorerò.",13746945,https://cdn2.scratch.mit.edu/get_image/project/237381759_480x360.png,2018-07-25T17:27:13.000Z,2018-07-25T17:52:44.000Z,2018-07-25T17:51:47.000Z,2,0,0,0,0,,
+237387311,Unstuck - Day 20,"This project is a remix of a previous unstuck challenge.  It is just a variation of a traditional pong game.  We decided to count how many times the ball hits the Scratch Cat. When the score is greater than 10, then the ball moves faster. After 20 and 30 it also gets faster.  
+
+I made these changes: 
+Each time the ball goes behind the cat, the score decreases by 5.  When the score is less than 0, the game is over and a Game Over background  appears.
+When the speed changes, the ball switched colors (changes costume)
+","Click Green Flag to Start.
+Move your mouse up and down and try to hit the ball.
+Try to keep up!",2456527,https://cdn2.scratch.mit.edu/get_image/project/237387311_480x360.png,2018-07-25T18:25:41.000Z,2018-07-25T18:31:45.000Z,2018-07-25T18:31:45.000Z,1,0,0,0,0,,
+237331300,Herding Sheep:Getting Unstuck:Day 20,"Background picture of Switzerland:
+Dennis Jarvis from Halifax, Canada",Click green flag  to start.  Use left/right allow key to herd the sheep!,17257831,https://cdn2.scratch.mit.edu/get_image/project/237331300_480x360.png,2018-07-25T05:15:14.000Z,2018-07-25T18:50:08.000Z,2018-07-25T18:50:08.000Z,6,2,0,0,0,,
+237399099,Getting Unstuck [Day 2] REVISED [Day 20],"This is getting unstuck day 20!
+I made the flowers start out small when you place them then they grow.",Click on the hill to place the flowers,13594403,https://cdn2.scratch.mit.edu/get_image/project/237399099_480x360.png,2018-07-25T21:09:49.000Z,2018-07-25T21:12:58.000Z,2018-07-25T21:12:58.000Z,2,0,0,0,0,,
+237400027,Day 20 of Getting Unstuck Maze Levels game ,"This was a fun project and I like to teach building mazes several ways, whether doing drawings like this, or using other maze type backgrounds. This simple game is any easy way to have kids draw their own backgrounds to create a project. I find kids really enjoy making starting projects like this.","Use the arrow keys to move through the mazes.
+
+Day 20 of Getting Unstuck project using color and added another level to the game.
+
+I would just keep going making more levels to just keep the game going.",588430,https://cdn2.scratch.mit.edu/get_image/project/237400027_480x360.png,2018-07-25T21:24:34.000Z,2018-07-25T21:31:32.000Z,2018-07-25T21:31:32.000Z,2,0,0,0,0,,
+237398053,Day 20 Appearing Flower copy,"I'm enjoying having a reason and purpose to play on Scratch. Thank you!
+
+Day 20, fresh eyes on this project: it's not quite doing what I wanted but It's more interesting than it was.","This is an add on from a previous project.
+Click on the green flag to start.
+Move the cursor to where you would like a flower and press the space bar. A flower will appear. Create a beautiful garden!",32833725,https://cdn2.scratch.mit.edu/get_image/project/237398053_480x360.png,2018-07-25T20:54:29.000Z,2018-07-25T21:43:25.000Z,2018-07-25T21:43:25.000Z,1,0,0,0,0,,
+237392981,Day 20 - Getting Unstuck ,"A Koch (MAD) snowflake... 
+=> Remix of my project ""Day 7 - Getting Unstuck""
+
+I've had a lot of fun adding a Ladybug and and some other stuff  (variable, events, screen cleaning).
+
+",Click to clean the screen.,26079479,https://cdn2.scratch.mit.edu/get_image/project/237392981_480x360.png,2018-07-25T19:37:45.000Z,2018-07-25T22:44:22.000Z,2018-07-25T22:24:57.000Z,4,1,0,0,0,236143961,236143961
+237404612,Getting Unstuck: Day 12 copy Remix,"By Filipe Mendes
+#CreativeComputing","Eat the fruit
+Its a project that moves the cat behind three levels dor eat the fruit.
+Use the arrow keys to move the cat, if you touch the colors then restart.
+In the second level have a block that moves and in the 3rd level have a bat and a dragon flying...be careful and enjoy ;)
+
+I update in 3rd level a square that go down in 5 and 5 seconds.",2980392,https://cdn2.scratch.mit.edu/get_image/project/237404612_480x360.png,2018-07-25T22:33:33.000Z,2018-07-25T22:43:11.000Z,2018-07-25T22:41:24.000Z,2,0,0,0,0,,
+237415780,Getting Unstuck Day 9 copy-2,"My idea was to have the bear go across different colors which would then change the costume, but I can't seem to get it to work quite right. I attempted it with a number of different backdrops to see if I needed more of a color block, but I think I will have to do a bit more research to get it how I would like.","Challenge: Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). For example, you could have a sprite moving around on a colorful background, with the sprite behaving differently depending on which color it is touching, like in a maze game.",34245752,https://cdn2.scratch.mit.edu/get_image/project/237415780_480x360.png,2018-07-26T00:54:12.000Z,2018-07-26T01:03:42.000Z,2018-07-26T01:03:42.000Z,1,0,0,0,0,,
+236968184,Question and Answer- Day 20,I added more to my Day 16 Project- Create a program that answers the user's questions.,"Press the green flag and answer the duck's questions with Yes or No.
+
+",25165723,https://cdn2.scratch.mit.edu/get_image/project/236968184_480x360.png,2018-07-20T19:59:21.000Z,2018-07-26T13:55:23.000Z,2018-07-20T20:20:30.000Z,6,2,0,0,0,,
+237429819,Getting Unstuck Day 20,"Getting Unstuck Day 20 Reflection:
+I used the original version of this for Day 7.  I didn't like how my hexagon turned out, but that turned out to be a much easier fix than I expected it to be.  I decided to try creating other shapes and see if I could figure out how to make the shapes appear in different places (and disappear so the screen didn't get too cluttered).  The more time I spend on it, the more things I want to refine.  I think that's the point of today's challenge, though.  :)
+",Press the green flag to start drawing a hexagonal spirograph.  Press the spare bar to clear the stage.,30095573,https://cdn2.scratch.mit.edu/get_image/project/237429819_480x360.png,2018-07-26T03:43:54.000Z,2018-07-26T04:24:39.000Z,2018-07-26T04:24:39.000Z,1,0,0,0,0,,
+236629030,Unstuck 10,"This Project would definitely need a revision. I would really love to make music with instruments!
+",,13846307,https://cdn2.scratch.mit.edu/get_image/project/236629030_480x360.png,2018-07-17T12:30:51.000Z,2018-07-26T09:03:16.000Z,2018-07-17T12:49:33.000Z,5,0,0,0,0,,
+237453713,Day 20 of Getting Unstuck_Day 19 of Getting Unstuck copy,Day 20 of Getting Unstuck remixare un nostro progetto,Clicca la bandierina verde e....clona!!!,10086796,https://cdn2.scratch.mit.edu/get_image/project/237453713_480x360.png,2018-07-26T10:24:42.000Z,2018-07-26T11:38:30.000Z,2018-07-26T11:37:43.000Z,8,1,0,0,0,,
+237476935,Getting Unstuck disegni copy per day #20,"#GettingUnstuck giorno 20
+Scegli uno dei tuoi progetti da un giorno precedente e rivedilo.
+Ho scelto il Progetto disegni del giorno 7 per poter utilizzare la funzione ""crea blocco"" e definire il disegno stella.",clicca sulla bandierina verde,17320587,https://cdn2.scratch.mit.edu/get_image/project/237476935_480x360.png,2018-07-26T16:07:39.000Z,2018-07-26T16:28:53.000Z,2018-07-26T16:28:15.000Z,3,1,0,0,0,,
+237480844,Getting Unstuck Day 20 - revisit,"Getting Unstuck Day 20: choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it.
+
+For this project I revisited an earlier game I made for Day 9 and 18. There was some code that I couldn't get working properly (the food sensing the ant and assigning points based on the costume). I had put a request in the forum and had some good advice. I still couldn't get the code working and gave up. Because the Scratchers giving me advice were ALOT more experienced than I, I figured they must know what they are talking about and the code should work. So I decided to revisit this same project, determined to figure out the code. After looking at it I found the problem (conflicting actions) and was able to make it work, just like they said it should!
+
+I think several things worked:
+1) I needed the break from the pervious day to see it all with fresh eyes
+2) determination, knowing that the code SHOULD work. Therefore there was a problem somewhere that I needed to find
+3) help from others","Press the green flag to get started. Your objective is to gather as many food pellets as possible to take to the feeding center.
+
+Use the arrow keys to move the ant through the maze.
+
+Red pellets = kills the ant and stops all action
+Yellow/green = +1 point
+Purple/pink = -1 point",2803184,https://cdn2.scratch.mit.edu/get_image/project/237480844_480x360.png,2018-07-26T16:58:37.000Z,2018-07-26T17:45:11.000Z,2018-07-26T17:36:48.000Z,3,0,0,0,0,,
+237510660,Day - 20 Le Petit Prince revisited,"I worked with the Day 8 project to investigate different approaches to automating animation. 
+
+Day 20 - Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. What's something about the project that would benefit from more time or fresh eyes? ",Click the flag to start,109272,https://cdn2.scratch.mit.edu/get_image/project/237510660_480x360.png,2018-07-26T23:50:53.000Z,2018-08-01T21:53:37.000Z,2018-07-26T23:52:10.000Z,6,4,1,0,0,,
+188333934,ProgettoAdozione,,,13575540,https://cdn2.scratch.mit.edu/get_image/project/188333934_480x360.png,2017-11-23T09:19:06.000Z,2018-05-30T08:15:26.000Z,2018-05-10T18:00:01.000Z,5,0,0,0,0,,
+237646149,Getting Unstuck Day 16 copy Day 20,,"Click sprite and you will be prompted to ask a question.  See what random response you get!
+
+For Day 20 I revisited this project.  I tested an if then statement and the operator blocks.  This project could further be revisited by looking at gathering the responses into a final statement.",34190765,https://cdn2.scratch.mit.edu/get_image/project/237646149_480x360.png,2018-07-28T20:08:07.000Z,2018-07-28T20:21:17.000Z,2018-07-28T20:20:02.000Z,2,0,0,0,0,,
+237716269,Unstuck Day 20 project copy,"I finally figured out one way to get the sprite to follow the mouse x coordinate only when I want to: I used boolean operators to permit the sprite to move only if the cursor is within a certain y coordinate value. I'm sure there are other ways to do this, but this one works and I was happy to add it to the project.
+
+The new problem I had was assigning notes to the values of the x axis. I tried unsuccessfully to come up with a formula to solve it for me, so I ended up using lots of ""if x is greater than m and less than n, then play note p"" which was tedious, but hey, it works!
+
+Unstuck Challenge Day 3 remixed for Day 20 #CreativeComputing","Drag the Scratch cats along the black lines to change the note!
+
+The bottom line plays low notes, the middle line plays notes in the middle, and the top line plays high notes.
+
+Press ""play chord"" to hear all 3 notes (low, middle, and high) together!",17786521,https://cdn2.scratch.mit.edu/get_image/project/237716269_480x360.png,2018-07-30T00:53:10.000Z,2018-07-30T02:51:16.000Z,2018-07-30T02:45:27.000Z,3,0,0,0,0,,
+237740402,Unstuck Day 20,"I have a copy of my previous project day before, and revise it. I make it more colorful. ",,34216021,https://cdn2.scratch.mit.edu/get_image/project/237740402_480x360.png,2018-07-30T07:20:46.000Z,2018-07-30T07:23:12.000Z,2018-07-30T07:21:56.000Z,2,0,0,0,0,,
+237785728,Getting Unstuck Day 20,"Getting Unstuck Day 20: Revise a previous project
+
+When I first made this project on Day 5, I was able to figure out how to get the fish to reappear to keep the cycle going. Now after ""fresh eyes"" I was able to to get the fish to reappear every time. 
+
+In honor of Shark Week 2018, I created a project to show how a great white shark feeds on their prey. 
+. ",Click the green flag. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/237785728_480x360.png,2018-07-30T18:51:03.000Z,2018-07-30T19:04:02.000Z,2018-07-30T18:56:54.000Z,4,1,0,0,0,,
+235824121,Getting Unstuck Day 20 / Day 4,"I decided to use my day 4 project and develop it into a Very Hungry caterpillar story. I had great fun drawing the fruit.
+The thing that I struggled with is getting the fruit to disappear when it is ""eaten""","Click the green flag to start.
+Use the arrow keys to get the caterpillar to eat the fruit",3297086,https://cdn2.scratch.mit.edu/get_image/project/235824121_480x360.png,2018-07-08T14:10:50.000Z,2018-07-31T11:28:02.000Z,2018-07-08T14:31:03.000Z,22,6,1,0,0,,
+237852135,Day 20 - Revision of Day 2,I used clones to make copies of the original flower. It just came natural to clone and move the new clone to the mouse position on the screen.,Just click the green flag and see what happens.,24154277,https://cdn2.scratch.mit.edu/get_image/project/237852135_480x360.png,2018-07-31T11:04:22.000Z,2018-07-31T11:14:07.000Z,2018-07-31T11:13:15.000Z,2,1,0,0,0,,
+237869452,ALBERI OVUNQUE copy,"Getting Unstuck: Day 20 /day19
+
+Creare 
+First, create a studio and add all of your Getting Unstuck projects to it. Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. What's something about the project that would benefit from more time or fresh eyes? 
+
+Potreste far passare ad altro schermo con altre trasformazioni per evitare il surriscaldamento globale",PORTA LA STELLA SULL'AUTO,21462276,https://cdn2.scratch.mit.edu/get_image/project/237869452_480x360.png,2018-07-31T15:18:05.000Z,2018-07-31T16:20:41.000Z,2018-07-31T15:40:27.000Z,3,1,0,0,0,,
+237869558,Getting Unstuck: Day 20 copy of Day 15,"Getting Unstuck: Day 20 copy of Day 15
+Challenge: choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. What's something about the project that would benefit from more time or fresh eyes? 
+
+This note was for Getting Unstuck: Day 15
+Challenge: create a project that shows different backgrounds depending on how loud the room is.
+Thanks to a project, I don't remember the name of the owner; I made the volume variable but now quite nothing works anymore.
+
+Note for Getting Unstuck: Day 20
+I looked other projects and I modified some block, now it's working better.
+","Are you ready for a new experience? Look and listen!
+Turn on the computer microphone.
+Click on green flag to start. ",17615581,https://cdn2.scratch.mit.edu/get_image/project/237869558_480x360.png,2018-07-31T15:19:21.000Z,2018-07-31T16:07:48.000Z,2018-07-31T16:07:47.000Z,2,1,0,0,0,,
+237856915,Getting Unstuck Day 20,"Made for the Getting Unstuck Day 20 activity which was to revisit an earlier project. In this case it was the one I did for day 2.
+For this revision I added a slider so that the user can choose the line width of the flower. I also added a random element for the size of the flower.
+
+Notes for the original, Day 2 project.
+Inspired by Seymour Papert and Turtle Logo I thought I would use the pen tools and draw things that are a bit like crystal flowers. When doing any Logo I'm always reminded of a photo in the MIT museum of Seymour with one of the big early turtles.
+
+I started with drawing the flowers in a random place but this felt a little strange so I changed it to draw at the mouse pointer to give the user more control. The random block is still there though, if you want to give it a try.
+The next thing I'd like to do is let the user choose a colour from a palette. Maybe choose the line thickness as well.
+","Click the Green Flag.
+Click anywhere on the background to draw a flower.",287832,https://cdn2.scratch.mit.edu/get_image/project/237856915_480x360.png,2018-07-31T12:45:20.000Z,2018-07-31T20:04:48.000Z,2018-07-31T13:02:17.000Z,3,1,0,0,0,,
+237951449,#GettingUnstuck20 - Revising a project,"All sprites taken from the Scratch repository.
+
+The URL to my #GettingUnstuck Studio is https://scratch.mit.edu/studios/5271929.
+
+Please, feel free to remix anything you want and add a comment there!","Click the green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 20
+
+""First, create a studio and add all of your Getting Unstuck projects to it. Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. What's something about the project that would benefit from more time or fresh eyes?""
+
+I decided to revise this project (https://scratch.mit.edu/projects/236953553/) because the broadcasting isn't the best. Finally, I removed the broadcast blocks because they were not needed, and changed some small things (like counting the clones).",1112440,https://cdn2.scratch.mit.edu/get_image/project/237951449_480x360.png,2018-08-01T10:35:48.000Z,2018-08-01T10:48:17.000Z,2018-08-01T10:45:09.000Z,3,1,0,0,0,40896812,40896812
+237994958,Would you dance with me? Day 20 Getting Unstuck  copy Day 6,"Getting Unstuck Day 20: choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it.
+
+","Click on the green flag and read the balloons.
+Remix: I changed the sprite and I add motion blocks.",8789156,https://cdn2.scratch.mit.edu/get_image/project/237994958_480x360.png,2018-08-01T21:01:25.000Z,2018-08-01T21:11:38.000Z,2018-08-01T21:11:38.000Z,2,1,0,0,0,,
+238036264,#Unstuck 20 Clones copy,I needed to search up how to make a clone. Thank you to this Ytube clip https://www.youtube.com/watch?v=MU65TYkd6l4 ,Have you ever got sick of these pesty things. Wait and see what I am talking about. It feels like this winter has brought more and more. Revised this so it looked more like the slatters grew as they touched the wood.,31492686,https://cdn2.scratch.mit.edu/get_image/project/238036264_480x360.png,2018-08-02T05:52:15.000Z,2018-08-02T06:40:40.000Z,2018-08-02T06:39:35.000Z,3,1,0,0,0,,
+238040541,Día 20,"Improve the sound so that it does not lock, I added illustrations and programming to the center.",,34199235,https://cdn2.scratch.mit.edu/get_image/project/238040541_480x360.png,2018-08-02T07:03:44.000Z,2018-08-02T07:08:34.000Z,2018-08-02T07:04:24.000Z,4,2,0,0,0,,
+238112547,Getting Unstuck: Day 20. Play color_REVISE of day 16,"As in the original project, if the cat touch in a point of separation between two colors, it doesn't recognize the color which it's touching. Can anyone have a possible solution?",Click on the green flag and play with colors.,18190669,https://cdn2.scratch.mit.edu/get_image/project/238112547_480x360.png,2018-08-03T01:38:06.000Z,2018-08-03T02:26:06.000Z,2018-08-03T02:21:09.000Z,6,1,0,0,0,,
+238144274,getting Unstuck day 20,"I have learn to use variables to the password be random number.
+I have make two levels
+hi have chosen this proyect becose i like more scaperoom",,23020553,https://cdn2.scratch.mit.edu/get_image/project/238144274_480x360.png,2018-08-03T10:51:07.000Z,2018-08-03T17:51:56.000Z,2018-08-03T11:31:37.000Z,3,1,0,0,0,,
+238295645,Color Mix copy getting Unstuck 19,"An interactive project to teach color mixing to children. Many of them don't know what happens when mixing colors. This can be followed by an art project using real paints!
+Use of Cloning and sensing blocks- week 4 activity - CCOW
+I finally finished this project that I ad begun one year before. I'd like to make different combinations of colors each time/each level but only now I  solved the problem. H","Click on the green flag to start, and each time you want to add color.
+Wait until the last drop is fallen before clicking the next color.
+
+Getting Unstuck - After practicing a lot of cloning, I decided to use what I've learned with this project I had made some time ago and had 
+eliminated some bugs from it using cloning mow> Much easier!
+",2176961,https://cdn2.scratch.mit.edu/get_image/project/238295645_480x360.png,2018-08-05T23:14:23.000Z,2018-08-06T01:51:52.000Z,2018-08-06T01:47:50.000Z,4,1,0,0,0,,
+238341989,Getting Unstuck - dag 20,"#GettingUnstuck
+
+Added a little sound","Use the arrowkeys to move the shark. He is hungry and wants to eat the fish, can you help him? He needs 10 fish in all.",25631396,https://cdn2.scratch.mit.edu/get_image/project/238341989_480x360.png,2018-08-06T11:15:32.000Z,2018-08-06T11:16:24.000Z,2018-08-06T11:16:05.000Z,3,1,0,0,0,,
+238274422,day-20 Orologio analogico remix day-10 revise,,"muovi le lancette per l'orario in formato analogico e apparirà in formato digitale. (primi h per muovere la lancetta delle ore, m per quella dei minuti e s per i secondi)",16822769,https://cdn2.scratch.mit.edu/get_image/project/238274422_480x360.png,2018-08-05T14:09:59.000Z,2018-08-06T14:18:27.000Z,2018-08-06T14:11:16.000Z,3,1,0,0,0,178819466,178819466
+238386089,Unstuck #20- Explosive Drawing!! REVISED,Remix of Unstuck #7,"Mouse position affects the drawing. 
+Timer clears the screen every once in awhile.
+
+Try moving the cursor slowly.",26618044,https://cdn2.scratch.mit.edu/get_image/project/238386089_480x360.png,2018-08-06T22:49:03.000Z,2018-08-06T23:18:08.000Z,2018-08-06T23:13:53.000Z,2,1,0,0,0,,
+238449484,day20,"First, create a studio and add all of your Getting Unstuck projects to it. Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. What's something about the project that would benefit from more time or fresh eyes? ","use the  right up and down arrows to move the parrot
+avoid the dragon",24618980,https://cdn2.scratch.mit.edu/get_image/project/238449484_480x360.png,2018-08-07T14:31:57.000Z,2018-08-07T15:55:28.000Z,2018-08-07T15:32:14.000Z,2,1,0,0,0,,
+238557218,Crash and jump (Getting Unstuck #20),"Getting Unstuck challenge #20 - ""First, create a studio and add all of your Getting Unstuck projects to it. Second, choose one of your projects from a previous day of Getting Unstuck, make a copy of it, and revise it. What's something about the project that would benefit from more time or fresh eyes? "".
+
+My original version of this (for activity#5) used glide for all the movement of both the rocket and the alien. I saw some great examples of how to ""jump"" in other people's work so updated the alien jump based on that. 
+
+Other future enhancements:
+- change rocket flight (it is still basic).
+- fix the fact sprite is upside down after bouncing off edge
+- fix odd higher jump when bouncing off side (might be due to costume area?)",Press SPACE to lift off and watch how things go.,15872912,https://cdn2.scratch.mit.edu/get_image/project/238557218_480x360.png,2018-08-08T16:42:57.000Z,2018-08-08T17:32:52.000Z,2018-08-08T17:32:25.000Z,1,0,0,0,0,,
+238523570,Getting Unstuck - Day 20,"The Getting Unstuck Challenge for day 20 was to copy and revise a previous day's project.  I chose my project from day 9, which was to create a project that uses the ""touching color"" block.  It was originally just the first backdrop, so I extended it to two maze screens and added the variable to keep track of how many times Scratch hits the wall (touches black).
+
+My new version now  also includes challenges from several of the previous days!
+
+Day 19 - Use the ""create a clone"" block
+Day 14 - Use the ""join"" block
+Day 12 - Have 3 separate scenes
+Day 8 - Create a variable to keep track of the number of times something happens
+--------------------------------------------------------------------------------------------------
+The Getting Unstuck Challenge for day 9 was: ""Create a project that involves the touching color blocks in the Sensing category (i.e., touching color? and color is touching?). For example, you could have a sprite moving around on a colorful background, with the sprite behaving differently depending on which color it is touching, like in a maze game.""
+
+","Click the green arrow to start the maze.
+
+Use the arrow keys to guide Scratch the Cat through the maze.  If you touch any of the walls Scratch will turn around and move back.
+
+Click the green arrow to start over.",24696341,https://cdn2.scratch.mit.edu/get_image/project/238523570_480x360.png,2018-08-08T07:21:43.000Z,2018-08-08T19:24:00.000Z,2018-08-08T19:13:44.000Z,1,0,0,0,0,,

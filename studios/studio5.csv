@@ -1,0 +1,815 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+226772249,jumpingdog,Didn’t have as much time to spend on this challenge as I wanted! Currently working on another response to the challenge. But feel free to remix this one if you're feeling stuck!,Press space to make the dog jump!,2745846,https://cdn2.scratch.mit.edu/get_image/project/226772249_480x360.png,2018-05-31T18:45:19.000Z,2018-07-09T10:45:06.000Z,2018-05-31T18:58:08.000Z,23,2,1,0,0,,
+235850156,"Blue Cat Group! (Getting Unstuck, Day 5)","I recently experienced food poisoning and missed seeing the ""Blue Man Group"". My friends had a hard time explaining what it was, so I've created this project of what I thought it was based on their various reports.
+
+Rather than engage in a high-fidelity representation of jumping, I opted for a pretty simple approximation, which I achieved by stringing together several ""glide"" blocks.
+
+Project strength? I think I have a pretty strong narrative concept! (Donuts + cats are beyond reproach.) Future work? I think I could have done better on my flaming hoop. I'm going to use Scratch's search feature to see if I can find slightly higher-fidelity flames.",Press the green flag!,39526,https://cdn2.scratch.mit.edu/get_image/project/235850156_480x360.png,2018-07-09T00:24:35.000Z,2018-07-09T11:32:17.000Z,2018-07-09T10:09:54.000Z,30,7,0,0,0,,
+235838979,Getting Unstuck Day 5: Help Mr. Octopus!,"This is the first scrolling game i've made!
+
+I spent *too* much time trying to learn about scrolling games... but I'm very proud of my project! I ended up getting very frustrated so I took a break to cook a meal. When I came back to my project, I had a lot more clarity and was able to accomplish what I'd hoped for!
+
+The only issue I'm still having is how to ensure the user doesn't go too far left and off the screen. I would love some help thinking of how to stop this from happening!",Press the green flag and wait for the octopus to give you instructions!,19163721,https://cdn2.scratch.mit.edu/get_image/project/235838979_480x360.png,2018-07-08T19:50:37.000Z,2018-07-09T15:12:11.000Z,2018-07-08T23:35:41.000Z,23,5,2,0,0,,
+235846699,Jump!,"This project was created for Day 5 of Getting Unstuck. I borrowed the jumping math from a project that I worked on with a friend at a ScratchEd meetup. I haven't used Scratch's Backpack feature much before, but this was a great way to move a snippet of code from one project to another.
+
+Music: Starbox, ""Digital Dream (Azureflux Remix)""","Press the space bar to jump and use the left/right arrow keys to move around. 
+
+Press the big button in the upper left hand corner to toggle modes.",56239,https://cdn2.scratch.mit.edu/get_image/project/235846699_480x360.png,2018-07-08T23:10:49.000Z,2018-07-11T00:17:43.000Z,2018-07-09T10:14:11.000Z,36,9,2,0,0,,
+235823529,Falling + Feeling,"Sound remixed from: 
+Steven Universe Episode S04E04 ""Mindful Education""
+""Here Comes A Thought"" (from the episode): 
+https://www.youtube.com/watch?v=dHg50mdODFM
+
+My first foray into aligning sound and (admittedly bare) animation was an exciting challenge. I needed to use a BUNCH of Getting Unstuck strategies to get to this point (and I could continue tweaking this for much longer...) Some that I used throughout the day were:
+
+- Fail A LOT
+(glitches and other weird, unexpected responses can be very fun to discover, and sometimes bring something even more exciting!)
+
+- Take A Break
+
+- A Stack at a Time 
+(you'll see that I abandoned many dancing stacks in this process -- part because it was getting hypnotizing, part isolating bugs)
+
+- Break It Down 
+(this was especially helpful when I wrote out the cues for who was singing and dancing when, which would ultimately lead to the broadcasts)
+
+- Answer Someone's Question 
+(very helpful as a fairly new scratcher to have reminders that there are plenty of things I do know, and that I can ask questions to figure out that which I don't)
+
+- Be Inspired By Others  
+(all of the Getting Unstuck projects are inspiring me so much!!)
+
+- Help a Friend
+
+- Talk it Through
+
+- and JUST KEEP GOING
+
+I'll be cleaning up inside soon (and will try to keep at least some of the event-less mind mess with notes to the side)","Press the green flag to start (:
+
+This project continues from my Day 1 Getting Unstuck project,  'Can I Come In?'
+
+Coming to a new place can be scary, especially alongside other challenges. Our friends have thoughts and feelings flying in a bit of a frenzy. After entering the U.S. seeking help, they're feeling a bit overwhelmed. Thankfully, they have each other for support! After some time talking about their experiences, they reach out to a caring adult and they all engage in mindful practices.
+
+At the end, use your mouse to keep butterfly thoughts flying -- the friends will be grateful for something to watch!",25705937,https://cdn2.scratch.mit.edu/get_image/project/235823529_480x360.png,2018-07-08T13:56:41.000Z,2018-07-10T22:57:07.000Z,2018-07-09T10:51:54.000Z,23,8,2,0,0,,
+235887012,Wandering Link,"If I had two more days, I would change so many things! @unseatingBread tells me it's glitchy in a special way, which is to say that there are so many things to fix, I'm not sure where to start! I had gotten basic movement working, and then thought I'd get fancy by adding gravity, and then obstacles, and then, and then...I'm reminded of my students who, in their first week, see one of the Super Mario remakes and insist that they're going to make something like that. The strategies that I should definitely have employed MORE of would be ""compromising"" and ""being a minimalist."" But hey - just because it's a public project doesn't mean it's finished! I will probably continue to tinker with it for a long time...
+
+References:
++ https://scratch.mit.edu/projects/67727504/ by @griffpatch_tutor
++ https://en.scratch-wiki.info/wiki/Advanced_Platformer_Physics 
+
+Link sprite sheet: https://www.deviantart.com/tiozacdasgalaxias/art/Link-Sprite-Sheet-662562870
+
+What I wanted to implement but didn't have time for: http://error454.com/2013/10/23/platformer-physics-101-and-the-3-fundamental-equations-of-platformers/
+
+Sounds:
++ Zelda: KHInsider
++ Mario: OrangeSounds","Definitely a work in progress, since I ran out of time to work on this yesterday. 
+
+Arrow keys left and right to move, and up to jump. Down to face the player. Don't hit the obstacles!
+
+Also for some reason it works better in the offline editor than online, hmmMm...",2745846,https://cdn2.scratch.mit.edu/get_image/project/235887012_480x360.png,2018-07-09T11:29:43.000Z,2018-07-11T19:13:00.000Z,2018-07-09T11:31:32.000Z,22,4,1,0,0,,
+235887128,Getting Unstuck Day 5,,,32626504,https://cdn2.scratch.mit.edu/get_image/project/235887128_480x360.png,2018-07-09T11:31:14.000Z,2018-07-09T11:42:37.000Z,2018-07-09T11:42:37.000Z,9,4,0,0,0,,
+235886588,Day5,,,34225248,https://cdn2.scratch.mit.edu/get_image/project/235886588_480x360.png,2018-07-09T11:23:34.000Z,2018-07-09T11:42:05.000Z,2018-07-09T11:41:09.000Z,16,3,0,0,0,,
+235885455,day 5,,"press the green flag.
+click right arrow for walk, up arrow to jump.
+if you touched gray line 3 times game over.
+so be careful.",34188789,https://cdn2.scratch.mit.edu/get_image/project/235885455_480x360.png,2018-07-09T11:06:41.000Z,2018-07-10T06:43:01.000Z,2018-07-09T11:52:47.000Z,11,3,0,0,0,,
+235887069,Getting Unstuck - Day 5 ,Create a project that involves one or more sprites jumping or flying.,"Help the penguin avoid the icebergs for 30 seconds. Use the up arrow to jump. You have 3 lives.
+
+Good luck!",86693,https://cdn2.scratch.mit.edu/get_image/project/235887069_480x360.png,2018-07-09T11:30:21.000Z,2018-07-10T11:07:59.000Z,2018-07-09T11:57:01.000Z,10,3,1,0,0,,
+235888016,#GettingUnstuck5 - This cat flyies (and plays!),All sprites and costumes taken from the Scratch repository,"Press green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 5, ""Flying Leap""
+
+""Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava.""
+
+keys:
+- left & right arrow keys to move Scratchy
+- up arrow to jump
+- up arrow twice to fly and enter the mini-game.
+- while flying, hit the color line to walk again.",1112440,https://cdn2.scratch.mit.edu/get_image/project/235888016_480x360.png,2018-07-09T11:44:29.000Z,2018-07-18T16:15:01.000Z,2018-07-09T11:58:54.000Z,19,7,1,0,0,,
+235888263,How Does a Crab Jump?,"This jumping script could be polished into a platform game. I left some variables visible and adjustable so users can tweak the behavior to something they like, and maybe learn something about the script in the process.
+
+Using variables (in place of constant values) makes it much easier to tweak the behavior of your game, too. By adjusting them, you might use the same script for different size characters, underwater, outer space, etc.","I don't know the answer to this question, but maybe we can figure something out that looks appropriate...
+
+Press the LEFT/RIGHT ARROW to scuttle around
+Press SPACE to jump
+
+Adjust the 'Jump Strength' slider to make the crab try to jump higher
+Adjust the 'Gravity Strength' slider to change the force of gravity",27306974,https://cdn2.scratch.mit.edu/get_image/project/235888263_480x360.png,2018-07-09T11:48:12.000Z,2018-07-09T17:36:44.000Z,2018-07-09T12:31:22.000Z,31,10,9,0,0,,
+235886935,day-5,"Getting Unstuck - Day 5
+Scratch On!","Key Left/Right - move
+Key Up - fly",139209,https://cdn2.scratch.mit.edu/get_image/project/235886935_480x360.png,2018-07-09T11:28:28.000Z,2018-07-09T12:51:01.000Z,2018-07-09T12:46:56.000Z,18,4,0,0,0,,
+235885509,Getting Unstuck: Day 5,,"Help Anna catch a parrot. Use arrow keys.
+Press green flag to start.",12775966,https://cdn2.scratch.mit.edu/get_image/project/235885509_480x360.png,2018-07-09T11:07:42.000Z,2018-07-09T12:57:58.000Z,2018-07-09T12:57:58.000Z,9,3,0,0,0,,
+148842823,dodgeball day 5,This is a project completed  as part of codeclub.,"Use the space key and arrows to reach the top. 
+Dodge the balls as they come down.",11349852,https://cdn2.scratch.mit.edu/get_image/project/148842823_480x360.png,2017-03-07T15:28:51.000Z,2018-07-09T12:58:41.000Z,2018-07-09T12:51:35.000Z,16,7,0,0,0,,
+235892375, Day 5 of Getting Unstuck,Day 5 of Getting Unstuck: ci voleva un po' di movimento! Piccolo progetto da perfezionare (aggiungendo ad esempio variabile punteggio o la frase: Preso!come nel progetto del Day 1 of Getting Unstuck ) ;-),Clicca la bandierina verde e poi usa il sensore del microfono per far saltare il cane.,10086796,https://cdn2.scratch.mit.edu/get_image/project/235892375_480x360.png,2018-07-09T12:42:26.000Z,2018-07-09T13:08:43.000Z,2018-07-09T13:02:26.000Z,6,1,0,0,0,,
+235894360,Bambi jumping,"Getting Unstuck: Day 5
+
+using animated gif to have a sprite with all the costumes needed for moving","Help Bambi to avoid the rocks
+press space to jump",2143382,https://cdn2.scratch.mit.edu/get_image/project/235894360_480x360.png,2018-07-09T13:05:00.000Z,2018-07-09T13:11:14.000Z,2018-07-09T13:09:10.000Z,11,2,0,0,0,,
+235894327,Unstuck Day 5,"This is an unfinished game that I've been stuck on for weeks. For GettingUnstuck, I removed an extra variable, ""lives"", and simplified the game further by removing multiple levels of difficulty. I also changed the setting - previously I had a blank backdrop which changed colors at each level of the game. Hoping to create something that is fun to play and then add complexity later.","In which a ship tries to get unstuck.
+
+Use the space bar to jump, arrow keys to move left or right.
+
+Avoid the octopus, try to reach the deep sea diver.
+
+10 points wins the game, -10 points loses the game.",33815227,https://cdn2.scratch.mit.edu/get_image/project/235894327_480x360.png,2018-07-09T13:04:39.000Z,2018-07-09T15:39:30.000Z,2018-07-09T13:23:21.000Z,14,5,1,0,0,,
+235895017,Getting Unstuck Challenge #5,,"For this challenge, I created a game demo where the object is to touch/catch ball. I need to add some more details but the motion mechanics seemed to work ok. ",10296314,https://cdn2.scratch.mit.edu/get_image/project/235895017_480x360.png,2018-07-09T13:11:23.000Z,2018-07-09T13:33:19.000Z,2018-07-09T13:31:55.000Z,8,2,0,0,0,,
+235893850,Unstuck Day 05 Scratchy Bounce,"This is based on the Hasee Bounce game from the neopets web site: http://www.neopets.com/games/game.phtml?game_id=368
+
+UPDATE: Timer is the orange bar at the top. Black line counts down time remaining. I have added apples to float from left and right. They increase speed throughout the game. Different colored apples are worth different points. Every additional apple caught beyond the first during one jump down and up multiplies points scored.
+
+Previous notes: I plan to add objects floating horizontally across the screen for the cats to catch for points. I have only programmed the bouncing so far.
+
+","Press the space bar to bounce one cat down and the other cat up. Time the jumping to catch and eat the apples!
+You can move each cat to the right and left with the right and left arrow keys.
+Time is up when the orange line is gone.
+The apples speed up throughout the game!
+",14632339,https://cdn2.scratch.mit.edu/get_image/project/235893850_480x360.png,2018-07-09T12:59:07.000Z,2018-07-10T02:22:03.000Z,2018-07-09T13:28:06.000Z,23,6,5,0,0,,
+235895896,Day 5 of Getting Unstuck,"This is a project I usually do with my students so I created a new one for this and changed my sprite to a bird that flaps his wings instead of my usual helicopter. 
+
+I immediately thought of this project when I saw today's challenge. My students always have fun when we create this game and they always think of ways to change it up. I wanted to do something a little different just to add some creativity to it. This was fun to think about. I am not a good player of this game however.
+
+If I had more time I might add in a piece that would make the bird go faster or the bars speed up once a person reaches a certain score. I might try to come back and do that later on. I am teaching a Scratch camp this week so my time is limited right now.","Day 5 Challenge of Getting Unstuck
+
+Press green flag to start, but use the Space bar to make the bird move up and fly ahead through the bars.",588430,https://cdn2.scratch.mit.edu/get_image/project/235895896_480x360.png,2018-07-09T13:19:47.000Z,2018-07-10T14:01:44.000Z,2018-07-09T13:41:52.000Z,7,2,1,0,0,,
+235897459,Getting Unstuck #5,"I never thought that this would be easy, and I was right. I'm quite happy with the way that the ground moves up and down. I can't get the clouds to move correctly. I can't even quite figure out what's wrong with them, but they don't move the way I expect them to. One of the clouds appears on the ground once you get too low, but I'm happy to call that mist. If I had more time on this I'd fix the mist and try to figure out why the clouds don't move up and down as I change the angle of the plane. I'd also add some hills to make the illusion of movement stronger.","This is my project for Getting Unstuck Day 5. Just use the Up and Down arrows to have a fly, but don't get too low.",141519,https://cdn2.scratch.mit.edu/get_image/project/235897459_480x360.png,2018-07-09T13:33:28.000Z,2018-07-10T12:43:49.000Z,2018-07-09T13:37:04.000Z,13,3,2,0,0,,
+235896520,Day 5 - Flying,I copied the basic idea from a project developed by a 10 year old student I worked with,,24154277,https://cdn2.scratch.mit.edu/get_image/project/235896520_480x360.png,2018-07-09T13:25:38.000Z,2018-07-09T13:43:49.000Z,2018-07-09T13:43:37.000Z,11,5,1,0,0,,
+235892227,Getting Unstuck: Day 5 — Jumping Scratchy,"Reflection
+
+I set out to create a jumping effect that used velocity, acceleration, gravity, and friction to make the animated sprite look and feel more fluid. To accomplish this, many variables were needed to track the changes in movement.
+
+There is a bug in the project in which Scratchy will start moving beyond the edges and gets semi-stuck. This is what I would fix given more time.","Move with LEFT and RIGHT arrows.
+Jump with SPACEBAR.",26264460,https://cdn2.scratch.mit.edu/get_image/project/235892227_480x360.png,2018-07-09T12:40:34.000Z,2018-07-09T13:43:15.000Z,2018-07-09T13:36:58.000Z,13,3,2,0,0,,
+235898349,Getting Unstuck Day 5,"I made the Cat perform a relatively realistic jump with ""proper"" gravity. The balls then felt natural as a challenge. It's a sort of minimalist flappy bird but without the hassle of flight! You can easily adjust the jump by changing the value of gravity or the initial jumpSpeed value given when the space bar is pressed. Might be fun to make them into sliders. Also needs some decoration and sound effects!
+
+Confession - I did have some bits of this game lying around already, but I'd never managed to make a pleasing game with them before. If I had more time I'd maybe mix up the objects a bit so you had some variety, or make jump power depend on how long you hold the space bar down.","Getting Unstuck Day 5
+
+Create a project that involves one or more sprites jumping or flying.
+
+Click the green flag and then use the space bar to jump over the rolling basketballs.",2314547,https://cdn2.scratch.mit.edu/get_image/project/235898349_480x360.png,2018-07-09T13:41:00.000Z,2018-07-09T14:15:21.000Z,2018-07-09T13:50:49.000Z,10,6,4,0,0,,
+235892860,Bat Cave,This game turned out a bit more challenging than I planned.  Good luck. :),"Click the Green Flag to begin.
+
+Use the arrow keys to help the light brown bat navigate through the bat cave to the other side.  Keep away from the cave structures and other bats.",1196430,https://cdn2.scratch.mit.edu/get_image/project/235892860_480x360.png,2018-07-09T12:48:00.000Z,2018-07-09T14:00:17.000Z,2018-07-09T13:55:58.000Z,6,2,2,0,0,,
+235893918,TurtleArt: Gravity Graffiti (Unstuck 5),"I got unstuck! After having a tough time figuring out how to create parabolic movement with jumping, I took a look at the studio for ideas. Thankfully, I found ""dodgeball day 5"" by misspsmith and saw how they cleverly created a ""gravity"" variable for the effect I was looking for -thanks!","After pressing the green flag to start, move the turtle around by pressing the up, down, and left arrow keys. As the turtle jumps around, it will leave colorful graffiti are on the wall. ",27690149,https://cdn2.scratch.mit.edu/get_image/project/235893918_480x360.png,2018-07-09T13:00:07.000Z,2018-07-10T11:50:02.000Z,2018-07-09T14:06:09.000Z,17,11,3,0,0,,
+235892864,Getting Unstuck Challenge 5 - Mower Guy,"Didn't have too much time today so I threw this together quickly. 
+
+Has a cloud high score system, how many feet can you mow?
+
+Just added hidden cheat code!  Hint, it is on the keyboard. 
+
+","Mower Guy gets an appearance. Mow the lawn and see how many feet you can get.
+
+Up and down arrow keys move mower guy behind and in front of the bushes. 
+
+This will keep a high score and post your name if you get it at the end, it will also save you as the high score until someone beats you",3158946,https://cdn2.scratch.mit.edu/get_image/project/235892864_480x360.png,2018-07-09T12:48:03.000Z,2018-07-12T21:36:29.000Z,2018-07-09T14:07:03.000Z,46,7,4,0,0,,
+235893318,Getting Unstuck: Day 5,I used backgrounds to simulate animation. I got the inspiration for the backgrounds from the underwater scene in the Scratch background library. I recall seeing a similar activity in a Scratch tutorial using buildings in the background. ,"Click the green flag.
+Just watch.",17807175,https://cdn2.scratch.mit.edu/get_image/project/235893318_480x360.png,2018-07-09T12:52:44.000Z,2018-07-09T14:17:09.000Z,2018-07-09T14:14:22.000Z,9,2,1,0,0,,
+235902092,Fallo volare!,"Remix di un mio progetto (basato su un tutorial Scratch) 
+per  #Getting unstuck Day 5","Muovi il gattino con i tasti freccia per prendere le stelline, ma stai attento  a non toccare l'uccellino azzurro!
+Il gioco dura 30 secondi",17698999,https://cdn2.scratch.mit.edu/get_image/project/235902092_480x360.png,2018-07-09T14:10:52.000Z,2018-07-09T14:19:27.000Z,2018-07-09T14:14:49.000Z,13,7,2,0,0,,
+235904487,GettingUnstuck_#5,"Getting Unstuck Day 5 is relevant to""jumping"" projects. In this game, the Triangle can jump high and attack the invaders if he is dropped the same color oil. I'm still thinking on how to ""accurately control"" the dropping oil since the oil is followed by the invaders who were created by clones.   ","▲How to Play｜Instructions
+- Click the Green Flag
+- Press LEFT⬅︎ or RIGHT➜ button to move
+- Press SPACE button to jump
+- If the Triangle is colored by the dropping oil, you can let he jump and attack the invaders having the same color
+- Please avoid from the BLACK oil dropped from the invaders or the Triangle will get poisoned (⊙_⊙)
+ ",31325002,https://cdn2.scratch.mit.edu/get_image/project/235904487_480x360.png,2018-07-09T14:30:27.000Z,2018-07-09T14:45:25.000Z,2018-07-09T14:31:04.000Z,14,7,3,0,0,,
+235900740,Jumping Pico,A bit super Mario-ish?  Needs sounds and counter,"Press  space to do your first jump.
+Press right arrow to jump to the blue platform.",33472226,https://cdn2.scratch.mit.edu/get_image/project/235900740_480x360.png,2018-07-09T13:59:11.000Z,2018-07-09T14:48:10.000Z,2018-07-09T14:46:33.000Z,10,2,0,0,0,,
+235893585,Brazil Tour remix Getting Unstuck Day5," I remixed this project to adapt it to Getting Unstuck Day #5: Create a project that involves one or more sprites jumping or flying.
+If I had more time I would make an interactive project, for example, people could choose the part of Brazil to visit.
+
+
+Sound from Freesound.org
+ ",Click on the green flag to learn more about Brazil.,2176961,https://cdn2.scratch.mit.edu/get_image/project/235893585_480x360.png,2018-07-09T12:55:52.000Z,2018-07-09T19:17:01.000Z,2018-07-09T14:51:44.000Z,8,3,2,0,0,,
+235886057,Unstuck Day 5: Quacking Up,"This was fun!!!
+Still draft version . . . 
+The duck is not yet quacking.  Going to take a break and enjoy the day. Would like to revisit later to add sounds for touching butterfly and bug as well, and maybe a point counter.  Have not yet figured out how to do that.  So much to learn :)
+Played around with costumes to change direction of character and motion when jumping.
+TY @smjrobotics for tip to layer Scratch in front of other characters.
+Stored scripts in ""backpack"" suggested by @alirb
+","Today's goal: Create a project that involves one or more sprites jumping or flying. 
+Try to get the duck!
+To move Scratch, use arrow left, arrow right, or the up keys.",18337230,https://cdn2.scratch.mit.edu/get_image/project/235886057_480x360.png,2018-07-09T11:15:45.000Z,2018-07-09T20:20:16.000Z,2018-07-09T14:55:04.000Z,11,4,1,0,0,,
+235822596,Unstuck day 5,This specific jump can be used in a running game and every time Scratch touches the blue pole he will lose points,Click the green flag and then space bar for a salto,33890948,https://cdn2.scratch.mit.edu/get_image/project/235822596_480x360.png,2018-07-08T13:32:43.000Z,2018-07-09T14:59:27.000Z,2018-07-09T14:58:07.000Z,8,1,0,0,0,,
+235905106,Flying Cat Finished,"****Updated
+Ok, I figured it out. Removed the unneeded 4 way movement with arrows, added in a point system, and included a way to win. It makes much more sense now. 
+
+****Orginial
+I  really wanted to make my cat move, but I had a lot of trouble figuring out how. I tried to  implement a similar block of code that I used when testing out the Moonhack activity for Scratch, the one that governs the lunar landar, but I couldn't get it work the way I wanted. I then realized that what I wanted Scratch to do was more akin to Flappy Bird, so I looked for an example of that in Scratch. The first result was almost a pixel for pixel reproduction and I couldn't understand the code, so I searched for something simpler and found a block of easier to understand code from a @gotrhythm and that seems to be working for me now. I expect to have the flying ball as something Scratch avoids, or maybe catches. Haven't figured that out yet. It still needs to be fixed so I don't get a ball explosion when Scratch causes the cloning to start. ","Use the space bar to ""fly""
+
+Avoid landing in the grass, and try to collect points by touching the yellow ball. 1000 points will let you win!",22706156,https://cdn2.scratch.mit.edu/get_image/project/235905106_480x360.png,2018-07-09T14:35:53.000Z,2018-07-10T11:41:50.000Z,2018-07-09T15:11:40.000Z,4,1,0,0,0,,
+235903750,#005 GettingUnstuck - Jumping or Flying,,Had to refer to some previous tutorials to figure out how to make the clouds move and the frog jump.,20126730,https://cdn2.scratch.mit.edu/get_image/project/235903750_480x360.png,2018-07-09T14:24:44.000Z,2018-07-09T15:19:35.000Z,2018-07-09T15:19:05.000Z,6,1,0,0,0,,
+235880659,Getting Unstuck: Day 5. Let's see the world!,,"Press the green flag to start 
+Click space to let the frog jump
+Click Arrow up and Arrow down to let cat fly up and down in the sky    ",18190669,https://cdn2.scratch.mit.edu/get_image/project/235880659_480x360.png,2018-07-09T09:46:01.000Z,2018-07-09T15:50:45.000Z,2018-07-09T15:29:21.000Z,9,2,0,0,0,,
+235902074,Space Nyan: Getting Unstuck Day 5 Jumpin n Flyin,"Getting Unstuck Day 5 project, jumping and flying
+
+Creativity: 
+I wanted to use a gif, as I learned how from another scratcher recently to import a gif to make an animated sprite. I also wanted to make more of a game-type project, with a score and a clear end-point. Often, the sprites I use depend on what I can find through Google Image Search :-/ So, NyanCat flies through space!
+
+Production:
+Lots of sprites, each with animation. It was fun and easy to make a sprite blink quickly between two or three costumes to give them more interest. Getting the objects flying through space at an appropriate speed and spaced out enough was also difficult. I feel I could still improve that aspect of the game.
+In addition, I did manage to make NyanCat react every time it got hit, but I wasn't quite sure how to use the ""Touching sprite"" sensor in such a way as to only react once, rather than continuously as the two sprites passed over each other. I ended up putting ""Wait"" blocks in my ""If touching"" blocks, but as always, I wonder if there isn't a more elegant way of doing this.
+
+Getting Unstuck:
+So I've realized that I always think there is a more elegant way of doing things... but I rarely go look for it or ask for help. I do like to try to figure things out on my own. I have been using the ""help"" commands more often. Part of it is that I'm not sure how to find the specific information that I'm looking for. 
+Another scratcher recently remixed one of my projects and indicated another way of doing something (waiting for keyboard input), so I've made sure to reuse that new strategy in this project.","Click the green arrow, then follow the onscreen instructions.",3485356,https://cdn2.scratch.mit.edu/get_image/project/235902074_480x360.png,2018-07-09T14:10:45.000Z,2018-07-09T15:58:29.000Z,2018-07-09T15:34:47.000Z,9,1,1,0,0,,
+235894257,SALTA e VOLA - Day 5,"Ci sarebbe voluta sicuramente una variabile per controllare i movimenti della rana e della farfalla, ma , per ora, non sono riuscita a metterla a punto.",Clicca sulla bandierina verde.,13746945,https://cdn2.scratch.mit.edu/get_image/project/235894257_480x360.png,2018-07-09T13:03:56.000Z,2018-07-09T15:46:38.000Z,2018-07-09T15:44:09.000Z,17,2,0,0,0,,
+235895392,Day 5 - Air show,"Can't get touch sprite to work on this. Maybe something to do with the clouds being clones? If anyone knows please share! Plane sound came from Freesound site. 
+
+Day 5 - Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava.","Click flag to start. Use up, down, right, left arrows to navigate plane above and below the clouds.",109272,https://cdn2.scratch.mit.edu/get_image/project/235895392_480x360.png,2018-07-09T13:14:46.000Z,2018-07-25T01:14:27.000Z,2018-07-09T15:47:16.000Z,6,3,1,0,0,,
+235910976,Getting Unstuck 5,"I used my daughter's gymnastics photo as a jumping-off point, so to speak. I had never played around with moving pieces of pictures around to create some kind of animation, so that was fun.
+
+The one thing that bugs me is the way the speech bubble moves back and forth when she waves, but I don't think there's anything I can do about that.",Click the green flag to start.,18044195,https://cdn2.scratch.mit.edu/get_image/project/235910976_480x360.png,2018-07-09T15:26:06.000Z,2018-07-10T01:37:32.000Z,2018-07-09T16:01:01.000Z,17,7,1,0,0,,
+235838905,Getting Unstuck: Day 5,"Immagini SVG: https://www.flaticon.com/
+Musica: Il carnevale degli animali di Camille Saint-Saëns
+Ho utilizzato come sprite le immagini scaricate dal sito citato; il formato SVG mi ha consentito di personalizzarle utilizzando l'editor di Scratch.
+Per il movimento del fondale marino, ho applicato quanto appreso dal tutorial Google First ""In alto mare"" 
+(v. https://antonellamazzobel.netboard.me/scratch/?tab=48913)
+",Clicca sulla bandierina verde per visualizzare l'animazione.,19789360,https://cdn2.scratch.mit.edu/get_image/project/235838905_480x360.png,2018-07-08T19:48:53.000Z,2018-07-09T16:12:03.000Z,2018-07-09T16:05:47.000Z,21,7,3,0,0,,
+235907766,Day 5 - Getting Unstuck,"REMIX from:
+- my #GettingUnstuck1 (https://scratch.mit.edu/projects/235616461/)
+-  a @whiskito project (https://scratch.mit.edu/projects/235888016/)
+
+Project part of #GettingUnstuck initiative #CreativeComputing, Day 5, ""Flying Leap""
+
+""Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava.""","Go for a walk, but be very, very careful!
+Movements:
+- left & right arrow keys to move Scratchy
+- up arrow to jump
+- up arrow twice to fly",26079479,https://cdn2.scratch.mit.edu/get_image/project/235907766_480x360.png,2018-07-09T14:57:57.000Z,2018-07-24T22:20:28.000Z,2018-07-09T16:13:31.000Z,10,3,1,0,0,235888016,235888016
+235910471,Getting Unstuck: Day 5,"Getting Unstuck: Day 5.
+Challenge: Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava. 
+
+I'm very happy! I was able to animate a parrot flying through the clouds and a dinosaur jumping to catch the parrot. I do not understand why the parrot does not feel like touching the dinosaur ...
+Matt Stone wrote the code that solves my problem. Thank you, Matt Stone!!!  ",Click the green flag.,17615581,https://cdn2.scratch.mit.edu/get_image/project/235910471_480x360.png,2018-07-09T15:21:38.000Z,2018-07-22T15:01:28.000Z,2018-07-09T16:08:07.000Z,29,2,0,0,0,,
+235914701,day-5,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/235914701_480x360.png,2018-07-09T16:02:26.000Z,2018-07-09T16:20:16.000Z,2018-07-09T16:20:16.000Z,13,4,1,0,0,,
+235912128,Cat and stars,Getting Unstuck Day5: Create a project that involves one or more sprites jumping or flying.,"Click the green flag to start.
+Move with LEFT and RIGHT arrows.
+Jump with SPACEBAR.
+Catch the stars if you like.",25332755,https://cdn2.scratch.mit.edu/get_image/project/235912128_480x360.png,2018-07-09T15:37:44.000Z,2018-07-09T16:48:16.000Z,2018-07-09T16:38:32.000Z,10,2,0,0,0,235892227,235892227
+235915717,GettingUnstuck#5 - Crash and escape!,"Getting Unstuck challenge #5 - ""Create a project that involves one or more sprites jumping or flying"".
+
+This uses glide for all the movement of both the rocket and the alien. I'm sure there's better ways to make the movement more fluid and turn and move the sprite at the same time. Hopefully other people's submissions will provide some hints.",Press SPACE to lift off and watch how things go.,15872912,https://cdn2.scratch.mit.edu/get_image/project/235915717_480x360.png,2018-07-09T16:12:50.000Z,2018-07-09T17:06:02.000Z,2018-07-09T17:04:40.000Z,3,1,1,0,0,,
+235916422,Platform jumps,"Man, I forgot how tough simple physicsy stuff is in Scratch. Lots of competing challenges here for a student, from just understanding and implementing the physics model to grappling with challenges with sprite-sprite interactions and figuring out the right order of instructions to make everything work. I went with a really simple sprite shape to help simplify the collision issues, but still spent a good deal of time debugging my logic.",,1092342,https://cdn2.scratch.mit.edu/get_image/project/235916422_480x360.png,2018-07-09T16:20:33.000Z,2018-07-09T18:17:38.000Z,2018-07-09T17:12:11.000Z,14,5,1,0,0,,
+235917287,DAY 5 - CASTLE GHOSTS,"HO PRESO SPUNTO DA ALTRI PROGETTI, MA POI L'HO PERSONALIZZATO E MODIFICATO TOTALMENTE. GRAZIE, COMUNQUE, A CHI MI HA AIUTATO.","CLICCA SULLA BANDIERINA VERDE.
+I FANTASMI VOLERANNO SUL CASTELLO E QUANDO SI ""SCONTRERANNO"" UNO DI LORO CAMBIERA' COLORE. ",34259094,https://cdn2.scratch.mit.edu/get_image/project/235917287_480x360.png,2018-07-09T16:28:20.000Z,2018-07-19T14:00:55.000Z,2018-07-09T17:19:43.000Z,6,2,0,0,0,,
+235912793,Volpe del deserto,,"Fai in modo che la volpe non tocchi il sasso che ha davanti. Per schivarlo, puoi saltare premendo il tasto ""spazio"".",34169307,https://cdn2.scratch.mit.edu/get_image/project/235912793_480x360.png,2018-07-09T15:43:22.000Z,2018-07-27T09:37:12.000Z,2018-07-09T17:14:09.000Z,4,1,0,0,0,,
+235918657,Rosaria day 5,,,33786606,https://cdn2.scratch.mit.edu/get_image/project/235918657_480x360.png,2018-07-09T16:41:14.000Z,2018-07-09T17:27:09.000Z,2018-07-09T17:17:48.000Z,14,1,0,0,0,,
+235918660,Unstuck Day 5: Jumping,"I made this project in response to the prompt for Challenge #4 of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+For this project I wanted to remind myself how to give a jumping sprite some feeling of gravity. I thought I would remember how from having done it before but ended up having to look up a strategy by searching other scratch projects. This seems very simple. There is a gravity variable that starts with a positive value and is added to the y position, and in a repeat loop a small amount is subtracted each loop. So it goes up slower and slower, then heads back down and gets to the original value at the ground.","Just click the green flag, the horse will jump forever!",214174,https://cdn2.scratch.mit.edu/get_image/project/235918660_480x360.png,2018-07-09T16:41:16.000Z,2018-07-09T17:29:07.000Z,2018-07-09T17:24:03.000Z,8,3,0,0,0,,
+235917405,Day 5: Crab Accidents,,Use space to make the starfish fly up & down and avoid crab accidents! :),24957617,https://cdn2.scratch.mit.edu/get_image/project/235917405_480x360.png,2018-07-09T16:29:36.000Z,2018-07-09T22:37:47.000Z,2018-07-09T17:38:11.000Z,9,1,1,0,0,,
+235919709,Getting Unstuck: Day 5 Underwater Adventure,,"
+
+Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava. ",25043750,https://cdn2.scratch.mit.edu/get_image/project/235919709_480x360.png,2018-07-09T16:51:47.000Z,2018-07-09T17:48:18.000Z,2018-07-09T16:52:14.000Z,5,1,0,0,0,,
+235923934,Unstuck-5,,,34091272,https://cdn2.scratch.mit.edu/get_image/project/235923934_480x360.png,2018-07-09T17:30:42.000Z,2018-08-03T19:50:06.000Z,2018-07-09T17:47:35.000Z,6,1,0,0,0,,
+235924421,Unstuck: Day 5,"By Filipe Mendes
+","Press the grren flag
+When the bat touch the butterfly that dies and desapear",2980392,https://cdn2.scratch.mit.edu/get_image/project/235924421_480x360.png,2018-07-09T17:36:19.000Z,2018-07-09T17:47:40.000Z,2018-07-09T17:45:52.000Z,4,2,0,0,0,,
+235907192,Day 5 - Cats in SPAAACE!!,"Moon, Splendid Blue Fairy Wren, and Bachelor Button from Wikimedia commons, sound clips from Free Karaoke Version
+I finally used a variable! I love the way so many people made their jumping and falling so realistic, but I just couldn't dig that deep today - work-in-progress!",Click the green flag and follow the prompts from the sprites!,18341966,https://cdn2.scratch.mit.edu/get_image/project/235907192_480x360.png,2018-07-09T14:52:56.000Z,2018-07-09T18:05:02.000Z,2018-07-09T17:53:00.000Z,10,4,2,0,0,,
+235924324,Getting Unstuck - Day 5 (sprite jump),"I wanted to try out a gravity effect, and consulted the project below for a tutorial, which was super helpful! If I had more time, I wanted to figure out how to create the same effect if the penguin hops on top of the rainbow. I tried a few things, but couldn't figure out how to get it back to the ""floor"" sprite when he moved off the rainbow.
+
+https://scratch.mit.edu/projects/268679/","Click the right arrow to go forward, the left arrow to go backwards, and the up arrow to jump!",2752403,https://cdn2.scratch.mit.edu/get_image/project/235924324_480x360.png,2018-07-09T17:35:23.000Z,2018-07-09T18:10:08.000Z,2018-07-09T17:56:32.000Z,10,2,0,0,0,,
+235922288,Getting Unstuck #5: Sprites jumping or flying,"I found very helpful the link given by Karen Brennan:
+https://en.scratch-wiki.info/wiki/Jumping
+
+Scratch project was created as activity #5 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+Day #5 Challenge: Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava. ",Press the green flag!,1202362,https://cdn2.scratch.mit.edu/get_image/project/235922288_480x360.png,2018-07-09T17:16:30.000Z,2018-07-10T07:35:58.000Z,2018-07-09T18:06:08.000Z,14,2,1,0,0,,
+235908303,GU_Day5,"When I began, I didn't know what I would create. I just started tinkering. 
+At one point I inadvertently created an infinite loop with the result that my cursor turned into a spinning pinwheel. 
+One challenge was figuring out how to let the user play again without restarting the project. 
+I had a tough time finding sound effects that I like...still not satisfied with my  choices. B/c I was trying so many effects, I added variables so I could tweak volume and timing more efficiently. ",Use the arrow keys to move Nano around the city. Discover which objects gain or lose points. ,24741621,https://cdn2.scratch.mit.edu/get_image/project/235908303_480x360.png,2018-07-09T15:02:39.000Z,2018-07-09T18:06:58.000Z,2018-07-09T18:06:58.000Z,6,1,0,0,0,,
+235927887,hungry ghost,,Make the ghost fly and catch the candy. This is a favourite with the kids around halloween.  Love the sound effect on this one. ,2876976,https://cdn2.scratch.mit.edu/get_image/project/235927887_480x360.png,2018-07-09T18:07:26.000Z,2018-07-09T18:08:37.000Z,2018-07-09T18:08:03.000Z,9,5,1,0,0,,
+235921411,Gordon_Day 5 Getting Unstuck,Need to work on how fast the bat falls and keeping score.,Use the arrow keys to move the bat.  Try to catch the Hippo.,18900622,https://cdn2.scratch.mit.edu/get_image/project/235921411_480x360.png,2018-07-09T17:08:56.000Z,2018-07-10T02:08:39.000Z,2018-07-09T18:07:17.000Z,4,2,0,0,0,,
+235915801,Day 5 salta e vola,,,18667079,https://cdn2.scratch.mit.edu/get_image/project/235915801_480x360.png,2018-07-09T16:13:56.000Z,2018-07-09T19:58:25.000Z,2018-07-09T18:08:28.000Z,8,1,0,0,0,,
+235898313,5 GIORNO-2,,PREMERE SOLO TASTO BANDIERA E TASTO SPAZIO DOPO UN PAIO DI SECONDI PREMERE a,28304428,https://cdn2.scratch.mit.edu/get_image/project/235898313_480x360.png,2018-07-09T13:40:44.000Z,2018-07-09T18:11:13.000Z,2018-07-09T18:11:12.000Z,6,2,0,0,0,,
+235915013,Getting Unstuck Day 5,"The children are all obsessed with the upcoming World Cup match, so my subject matter was almost chosen for me!  I tried to get too clever by having it repeat, but my timings weren't quite right and I ran out of time to tinker.","Click the green flag to score a goal against the Croatian goalkeeper!
+(Yes, I know goalies don't wear that colour shirt!, it's poetic licence!",3297086,https://cdn2.scratch.mit.edu/get_image/project/235915013_480x360.png,2018-07-09T16:05:50.000Z,2018-07-09T18:25:09.000Z,2018-07-09T18:25:08.000Z,11,1,0,0,0,,
+235887090,Getting Unstuck: Day 5,,Use up arrow to jump in order to avoid the witch.,24340467,https://cdn2.scratch.mit.edu/get_image/project/235887090_480x360.png,2018-07-09T11:30:39.000Z,2018-07-09T18:54:29.000Z,2018-07-09T18:47:28.000Z,7,1,0,0,0,,
+235931635,Unstuck Day 5 - James Jumps,"I needed some help figuring out what to do for this one, so I turned to my son James. After brainstorming what would jump or fly, we decided on him jumping over the Grand Canyon. Oh, and he wanted Scratch Cat's body. No problem!",Just click the green flag!,7902,https://cdn2.scratch.mit.edu/get_image/project/235931635_480x360.png,2018-07-09T18:38:04.000Z,2018-07-09T19:04:43.000Z,2018-07-09T19:02:23.000Z,9,2,0,0,0,,
+235931888,Jumping sprite,"I have not manipulated layers before, so today I learned how to keep the frog in front of the lily pads. For jumping, I used a simple two-step combination of glides.","Click the green flag to start, then click the lily pads in order to make the frog jump to the bug.",13189460,https://cdn2.scratch.mit.edu/get_image/project/235931888_480x360.png,2018-07-09T18:40:01.000Z,2018-07-09T19:06:24.000Z,2018-07-09T19:03:54.000Z,9,2,0,0,0,,
+235931324,Getting Unstuck day 5,I have a vague memory of working on a project like this a while back. I am pretty please with how I eventually got the sort of realistic gravity effect working. It took a while to figure out how to make the cat stop falling when he reached the ground. Just reversing the loop wasn't reliable because of the dfferences in the costumes. Given more time I would probably make it more game like: animate an ever widening pool of lava to jump across as many times as possible without falling in.,"Use left and right arrow keys to move
+Space to jump
+
+Don't fall in the lava",17767933,https://cdn2.scratch.mit.edu/get_image/project/235931324_480x360.png,2018-07-09T18:35:23.000Z,2018-07-24T12:15:40.000Z,2018-07-09T19:18:44.000Z,11,3,0,0,0,,
+235931757,Unstuck Day 5,Is there anyway to change or hide Sprits?  I got around this by changing costumes but think there might be a more efficient way to do this.,"Press the green flag to begin and then the ""space"" bar when prompted.",24826697,https://cdn2.scratch.mit.edu/get_image/project/235931757_480x360.png,2018-07-09T18:39:01.000Z,2018-07-09T19:24:09.000Z,2018-07-09T19:24:09.000Z,25,3,0,0,0,,
+235935230,Unstuck Day 5,"So in my first version, when the fish change direction, they were upside down!! I went back and copied a costume and flipped it over. In additoin to switching the costume whne the sprite hits the edge, I also had to reset the costume when the green flag is clicked.","Click green flag for instructions, hold space key to make the fish swim.
+Each swims back and forth at different speeds.",11305008,https://cdn2.scratch.mit.edu/get_image/project/235935230_480x360.png,2018-07-09T19:10:29.000Z,2018-07-09T19:41:42.000Z,2018-07-09T19:24:14.000Z,9,3,1,0,0,,
+235911724,Unstuck 5: Jumping Cat,I really want to figure out how to get the cat to jump on the black line but I have been really struggling. Let me know if you have any advice. ,"Use Arrows to move 
+Use Space to Jump",25417130,https://cdn2.scratch.mit.edu/get_image/project/235911724_480x360.png,2018-07-09T15:33:45.000Z,2018-07-12T16:11:58.000Z,2018-07-09T19:30:10.000Z,24,3,0,0,0,,
+235934422,Getting Unstuck: Day 5,Looked at Moonhack 2017 to see how to do jumps,"Click the green flag to start
+
+Press the space bar to make Scratchy jump  ",34197892,https://cdn2.scratch.mit.edu/get_image/project/235934422_480x360.png,2018-07-09T19:02:44.000Z,2018-07-09T19:32:46.000Z,2018-07-09T19:31:15.000Z,6,3,0,0,0,,
+235934258,"Unstuck 05 Walking, jumping, flying","I wanted to learn how to make sprites have ""classic"" arrow key control, including jumping over a distance. Didn't get too far, but time is limited today and I hope to come back to it. I learned how to define a block (make a procedure) so I'm super happy with that. Will come back to work on this more later but am sharing as is. Note credits, where I remixed to get the mario character with costumes. The beach is calling me NOW.
+Thanks to @PrescottRoadrunner for teaching me how to jump in ""Nano Jump on Scratch""","Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava. ",19123745,https://cdn2.scratch.mit.edu/get_image/project/235934258_480x360.png,2018-07-09T19:01:24.000Z,2018-07-10T04:35:02.000Z,2018-07-09T19:37:22.000Z,11,2,0,0,0,125578302,125578302
+235922993,Space Scratch,Reto 5: Create a project that involves one or more sprites jumping or flying.,Up & Down Arrows,26161450,https://cdn2.scratch.mit.edu/get_image/project/235922993_480x360.png,2018-07-09T17:21:48.000Z,2018-07-09T19:39:29.000Z,2018-07-09T19:38:56.000Z,10,4,0,0,0,,
+235873007,Getting Unstuck: Day 5 - project 2,"I like Scratch too much!!!
+
+Image: https://www.flaticon.com
+Music: Ecossaise in E-flat di Kevin MacLeod è un brano autorizzato da Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/)
+Fonte: http://incompetech.com/music/royalty-free/?keywords=ecossaise&Search=Search
+Artista: http://incompetech.com/",Clicca sulla bandierina verde per visualizzare l'animazione.,19789360,https://cdn2.scratch.mit.edu/get_image/project/235873007_480x360.png,2018-07-09T07:59:50.000Z,2018-07-09T19:40:10.000Z,2018-07-09T19:40:10.000Z,21,6,1,0,0,,
+235886502,FIORI DI VALTELLINA (Lombardia ITALY),Ho creato questo progetto per Getting Unstuck come compito del giorno 2.,"Cliccare sulla bandierina verde, aspettare finchè appare un nuovo sfondo, cliccare sul fiore rosso, viola, bianco (in qualsiasi ordine)...",14651357,https://cdn2.scratch.mit.edu/get_image/project/235886502_480x360.png,2018-07-09T11:22:18.000Z,2018-07-09T19:53:06.000Z,2018-07-09T19:49:30.000Z,9,1,0,0,0,,
+235932042,Unstuck Day 5 - Flying,"This is a remix from an earlier project I did with my students. I have added more sprites into the mix and developed this into a game, rather than just a sample of movement and emitting projectiles.
+
+Game portion is a work in progress. Could add lives, change enemy sprites, make it faster as it progresses further into the game, and more.","Challenge:
+Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava.
+
+GOAL of the game: Score 10. Space bar to shoot. Don't get hit.
+
+This sample was created to show how you can control a sprite with UP, DOWN, RIGHT and LEFT to move around the screen, and use SPACE bar to shoot a projectile. 
+
+I used the clone blocks to create a new projectile at whatever point the ship sprite is located at the moment SPACE is pressed.
+
+Look inside for more information. How can you make this better?",25286049,https://cdn2.scratch.mit.edu/get_image/project/235932042_480x360.png,2018-07-09T18:41:23.000Z,2018-07-15T15:43:22.000Z,2018-07-09T20:13:06.000Z,4,3,1,0,0,,
+235939042,Unstuck Day 5,I wanted to use a gravity variable in a project and this one was my first attempt as using it with the cat. ,Use the space bar to make the cat jump to catch the balloons. When the cat hits the edge he starts back at the left. You get a point for every balloon you catch. Catch as many as you can in 60 seconds. ,266894,https://cdn2.scratch.mit.edu/get_image/project/235939042_480x360.png,2018-07-09T19:58:57.000Z,2018-07-09T20:25:04.000Z,2018-07-09T20:14:15.000Z,8,3,0,0,0,,
+235939090,day 5 Flying,,Click the green flag to see the two birds fly in the sky!,22256610,https://cdn2.scratch.mit.edu/get_image/project/235939090_480x360.png,2018-07-09T19:59:44.000Z,2018-07-09T20:27:57.000Z,2018-07-09T20:27:22.000Z,6,3,0,0,0,,
+235938728,GettingUnstuck-05,This time I decided to indulge in my passion for physics (although the dynamics of the cat is just sketched) and SciFi (did you get the reference?),"A muffin is very practical jumping platform.
+Green flag to start.
+Keep the mouse pressed on the green button to gain initial speed and jump higher and higher. But be careful: if the initial speed is too high you may face unexpected consequences.",25876369,https://cdn2.scratch.mit.edu/get_image/project/235938728_480x360.png,2018-07-09T19:54:42.000Z,2018-07-09T20:46:10.000Z,2018-07-09T20:29:43.000Z,9,3,3,0,0,,
+235939809,Getting Unstuck Challenge 5,"What did you like most about your project? 
+This is my first time trying the gravity feature. It was fun.
+
+What would you do with it next, if you had more time?
+If I had more time, I would add a few players to the game. Flopping is prohibited. :-)","In honor of the World Cup, click on the Green Flag.
+
+Click the up arrow to make the ball stay into the air.",21000359,https://cdn2.scratch.mit.edu/get_image/project/235939809_480x360.png,2018-07-09T20:09:09.000Z,2018-07-09T20:45:34.000Z,2018-07-09T20:42:57.000Z,11,3,0,0,0,,
+235917316,Ninja Duck v1.0,"I've created a mini game based on one of the mode games of the ""Ninji Spinki Challenges!!"" game. 
+I decided to use simple gravity when the character reaches the ground and a variable to control when it jumps.
+The enemies glide in different positions to make it more difficult.
+
+                                              --Questions--
++What did you like most about your project? 
+I think I've created cute characters.
+
++ What would you do with it next, if you had more time?
+I would like to add more levels, enemies and music.
+
+                                        --Credits--
+- Art design: I've created characters and backgrounds with the Scratch paint editor.
+
+","Press the green flag and then the colorful button to start.
+Press Left and Right arrow keys to move the Duck.
+Use the spacebar to jump.
+Try to avoid the enemies in 15 seconds to win the challenge.
+Enjoy it!
+
+**HERE AN UPDATE:**
+https://scratch.mit.edu/projects/237298318/
+                            --Getting Unstuck Day 5--
+Create a project that involves one or more sprites jumping or flying.",4413079,https://cdn2.scratch.mit.edu/get_image/project/235917316_480x360.png,2018-07-09T16:28:39.000Z,2018-07-25T02:49:12.000Z,2018-07-09T20:49:57.000Z,17,3,0,0,0,,
+235940874,Unstuck Day 5: v2 Quacking Up - Sounds Work,"Got the sounds working . . . needed a hint from the Scratch Wiki.
+Played around with costumes to change direction of character and motion when jumping.
+TY @smjrobotics for tip to layer Scratch in front of other characters.
+Stored scripts in ""backpack"" suggested by @alirb
+","Today's goal: Create a project that involves one or more sprites jumping or flying. 
+Try to get the duck!
+To move Scratch, use arrow left, arrow right, or the up keys.",18337230,https://cdn2.scratch.mit.edu/get_image/project/235940874_480x360.png,2018-07-09T20:23:06.000Z,2018-07-09T21:02:21.000Z,2018-07-09T20:50:15.000Z,7,3,1,0,0,,
+235903911,Tennis lesson with the bird - Hand eye coordination,"Following images are copied from the follwoing sites and modified to be used for this project.
+tennis court image: https://jp.123rf.com/photo_10876536_%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88.html
+Tennis racket image:
+https://www.dreamstime.com/stock-photography-vintage-tennis-racket-old-wooden-isolated-white-background-image36551132",Improve your hand eye coordination!   Click the green flag to start the game.  Move your mouse to go up and down along the baseline.,17257831,https://cdn2.scratch.mit.edu/get_image/project/235903911_480x360.png,2018-07-09T14:25:42.000Z,2018-07-10T02:12:08.000Z,2018-07-10T01:28:24.000Z,13,4,1,0,0,,
+235940293,Frog and Butterfly,"Credit for the frog croak goes to SoundBible.com 
+
+Reflection: The Flappy Parrot project from Code Club World is one of my club's favorite projects.  This is a 2-player take on that project.  This needs a bunch of testing to gauge the fun/difficulty or imbalance between the players.
+
+I thought about using a clone for the levels, but duplicating the frog Sprite was a quick way to get a few levels.","Getting Unstuck #5: Create a project that involves one or more sprites jumping or flying.
+
+This is a two player game.   Frog: use spacebar to make the frog jump and try to eat the butterflies.
+
+Butterfly: use up-arrow to fly up and right-arrow to go forward.  Try to get past the frog.
+
+There are three levels.
+
+ ",399245,https://cdn2.scratch.mit.edu/get_image/project/235940293_480x360.png,2018-07-09T20:15:23.000Z,2018-07-09T21:12:54.000Z,2018-07-09T21:12:54.000Z,7,2,0,0,0,,
+235946012,jump or fly,"I had soo much fun creating this project!! Thanks :)
+Using messages to determine backgrounds and different actions is very easy but, when you have a lot of different algorithms that starts with the same messagge...you have to be carefull! :)
+","Click the green flag!!
+If you choose to fly use the mouse pointer to catch flies!
+If you choose to jump use the space bar to eat its special meal ;)",6030800,https://cdn2.scratch.mit.edu/get_image/project/235946012_480x360.png,2018-07-09T21:36:22.000Z,2018-07-10T05:00:41.000Z,2018-07-09T21:36:40.000Z,10,6,0,0,0,,
+235946715,#creativecomputing Day 5,,,23419026,https://cdn2.scratch.mit.edu/get_image/project/235946715_480x360.png,2018-07-09T21:48:04.000Z,2018-07-10T18:37:04.000Z,2018-07-09T21:50:27.000Z,6,3,0,0,0,175349446,175349446
+235938519,"Unstuck Day 5, Scratch Cat Catches Mouse",,Scratch cat is hungry.  Move Scratch cat by dragging the mouse to catch mice as the fly across the yard!,18198558,https://cdn2.scratch.mit.edu/get_image/project/235938519_480x360.png,2018-07-09T19:52:18.000Z,2018-07-13T21:27:49.000Z,2018-07-09T21:40:25.000Z,8,3,0,0,0,,
+235918163,Trampoline,,Aim the trampoline with your mouse. Don't let the cat fall!,4909710,https://cdn2.scratch.mit.edu/get_image/project/235918163_480x360.png,2018-07-09T16:37:07.000Z,2018-07-30T20:26:03.000Z,2018-07-09T21:55:16.000Z,11,3,1,0,0,,
+235943200,Getting Unstuck Day 5 - Flying Penguin,,,11634746,https://cdn2.scratch.mit.edu/get_image/project/235943200_480x360.png,2018-07-09T20:55:04.000Z,2018-07-09T22:01:12.000Z,2018-07-09T21:57:28.000Z,11,2,0,0,0,,
+235948227,hippo star hunter,,,22093255,https://cdn2.scratch.mit.edu/get_image/project/235948227_480x360.png,2018-07-09T22:16:37.000Z,2018-07-09T22:19:44.000Z,2018-07-09T22:19:42.000Z,9,4,1,0,0,,
+235947619,Day 5 Let's Go Fly a Kite,,"Click the flag to make the kite fly in nice weather. When you click the space bar, a storm comes. 
+
+If you click on the kite, the storm and the kite stop.",10309968,https://cdn2.scratch.mit.edu/get_image/project/235947619_480x360.png,2018-07-09T22:04:37.000Z,2018-07-25T01:20:23.000Z,2018-07-09T22:50:44.000Z,13,2,0,0,0,,
+206929608,"1,2,3 salta insieme a me! Day 5 Getting Unstuck ","Getting Unstuck Day 5: Flying Leap: Create a project that involves sprites jumping or flying.
+In this project I employed scripts that I already used in some of my projects.
+Work in progress.",Press space to jump and right or left arrows to move Felix,8789156,https://cdn2.scratch.mit.edu/get_image/project/206929608_480x360.png,2018-02-28T23:44:33.000Z,2018-08-01T19:55:17.000Z,2018-07-09T23:07:01.000Z,12,3,0,0,0,,
+235948564,Unstuck Day 5 - Baskeball Playing Wizard,"Challenge: sprites jumping or flying
+
+If I had more time, I'd like to make the shots from random places.  In order to keep score, I had to add the Scratch logo to the backboard. I tried some other strategies, but this seemed to work best. 
+
+Update: The basketball is now being shot from random spots. Plus I have it disappear for a very short time to give the appearance it's going through the hoop. Also, I created another costume for the wizard, so that his wand arm disappeared.
+",Press the flag first. Then press the spacebar as many times as you wish. The wizard will cast his magic spell and make a basket each time. You can see the score.,10715270,https://cdn2.scratch.mit.edu/get_image/project/235948564_480x360.png,2018-07-09T22:23:04.000Z,2018-07-29T14:18:46.000Z,2018-07-09T23:33:17.000Z,10,3,0,0,0,,
+235945286,"""Penguin Jump"" for Getting Unstuck (Day 5)","I'm excited to share my first project for Getting Unstuck (https://gettingunstuck.gse.harvard.edu/)! 
+
+I created a simple jump cycle using a penguin sprite created by  Charky27. (Thanks, Charky!) I added the little wobble of the iceberg to give the animation a bit more life. Perhaps I'll come back later to work more on the background and add other features. Feel free to remix! ",,3484484,https://cdn2.scratch.mit.edu/get_image/project/235945286_480x360.png,2018-07-09T21:25:04.000Z,2018-07-09T23:50:55.000Z,2018-07-09T21:41:36.000Z,258,38,14,0,0,,
+235951380,Day 5 - Flying Sprites - Space Adventures,"Day 5-Create a project that involves one or more sprites jumping or flying.
+
+Did this one with my niece and we were trying to get the variable of visited planets to end the game. Not enough time together to finish.",Type in the name of the place you want to visit. Make sure to capitalize to get the correct destination.,16509596,https://cdn2.scratch.mit.edu/get_image/project/235951380_480x360.png,2018-07-09T23:19:39.000Z,2018-07-18T01:18:50.000Z,2018-07-10T00:22:53.000Z,16,8,2,0,0,,
+235956263,Getting Unstuck Day 5 - Superpowers,,"Click the green button to start/reset the project, then click on the ""Fly"" button in the lower right-hand corner to make Amon fly across the screen.",22156688,https://cdn2.scratch.mit.edu/get_image/project/235956263_480x360.png,2018-07-10T00:44:57.000Z,2018-07-10T01:01:59.000Z,2018-07-10T01:00:27.000Z,5,2,0,0,0,,
+235953588,Day 5-Flying bonus power in a platform,"I was stuck on this and then got some help from @HESteachers  THANK YOU!  So this project was just about figuring out how to give sprite bonus power of flying within a platform game. I have made simple platform games before but never with a bonus power.  All my effort went into the code and not the sprite or background, so that is all very minimal.  I am happy with the solution but still wondering if there is a better way to do this.","Create a project that involves one or more sprites jumping or flying.
+For this instead of idea or theme, I am starting with the code. I want to make the sprite be able to jump and then suspend gravity and fly for 5 seconds when the cat touches orange. 
+
+",1294980,https://cdn2.scratch.mit.edu/get_image/project/235953588_480x360.png,2018-07-10T00:02:01.000Z,2018-07-24T16:31:17.000Z,2018-07-10T00:53:50.000Z,27,4,1,0,0,,
+235927777,Getting Unstuck Day 5 Challenge,,"Redid most of this project. Use the right and left arrow keys to move the dog forward or backward. Press the space bar to make the dog jump and bark. Unfortunately, I couldn't figure out how to keep the background scrolling. I'll have to revisit this concept again soon. I need to move on to Day 6.",17824064,https://cdn2.scratch.mit.edu/get_image/project/235927777_480x360.png,2018-07-09T18:06:32.000Z,2018-07-10T23:22:53.000Z,2018-07-09T18:12:42.000Z,7,3,0,0,0,,
+235957975,Challenge5jump,,"when I saw jump, I thought of electrons jumping orbitals. So this simple program explains the solar system model of the atom, and shows the electron jumping to a higher energy level upon the absorption of light, and then emitting that light as it falls back down to ground. ",2190314,https://cdn2.scratch.mit.edu/get_image/project/235957975_480x360.png,2018-07-10T01:11:42.000Z,2018-07-10T10:04:52.000Z,2018-07-10T01:13:43.000Z,11,2,0,0,0,,
+235956471,Getting Unstuck - Day 5,"If I had more time I would have x and y coordinates along the way for warnings and such OR have the diver swim in, pickup one of the boys to save and swim back. It would be complicated but doable.",Made this one timely. I've been watching the news coverage quite a bit. Click the Green Arrow to start. Use the arrow keys to navigate the diver through the cave! Your goal is to exit at the entrance.,2360384,https://cdn2.scratch.mit.edu/get_image/project/235956471_480x360.png,2018-07-10T00:48:44.000Z,2018-07-10T01:17:20.000Z,2018-07-10T01:11:35.000Z,20,11,1,0,0,,
+235950997,Getting Unstuck Day 5 - Fly Away from Robot,"Loved playing with different ways to ""fly"".","Use the arrow keys to fly your rocker away from robot. If robot catches you, it time to start again.",18558561,https://cdn2.scratch.mit.edu/get_image/project/235950997_480x360.png,2018-07-09T23:12:13.000Z,2018-07-10T03:34:33.000Z,2018-07-10T01:18:34.000Z,7,2,0,0,0,,
+235957104,Day 5 Unstuck,"Credit sprites to The-Critic
+
+This is the first time I searched for sprites and utilized the backpack function.  I feel like there is a better way then hard coding with glide to create a jump, hopefully one where I can assign a key on the keyboard to cause the character to jump.","Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava.",20446522,https://cdn2.scratch.mit.edu/get_image/project/235957104_480x360.png,2018-07-10T00:58:45.000Z,2018-07-10T01:26:11.000Z,2018-07-10T01:24:35.000Z,5,2,0,0,0,,
+235920812,Nano Jump,"Created for Getting Unstuck Day 5: ""Flying Leap: Create a project that involves sprites jumping or flying."" I was so engrossed in this project that I forgot to feed my kids lunch at a decent hour! I wanted Nano to jump boulders that enter the screen at random speeds and sizes, and I wanted the game to get progressively more difficult. I was stuck on how to score points by jumping the boulders, but I figured out I could create an invisible sprite that the boulders touch. I created the music loop using Apple loops in Logic Pro.",Click the green flag to start and the up arrow to jump the space boulders. Bonus points if you touch the rocket ships!,17801875,https://cdn2.scratch.mit.edu/get_image/project/235920812_480x360.png,2018-07-09T17:03:33.000Z,2018-07-10T01:29:50.000Z,2018-07-10T01:29:50.000Z,10,5,1,0,0,,
+235958312,Getting Unstuck Day 5: Flying Forever,,,728649,https://cdn2.scratch.mit.edu/get_image/project/235958312_480x360.png,2018-07-10T01:16:32.000Z,2018-07-10T01:29:57.000Z,2018-07-10T01:29:56.000Z,5,1,0,0,0,,
+235953762,day 5 Getting Unstuck - puppy play,"I like the way I was really careful taking the pictures and while they are jumpy, they work a little together. 
+If I had more time, I'd like to give the dog more context and have a smoother transition between the rug and the background. Today was frustrating because I didn't have much time for this and I want to see all of the projects and learn everything! How do you balance just doing something to keep up and learning something new each day? Although.. today was the first day I actually asked for help so I definitely did learn something today!",,124064,https://cdn2.scratch.mit.edu/get_image/project/235953762_480x360.png,2018-07-10T00:04:32.000Z,2018-07-10T01:46:52.000Z,2018-07-10T01:13:29.000Z,16,3,0,0,0,,
+235960321,"""Penguin Jump"" for Getting Unstuck (Day 5) remix",Thank you for liking it. If you have any studios you would like me to check out just write them in the comments......,"Press the space button to see the penguin move;
+Press the up arrow to see the balloons change coluor!",25188784,https://cdn2.scratch.mit.edu/get_image/project/235960321_480x360.png,2018-07-10T01:43:55.000Z,2018-07-11T00:46:09.000Z,2018-07-10T01:43:59.000Z,48,10,5,0,0,235945286,235945286
+235955457,Day FIve Getting Unstuck,,,2356410,https://cdn2.scratch.mit.edu/get_image/project/235955457_480x360.png,2018-07-10T00:31:15.000Z,2018-07-10T02:02:18.000Z,2018-07-10T02:02:18.000Z,4,1,0,0,0,,
+235957866,Getting Unstuck Day 5,"So many wonderful flying themed activities today.
+I have created a simple flying game using lots of different blocks.
+My kids love creating this style of game. Once they get their heads around that movement is created by the buildings moving and not the background, they are happy!
+Would like to spend more time creating more appropriate background for this game.
+Like the flying costumes of certain sprites and need to develop more skills in creating own costumes to extend this.","Help the witch gather apples while avoiding the bats.
+Move up and down, left and right using arrow keys.",13484475,https://cdn2.scratch.mit.edu/get_image/project/235957866_480x360.png,2018-07-10T01:09:45.000Z,2018-07-10T02:14:16.000Z,2018-07-10T02:08:31.000Z,8,2,1,0,0,,
+235961002,Getting Unstuck: Day 5,,"1. Click the green flag.
+2. Watch the cat run.",14143361,https://cdn2.scratch.mit.edu/get_image/project/235961002_480x360.png,2018-07-10T01:55:13.000Z,2018-07-10T02:27:03.000Z,2018-07-10T02:24:55.000Z,10,0,0,0,0,,
+235913734,Getting Unstuck: Day 5,,,9505598,https://cdn2.scratch.mit.edu/get_image/project/235913734_480x360.png,2018-07-09T15:53:02.000Z,2018-07-10T03:04:22.000Z,2018-07-10T03:04:22.000Z,6,2,0,0,0,,
+235959401,Getting Unstuck Day 5,"Getting Unstuck Day 5: Create a project that involves one or more sprites jumping or flying. 
+
+In honor of Shark Week 2018, I decided to show how great whites tend to feed. I explored costume and background changes with this one. I still need to learn how to make my code look a little more efficient. ",Click the green flag. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/235959401_480x360.png,2018-07-10T01:29:48.000Z,2018-07-10T03:13:48.000Z,2018-07-10T03:00:26.000Z,5,2,0,0,0,,
+235959487,Up Up and Away,"I was trying to find a way to make the airplane switch directions and go the opposite way when it hit the edge. I was unsuccessful, so if anyone has any suggestions please do not hesitate to comment. 
+
+*Parachute person from Pixabay",Click the green flag. ,8909132,https://cdn2.scratch.mit.edu/get_image/project/235959487_480x360.png,2018-07-10T01:31:02.000Z,2018-07-11T04:21:49.000Z,2018-07-10T03:23:11.000Z,11,1,0,0,0,,
+235958399,Ring My Bell Unstuck #5,"If I had more time I'd keep tweaking it. The snowman seems to hit the red (or be hit by the red) more frequently than the blue. 
+
+Thanks to @speakvisually for the idea to make the snowman jump and rotate","Click the green flag to begin. Use the arrow keys to move up, down, left, and right. You can also use S to shrink the snowman to avoid the red bell and G to grow.
+
+Score 2 points by hitting the blue bell. Try to avoid the red bell or you'll lose a point.",124311,https://cdn2.scratch.mit.edu/get_image/project/235958399_480x360.png,2018-07-10T01:17:45.000Z,2018-07-10T03:36:49.000Z,2018-07-10T03:31:42.000Z,5,1,1,0,0,,
+235962785,Bashful Butterfly,I had made a similar game before but this time reversed the objective as it was too easy to score.,Use the mouse to make the butterfly avoid the balloons. If tapped the butterfly will freeze. Added difficulty is one balloon creates copies which can also freeze you. Lowest score wins!,30508500,https://cdn2.scratch.mit.edu/get_image/project/235962785_480x360.png,2018-07-10T02:22:59.000Z,2018-07-10T03:48:56.000Z,2018-07-10T03:48:56.000Z,11,1,0,0,0,,
+235931345,Getting Unstuck: Day 5,"When I saw flying and jumping in the challenge only one story came to my mind: The Aztec's hummingbird legend. A really beautiful story. This is just a piece of it. I hope you like it. 
+
+I experimented with creating ""jump"" instructions as well as having sequenced broadcast to tell a story. I wanted to make it interactive but I din't have that much time. I'll save it for the next time :D","Getting Unstuck Day 5.
+
+Click the green flag.",32493591,https://cdn2.scratch.mit.edu/get_image/project/235931345_480x360.png,2018-07-09T18:35:33.000Z,2018-07-10T04:29:17.000Z,2018-07-10T04:26:41.000Z,23,6,2,0,0,,
+235938087,day 5,,#NAME?,23593293,https://cdn2.scratch.mit.edu/get_image/project/235938087_480x360.png,2018-07-09T19:45:35.000Z,2018-07-11T14:10:56.000Z,2018-07-10T05:06:44.000Z,7,1,0,0,0,,
+235969022,Summer Fly Unstuck Day 5 by Dawn,many many iterations.!!!,"Press the Flag to determine when the cat will catch and eat the fly.   Press the flag a couple of times. My computer is going crazy...must be my browser.  I am starting the question of randomness and fairness. Naturally, we often have flies that will fly slow and low to the ground making it easier for them to catch.  I am questioning if I should remove the low flying possibility to ensure the fly will never start in the cats mouth or be caught in less than two jumps.  ",31144646,https://cdn2.scratch.mit.edu/get_image/project/235969022_480x360.png,2018-07-10T04:32:09.000Z,2018-07-19T16:26:49.000Z,2018-07-10T05:56:29.000Z,5,2,0,0,0,,
+235943582,Number Hop and Spell,"This project responds to the prompt for Getting Unstuck:  Day 5:  ""Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava."" 
+
+Today's strategy was ""Find a tutorial.""  I used the Pong Game cards from the Scratch Coding Cards set!
+
+I could also add points for right answers.  One question that I have is how to make the hopping seem a little more realistic.","Click the green flag, then get ready to practice spelling numbers 0 - 10!",527557,https://cdn2.scratch.mit.edu/get_image/project/235943582_480x360.png,2018-07-09T21:00:50.000Z,2018-07-10T06:06:33.000Z,2018-07-10T06:06:33.000Z,15,5,1,0,0,,
+235942343,Flying and Jumping,,Click on the green flag and see what happens.,32833725,https://cdn2.scratch.mit.edu/get_image/project/235942343_480x360.png,2018-07-09T20:44:01.000Z,2018-07-10T06:42:40.000Z,2018-07-10T06:42:40.000Z,5,1,0,0,0,,
+235975853,Untitled-40,,,15802566,https://cdn2.scratch.mit.edu/get_image/project/235975853_480x360.png,2018-07-10T06:44:42.000Z,2018-07-10T07:14:06.000Z,2018-07-10T07:14:06.000Z,4,0,0,0,0,,
+235971218,day 5 - jump,"Seymour Papert and Andrea di Sessa have inspired my computational thinking about jumps.
+
+* Papert ""Kinetic microworlds"" in http://www.papert.org/articles/AnExplorationintheSpaceofMathematicsEducations.html
+
+* di Sessa ""Mathematics of Motion"" in https://cloudfront.escholarship.org/dist/prd/content/qt4bv8b9d2/qt4bv8b9d2.pdf
+","Press the right arrow to change the horizontal velocity, up arrow for the vertical velocity.",214,https://cdn2.scratch.mit.edu/get_image/project/235971218_480x360.png,2018-07-10T05:20:47.000Z,2018-07-10T07:18:52.000Z,2018-07-10T07:18:52.000Z,8,1,0,0,0,,
+235975489,Unstuck 5,If I had more time I would like to make the spider creating the web at the beginning of the game,"Press Green Flag to start.
+Press Arrow keys to move up, down, right, left. 
+Catch Beatles and Avoid Arrows!
+
+Premi Bandierina Verde per iniziare.
+Premi le frecce per muoverti su, giù, a destra e a sinistra.
+Cattura gli scarafaggi e evita le frecce",13846307,https://cdn2.scratch.mit.edu/get_image/project/235975489_480x360.png,2018-07-10T06:39:33.000Z,2018-07-10T07:39:31.000Z,2018-07-10T07:36:33.000Z,7,0,0,0,0,,
+235980133,Going on Vacation,"I had an idea for an awesome project where the Scratch Cat would jump higher and higher, and fly into space, and then land to the moon, and jump from there back to the earth... but today it was a crazy day and I couldn't find the time do make it, yet! 
+
+So for now I decided to post this old project that I made for April's Fool 2016, when the Scratch Cat went on vacation and Scratchers were wondering where the cat was and how they were getting around! https://scratch.mit.edu/discuss/topic/191220/
+
+I imagined the Scratch Cat happily flying on a magic carpet, wearing sunglasses and casually slaloming through the trees. I guess I'm dreaming of a getaway too! :)
+
+Music is royalty free, from incompetech.com
+
+Thanks @ceebee for the original project and the getting unstuck community for being so encouraging!","Click the green flag and enjoy the ride.
+Press the space bar for extra fun!",2286560,https://cdn2.scratch.mit.edu/get_image/project/235980133_480x360.png,2018-07-10T07:44:08.000Z,2018-07-19T01:48:55.000Z,2018-07-10T08:16:28.000Z,16,6,2,0,0,103415695,103415695
+235982847,The dove from the Ark,Should have done an animated flight but constrained by time.,"Getting Unstuck #Day 5
+
+Click green flag to start.
+",158902,https://cdn2.scratch.mit.edu/get_image/project/235982847_480x360.png,2018-07-10T08:18:16.000Z,2018-07-10T22:06:31.000Z,2018-07-10T09:33:41.000Z,6,1,0,0,0,,
+235988584,ZackBoston Jumping Game,This is a game we created to use to teach Makey Makey.  Youth remix this game and connect it to a slap switch ,The space bar is connected to jump. . . .! ,27658530,https://cdn2.scratch.mit.edu/get_image/project/235988584_480x360.png,2018-07-10T09:32:47.000Z,2018-07-20T17:22:05.000Z,2018-07-10T09:33:24.000Z,18,2,0,0,0,,
+235992760,Getting Unstuck Day 5,,,14159575,https://cdn2.scratch.mit.edu/get_image/project/235992760_480x360.png,2018-07-10T10:34:03.000Z,2018-07-10T10:34:37.000Z,2018-07-10T10:34:36.000Z,10,2,0,0,0,,
+235992331,#GettingUnstuck_5,"Í´d like add interactions between sprites using looks, say""..."" etc.","Click ""Green Flag"" and all the animals will be moving around the background.",16962202,https://cdn2.scratch.mit.edu/get_image/project/235992331_480x360.png,2018-07-10T10:26:57.000Z,2018-07-10T11:21:43.000Z,2018-07-10T11:14:55.000Z,3,0,0,0,0,,
+235995630,Day 5,,Use the arrow keys to move the bird to collect the apples.,24884035,https://cdn2.scratch.mit.edu/get_image/project/235995630_480x360.png,2018-07-10T11:20:18.000Z,2018-07-10T11:33:20.000Z,2018-07-10T11:32:56.000Z,9,0,0,0,0,,
+235998267,Getting Unsucked day 5,,click on the green flag,25103547,https://cdn2.scratch.mit.edu/get_image/project/235998267_480x360.png,2018-07-10T11:57:57.000Z,2018-07-10T12:25:12.000Z,2018-07-10T12:24:40.000Z,12,2,0,0,0,,
+236005832,Getting Unstuck #5,,,18174236,https://cdn2.scratch.mit.edu/get_image/project/236005832_480x360.png,2018-07-10T13:18:50.000Z,2018-07-10T13:21:40.000Z,2018-07-10T13:21:40.000Z,7,0,0,0,0,,
+235933716,Flying,,Just Click on the Green flag,3602053,https://cdn2.scratch.mit.edu/get_image/project/235933716_480x360.png,2018-07-09T18:56:43.000Z,2018-07-10T15:09:20.000Z,2018-07-10T15:09:01.000Z,10,3,0,0,0,,
+236020350,Candle Jumper Day #5 Getting Unstuck,"What did you like most about your project? I like that the jumping corresponds to the candles jumping. I think that I could actually make candles do this in real life. 
+What would you do with it next, if you had more time? I would smooth out the transitions and figure out have to have the jumping coded differently than using the broadcast blocks.",Press the green arrow and them the space bar to start the jumping.,28676433,https://cdn2.scratch.mit.edu/get_image/project/236020350_480x360.png,2018-07-10T15:11:51.000Z,2018-07-10T15:58:10.000Z,2018-07-10T15:55:21.000Z,8,1,0,0,0,,
+236027726,Getting Unstuck Day 5,If I had a little more time I'd like to figure out how to get the parrot to flap its wings as it goes across the screen!,"Challenge: Create a project that involves one or more sprites jumping or flying.
+
+Click the green flag",34245752,https://cdn2.scratch.mit.edu/get_image/project/236027726_480x360.png,2018-07-10T16:18:23.000Z,2018-07-10T23:02:03.000Z,2018-07-10T16:32:04.000Z,4,1,0,0,0,,
+236029931,Motion Study -- Unstuck Challenge 5,"I was able to use some of what I learned in the previous challenges to make my cat walk, glide and fly.  It gets easier the more familiar you are with the coding tools.  It only requires a little bit of tweaking to create new animations.","Press the green flag to start
+Click the cat to begin the animation!",11608238,https://cdn2.scratch.mit.edu/get_image/project/236029931_480x360.png,2018-07-10T16:40:13.000Z,2018-07-10T16:57:56.000Z,2018-07-10T16:56:26.000Z,6,1,0,0,0,,
+236048072,Getting Unstuck Day 5  MoonHack Remix,I recently completed the Moonhack 2017 project and it included a jump script.  I added Gobi as my second character for that.,"Instructions for completing this project are found at https://codeclubprojects.org/en-GB/scratch/moonhack-scratch/
+
+For Scratch the Cat:
+Space Bar = jump
+Right Arrow = walk right
+Left Arrow = walk left
+
+For Gobi:
+Up Arrow = jump
+L = walk left
+R = walk right",34190765,https://cdn2.scratch.mit.edu/get_image/project/236048072_480x360.png,2018-07-10T19:31:03.000Z,2018-07-10T21:01:20.000Z,2018-07-10T19:32:22.000Z,4,1,0,0,0,160239226,160239226
+235940771, ball bomb,Its difficult to make the controls run smoothly,"Use arrows to control the ball
+Jump over the bombs
+When you have touched a bomb 3 times its game over.",11482292,https://cdn2.scratch.mit.edu/get_image/project/235940771_480x360.png,2018-07-09T20:21:30.000Z,2018-07-10T20:30:22.000Z,2018-07-10T20:10:16.000Z,2,0,0,0,0,,
+236024169,Getting Unstuck Day 5 - Flying Unicorns,"This was challenging.  I tried to make one unicorn look like it was flying off towards the sun, but when I would hit stop and then hit the flag again the white unicorn would no longer be there.  Any advice is welcomed! Thank you!",Click the green flag. ,34221568,https://cdn2.scratch.mit.edu/get_image/project/236024169_480x360.png,2018-07-10T15:44:45.000Z,2018-07-10T20:37:52.000Z,2018-07-10T20:34:51.000Z,13,1,0,0,0,,
+236051936,Tumbleweeds in the wind,"Having a hard time stopping the scratch at the right time. I wanted the weeds to hit go off the edge as if they were continuing off the page but couldn't figure that out. I tried ""repeat until hits edge"" but they just kind of hit the end and still move oddly. ",Press the green flag and watch the weeds blow.,34227265,https://cdn2.scratch.mit.edu/get_image/project/236051936_480x360.png,2018-07-10T20:21:28.000Z,2018-07-10T20:58:54.000Z,2018-07-10T20:57:10.000Z,9,0,0,0,0,,
+236039863,Unstuck Day 5 - Beach Games,"1. I couldnt work out how to only allow one point for each 'touch' as the script continually sees Hannah touching the ball.
+2.  I coudlnt work out how to get the crab to reduce the points as much as I tried. :(
+
+NOTE: My son helped me fix the glitch by adding a (wait) block!
+Genius! @epic_dab123
+","Getting Unstuck Day 5
+#CreativeComputing
+#GettingUnstuckThis took me HOURS to do.  Every time I thought I was getting somewhere, I made a small change and messed up the scoring.
+Move Hannah using the arrow keys to catch the ball and claim 1 point.
+Watch out for the crab as he will steal 1 point!
+game over when you reach 10 points....  thats if I ever get it working!
+Hope you have fun playing.  Its tricky.
+Comments welcome!",24864870,https://cdn2.scratch.mit.edu/get_image/project/236039863_480x360.png,2018-07-10T18:12:24.000Z,2018-07-15T09:58:35.000Z,2018-07-10T21:06:54.000Z,24,3,0,0,0,,
+236051715,day 05,,,771142,https://cdn2.scratch.mit.edu/get_image/project/236051715_480x360.png,2018-07-10T20:18:20.000Z,2018-07-10T21:09:45.000Z,2018-07-10T21:09:00.000Z,3,0,0,0,0,,
+236051160,Flying Hippo (Getting Unstuck Day 5),Use the how to tutorial.,"Click the flag to begin.
+
+Use the up and down arrow to move the hippo in desired direction.",34198395,https://cdn2.scratch.mit.edu/get_image/project/236051160_480x360.png,2018-07-10T20:10:28.000Z,2018-07-15T04:08:27.000Z,2018-07-10T21:08:49.000Z,4,2,0,0,0,,
+236053903,Getting Unstuck Day 5,"Thanks to Getting Unstuck for the idea for this project.
+I was inspired to use sound sensing by the project @mres demonstrated during his TED talk where a bat is controlled by the sound made by the audience.
+I'd like to make this project into a game where obstacles appear and move towards Scratch and the user has to try and control Scratch to avoid them or collect them.
+Feel free to remix and have a go yourself.","Click the green flag to go.
+Use the microphone on your computer to detect noise. The more noise you make, the higher Scratch will fly!",287832,https://cdn2.scratch.mit.edu/get_image/project/236053903_480x360.png,2018-07-10T20:49:08.000Z,2018-07-10T21:14:30.000Z,2018-07-10T21:09:18.000Z,11,3,0,0,0,,
+236000374,Getting Unstuck: Day 5,,"Click the octopuses! (they are not exactly ""flying"" but ""flying"" in the water :))",599612,https://cdn2.scratch.mit.edu/get_image/project/236000374_480x360.png,2018-07-10T12:26:00.000Z,2018-07-10T21:21:52.000Z,2018-07-10T21:20:54.000Z,3,0,0,0,0,,
+236039555,#GettingUnstuck Day 5-2,,Use the arrows to get Bat to its home. Bump into Ghost or Dragon for a special effect.,18062705,https://cdn2.scratch.mit.edu/get_image/project/236039555_480x360.png,2018-07-10T18:09:52.000Z,2018-07-10T22:02:56.000Z,2018-07-10T21:57:12.000Z,3,0,0,0,0,,
+236053434,Day 5 - Flying in Space,"I made a spaceship fly through space and various things pass it by. It was hard getting all the timing right, and it's still not great!",Click the green flag.,31044612,https://cdn2.scratch.mit.edu/get_image/project/236053434_480x360.png,2018-07-10T20:42:34.000Z,2018-07-10T22:01:28.000Z,2018-07-10T22:00:38.000Z,9,0,0,0,0,,
+236041597,Getting Unstuck - Day 5,"The most difficult part of this project was the skipping of the rock and changing the size as it got farther away.  When I did that with the cat AND the rock at the same time it became difficult to keep the rock in the cat's hand.  So, it hides during the cats run and then shows at the time of the toss.  I added the geese and the canoers just for interest.  
+
+If I had time, I'd add add code for IF the rock hits the canoers as they go by.","Getting Unstuck Day 5: Create a project that involves one or more sprites jumping or flying.
+
+I was inspired by my lake house and a news report I saw about a rock skipping contest.  
+
+Click on the green flag to start everything. Then Click on the Scratch Cat to skip a rock a random number of times between 1 and 10.  Click on the Scratch Cat to replay.",14400846,https://cdn2.scratch.mit.edu/get_image/project/236041597_480x360.png,2018-07-10T18:26:08.000Z,2018-07-10T22:20:04.000Z,2018-07-10T22:14:11.000Z,4,2,0,0,0,,
+236065190,Getting Unstuck Day 5,"I had fun creating this backdrop. I was inspired by my trip to California in June - wishing I could be back at the beach.
+
+My buildings keep going on top of each other but otherwise the project went how I wanted it to. ",click the green flag to watch the airplane fly,24781756,https://cdn2.scratch.mit.edu/get_image/project/236065190_480x360.png,2018-07-11T00:10:34.000Z,2018-07-11T13:36:35.000Z,2018-07-11T00:33:34.000Z,6,0,0,0,0,,
+236069543,Going Batty,"Again, I found I had to add ""wait .5 second"" block between the flaps of the wings in order for the bat wing movement to work.",Start the flying movement with the green flag,34205973,https://cdn2.scratch.mit.edu/get_image/project/236069543_480x360.png,2018-07-11T01:10:49.000Z,2018-07-11T01:31:14.000Z,2018-07-11T01:29:00.000Z,6,0,0,0,0,,
+236075491,Flying Sprites- Day 5,Create a project that involves one or more sprites jumping or flying. ,Press the green flag.,25165723,https://cdn2.scratch.mit.edu/get_image/project/236075491_480x360.png,2018-07-11T02:46:08.000Z,2018-07-11T03:04:07.000Z,2018-07-11T03:04:07.000Z,4,0,0,0,0,,
+236076329,Unstuck Day 5 Rushing,"This lesson uses a moving background.  The bat's position is only moving up and down.  The illusion of forward movement is gained by the background moving to the left.
+
+To make this more engaging to students -- we would add a way to score points.  Maybe insects would randomly appear and if the bat caught them points would be earned.  Or -- perhaps the game would be over if the bat hit the tree.  Lots of options.  ",Click the Green Flag to start.  Then use the space key to help the Bat fly through they sky.  ,7525698,https://cdn2.scratch.mit.edu/get_image/project/236076329_480x360.png,2018-07-11T03:02:28.000Z,2018-07-11T03:18:01.000Z,2018-07-11T03:18:01.000Z,8,1,0,0,0,,
+235984303,unstuck 5,When you clck on the plane I had to move it to the background otherwise the heart didn't show.,Why did a plane sometimes wink above our house? This is a story about the last two weeks before I was born.,1072279,https://cdn2.scratch.mit.edu/get_image/project/235984303_480x360.png,2018-07-10T08:36:03.000Z,2018-07-10T19:35:38.000Z,2018-07-10T19:32:44.000Z,15,3,0,0,0,,
+236088677,Getting Unstuck - Day 5,I played with having a sprite scroll forever back and forth. The bounce function was also implemented whenever the avocado touches the human. I also needed to clone the avocado once it reached a certain height and put it back in a random position on the top.,Press the green flag and watch a hungry Jess try to eat avocados. What happens if she succeeds?,25334812,https://cdn2.scratch.mit.edu/get_image/project/236088677_480x360.png,2018-07-11T07:11:33.000Z,2018-07-11T08:21:26.000Z,2018-07-11T08:18:23.000Z,4,0,0,0,0,,
+236103553,Hit the Apple!,"Getting Unstuck day-5
+by Massimo Marletta
+","Hit the Apple and avoid the Shark!
+Move fast the Red-Arrow to hit the Apple but stay away from the vicious Shark!
+Use the Left Arrow key to increase speed, the Right Arrow key to decrease speed, the Up/Down Arrows to change direction.
+Every time you hit the Apple you will earn as many points as your speed; if you touch the Shark you will lose points.",4804940,https://cdn2.scratch.mit.edu/get_image/project/236103553_480x360.png,2018-07-11T10:42:37.000Z,2018-07-11T11:33:06.000Z,2018-07-11T11:27:27.000Z,7,0,0,0,0,,
+236106138,Flying - Getting Unstuck Day 5,"Royalty free music
+Composer: Benjamin TISSOT (alias Bensound)
+Summer","Click on the green flag.
+Small animation with the seagull.
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->
+Getting Unstuck: Day 5 - #CreativeComputing
+
+Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava. 
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->",24583107,https://cdn2.scratch.mit.edu/get_image/project/236106138_480x360.png,2018-07-11T11:16:58.000Z,2018-07-11T11:37:04.000Z,2018-07-11T11:37:04.000Z,6,0,0,0,0,,
+236113376,unstuck5 WingSuit in Space,"Still need to add some more flying objects
+Thought it might be a bit data hungry but is running ok on my bowser.","How fast can you reach the ground?
+Dont hit any flying objects
+
+left right keys
+Up down keys hover and dive
+",17651534,https://cdn2.scratch.mit.edu/get_image/project/236113376_480x360.png,2018-07-11T12:50:40.000Z,2018-07-11T13:00:52.000Z,2018-07-11T12:57:45.000Z,4,1,1,0,0,,
+235984489,Getting Unstuck: Day 5,"Idea from Teaching Tech, https://www.youtube.com/watch?v=g_DsSs042sM","The little girl is blowing the dandelion and seeds are flying. 
+In the end use up and down arrow.
+
+",5819312,https://cdn2.scratch.mit.edu/get_image/project/235984489_480x360.png,2018-07-10T08:38:03.000Z,2018-07-12T13:18:58.000Z,2018-07-11T14:28:27.000Z,16,0,0,0,0,,
+236133093,Getting Unstuck: Day 5,Lots more work required but fun to do,,24912473,https://cdn2.scratch.mit.edu/get_image/project/236133093_480x360.png,2018-07-11T15:36:41.000Z,2018-07-16T16:37:38.000Z,2018-07-11T15:47:32.000Z,3,0,0,0,0,,
+175007086,Flying Hippo,,Use the Up and down arrow keys to move the hippo up and down,25706025,https://cdn2.scratch.mit.edu/get_image/project/175007086_480x360.png,2017-09-17T13:14:06.000Z,2018-07-11T16:14:48.000Z,2018-07-11T16:14:48.000Z,11,1,0,0,0,,
+235928242,Unstuck_5,,Press the green flag to see Kitty fly from one scene to another.  Enjoy,9694576,https://cdn2.scratch.mit.edu/get_image/project/235928242_480x360.png,2018-07-09T18:10:35.000Z,2018-07-11T16:56:30.000Z,2018-07-11T16:56:07.000Z,2,0,0,0,0,,
+235870660,Unstuck_4,,"After clicking the green flag, to make Kitty bigger press key b, to make Kitty smaller press key s.  To change Kittyʻs color, press m",9694576,https://cdn2.scratch.mit.edu/get_image/project/235870660_480x360.png,2018-07-09T07:23:14.000Z,2018-07-09T07:32:38.000Z,2018-07-09T07:31:34.000Z,5,0,0,0,0,,
+236153263,Getting Unstuck 5,,"The task was to create something with a Sprite flying, so I used the glide block",16010675,https://cdn2.scratch.mit.edu/get_image/project/236153263_480x360.png,2018-07-11T18:49:13.000Z,2018-07-11T18:52:36.000Z,2018-07-11T18:52:13.000Z,3,0,0,0,0,,
+236153468,"Day 5, Hop, Skip, Jump",,"Press s to skip.
+Press h to hop.
+Press j to hop.",17846897,https://cdn2.scratch.mit.edu/get_image/project/236153468_480x360.png,2018-07-11T18:51:09.000Z,2018-07-11T19:09:06.000Z,2018-07-11T19:06:51.000Z,9,1,0,0,0,,
+236074384,Unstuck - Day 5,"This one was fun to make!  My daughter and I were incremental and iterative as we went move by move to make the animation.  I showed her how to make a sprite scroll up to give the impression that another stationary sprite was falling.  She made the suggestion that the Scratch Cat look like he is shrinking when he flies to catch the ballerina.  Every time we ran the program, Mik would read the speech bubbles and act out the voices of the character.  I should have just recorded her voice and played the sound for each of the exclamations. :-)
+We are going to look at other people's projects and leave a comment or two.
+Hope you enjoyed watching this as much as we enjoyed making it!",Click the green flag to start the show!,2456527,https://cdn2.scratch.mit.edu/get_image/project/236074384_480x360.png,2018-07-11T02:27:06.000Z,2018-07-11T21:32:52.000Z,2018-07-11T21:28:14.000Z,3,1,0,0,0,,
+236167468,Getting Unstuck [Day 5],This is getting unstuck day 5!,Use the arrow keys to fly around,13594403,https://cdn2.scratch.mit.edu/get_image/project/236167468_480x360.png,2018-07-11T22:11:06.000Z,2018-07-11T22:20:52.000Z,2018-07-11T22:20:52.000Z,13,0,0,0,0,,
+235989645,generative art - storm clouds flying by,"Getting Unstuck: Day 5
+Create a project that involves one or more sprites jumping or flying. 
+
+Getting Unstuck: Day 19
+Create a project that uses the cloning features of Scratch. For example, you could make a project that represents a natural or human-made phenomenon.
+
+I got really stuck on a few unexplained glitches but got unstuck after simplifying of the maths magic. 
+
+As a bonus, I discovered an interesting graphical technique while debugging, when I turned on the pen to study the clones' path. See inside the code to try it for yourself!",Press the green flag and enjoy the fog :),34248043,https://cdn2.scratch.mit.edu/get_image/project/235989645_480x360.png,2018-07-10T09:47:57.000Z,2018-07-24T09:05:13.000Z,2018-07-12T00:53:57.000Z,25,13,5,0,0,,
+236191085,5 : Watch the pipes,"Tak til LaneTechnology, som har lavet denne tutorial: https://youtu.be/637JCXOu3H8
+
+Thank you LaneTechnology who made this tutorial:
+https://youtu.be/637JCXOu3H8","Brug mellemrumstasten til at styre sommerfuglen.
+Hver gang du rammer et rør, mister sommerfuglen et liv. Hvor mange point kan du få?
+
+Use the space bar to control the butterfly. 
+Every time you hit a pipe - the butterfly loses 1 life.
+How high a score can you get?",1252137,https://cdn2.scratch.mit.edu/get_image/project/236191085_480x360.png,2018-07-12T06:05:25.000Z,2018-07-29T06:23:24.000Z,2018-07-12T06:22:20.000Z,5,0,0,0,0,,
+236201051,Getting Unstuck Day5,"What did you like most about your project? Working out which directions/steps looked the best for flying. 
+
+What would you do with it next, if you had more time? Do the timing properly so that it uses coordinates to determine size. Add some more characters and change the layers so they fly in front and behind the clouds. 
+",,17809789,https://cdn2.scratch.mit.edu/get_image/project/236201051_480x360.png,2018-07-12T08:41:14.000Z,2018-07-12T09:15:12.000Z,2018-07-12T09:12:38.000Z,7,0,0,0,0,,
+235993333,QBFJOLD - Getting Unstuck! -  Day 5,,"The Quick Brown Fox jumped over the Lazy Dog!!
+
+Press the space bar to get the Fox to jump over the dog. 
+
+Don't touch the dog - or game over!",19641362,https://cdn2.scratch.mit.edu/get_image/project/235993333_480x360.png,2018-07-10T10:42:01.000Z,2018-07-12T10:20:25.000Z,2018-07-11T21:32:32.000Z,6,1,0,0,0,,
+236133461,Getting Unstuck #5 Camminata in spiaggia,#GettingUnstuck,"Clicca sulla bandierina verde
+Usa i tasti freccia per far muovere la ragazza
+Usa i tasti w s a d per far muovere il ragazzo",17320587,https://cdn2.scratch.mit.edu/get_image/project/236133461_480x360.png,2018-07-11T15:39:59.000Z,2018-07-12T10:46:34.000Z,2018-07-12T10:44:31.000Z,6,0,0,0,0,,
+236203182,getting unstuck day 5,I have learned to go back and go front sprites.Ramdom bouce and glide.,espace to jump.,23020553,https://cdn2.scratch.mit.edu/get_image/project/236203182_480x360.png,2018-07-12T09:11:49.000Z,2018-07-12T17:47:08.000Z,2018-07-12T10:17:52.000Z,9,0,0,0,0,,
+236203156,Getting Unstuck day 5,"I've learned to move softly the character, use random numbers for directions. 
+I have enjoy doing this project and playing it.","Catch the ball. 
+Move with arrows.
+Space for jump.
+",2680901,https://cdn2.scratch.mit.edu/get_image/project/236203156_480x360.png,2018-07-12T09:11:21.000Z,2018-07-12T10:59:27.000Z,2018-07-12T10:55:40.000Z,6,0,0,0,0,,
+236152395,Jumping Music,"I shared a slightly different version on my test account! I was thinking about it and thought it would be interesting if the jumping things were music notes that hit the notes at their peak. 
+
+I find this really mesmerizing to play with with big number of notes. 
+
+Update: Just added chord changes after being inspired by @jsh's project Drops.
+
+===Notes from the original===
+I wanted to make something for the Getting Unstuck prompt about jumping (but ultimately also incorporated music and randomness). I didn't know exactly what I wanted it to be like, but I thought it would be fun to have lots of interactive things jumping. So I started with some clones and went from there. 
+
+While making this, I experimented with different ways to make a smooth jumping effect. At first, I was doing it the ""math"" way, with a parabolic equation. But I found that confusing in terms of getting the effect that I wanted, and I knew that the code would be big and hard to look at! So I switched to the ""physics"" way, by having a y velocity that I constantly changed with gravity, and repeatedly changing the y position.
+
+Of course, either would work (and they're very related) but the ""physics"" version felt more like I was using the affordances of Scratch and was easier for me to think about, so I stuck with that.
+
+I also added ""play note"" sounds. I experimented with different scales, using lists, and ultimately landed on Bb blues.
+ 
+
+","Wave your mouse to make them jump.
+
+Change the number of jumping notes with the slider.
+
+See what happens when you press 'r'.
+
+Feel free to remix! What else could be jumping?",246290,https://cdn2.scratch.mit.edu/get_image/project/236152395_480x360.png,2018-07-11T18:40:26.000Z,2018-07-16T17:51:57.000Z,2018-07-11T19:23:35.000Z,352,48,33,0,0,236120296,236120296
+236220704,Unstuck #5 Flying/Gliding,VERY basic but still learning,Click the right arrow for the horse to move,24269220,https://cdn2.scratch.mit.edu/get_image/project/236220704_480x360.png,2018-07-12T13:17:36.000Z,2018-07-12T13:41:12.000Z,2018-07-12T13:40:29.000Z,4,0,0,0,0,,
+236224037,Getting Unstuck Day 5,Book: I also program Dschola,Run away from the dragon! Use the arrow keys! How long do you stand?,13275782,https://cdn2.scratch.mit.edu/get_image/project/236224037_480x360.png,2018-07-12T13:46:50.000Z,2018-07-12T14:07:22.000Z,2018-07-12T14:07:22.000Z,3,0,0,0,0,,
+236232805,Getting unstuck day5,,space to move the bat,17636749,https://cdn2.scratch.mit.edu/get_image/project/236232805_480x360.png,2018-07-12T15:03:26.000Z,2018-07-12T15:33:55.000Z,2018-07-12T15:33:36.000Z,4,0,0,0,0,,
+236241407,Getting Unstuck5: peace,,Press the green flag,16573108,https://cdn2.scratch.mit.edu/get_image/project/236241407_480x360.png,2018-07-12T16:28:41.000Z,2018-07-13T08:45:44.000Z,2018-07-12T17:00:01.000Z,2,0,0,0,0,,
+236242805,unstuck 5 flying,This was very simplified compared to what I seen but I have something to work towards.,push green flag,16426717,https://cdn2.scratch.mit.edu/get_image/project/236242805_480x360.png,2018-07-12T16:41:59.000Z,2018-07-12T17:13:01.000Z,2018-07-12T17:12:04.000Z,6,0,0,0,0,,
+236263796,Unstuck Day 5,"Fun project.  Great way to teach my students how changing costumes makes something look like it's moving.  Also love using broadcast/receive blocks, do powerful!",Unstuck Day 5 - all starts on Green Flag.,11885888,https://cdn2.scratch.mit.edu/get_image/project/236263796_480x360.png,2018-07-12T20:45:09.000Z,2018-07-12T20:47:21.000Z,2018-07-12T20:47:21.000Z,6,0,0,0,0,,
+236262287,Unstuck Day 5 project,"Thanks to user @okpeery for inspiring me to attempt a scrolling background in my project! I struggled to get it just right, and had trouble ""stopping"" it when the cat got wet (so I took that code out), but I learned a lot in the process! #unstuck #creativecomputing",Don't get Scratch cat wet! Use the space bar to jump over the water!,17786521,https://cdn2.scratch.mit.edu/get_image/project/236262287_480x360.png,2018-07-12T20:21:57.000Z,2018-07-12T21:08:34.000Z,2018-07-12T21:07:23.000Z,8,1,0,0,0,,
+236271612,Getting Unstuck Day 5 LK,There are bunnies taking over Grandma Phyllis's garden.,Click the green flag to begin,27094795,https://cdn2.scratch.mit.edu/get_image/project/236271612_480x360.png,2018-07-12T23:11:28.000Z,2018-07-13T01:41:07.000Z,2018-07-13T01:30:48.000Z,3,0,0,0,0,,
+236278638,Getting Unstuck 5: From grey skies to blue,"Painting from the MET Public Domain Image
+Woodpecker
+Gao Qifeng
+
+This took some time to think about how to animate the bird to appear as if it is moving off of the painting and onto the blue sky. The ability to edit images came in quite handy!  Also had to remember a little math in changing the x/y values to make the bird fly the right direction.",Click on the green flag to animate the bird from the painting,1353497,https://cdn2.scratch.mit.edu/get_image/project/236278638_480x360.png,2018-07-13T01:21:50.000Z,2018-07-13T01:57:07.000Z,2018-07-13T01:54:53.000Z,9,3,1,0,0,,
+236287279,05 Getting Unstuck - Jumping,"Pikachu sprite from @Spriteman22
+Thanks for @rbotero and @PrescottRoadrunner for help with the jump function - this was a new way for me and I like it!
+Thank you to @jrushing72 for help with the moving background.","Use the space bar to jump over holes!
+Click the green flag to begin.",5401184,https://cdn2.scratch.mit.edu/get_image/project/236287279_480x360.png,2018-07-13T04:22:33.000Z,2018-07-13T05:43:46.000Z,2018-07-13T05:42:56.000Z,5,2,0,0,0,,
+149579224,Getting Unstuck Day 5,"Progetto creato da Valeria Muccio e modificato per
+Getting Unstuck Day 5",Continua o modifica a tuo piacimento,15572972,https://cdn2.scratch.mit.edu/get_image/project/149579224_480x360.png,2017-03-10T16:11:08.000Z,2018-07-19T07:40:27.000Z,2017-03-10T17:25:41.000Z,4,0,0,0,0,,
+236339814,day 5 of unstuck,I am just trying to get caught up after falling behind the past few days so I relied on the tutorials for help on this one!  Key learning was how to use the code to develop an animation.,,25095252,https://cdn2.scratch.mit.edu/get_image/project/236339814_480x360.png,2018-07-13T17:23:33.000Z,2018-07-13T17:40:54.000Z,2018-07-13T17:36:21.000Z,6,0,0,0,0,,
+236326333,ultimate hot potato,I am having trouble making the snowflakes fall more randomly and have had to stop for now. I think I will play with some variables later to make it more realistic.,click green flag to watch the snowmen play catch with the sun.,34099462,https://cdn2.scratch.mit.edu/get_image/project/236326333_480x360.png,2018-07-13T14:39:46.000Z,2018-07-26T17:57:15.000Z,2018-07-13T22:48:14.000Z,7,1,0,0,0,,
+236247078,Getting Unstuck – Day 5,"Made for Day 5 of Getting Unstuck:
+
+Create a project that involves one or more sprites jumping or flying.",Press space to jump! Don't hit the rocks!,588648,https://cdn2.scratch.mit.edu/get_image/project/236247078_480x360.png,2018-07-12T17:24:43.000Z,2018-07-13T23:46:00.000Z,2018-07-13T23:45:31.000Z,6,0,0,0,0,,
+236299270,Getting Unstuck: Day 5,Andrés Gil Ruiz.,"Space bar: swim
+Right arrow: ahead
+Left arrow: back
+
+Try to catch all the fishes, but be careful with the octopus.
+
+*There are any failures with clones. Please, if you find that, tell me in comments. Thanks.
+
+I've learned how make the sprites repeat movements. ",27636310,https://cdn2.scratch.mit.edu/get_image/project/236299270_480x360.png,2018-07-13T08:14:54.000Z,2018-07-14T05:57:36.000Z,2018-07-14T05:53:46.000Z,3,0,0,0,0,,
+73234574,I like apple !,"Semplice gioco per l'uso della tastiera.
+
+Learning to use the keyboard.","Clicca sulla bandiera verde: al pappagallo piacciono le mele, perciò  usa le frecce per farlo muovere.
+
+Click on the green flag: parrot likes apples, then use arrows to move it.
+",11312120,https://cdn2.scratch.mit.edu/get_image/project/73234574_480x360.png,2015-08-16T14:52:47.000Z,2018-08-06T11:21:41.000Z,2018-07-14T08:15:35.000Z,5,1,0,0,0,,
+236337061,Unstuck 5,,,18827386,https://cdn2.scratch.mit.edu/get_image/project/236337061_480x360.png,2018-07-13T16:49:36.000Z,2018-07-13T16:50:01.000Z,2018-07-13T16:50:01.000Z,2,0,0,0,0,,
+236391758,Getting Unstuck: Day 5,"This is my project for Day 5 of the Getting Unstuck programming challenge.
+
+This animation praises freedom. There are two parrots that fly free in the sky and change direction every time they meet. I also added background music to make the animation more interesting.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621",Create a project that involves one or more sprites jumping or flying.,34314391,https://cdn2.scratch.mit.edu/get_image/project/236391758_480x360.png,2018-07-14T11:07:30.000Z,2018-07-14T11:40:11.000Z,2018-07-14T11:36:57.000Z,7,0,0,0,0,,
+236403725,Getting Unstuck Day 5,"Getting Unstuck Day 5 Reflection:
+I like that I figured out how to rotate the flying hippo when I switch directions, but I don't like that it's upside down when you go left.  If I switch the orientation though, it doesn't face up or down when I press those arrow keys.  I'd fix that if I had more time.  I'd also make it more of a challenge, like give the hippo obstacles to avoid.",Use the arrow keys to make the hippo fly across the night sky.,30095573,https://cdn2.scratch.mit.edu/get_image/project/236403725_480x360.png,2018-07-14T15:42:57.000Z,2018-07-14T16:10:53.000Z,2018-07-14T16:10:39.000Z,3,0,0,0,0,,
+236426812,Reach the stars!,"This is a simplified version of a game that I did some time ago, which is rather buggy, so I prefer not to share it :)
+
+","Press SPACE to fly! Catch the spinning orbs of power to replenish the magic energy that allows the cat to fly!
+
+Try to get outside the stratosphere and beyond... to the stars!",12148328,https://cdn2.scratch.mit.edu/get_image/project/236426812_480x360.png,2018-07-15T00:52:29.000Z,2018-07-17T23:49:38.000Z,2018-07-15T02:35:21.000Z,9,4,1,0,0,,
+236431730,Getting Unstuck Day 5,Getting Unstuck Day 5: Create a project that involves one or more sprites jumping or flying. ,Press the Green Flag to begin.,33988811,https://cdn2.scratch.mit.edu/get_image/project/236431730_480x360.png,2018-07-15T02:47:28.000Z,2018-07-15T03:02:05.000Z,2018-07-15T03:01:04.000Z,4,0,0,0,0,,
+236381035,LE SCIMMIETTE INNAMORATE,"PROGETTO creato per il GettingUnstuck, GIORNO 5
+",Clicca sulla bandierina verde per vedere cosa fanno le scimmiette!,14651357,https://cdn2.scratch.mit.edu/get_image/project/236381035_480x360.png,2018-07-14T06:40:46.000Z,2018-07-15T05:30:44.000Z,2018-07-14T14:29:39.000Z,3,0,0,0,0,,
+236514986,New York ,Getting Unstuck day 5,,16804071,https://cdn2.scratch.mit.edu/get_image/project/236514986_480x360.png,2018-07-16T10:17:05.000Z,2018-07-16T11:01:00.000Z,2018-07-16T11:00:18.000Z,3,0,0,0,0,,
+236267228,Volare oh oh getting unstuck 5,"
+A lot of project in scratch use a side view of a flying character.
+It was time to a switch of perspective. To render the fligth I tried to leverage on the shadow of the glider. 
+
+When you are higher the shadow is bigger and lighter, as you approach the soil it get darker and shrink.
+
+I'd liked to refine the shadow behaviour but the core concept is here. Time to accept a compromise and pass on the next project of the Getting Unstuck Challenge.
+
+Credits
+
+Clouds are courtesy of Freevector.com https://www.freevector.com/cartoon-clouds-in-sky-vector-18516#
+
+The chessna is courtesy of gfkDSGN from pixabay.com https://pixabay.com/en/aircraft-cessna-icon-pilot-typ-172-1828996/","Give flying another perspective.
+Use arrow keys to fly the glider and relax (pretend to, please)  ;-)
+",2458985,https://cdn2.scratch.mit.edu/get_image/project/236267228_480x360.png,2018-07-12T21:42:54.000Z,2018-07-16T13:12:58.000Z,2018-07-12T22:32:07.000Z,6,1,1,0,0,,
+236395472,Il volo,Getting Unstuck Day 5.,Click on the green flag and the parrot will come to you.,22217887,https://cdn2.scratch.mit.edu/get_image/project/236395472_480x360.png,2018-07-14T12:40:07.000Z,2018-07-16T15:25:44.000Z,2018-07-16T15:21:37.000Z,6,1,0,0,0,,
+100835990,Getting Unstuck Day 5,"I decided to make this activity less interactive, however, I had some difficulty ""continuing"" the illusion of forward movement.  I tried using ""if on edge, bounce"", but then the bird never left the left ""edge"".  So I added a bar which worked.  But, I would prefer that the character moves past the ""edge"" so that it looks like he is leaving on the right and showing up on the left.  Any suggestions?",Click on Flag to begin the animation.,2502473,https://cdn2.scratch.mit.edu/get_image/project/100835990_480x360.png,2016-03-08T17:40:18.000Z,2018-07-16T15:31:57.000Z,2018-07-16T15:28:03.000Z,3,0,0,0,0,,
+236542881,Sempliceballetto,,,13575540,https://cdn2.scratch.mit.edu/get_image/project/236542881_480x360.png,2018-07-16T15:38:11.000Z,2018-07-16T15:38:46.000Z,2018-07-16T15:38:46.000Z,5,0,0,0,0,,
+236282128,Flying Fritos,"Getting Unstuck Day 5
+Somehow, as I mulled over things that might fly, what came to mind was ""flying fritos"" (go figure!). I wanted to try physics-y motion (based on my very basic understanding!) and add some randomness to each Frito's flight path.  This is as far as I've gotten. Suggestions are welcome!
+What surprised me along the way was seeing how the number of clones quickly maxes out if clones are not deleted along the way, or if they are requested in rapid succession.  It wasn't obvious at first what was happening because multiple Fritos would end up moving stacked together. Adding a variable to see how many were being generated helped give some insight into what was happening.","Press Green Flag to start / restart setup
+Click the cat to request a ""flying Frito""...
+  OR press ""f"" key for a ""flying Frito""
+
+Sometimes a Frito will reach the cat...sometimes it will not!  Try again. :)
+",52693,https://cdn2.scratch.mit.edu/get_image/project/236282128_480x360.png,2018-07-13T02:29:51.000Z,2018-07-16T16:14:08.000Z,2018-07-16T16:14:08.000Z,8,3,0,0,0,,
+236553011,Unstuck Lesson 5,,Click flag to begin. Click on butterfly to reset. ,18923507,https://cdn2.scratch.mit.edu/get_image/project/236553011_480x360.png,2018-07-16T17:21:34.000Z,2018-07-16T17:43:36.000Z,2018-07-16T17:43:36.000Z,3,0,0,0,0,,
+236552711,Flying Bat (Getting Unstuck #5),"Getting Unstuck: Day 5
+Create a project that involves one or more sprites jumping or flying. 
+
+Used a two year old project to help remind me how to make a bat fly. It's pretty simple...I'll have to jazz it up a bit more! Maybe learn how to make loop-de-loops?","Click the spacebar to make the bat fly across the sky.
+Click the green flag to return the bat to it's starting point.",22105327,https://cdn2.scratch.mit.edu/get_image/project/236552711_480x360.png,2018-07-16T17:18:28.000Z,2018-07-16T18:36:16.000Z,2018-07-16T17:34:34.000Z,6,0,0,0,0,,
+236448268,Unstuck day 5,,Still got some work to do on this one.,10852184,https://cdn2.scratch.mit.edu/get_image/project/236448268_480x360.png,2018-07-15T10:43:24.000Z,2018-07-16T23:04:27.000Z,2018-07-16T23:02:26.000Z,3,0,0,0,0,,
+236586063,Getting Unstuck: Day 5,,"Play and Flay....
+
+Use the space bar to control the cat
+be careful with obstacles.",34283191,https://cdn2.scratch.mit.edu/get_image/project/236586063_480x360.png,2018-07-17T00:55:25.000Z,2018-07-27T08:18:55.000Z,2018-07-17T01:51:42.000Z,4,1,1,0,0,,
+236541053,unstuck 5,Today's challenge is to create a project that involves one or more sprites jumping or flying.,"Protagonist versus Antagonist
+Press the green flag to start the game.
+Press A key to move cat towards cheesy puffs.
+Press B key to reverse direction and return to starting position, X.
+Score 1 point.
+
+Outmaneuver the crab to avoid getting a bump back to starting position.
+
+Press C to clear game.",840815,https://cdn2.scratch.mit.edu/get_image/project/236541053_480x360.png,2018-07-16T15:21:08.000Z,2018-07-17T12:49:46.000Z,2018-07-17T02:26:04.000Z,5,1,0,0,0,,
+236597727,Day 5 Getting Unstuck - Catch The Balloon,"Buya Omar
+Mansur Bin Nisan","Enjoy and Catch The Balloon
+
+Just Click
+Top Arrow Move and Jump
+Down Arrow 
+Right and Left Arrow
+
+Restart Click Space Bar",34222154,https://cdn2.scratch.mit.edu/get_image/project/236597727_480x360.png,2018-07-17T04:04:50.000Z,2018-07-17T04:58:10.000Z,2018-07-17T04:58:10.000Z,9,2,1,0,0,,
+236601331,Getting Unstuck - Day 5,"Today's challenge is to create a project that involves one or more sprites jumping or flying.  I chose two animals that fly, knowing that I could change their costumes to create a flying animation.  I also knew that I wanted them to bounce, instead of flying off the screen.  It took me a few attempts to get them to flap their wings slower and I had to adjust so that they wouldn't flip upside down after bouncing.  Then I added the ghost and made him ""jump"" up and then return down.  This is my second challenge that I could figure out on my own.  It just took a little experimenting with the motion blocks.","Click on the green flag to see the bats fly across the screen.
+
+Click on the ghost to see him jump!",24696341,https://cdn2.scratch.mit.edu/get_image/project/236601331_480x360.png,2018-07-17T05:14:13.000Z,2018-07-17T06:03:12.000Z,2018-07-17T05:56:34.000Z,5,0,0,0,0,,
+236640242,Unstuck: Day 5,,,28439839,https://cdn2.scratch.mit.edu/get_image/project/236640242_480x360.png,2018-07-17T14:14:27.000Z,2018-07-17T14:31:11.000Z,2018-07-17T14:30:33.000Z,3,0,0,0,0,,
+236722489,Getting Unstuck - dag 5,#GettingUnstuck,"Perfect for a hot summerday to cool off. Just enjoy, while the snow is falling.",25631396,https://cdn2.scratch.mit.edu/get_image/project/236722489_480x360.png,2018-07-18T08:13:40.000Z,2018-07-18T08:33:05.000Z,2018-07-18T08:31:38.000Z,4,1,1,0,0,,
+236284260,day5,"Create a project that involves one or more sprites jumping or flying. For example, you could animate a bird flying through the clouds or a video-game character jumping across lava. ",use the  arrows to move the parrot,24618980,https://cdn2.scratch.mit.edu/get_image/project/236284260_480x360.png,2018-07-13T03:10:17.000Z,2018-08-07T15:47:01.000Z,2018-07-18T09:38:06.000Z,5,0,0,0,0,,
+236764392,Getting Unstuck Day 5 - jumping,"Getting Unstuck Day 5: make a sprite jump or fly
+
+The jumping code was pretty easy since I'd learned it with students last school year. I want to learn how to modify the code so that the sprite continually jumps in the air when pressing the space bar. Right now it has to finish the code before it will jump again.
+
+Might be fun to add some Q*bert noises to the game too.",Press the space bar to make Q*bert jump over the blocks.,2803184,https://cdn2.scratch.mit.edu/get_image/project/236764392_480x360.png,2018-07-18T16:42:18.000Z,2018-07-18T17:29:13.000Z,2018-07-18T17:26:09.000Z,6,2,0,0,0,,
+236863468,Unstuck Day 5,"Thanks to Mr_Aris
+https://scratch.mit.edu/projects/236863659/
+",Unstuck Day 5,14232182,https://cdn2.scratch.mit.edu/get_image/project/236863468_480x360.png,2018-07-19T16:22:03.000Z,2018-07-19T20:19:41.000Z,2018-07-19T20:19:41.000Z,6,2,0,0,0,,
+236886842,Getting Unstuck Day 5 - Motion,"
+I liked how the parrot appears to move due to the switching between the two costumes. If I had the time, I would have liked to make the activity my own. I used the tutorial but that how's you learn... right? :)
+
+Enjoy!","Click on the green flag. To control the parrot use the up and down keys. In order to score points, the parrot must catch the unicorn. ",30595057,https://cdn2.scratch.mit.edu/get_image/project/236886842_480x360.png,2018-07-19T21:21:48.000Z,2018-07-20T19:17:08.000Z,2018-07-20T19:02:21.000Z,4,1,0,0,0,,
+237074492,OwlMorton-Unstuck5,,"Make scratch cat fly up and down, faster or slower using the arrow keys. Press P to power up!",21214926,https://cdn2.scratch.mit.edu/get_image/project/237074492_480x360.png,2018-07-22T14:58:14.000Z,2018-07-22T14:58:56.000Z,2018-07-22T14:58:56.000Z,10,1,0,0,0,,
+237085740,Unstuck #5 Ghost Art,"Updated 11 Jul 2018
+Flying Leap: Create a project that involves sprites jumping or flying. For example, you could animate a bird flying in clouds or a video-game character jumping across lava.","Ghost will start a a very pleasant drawing, but if you click on him.. he jumps up and continues in a different color and size.",26618044,https://cdn2.scratch.mit.edu/get_image/project/237085740_480x360.png,2018-07-22T19:19:40.000Z,2018-07-22T19:55:39.000Z,2018-07-22T19:34:44.000Z,3,1,0,0,0,,
+235967494,Día 5,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/235967494_480x360.png,2018-07-10T03:55:45.000Z,2018-07-10T04:04:07.000Z,2018-07-10T04:04:07.000Z,3,1,0,0,0,,
+237256159,Day 5 - Getting Unstuck,,,17812875,https://cdn2.scratch.mit.edu/get_image/project/237256159_480x360.png,2018-07-24T13:58:53.000Z,2018-07-24T14:36:05.000Z,2018-07-24T14:36:05.000Z,5,1,0,0,0,,
+237260540,Getting Unstuck Day 5 Animation,"When I have more time, I would like to try designing a sprite with costumes that help me animate.","Click Green Flag to Clear
+Use Space Bar to help the bat escape the wolf.",26730957,https://cdn2.scratch.mit.edu/get_image/project/237260540_480x360.png,2018-07-24T14:43:41.000Z,2018-07-24T15:50:18.000Z,2018-07-24T15:48:53.000Z,2,1,0,0,0,,
+237267126,Getting Unstuck - Day 5 - Jump Game,"Getting Unstuck Day 5 - 
+
+
+""If you don't understand, ask questions. If you're uncomfortable about asking questions, say you are uncomfortable about asking questions and then ask anyway.""—Chimamanda Ngozi Adichie","Press Green Flag to start
+
+Space Bar to Jump",8880372,https://cdn2.scratch.mit.edu/get_image/project/237267126_480x360.png,2018-07-24T15:51:26.000Z,2018-07-24T16:26:47.000Z,2018-07-24T16:25:12.000Z,3,1,0,0,0,,
+237598488,Day 5,,,34331091,https://cdn2.scratch.mit.edu/get_image/project/237598488_480x360.png,2018-07-28T01:00:29.000Z,2018-07-28T01:31:13.000Z,2018-07-28T01:30:25.000Z,5,1,0,0,0,,
+237693258,Vola alto,,Aiuta la befana a raccogliere i dolcigni spostandoti con le frecce.,14096918,https://cdn2.scratch.mit.edu/get_image/project/237693258_480x360.png,2018-07-29T17:04:22.000Z,2018-08-03T20:26:25.000Z,2018-07-29T22:11:11.000Z,5,1,0,0,0,,
+237235870,#unstuck day 5 Jumping or Flying,Had to research some tutorials to learn how to get him to restart and put the noise in.,need to push bear to get back to start then flag ,31492686,https://cdn2.scratch.mit.edu/get_image/project/237235870_480x360.png,2018-07-24T08:36:19.000Z,2018-07-25T07:02:02.000Z,2018-07-25T07:00:18.000Z,3,1,0,0,0,,

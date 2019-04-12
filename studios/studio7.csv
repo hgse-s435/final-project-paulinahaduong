@@ -1,0 +1,811 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+236056530,HexaPaths remix,"Remixed from @technoboy10 - this was a bit challenging because I definitely tried to overcomplicate the math involved! Also I often struggle with remixes because sometimes I find it really difficult to really understand someone else's code, and then to make a meaningful change to it...that can definitely be hard. Originally I had thought I might try my hand at some fractals and recursive trees, but that will have to wait for a day that is less busy. 
+
+I learned that if a sprite is covering the slider variables, you can't touch the slider variable (I thought the sliders were always on the top layer, but I guess I'm wrong), and I also found that the way transparency/ghosting was handled in this project to be fairly clever (It's a second sprite layer with a white background). 
+
+Music: http://freemusicarchive.org/music/Chan_Wai_Fat/ - Dream Instrumental
+","Watch the project create random paths and move the slider up and down to change the shape of the polygon.
+
+Changes:
++ added a slider to change the polygon shape
++ added music
++ changed size of polygons (which is somewhat dependent on polygon type)
+",2745846,https://cdn2.scratch.mit.edu/get_image/project/236056530_480x360.png,2018-07-10T21:29:13.000Z,2018-07-11T09:24:45.000Z,2018-07-11T09:24:04.000Z,31,9,2,0,0,23963064,23963064
+161562512,Getting Unstuck Day 7: Pattern Maker Remix Remix,"For Day 7, I remixed a project that I did with a student last year. @aurorabell taught me a lot about clones and stamping with her original project, and I wanted to see what would happen if I incorporated the pen tool as well. I also learned about defining my own Scratch blocks!
+
+It was fun to revisit this project, because when I made the original remix I don't think I understood all of the code. When I came back to this project, I knew exactly what was going on and was able to modify it to fit what I was envisioning! Thanks, @aurorabell and #GettingUnstuck! :)","Press the green flag to start.
+Use the arrow keys to make a line pattern! 
+Press space to stamp more dots on the page.
+Press b to change the background color.
+If you want your project to be even weirder, press the ""r"" key to turn on random mode!",19163721,https://cdn2.scratch.mit.edu/get_image/project/161562512_480x360.png,2017-05-17T15:21:53.000Z,2018-07-11T18:52:41.000Z,2017-05-17T15:26:16.000Z,36,9,2,0,0,138255301,138255301
+236054919,"The Rainbow Sensorium (Getting Unstuck, Day 7)","I was feeling REALLY creatively stuck today. As I chatted with @mizzpeters and @asparklekat about feeling stuck, @mizzpeters asked me what I was excited about and @asparklekat suggested tinkering. I ended up mashing both of these pieces of advice together to produce this project for Day 7 of Getting Unstuck.
+
+I started out wanting to make a program that printed graph paper. (I'm OBSESSED with graph paper.) After I had programmed the basic grid making, I went back to the Pen category to see what I might tinker around with. That led me to play with the Pen color and the Pen size blocks. The Pen size block really blew the program open for me in terms of creative inspiration and engagement! I abandoned the horizontal line drawing (although the code is still in there), and just kept the vertical line drawing. Tinkering with these streaks of rainbows by varying the grid size feels very engaging and satisfying to me. My equation for today: passion + some tinkering = some new, previously unimagined exploration and fun!","Welcome to the Rainbow Sensorium, a place to play with rainbows!
+Press the space key to draw streaks of rainbows of different widths.
+
+To speed up the drawing, try it in turbo mode (by pressing the shift key before clicking the green flag). Thank you for the inspiration, @coderangers!",39526,https://cdn2.scratch.mit.edu/get_image/project/236054919_480x360.png,2018-07-10T21:04:55.000Z,2018-07-11T14:36:00.000Z,2018-07-11T10:18:01.000Z,45,17,3,0,0,,
+236060246,1 Week of Getting Unstuck!,"I enjoy how different pieces of the pattern emerge as it's drawn (over)!
+
+Admittedly, my main excitement here was the time-based celebration and not necessarily a celebration of pen-patterns. I LOVE PATTERNS, THO -- I think my excitement about being 1-week in made me stubbornly forget - I'll come back to pattern drawing, for sure. I'd like for questions like ""Why a pattern with this concept?"" and then ""How will I create a pattern?"" to be more considered in my process of this project. I'd like to imagine the patterns I'd like to draw and then think of what would be necessary to draw them (or find something more surprising that I also enjoy!)
+
+How are you thinking about the relationship between concept and the day's challenge in your Getting Unstuck projects? 
+What are your strategies when you're having a hard time meeting your passions with the day's challenge?
+
+I created my own blocks for the first time! Ultimately I really didn't need to, as I realized I wanted each sprite to draw a different specific color, so really each one is only called on once instead of the initially intended use across sprites. I could've just used the definition script and not created a block. I'd like to think about where it does make sense to create a block to make use of throughout! (:","After pressing the green flag, press the space bar for a pen-drawing celebration of 7 days of Getting Unstuck! 
+
+(pattern comes in after each sprite shares)",25705937,https://cdn2.scratch.mit.edu/get_image/project/236060246_480x360.png,2018-07-10T22:36:13.000Z,2018-07-11T10:27:47.000Z,2018-07-11T10:22:59.000Z,25,9,1,0,0,,
+236069638,Echo Sketch,"This project was created for Day 7 of Getting Unstuck. I was inspired by some of the cool pen projects that I saw other people make for previous days of Getting Unstuck.
+
+Might come back later and work a little more on the sound.","Click the green flag, use the mouse to draw a shape on the stage, then sit back and enjoy.",56239,https://cdn2.scratch.mit.edu/get_image/project/236069638_480x360.png,2018-07-11T01:11:59.000Z,2018-07-11T13:43:09.000Z,2018-07-11T11:42:56.000Z,44,19,5,0,0,,
+208438168,Rainbow Star Math,,"Rainbow Star Math
+
+Remix and make your own shapes by changing the degrees! 
+
+Press the green flag!",25417130,https://cdn2.scratch.mit.edu/get_image/project/208438168_480x360.png,2018-03-07T18:50:02.000Z,2018-07-11T12:21:23.000Z,2018-07-11T11:22:57.000Z,32,7,4,0,0,,
+236106240,Day7,,,34225248,https://cdn2.scratch.mit.edu/get_image/project/236106240_480x360.png,2018-07-11T11:18:22.000Z,2018-07-11T11:24:17.000Z,2018-07-11T11:24:16.000Z,17,1,0,0,0,,
+236105987,Getting Unstuck Day 7,"I love the pen and use it a lot. I'm always interested in new ways to use it, and this is something I've experimented a bit with recently.","It's a very simple project to use! Click the green flag, and when you're happy with your art work, click space to pause.
+
+It's best run on turbo mode - so before you click the green flag press shift. This speeds up the effect.",4610900,https://cdn2.scratch.mit.edu/get_image/project/236105987_480x360.png,2018-07-11T11:15:15.000Z,2018-07-11T13:55:36.000Z,2018-07-11T11:48:20.000Z,50,22,5,0,0,,
+236106694,Kaleido!,"I almost cheated, as I made another project similar in the past (this one https://scratch.mit.edu/projects/151194070/ ). I'm fascinated by the beautifulness of random patterns just giving a hint of regularity (for example symmetry, or recursivity... like the mandelbrot fractal or bismuth crystals, but also trees or snails).
+
+I stuck in trying to get a 90° direction only, and trying to get unstuck I discovered that the glitched version was giving better looking results than the regular one. So I kept 'em both.","The direction of the trails is changed by pointer x and the dimension by the y.
+
+Left/Right = change background
+Up/Down = change bg brightness
+
+SPACE = makes movement more or less angular 
+Mouse button = changes color ",12148328,https://cdn2.scratch.mit.edu/get_image/project/236106694_480x360.png,2018-07-11T11:24:48.000Z,2018-07-11T15:25:06.000Z,2018-07-11T12:11:56.000Z,20,8,3,0,0,,
+236109944,Unstuck Day 07 Pen Intro,"This is the lesson I use to introduce the pen blocks to students. They have previously created a forever->>move-->bounce on edge script to get the sprite moving around the stage, so now they add pen down and change pen color to make a cool rainbow pattern. 
+
+There are a few different patterns that generate discussion, and when students start plugging other numbers in the change pen color by block that makes for a new burst of excitement. They love being able to control what happens, even if they aren't sure exactly why their changes have a specific effect. The big idea is that they are controlling the action through code.
+
+Additional extensions include creating key events to change pen size and clear the stage while the main script is running. Instead of randomizing the beginning direction, younger students go under the hood of the sprite and manually drag the blue direction line to a starting angle.","The green flag erases the design and centers the cat.
+
+Space key begins the cat on a drawing journey around the stage.
+
+What cool design will your cat make?",14632339,https://cdn2.scratch.mit.edu/get_image/project/236109944_480x360.png,2018-07-11T12:10:57.000Z,2018-07-11T15:07:21.000Z,2018-07-11T12:14:46.000Z,6,2,0,0,0,,
+236108186,Getting Unstuck: Day 7,"This was fun playing with the numbers. I did not want the shapes to take too long to draw, but did not want to rush the image.
+
+If I did not have a meeting at 8 am I would play more and try to add more options. 
+
+Update: I forgot I remixed a previous project - bonus - click anywhere on the screen to change the background color!","Click the green flag to get started.
+
+Press the buttons to explore.
+
+Are you a patient user? Press a color and wait until done, then press another color.
+
+...or you can just press buttons one after another!",17807175,https://cdn2.scratch.mit.edu/get_image/project/236108186_480x360.png,2018-07-11T11:45:33.000Z,2018-07-11T15:53:15.000Z,2018-07-11T12:23:01.000Z,17,7,1,0,0,,
+236105393,Moving pen robot (Getting Unstuck Day 7),"This is my first Getting Unstuck project for the challenge of @karenb and @paulinah: gettingunstuck.gse.harvard.edu. 
+
+It was fun to try to come up with a pen project within a day. Therefore I needed a project idea that would not take a lot of time. I was reading a book about the micro:bit and I saw a simple robot drawing and thought it would be fun to try to make a robot using pen.
+
+This pen project only uses lines and dots. If I had more time I would use squares too, but it's much more time consuming to make them with pen in Scratch.
+
+I've used a random number in this kind of pen projects for the first time. I just tried it and thought it looked cool.
+
+Do you want to see some cool examples of the use of pen in Scratch, check out these Scratchers if you like:
+@hugmyster
+@dapontes
+@leszpio
+@icampeao
+@dodekagonia
+@selim_tezel
+@mathjp
+@PullJosh
+
+I also recommend this 100 % pen studio on Scratch: https://scratch.mit.edu/studios/3935624/
+","Arrow keys to move this weird looking robot.
+
+This project is made for day 7 of the Getting Unstuck Challenge:
+Use the Pen blocks to automatically draw a pattern on the stage.
+
+",2676515,https://cdn2.scratch.mit.edu/get_image/project/236105393_480x360.png,2018-07-11T11:07:54.000Z,2018-07-12T20:30:49.000Z,2018-07-11T12:35:44.000Z,56,19,7,0,0,,
+236109864,Day 7 Getting unstuck,"For the amount of time I could work on this I am happy with my basic flower.
+
+What I don't understand is the yellow dot at the start of my green stem.  I have pen up and pen down with only 1 step for the yellow I am confused about it.",Prompt: Create a project that uses the Pen blocks to automatically draw a pattern on the stage. ,20446522,https://cdn2.scratch.mit.edu/get_image/project/236109864_480x360.png,2018-07-11T12:10:00.000Z,2018-07-12T11:53:01.000Z,2018-07-11T12:39:19.000Z,6,1,0,0,0,,
+236109442,Guess the sprite pattern - Getting Unstuck Day 7,"I made a horrible tic tac toe project first. But then I was looking around at some  of the other projects and saw @coderangers awesome project.
+https://scratch.mit.edu/projects/236105987/#player
+This isn't a remix exactly, but more of a homage to a really cool idea. 
+I've barely ever used the pen before either, so this was all very new to me. ","Hold down shift, click the green flag (This will enable turbo mode) then click the green flag again. You should get a random sprite and be able to guess who it is!",22706156,https://cdn2.scratch.mit.edu/get_image/project/236109442_480x360.png,2018-07-11T12:04:31.000Z,2018-07-11T12:44:39.000Z,2018-07-11T12:37:36.000Z,15,4,0,0,0,,
+236113076,Day 7 Getting Unstuck,"Oggi mi sono divertita con mia figlia per realizzare questo progetto. Un continuo: ""e se adesso aggiungiamo i colori....e se adesso aumentiamo lo spessore...""",Clicca sulla bandierina verde e inizia a disegnare.,10086796,https://cdn2.scratch.mit.edu/get_image/project/236113076_480x360.png,2018-07-11T12:47:39.000Z,2018-07-11T13:34:51.000Z,2018-07-11T12:48:22.000Z,15,4,1,0,0,,
+236049433,Unstuck Day 7 - birth of a peacock,"My favorite part of making this project was just playing with colors over and over again, and seeing how different tweaks to numbers would impact the over all image!","Use down up arrow, down arrow, or space bar (or some mix!) to create a design :) Hold down each button or let them run their courses! Mix and match and see what happens :)
+
+Use the a to stop all and then keep going, or take a photo to use as a bkg!
+
+Press and hold two keys at once and see what happens :)
+
+I'm not sure if the left arrow key brightens the lines but it is supposed to.",24267830,https://cdn2.scratch.mit.edu/get_image/project/236049433_480x360.png,2018-07-10T19:47:19.000Z,2018-07-11T13:58:11.000Z,2018-07-11T13:01:01.000Z,20,4,0,0,0,,
+236113563,Untitled-9,,"Click the green flag to see the satellites monitor the progress of the pattern being constructed. 
+Click the clear button to clear the pattern. ",22256610,https://cdn2.scratch.mit.edu/get_image/project/236113563_480x360.png,2018-07-11T12:52:03.000Z,2018-07-11T13:11:33.000Z,2018-07-11T13:05:36.000Z,11,2,0,0,0,,
+236109735,Getting Unstuck day 7,"My first attempt at today's project (left arrow) is an iteration of something I have done before. I felt that I ought to challenge myself a bit so I worked on the second pattern (right arrow). It isn't overly complex, but it took some tinkering and math to get everything lined up just so. With more time I would work on a more complicated design.","left arrow for a semi-random pattern
+right arrow for a linear pattern
+space to clear",17767933,https://cdn2.scratch.mit.edu/get_image/project/236109735_480x360.png,2018-07-11T12:08:19.000Z,2018-07-11T13:12:40.000Z,2018-07-11T13:12:40.000Z,9,3,1,0,0,,
+236109740,G.U. PENNA-Day 7,Uso della penna accompagnato da alcuni effetti ottici e sonori (a caso).,"G.U. Day 7
+Clicca sulla bandierina verde per vedere gli effetti.
+Clicca su spazio per fermare tutto.",13746945,https://cdn2.scratch.mit.edu/get_image/project/236109740_480x360.png,2018-07-11T12:08:24.000Z,2018-07-11T13:35:41.000Z,2018-07-11T13:34:00.000Z,7,2,1,0,0,,
+236066270,Getting Unstuck: Day 7 — Sine Crawlers,"Reflection
+
+The task was to use the ""pen blocks to automatically draw a pattern on the stage."" For this example, I decided to use sine waves. To accomplish this, I utilized the sin operator block. Local variables and clones were needed to create autonomous agents that walk across the screen while generating the sine wave patterns.
+
+If I spent more time on this, I would play with more modulations to get a more interesting pattern.",Click the green flag and watch as the image emerges.,26264460,https://cdn2.scratch.mit.edu/get_image/project/236066270_480x360.png,2018-07-11T00:25:16.000Z,2018-07-11T13:41:55.000Z,2018-07-11T13:31:48.000Z,23,12,2,0,0,,
+236105078,Magic Pencil! - GettingUnstuck#7,"Getting Unstuck challenge/activity #7 - ""Create a project that uses the Pen blocks to automatically draw a pattern on the stage.""
+
+First pattern was accidentally created when trying to make a basic circle. But I just went with it and made adjustments to see what other patterns could be made.
+
+Improvements would be to make some of the variables set via user input so that the user could experiment.  Also needs a ""Try another pattern?"" button rather than relying on using flag to restart.",Click the flag to start or reset (to pick another pattern),15872912,https://cdn2.scratch.mit.edu/get_image/project/236105078_480x360.png,2018-07-11T11:03:46.000Z,2018-07-11T13:44:02.000Z,2018-07-11T13:40:20.000Z,11,4,2,0,0,,
+236109208,GettingUnstucked day7,"thank to all scratch community: as I decide to follow Getting Unstucked, i choose not to do any remix. Although I find a lot of inspiration in different projects! thank you all!!!",click on green flag and write answer!,25103547,https://cdn2.scratch.mit.edu/get_image/project/236109208_480x360.png,2018-07-11T12:01:17.000Z,2018-07-11T13:43:09.000Z,2018-07-11T13:40:40.000Z,11,1,0,0,0,,
+236116756,day 7,,"press green flag.
+",34188789,https://cdn2.scratch.mit.edu/get_image/project/236116756_480x360.png,2018-07-11T13:21:10.000Z,2018-07-11T13:46:39.000Z,2018-07-11T13:46:25.000Z,7,2,0,0,0,,
+236107104,GIORNO 7,,"PARTIRE DALLA BANDIERINA VERDE E PREMERE IN SEQUENZA
+a b c d   ",28304428,https://cdn2.scratch.mit.edu/get_image/project/236107104_480x360.png,2018-07-11T11:30:38.000Z,2018-07-11T13:44:02.000Z,2018-07-11T13:42:52.000Z,14,0,0,0,0,,
+236119583,GettingUnstuck_#7,"This project was created for Getting Unstuck Day 7, using Pen function to draw the patterns. I want to pay tribute to Yayoi Kusama (草間彌生) the great artist who loves to create the fanatic works with dots. I'm feeling happy to see the dots can be stamped in order on the shape. ",Click the Green Flag. ,31325002,https://cdn2.scratch.mit.edu/get_image/project/236119583_480x360.png,2018-07-11T13:44:03.000Z,2018-07-11T13:58:36.000Z,2018-07-11T13:44:46.000Z,13,2,2,0,0,,
+236118947,G.U. PENNA-Day 7 copy,"Copia di G.U. Penna Day 7 : ho usato il blocco penna anche per le palline.
+Uso della penna accompagnato da alcuni effetti ottici e sonori (a caso).","G.U. Day 7
+Clicca sulla bandierina verde per vedere gli effetti.
+Clicca su spazio per fermare tutto.",13746945,https://cdn2.scratch.mit.edu/get_image/project/236118947_480x360.png,2018-07-11T13:38:51.000Z,2018-07-11T13:59:40.000Z,2018-07-11T13:57:53.000Z,10,4,2,0,0,,
+236113395,Getting Unstuck: Day 7,"Getting Unstuck: Day 7
+Challenge: Create a project that uses the Pen blocks to automatically draw a pattern on the stage.
+I used for the first time the block  ""radq of 9"". It was very interesting.",Click on green flag. Click on red bottom to stop everything.,17615581,https://cdn2.scratch.mit.edu/get_image/project/236113395_480x360.png,2018-07-11T12:50:49.000Z,2018-07-22T14:55:46.000Z,2018-07-11T14:00:35.000Z,12,2,0,0,0,,
+236121412,Getting Unstuck Day 7,"I love generative art. I just threw a few blocks together, starting with a simple random walk with the pen down and it evolved into this over about 15 minutes!
+
+Try changing the initial colour and the values set for ""dist"" and ""angle"" at the start of the script. You could display the values or change the variables to sliders on the stage to try to understand and adjust the action.
+
+Run without turbo mode set to follow the action in slow motion.
+
+If I had more time I'd have experimented even further and maybe ended up with a totally different effect.","Getting Unstuck Day 7
+
+Create a project that uses the Pen blocks to automatically draw a pattern on the stage. 
+
+USE TURBO MODE - HOLD SHIFT AND CLICK GREEN FLAG THEN RELEASE SHIFT AND CLICK GREEN FLAG AGAIN TO RUN ",2314547,https://cdn2.scratch.mit.edu/get_image/project/236121412_480x360.png,2018-07-11T13:58:48.000Z,2018-07-11T14:31:23.000Z,2018-07-11T14:18:53.000Z,30,9,4,0,0,,
+236124561,Chequerboard,,"Just click the green flag and watch the checks appear. 
+
+Just playing with patterns of dashed lines. 
+
+Loops in loops.
+
+Added some sliders and colour effects. Have fun.",7393328,https://cdn2.scratch.mit.edu/get_image/project/236124561_480x360.png,2018-07-11T14:25:57.000Z,2018-07-11T21:25:55.000Z,2018-07-11T14:34:34.000Z,16,5,0,0,0,,
+236110062,Curved Lines (day-7),"Getting Unstuck Day-7
+by Massimo Marletta
+
+In this project I use Pen blocks to draw straight lines according to a mathematical rule. Despite the fact that the lines are all straight, the overall figure seems curved as an equilateral hyperbola is formed.
+
+To make more readable the code I used a custom block that perform the drawing of a single line given the coordinates of the two ends.
+
+The drawing is made by a Sprite (which is hidden). The click on the Stage is notified to the Sprite by means of a broadcast message.
+
+Revision - I added some improvements to the drawing: the pen color is changed at each line and lines are wider.","
+Click on the screen or press the green flag to see the drawing take shape.
+
+You will see a series of straight lines giving the illusion of a curve (equilateral hyperbola).",4804940,https://cdn2.scratch.mit.edu/get_image/project/236110062_480x360.png,2018-07-11T12:12:35.000Z,2018-07-11T15:33:12.000Z,2018-07-11T14:35:18.000Z,38,8,1,0,0,,
+236121358,Unstuck 7,"For this unstuck challenge I wanted to make something beautiful and simple, and I was leaning toward circles after working on a pi project overnight ( https://scratch.mit.edu/projects/236080764/ ).","Click the green flag.  Try turbo mode (shift green flag) and run the program repeatedly.
+
+Please tinker with variables, colors, and number of loops when you remix!",33815227,https://cdn2.scratch.mit.edu/get_image/project/236121358_480x360.png,2018-07-11T13:58:22.000Z,2018-07-11T15:05:30.000Z,2018-07-11T14:41:10.000Z,13,2,0,0,0,,
+236125646,Gordon_Getting Unstuck Day 7,I love the polygon project so I decided to make this my Day 7 project.  It is a simple project but is rich in thinking and math.  It is great fun doing this project with students.,"Click the green flag, enter the number of polygons you would like to draw and then enter the side numbers of each polygon.",18900622,https://cdn2.scratch.mit.edu/get_image/project/236125646_480x360.png,2018-07-11T14:34:48.000Z,2018-07-11T14:48:55.000Z,2018-07-11T14:48:55.000Z,8,1,0,0,0,,
+236125206,day 7,,#NAME?,23593293,https://cdn2.scratch.mit.edu/get_image/project/236125206_480x360.png,2018-07-11T14:31:04.000Z,2018-07-11T15:00:21.000Z,2018-07-11T14:59:17.000Z,8,3,0,0,0,,
+236109873,Labirinto,Autor: Jocemar do Nascimento,"Para jogar, use o Mouse, clicando nas Setas ou as Setas do Teclado.",1734014,https://cdn2.scratch.mit.edu/get_image/project/236109873_480x360.png,2018-07-11T12:10:10.000Z,2018-07-11T15:09:04.000Z,2018-07-11T15:08:25.000Z,19,7,0,0,0,,
+236112092,Music in the air - Getting Unstuck Day 7,"Getting Unstuck Day 7: a project that uses the Pen blocks to automatically draw a pattern on the stage. 
+
+I love playing with color and sounds. With the surprise idea still in my mind from the last challenge, I used many times the random blocs.
+If I had more time, I would like to make a dancing pentagram with the notes. I would need to control 5 more sprites.
+
+I would like to use other music (Freesound.org mp3 files) but I could not import any of them into the project. :(  I hope to fix it",Click on the green flag,2176961,https://cdn2.scratch.mit.edu/get_image/project/236112092_480x360.png,2018-07-11T12:37:42.000Z,2018-07-12T00:08:31.000Z,2018-07-11T15:13:03.000Z,11,4,0,0,0,,
+236129705,TurtleArt - never ending flower,Getting Unstuck: Day 7,"Click on the turtle to see her while creates the flower. When the turtle finish the painting, she waits for one sec and restart to draw with different color",2143382,https://cdn2.scratch.mit.edu/get_image/project/236129705_480x360.png,2018-07-11T15:08:28.000Z,2018-07-11T15:18:11.000Z,2018-07-11T15:18:11.000Z,44,14,2,0,0,,
+236117612,Getting Unstuck: Day 7,"Need to work on this some more, especially as I can",,24912473,https://cdn2.scratch.mit.edu/get_image/project/236117612_480x360.png,2018-07-11T13:28:21.000Z,2018-07-16T16:38:23.000Z,2018-07-11T15:24:17.000Z,13,1,0,0,0,,
+236125289,Getting Unstuck: Day 7. Catch the heart.,"I would like the score change anytime the ball touched the heart, but I don't know why it doesn't work.
+",Click on the green flag.,18190669,https://cdn2.scratch.mit.edu/get_image/project/236125289_480x360.png,2018-07-11T14:31:48.000Z,2018-07-11T21:47:28.000Z,2018-07-11T15:18:49.000Z,11,4,1,0,0,,
+236131588,Getting Unstuck Day 7,,"The Earth moves along an elliptical path (defined by the ellipse equation). The moon follows the Earth, rotating around it at a certain distance, doing approx 12 rotations per year.",14159575,https://cdn2.scratch.mit.edu/get_image/project/236131588_480x360.png,2018-07-11T15:24:21.000Z,2018-07-11T15:29:12.000Z,2018-07-11T15:24:56.000Z,14,6,0,0,0,,
+236131850,Getting Unstuck Day 7,"I loved this!  It reminded me of using Spirograph as a child and also of using Sherston's adventure program Crystal Rainforest.
+I wonder how small I could get the pattern to go.",Click on the green flag to see the pattern,3297086,https://cdn2.scratch.mit.edu/get_image/project/236131850_480x360.png,2018-07-11T15:26:35.000Z,2018-07-11T15:35:59.000Z,2018-07-11T15:35:59.000Z,9,2,2,0,0,,
+236119147,Escape Ghost,Reto 7: Create a project that uses the Pen blocks to automatically draw a pattern on the stage. ,"Huye de los fantasmas mientras dibujas en pantalla para conseguir bajar los puntos hasta 0.
+
+Use Arrows for escape!",26161450,https://cdn2.scratch.mit.edu/get_image/project/236119147_480x360.png,2018-07-11T13:40:19.000Z,2018-07-11T15:49:47.000Z,2018-07-11T15:26:48.000Z,10,1,0,0,0,,
+236126516,Getting Unstuck: Day 7(love letter),,"Fill a letter with hearts.
+Click letter s to start. Keep mouse button down.
+Space= clean
+",12775966,https://cdn2.scratch.mit.edu/get_image/project/236126516_480x360.png,2018-07-11T14:41:53.000Z,2018-07-11T15:55:12.000Z,2018-07-11T15:55:12.000Z,25,4,1,0,0,,
+236122132,Getting Unstuck #7: drawing parallelograms,"Scratch project was created as activity #7 of the ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education.
+
+Day #7 Challenge: Create a project that uses the Pen blocks to automatically draw a pattern on the stage. ",Press the green flag!,1202362,https://cdn2.scratch.mit.edu/get_image/project/236122132_480x360.png,2018-07-11T14:05:20.000Z,2018-07-12T12:55:52.000Z,2018-07-11T16:06:13.000Z,15,3,1,0,0,,
+183376752,Sunflower spiral,"The sunflower spiral is a pattern seen in several the arrangement of leaves in plants (known as phyllotaxis), and is in connections to the Fibonacci sequence and Fibonacci angle that is 137.5°
+
+Its funny to see different patterns created by different angles.
+You can set different colors while drawing
+
+ver2: manual color selection and clear screen on/off","click on the numbers (angles) on the left to see different spirals pattern, or use MANUAL INPUT to insert different angle's value 
+**COLORS**
+AUTO: change color automatically
+To choose the pen color click on single bock-color on the right
+**CLEAR SCREEN**
+CLEAR OFF:  leaves all the previous drawings on the screen
+CLEAR ON: cleans the screen before new drawing starts",2143382,https://cdn2.scratch.mit.edu/get_image/project/183376752_480x360.png,2017-10-31T20:43:59.000Z,2017-11-06T10:15:35.000Z,2017-11-05T17:23:46.000Z,75,14,5,0,0,,
+236137402,Draw a Pattern on Stage,,,25706025,https://cdn2.scratch.mit.edu/get_image/project/236137402_480x360.png,2018-07-11T16:18:08.000Z,2018-07-11T16:27:35.000Z,2018-07-11T16:27:35.000Z,10,2,0,0,0,,
+236129247,Speed Lines Experiment,"I'm new to using the 'stamp' pen block, so I started out trying to make a stamping project. Remembering how wooden block stamps never make a perfect impression, I made a costume-less sprite (Eraser) to bounce around and use the 'pen' block to remove pixels from the stamp. While playing around with this, I noticed the stamps started disappearing in a cool way, so I abandoned my original idea and imported the Eraser sprite to a project I had already made with my son.
+
+(credit to the boy for insisting that Scratch Cat be blue and make a horse sound when the '2' key is pressed)",Use the arrow keys to fly Scratch Cat around the screen.,27306974,https://cdn2.scratch.mit.edu/get_image/project/236129247_480x360.png,2018-07-11T15:04:44.000Z,2018-07-11T18:16:46.000Z,2018-07-11T15:59:35.000Z,23,5,2,0,0,,
+236138919,Getting Unstuck Day 7,"Reflection: I was surprised that there is a maximum pen size!  Also, the sprite seems to change direction when going past the edges, even if I don't have an ""if on edge, bounce"" block.",,24998404,https://cdn2.scratch.mit.edu/get_image/project/236138919_480x360.png,2018-07-11T16:30:40.000Z,2018-07-11T16:45:01.000Z,2018-07-11T16:43:32.000Z,11,3,0,0,0,,
+236137266,Getting Unstuck: Day 20 (what I wanted to make on Day 7),"The idea was taken from here (http://www.boston-baden.com/hazel/Knotware3/explain-key.htm), but also from something I've been wanting to do for ages! I revisited because my original one was a fail... this too is a bit of a fail as I could rotate the image instead...
+",,24912473,https://cdn2.scratch.mit.edu/get_image/project/236137266_480x360.png,2018-07-11T16:16:41.000Z,2018-07-24T13:33:28.000Z,2018-07-11T16:48:18.000Z,28,6,0,0,0,,
+236136096,Getting Unstuck Day 7 - Scratch and Pen Shapes,,Click the green flag to get started - Listen to Scratch for more instructions.  ,27535268,https://cdn2.scratch.mit.edu/get_image/project/236136096_480x360.png,2018-07-11T16:04:59.000Z,2018-07-11T16:56:11.000Z,2018-07-11T16:55:31.000Z,9,5,1,0,0,,
+236136755,GU_Day7 ,"Today I looked at many projects before beginning. There is so much to learn by just being curious! 
+Since the theme of the day is patterns, I decided to visualize a pattern that is found in nature - the Fibonacci Spiral. I sketched out squares: 1-1-2-3-5-8-13. I saw the relationship of a quarter circle being inscribed within each square. Then I needed to figure out how to code for each desired radius. 
+I notice that when the scale = 1, then I can make the number of repeats as high as 9. When the scale = 20, only 5 repeats will fit on the screen.","I learned about Turbo Mode today. Hold the shift key before you press the green flag. 
+Use the scale slider to choose how small or large to draw a Fibonacci Spiral.",24741621,https://cdn2.scratch.mit.edu/get_image/project/236136755_480x360.png,2018-07-11T16:11:25.000Z,2018-08-02T15:27:44.000Z,2018-07-11T17:15:13.000Z,17,6,0,0,0,,
+236139509,Getting Unstuck Day 7,"Ho realizzato questo progetto nel corso di quest'anno scolastico assieme ai miei alunni di classe 4 scuola primaria.
+Credits images: https://www.flaticon.com",Fare clic sulla bandiera verde e digitare la risposta.,18667079,https://cdn2.scratch.mit.edu/get_image/project/236139509_480x360.png,2018-07-11T16:36:10.000Z,2018-07-11T17:19:34.000Z,2018-07-11T17:16:27.000Z,11,2,0,0,0,,
+236139308,Shapes -- Unstuck Challenge 7,"Figuring out the angles and number of steps for the shapes was a good math exercise!
+
+I would like to work more on getting the sprite animations a little smoother while still drawing (especially on the first figure), and I think I might like to randomize the pen color for each figure (maybe even randomize the shape each time they draw -- but I think that would require a little more time investment than I have right now!)",Click each person for a new shape,11608238,https://cdn2.scratch.mit.edu/get_image/project/236139308_480x360.png,2018-07-11T16:34:18.000Z,2018-07-11T17:24:15.000Z,2018-07-11T17:16:17.000Z,8,2,0,0,0,,
+236139913,Pen,,"Muovi il puntatore del mouse per disegnare quello che vuoi. Puoi scegliere il colore con cui disegnare, mentre la luminosità e lo spessore del tratto saranno scelti casualmente dal programma.",34169307,https://cdn2.scratch.mit.edu/get_image/project/236139913_480x360.png,2018-07-11T16:40:19.000Z,2018-07-11T17:33:33.000Z,2018-07-11T17:32:18.000Z,4,1,0,0,0,,
+236108202,Getting Unstuck: Day 7,Code Club Paint Box project,"Click the green flag to start!
+
+Press the 'r' key to draw red
+Press the 'g' key to draw green
+Press the 'b' key to draw blue
+Press the 'c' key to clear the screen
+
+To modify the pencil width adjust the width slider (top left)
+
+
+
+",34197892,https://cdn2.scratch.mit.edu/get_image/project/236108202_480x360.png,2018-07-11T11:45:46.000Z,2018-07-11T17:33:35.000Z,2018-07-11T17:25:30.000Z,11,2,0,0,0,,
+236143961,day 07,,Koch snowflake .. enjoy!,771142,https://cdn2.scratch.mit.edu/get_image/project/236143961_480x360.png,2018-07-11T17:20:07.000Z,2018-07-19T12:50:47.000Z,2018-07-11T17:34:27.000Z,22,8,3,0,0,,
+236140949,Getting Unstuck Day 7 - automatic pen beachball,,,11634746,https://cdn2.scratch.mit.edu/get_image/project/236140949_480x360.png,2018-07-11T16:51:00.000Z,2018-07-11T17:50:15.000Z,2018-07-11T17:47:22.000Z,9,1,0,0,0,,
+236145542,#007 Getting Unstuck Pen,,A basic triangle...,20126730,https://cdn2.scratch.mit.edu/get_image/project/236145542_480x360.png,2018-07-11T17:35:59.000Z,2018-07-11T17:52:49.000Z,2018-07-11T17:50:32.000Z,6,0,0,0,0,,
+236146471,Spirograph for Day 7 of Getting Unstuck,"I have created this project before earlier on when I was learning more about Scratch and just thought it would be a fun project to try and do again. 
+
+I love these challenges as I either think of something new or am sometimes recreating and changing something I have done in the past.
+","Click on Green Flag, answer the questions and see it draw a spirograph from the answers you give. 
+
+This is a pen drawing for our Day 7 of Getting Unstuck Challenge.
+
+It asks some questions on shapes, size and length so the player gets to make some decisions.",588430,https://cdn2.scratch.mit.edu/get_image/project/236146471_480x360.png,2018-07-11T17:44:35.000Z,2018-07-11T18:08:48.000Z,2018-07-11T17:55:07.000Z,12,3,0,0,0,,
+236146397,Day 7 Unstuck: Hypnotic ,"I liked the idea that the viewer could create a multitude of designs by answering the questions.  If I had more time I would give color options for the pen and the background.     But what I would really like to do is once I understand @jhs Record function found in the project: ihttps://scratch.mit.edu/projects/236069638/  have the drawing spin in a hypnotic way.  For now, the sprite spinning when it drawing will have to be good enough. ","Create beautiful designs by answering the questions.  Be careful not to look too deeply while your design is automatically drawn for you! 
+
+Day 7 Challenge: Create a project that uses the Pen blocks to automatically draw a pattern on the stage",1294980,https://cdn2.scratch.mit.edu/get_image/project/236146397_480x360.png,2018-07-11T17:43:54.000Z,2018-07-11T18:50:55.000Z,2018-07-11T18:20:35.000Z,10,3,0,0,0,,
+236121671,Zukei Puzzle,"Unstuck Challenge 7: Create a project that uses the Pen blocks to automatically draw a pattern on the stage. 
+
+Note: the project doesn't verify your answers. It is intended to be used by students to experiment and share possible solutions in a classroom setting.","Click on the green flag to start, then follow the instruction on the first backdrop.",25332755,https://cdn2.scratch.mit.edu/get_image/project/236121671_480x360.png,2018-07-11T14:01:03.000Z,2018-07-15T02:00:28.000Z,2018-07-11T18:28:09.000Z,18,5,2,0,0,,
+236125330,Day 7,"music from The Sorcerer's Apprentice by Dukas viahttps://www.yourclassical.org
+
+Struggled mightily to create the flower block - I wanted to use actual math, but sadly, trig apparently isn't like riding a bike (for me anyway!). I will have to scavenge in the help forums later! 
+
+That Turbo Mode is awesome! Thanks CodeRangers!","Click the green flag and follow Scratch Cat's prompts - let's make some magic!
+
+Definitely use the Turbo Mode! Shift key and green flag - it drags on forever if you don't!",18341966,https://cdn2.scratch.mit.edu/get_image/project/236125330_480x360.png,2018-07-11T14:32:13.000Z,2018-07-11T18:48:12.000Z,2018-07-11T18:40:59.000Z,9,3,2,0,0,,
+236153840,Challenge #7,,,3101944,https://cdn2.scratch.mit.edu/get_image/project/236153840_480x360.png,2018-07-11T18:55:04.000Z,2018-07-11T18:55:19.000Z,2018-07-11T18:55:19.000Z,11,3,0,0,0,,
+236144518,Rhodonea Curve,"The first mention of this curve is the Florentine monk Guido Grandi in two letters to Leibniz in December 1713 and calls it ""rhodonea"", from the Greek. ῥόδον - ""rose""). Ten years later he published an article about her in The Philosophical Works of the Royal Society, where he examined varieties of this curve with a different number of petals and also called them "" rose-shaped"". Five years later, Guido Grandi developed the theory of rose-shaped curves in a separate work.","Moving the cursor, select the desired shape. 
+By clicking the mouse button you confirm that you want to draw this shape
+(Note: indicate the color square in which the figure is located, and not the figure itself - the color matters)
+Key ""space"" - stop the drawing and hide the pencil
+Key ""m"" - show the menu",139209,https://cdn2.scratch.mit.edu/get_image/project/236144518_480x360.png,2018-07-11T17:25:57.000Z,2018-07-11T19:12:48.000Z,2018-07-11T18:48:02.000Z,15,7,4,0,0,,
+236150766,Getting Unstuck Day 7- DK Snowflake,This project was from the DK Coding Projects in Scratch book that I saw and wanted to try.  I am still trying to figure out how to get the color to change consistently as I think that would give it a nice effect.,"Click green flag to start.
+
+Click anywhere on background.
+
+Press space bar to clear.",34190765,https://cdn2.scratch.mit.edu/get_image/project/236150766_480x360.png,2018-07-11T18:24:54.000Z,2018-07-12T15:57:47.000Z,2018-07-11T18:55:01.000Z,19,6,0,0,0,,
+236155174,Unstuck Day 7-drawing with code,,I have never used the stamp block so I thought I would play with that along with some randomness,16010675,https://cdn2.scratch.mit.edu/get_image/project/236155174_480x360.png,2018-07-11T19:09:49.000Z,2018-07-11T19:29:55.000Z,2018-07-11T19:29:23.000Z,5,0,0,0,0,,
+236143893,Getting Unstuck - Day 7 (pen),"I'm really excited about this project! I've seen pen patterns forever, but I've never created one myself. I wanted to challenge myself to make something on my own before I looked at others' projects or copied over code, and figured out how to do what I wanted to do after a few tries, moving carefully through the code to understand what was going on and write what I wanted it to do.
+
+I decided to define my own blocks to make the code easier for later remixing :)",Click the green flag to draw a rainbow circle pattern!,2752403,https://cdn2.scratch.mit.edu/get_image/project/236143893_480x360.png,2018-07-11T17:19:09.000Z,2018-07-11T19:42:19.000Z,2018-07-11T19:42:19.000Z,16,5,1,0,0,,
+236155720,"Pen Up, Pen Down (Unstuck 7)","This bit of ""hard fun"" was totally worth it. This was my first attempt to adapt a ""snippet"" of Turtle Art for Scratch and just made it a ""forever"" loop. My favorite part about this is the retro vibe.
+
+Here's the link to the original:http://turtleart.org/programming/introcards/imagepage.html?8",Press the flag to start.,27690149,https://cdn2.scratch.mit.edu/get_image/project/236155720_480x360.png,2018-07-11T19:15:30.000Z,2018-07-16T02:53:45.000Z,2018-07-11T19:50:48.000Z,10,3,0,0,0,,
+236156385,Scratch Cat Makes Abstract Painting,,"Press Green Flag to go to the center of the canvas.
+Press space bar to clear canvas.
+Click the Cat to have him draw you an image.",17846897,https://cdn2.scratch.mit.edu/get_image/project/236156385_480x360.png,2018-07-11T19:23:00.000Z,2018-07-11T20:41:42.000Z,2018-07-11T19:55:24.000Z,6,3,0,0,0,,
+236158713,Day 7 - Drawing,"If I had been home I would have pulled out my old copy of ""Turtle Geometry"" by Hal Abelson and Andrea diSessa and used it for inspiration. I'm on vacation, but luckily I have a copy of ""Make Your Own Algorithmic Art"" by Tariq Rashid on my Kindle. It has some great projects designed in JavaScript. The Spirograph project inspired me to implement it a bit differently in Scratch and play a little.",Just click the green flag!,7902,https://cdn2.scratch.mit.edu/get_image/project/236158713_480x360.png,2018-07-11T19:53:08.000Z,2018-07-11T20:00:55.000Z,2018-07-11T19:56:41.000Z,6,2,0,0,0,,
+236159101,Rosaria Day 7,,,33786606,https://cdn2.scratch.mit.edu/get_image/project/236159101_480x360.png,2018-07-11T19:58:39.000Z,2018-07-11T20:07:47.000Z,2018-07-11T20:07:47.000Z,10,1,0,0,0,,
+235918657,Rosaria day 5,,,33786606,https://cdn2.scratch.mit.edu/get_image/project/235918657_480x360.png,2018-07-09T16:41:14.000Z,2018-07-09T17:27:09.000Z,2018-07-09T17:17:48.000Z,14,1,0,0,0,,
+236105601,Getting Unstuck: Day 7,"Ho utilizzato un codice molto lungo per lo sprite. 
+Avrei potuto semplificarlo utilizzando altri blocchi? 
+Spero di potermi darmi una risposta alla fine del corso.
+
+Credit image: https://www.flaticon.com","Cliccare sulla bandiera verde.
+Click the green flag.",19789360,https://cdn2.scratch.mit.edu/get_image/project/236105601_480x360.png,2018-07-11T11:10:47.000Z,2018-07-17T19:09:45.000Z,2018-07-11T20:26:22.000Z,53,19,3,0,0,,
+236148611,Getting Unstuck 7,"I wanted to incorporate my love of knitting into at least one of these challenges! I programmed the pen to draw the knit stitches stitch by stitch and row by row, then I added the knitting needles. I tried to use Make a Block, repeats, and variables to keep the program as efficient as possible.
+
+The only trouble I had was in getting the needles to be empty of stitches on the first row, then to have stitches on each subsequent row. I ended up creating a variable to keep track of whether it was the first row or not and use that to determine which costumes the needles were showing.
+
+The program is also kind of slow (or maybe meditative? Perhaps I should add some soothing music...(UPDATE: Music added!)). I could adjust the speed on the stitches' turns by doing fewer repeats with a sharper turning angle, but this would also change the shape of the stitches and I kind of like them the way they are.
+
+Music is Good Thoughts by Lobo Loco from the Free Music Archive.","Click the green flag to fill the screen with knitting. You can press shift while clicking the green flag to run it in turbo mode, which will create the whole pattern very quickly, as the regular mode is pretty slow. This does make the animation of the needles kind of go away though - I wish there was an in-between!
+
+Also sometimes you need to click the green flag twice to get the needles to start moving? Not sure why.",18044195,https://cdn2.scratch.mit.edu/get_image/project/236148611_480x360.png,2018-07-11T18:05:01.000Z,2018-07-13T02:22:00.000Z,2018-07-11T20:48:18.000Z,24,6,3,0,0,,
+236154336,day 7 - Pattern of patterns,"Original idea and sprite by ScratchMaths
+
+http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-1-tiling-patterns",,214,https://cdn2.scratch.mit.edu/get_image/project/236154336_480x360.png,2018-07-11T19:00:36.000Z,2018-07-12T02:43:43.000Z,2018-07-11T20:38:53.000Z,11,2,0,0,0,,
+236162788,Calculating Pi Remix,"Thank you, mauretta, for your amazing project!",I found this great project that uses randomness to calculate pi over time. I used the pen to draw the graph in real time of how the result approaches pi (the horizontal line). ,4909710,https://cdn2.scratch.mit.edu/get_image/project/236162788_480x360.png,2018-07-11T20:49:40.000Z,2018-07-11T21:00:56.000Z,2018-07-11T21:00:56.000Z,9,2,0,0,0,236011275,236011275
+236163730,Day 7-Automatic patterns-Drawing with Variables,Day 7- Create a project that uses the Pen blocks to automatically draw a pattern on the stage. ,,16509596,https://cdn2.scratch.mit.edu/get_image/project/236163730_480x360.png,2018-07-11T21:04:27.000Z,2018-07-18T01:17:09.000Z,2018-07-11T21:04:42.000Z,10,2,1,0,0,,
+236159084,Ballerina Star,"Today I ""wanted"" to draw a star and then continue the drawing to create a spirograph type figure.  I found several tutorials, but got bogged down watching YouTube.  After 30 minutes of working on the project I stopped and decided it was ""good enough"" for now.  I'm so glad to be working on these challenges this week because my coding club next week will be doing similar challenges.  It's always good to experience activities as a student!",Ballerina star drawing ,29834388,https://cdn2.scratch.mit.edu/get_image/project/236159084_480x360.png,2018-07-11T19:58:26.000Z,2018-07-11T21:06:19.000Z,2018-07-11T21:01:22.000Z,8,2,0,0,0,,
+236159145,unstuck7,"I used random to get a different color on every stamp
+I wanted text as a mask","Press space to start 
+Use < and > to show/hide the text
+Move your mouse to draw.
+Try to fill the text for a clear reading",1072279,https://cdn2.scratch.mit.edu/get_image/project/236159145_480x360.png,2018-07-11T19:59:12.000Z,2018-07-11T21:01:52.000Z,2018-07-11T21:01:52.000Z,27,9,1,0,0,,
+236162173,Getting Unstuck: Day 7,,,24340467,https://cdn2.scratch.mit.edu/get_image/project/236162173_480x360.png,2018-07-11T20:41:36.000Z,2018-07-11T21:06:57.000Z,2018-07-11T21:06:57.000Z,67,14,1,0,0,,
+236153219,Tree generator - not working- GettingUnstuck-07,Anyway I learned with much more detail how to deal with local variables in clones.,"It doesn't work, basically.
+It should generate trees iteratively but I got lost in my own code and now I need to sleep. Tomorrow I'll be back",25876369,https://cdn2.scratch.mit.edu/get_image/project/236153219_480x360.png,2018-07-11T18:48:38.000Z,2018-08-06T17:09:40.000Z,2018-07-11T21:27:42.000Z,8,1,0,0,0,,
+236164349,Getting Unstuck: Day 7,"This is my first unstuck project that I did 100% by myself without looking at a tips guide or someone else's project before starting.  It is pretty basic, but I am pleased with my results, nonetheless.",Click on the green flag to see the sprite draw squares and an octagon.,34190490,https://cdn2.scratch.mit.edu/get_image/project/236164349_480x360.png,2018-07-11T21:13:40.000Z,2018-07-11T21:35:09.000Z,2018-07-11T21:32:53.000Z,7,2,0,0,0,,
+236166382,Unstuck - Day 7,"When I started making the geometric shapes and experimenting with the rotation, color, and repeats, it bagan to look like a kid's giant lollipop - so, that was my inspiration for this one.  I may go back and try to match up the chomping with the music. Hope you like it!
+
+
+Chordettes ""Lollipop"": https://www.youtube.com/watch?v=3rYoRaxgOE0
+
+","Click the green flag to start.
+Can you guess what I'm making?  Watch to the end.",2456527,https://cdn2.scratch.mit.edu/get_image/project/236166382_480x360.png,2018-07-11T21:49:38.000Z,2018-07-16T14:12:18.000Z,2018-07-11T21:51:26.000Z,6,2,0,0,0,,
+236163139,Banana pen! Day 7,"This was challenging.
+Maybe next time I could add a score keeping element.
+
+I really wanted the questions to be asked randomly but just couldn't manage the random question list(?) despite having a look online.  Any help with doing this will be appreciated....
+:)
+#GettingUnstuck
+#CreativeCoding","Getting Unstuck Day 7 version 1
+#CreativeComputing
+#GettingUnstuckAnswer the questions correctly to draw the shape.
+Watch out if you get it wrong, you'll miss the shape.
+Space bar will clear the screen.
+Have fun!
+
+I'd like to use this with my students when I go back to school to check their understanding of 2D shape and spelling ability.",24864870,https://cdn2.scratch.mit.edu/get_image/project/236163139_480x360.png,2018-07-11T20:55:08.000Z,2018-07-15T15:08:32.000Z,2018-07-11T22:00:45.000Z,12,1,0,0,0,,
+236164578,Wandering for Watermelon,"Using the Pen blocks takes me back to Turtle Logo lessons I taught for many years, many years ago. 
+
+Reflection: There were some stuck spots along the way.  Gobo was clearing the screen while Scratch cat was making the circle.  Mostly just putting the blocks in the best order of when to pick the pen up or put down, when to clear, etc.","Getting Unstuck #7 Pen patterns.
+
+Click the green flag.  Notice whether Gobo gets out before Scratch Cat finishes drawing the circle and rays.",399245,https://cdn2.scratch.mit.edu/get_image/project/236164578_480x360.png,2018-07-11T21:17:36.000Z,2018-07-11T22:02:31.000Z,2018-07-11T22:02:31.000Z,20,2,0,0,0,,
+236104452,Unstuck Day 7: Drawing Patterns,"I made this project in response to the prompt for Challenge #7-drawing patterns- of the Getting Unstuck initiative from the ScratchEd Team:
+https://gettingunstuck.gse.harvard.edu
+",This is not really drawing patterns because as I started I wanted to make a random colored background with a script and found there wasn't an easy way to fill it. So this turned into trying out any way to fill the stage with a random color I could think of. If you see inside you will see I came up with 3.,214174,https://cdn2.scratch.mit.edu/get_image/project/236104452_480x360.png,2018-07-11T10:55:16.000Z,2018-07-11T22:15:09.000Z,2018-07-11T11:19:03.000Z,6,0,0,0,0,,
+236168564,Getting Unstuck [Day 7],This is Getting Unstuck Day 7!,Click the green flag,13594403,https://cdn2.scratch.mit.edu/get_image/project/236168564_480x360.png,2018-07-11T22:33:17.000Z,2018-07-11T22:37:24.000Z,2018-07-11T22:37:24.000Z,10,1,1,0,0,,
+236137383,Get the colors!,"---Questions---
++What did you like most about your project? 
+I like the concept of my game because I think is simple. It could be fun as well.
++What would you do with it next, if you had more time?
+I'd like to add more levels and different patterns on each sprite.
+It could be sometimes difficult, so I like to adjust it.","Press the green flag.
+Use the mouse to move your player.
+Try to get all the colors before your enemy reach one of them.
+Don't touch the blue color or your will lose.
+Enjoy it!
+
+                                --- Getting Unstuck Day 7---
+Create a project that uses the Pen blocks to automatically draw a pattern on the stage. ",4413079,https://cdn2.scratch.mit.edu/get_image/project/236137383_480x360.png,2018-07-11T16:18:00.000Z,2018-07-19T19:26:27.000Z,2018-07-11T22:35:42.000Z,11,2,1,0,0,,
+236168869,Getting Unstuck [Day 7] (2),"I am trying to to experiment with trigonometric functions
+
+This is my second project for Getting Unstuck day 7! Whoo 2 projects!",Click the green flag,13594403,https://cdn2.scratch.mit.edu/get_image/project/236168869_480x360.png,2018-07-11T22:39:16.000Z,2018-07-11T22:50:48.000Z,2018-07-11T22:50:48.000Z,9,1,0,0,0,,
+236166866,Slinky Unstuck #7,"I think this looks a little bit like a Slinky. I used a simple repeat sequence to draw a circle, then the sprite moves 25 spaces to the right and makes another circle repeating this 15 times.
+
+If I had more time I'd make the ""Slinky"" curve like a real one. ",Click the green flag to begin,124311,https://cdn2.scratch.mit.edu/get_image/project/236166866_480x360.png,2018-07-11T21:59:36.000Z,2018-07-11T23:03:30.000Z,2018-07-11T23:00:34.000Z,16,6,0,0,0,,
+236167232,Getting Unstuck Day 7 ,"I was inspired by my kids' kaleidoscope. If I had more time I would figure out how to do more flower shaped designs and how to make the lines thicker.  Also, I tried to hide the sprite but it shows for the first rotation (not sure why, any help welcomed).  Thank you!",Click the green flag to see the design.,34221568,https://cdn2.scratch.mit.edu/get_image/project/236167232_480x360.png,2018-07-11T22:06:23.000Z,2018-07-11T23:17:08.000Z,2018-07-11T23:07:21.000Z,7,1,0,0,0,,
+236171526,Challenge7Draw2-2,,Just a simple one today. I'm not that good at art. :) ,2190314,https://cdn2.scratch.mit.edu/get_image/project/236171526_480x360.png,2018-07-11T23:31:45.000Z,2018-07-11T23:35:11.000Z,2018-07-11T23:32:16.000Z,4,0,0,0,0,,
+236170785,Scribble machine Day 7 Getting Unstuck ,"I love scribble machine and I wanted to create one with Scratch.
+Getting Unstuck Day 7: Use the Pen blocks to automatically draw a pattern on the stage.",Click on the green flag,8789156,https://cdn2.scratch.mit.edu/get_image/project/236170785_480x360.png,2018-07-11T23:17:17.000Z,2018-08-01T19:55:59.000Z,2018-07-11T23:40:44.000Z,10,2,0,0,0,,
+236171379,Day 7-Spirals,,"I wanted to make a spiral. This is my first attempt. While I got it to somewhat work, I want to start at a center point and grow bigger. I'll keep thinking about how I can do it. Any suggestions?",10309968,https://cdn2.scratch.mit.edu/get_image/project/236171379_480x360.png,2018-07-11T23:28:28.000Z,2018-07-25T01:19:54.000Z,2018-07-11T23:44:29.000Z,10,7,2,0,0,,
+236135680,Getting Unstuck Day 7 - Pen Down,,Pen down. Use the arrow keys for the blue light cycle (left side) and A W S D for the red light cycle. Press the green flag to reset the game.,18558561,https://cdn2.scratch.mit.edu/get_image/project/236135680_480x360.png,2018-07-11T16:01:14.000Z,2018-07-12T23:37:51.000Z,2018-07-12T00:07:30.000Z,9,1,0,0,0,,
+236171145,Getting Unstuck Day 7  Barnsley's Leaf,"The ""Barnsley's leaf"" algorithm is from ""Measure, Topology and Fractal Geometry"" by Gerald Edgar.  The original code is written in Logo.","Scratch Cat is ready to draw you a leaf using recursive code!  Just tell him the depth (how many layers) and size of the leaf.  Be careful, if you make the depth too big this will run for a long time.  ",18198558,https://cdn2.scratch.mit.edu/get_image/project/236171145_480x360.png,2018-07-11T23:23:54.000Z,2018-07-12T00:25:51.000Z,2018-07-12T00:06:17.000Z,10,4,2,0,0,,
+236172635,Ballerina 2.0,"Thanks to my husbands tutorial at dinner tonight, I was able to recreate this project!",This is more what I had in mind!,29834388,https://cdn2.scratch.mit.edu/get_image/project/236172635_480x360.png,2018-07-11T23:55:25.000Z,2018-07-12T00:13:30.000Z,2018-07-12T00:12:31.000Z,13,4,0,0,0,,
+236171451,Getting Unstuck Day 7,,Choose a colour and the pattern will start. Click the clear button to erase the pattern and start over.,21665389,https://cdn2.scratch.mit.edu/get_image/project/236171451_480x360.png,2018-07-11T23:30:00.000Z,2018-07-12T00:40:17.000Z,2018-07-12T00:39:04.000Z,7,0,0,0,0,,
+236111471,Getting Unstuck: Day 7,It took me way too long to figure out how to make the cat move forward while rotating instead of moving around in a circle. ,"1. Click the Green Flag.
+2. Watch the cat draw a pattern.",14143361,https://cdn2.scratch.mit.edu/get_image/project/236111471_480x360.png,2018-07-11T12:29:54.000Z,2018-07-12T00:55:36.000Z,2018-07-12T00:54:02.000Z,6,0,0,0,0,,
+236175380,Getting Unstuck - Day 7,Create a project that uses the Pen blocks to automatically draw a pattern on the stage. ,,86693,https://cdn2.scratch.mit.edu/get_image/project/236175380_480x360.png,2018-07-12T00:45:11.000Z,2018-07-12T00:55:47.000Z,2018-07-12T00:55:47.000Z,11,3,0,0,0,,
+236172730,Getting Unstuck Challenge 7,"Inspired by the use of random blocks, have decided to add random background, random colours, random pattern shape.
+
+When I have more time will perhaps add random musical loops too!
+
+I use creating simple shapes in the math classroom, will be sharing plenty of these projects with class for inspiration.
+
+Keep the challenges coming!","Press space key to start pattern.
+Press c key to select a different colour at anytime.",13484475,https://cdn2.scratch.mit.edu/get_image/project/236172730_480x360.png,2018-07-11T23:57:39.000Z,2018-07-12T00:58:27.000Z,2018-07-12T00:55:04.000Z,7,3,1,0,0,,
+236176032,Unstuck_7-2,,"This program will draw lines for you.  The arrow keys will direct your pencil, if buttons a, s and d are held concurrently with the direction keys, they will change color.  Clicking the space bar will clear your screen.  Have Fun!",9694576,https://cdn2.scratch.mit.edu/get_image/project/236176032_480x360.png,2018-07-12T00:56:57.000Z,2018-07-12T00:59:38.000Z,2018-07-12T00:57:24.000Z,3,1,0,0,0,,
+236174861,Unstuck Day 7,This was easier for me then the others.  I like the pen:-),"Just click on the wizard and watch him work his magic.  To clear the screen, press any key.",24826697,https://cdn2.scratch.mit.edu/get_image/project/236174861_480x360.png,2018-07-12T00:35:50.000Z,2018-07-12T01:00:14.000Z,2018-07-12T01:00:13.000Z,6,0,0,0,0,,
+236171223,Unstuck 07 Pen flowers,Thank you @rita-kreinin for the basic flower drawing code. Then I adjusted it for random number of petals and petal shape.  ,Create a project that uses the Pen blocks to automatically draw a pattern on the stage.,19123745,https://cdn2.scratch.mit.edu/get_image/project/236171223_480x360.png,2018-07-11T23:25:26.000Z,2018-07-12T01:02:38.000Z,2018-07-12T01:02:38.000Z,5,1,0,0,0,236162173,236162173
+236175291,Pen Block Pattern- Day 7,"Create a project that uses the Pen blocks to automatically draw a pattern on the stage. 
+
+*I'm not really sure how I came up with this, I was just changing variables!",Press the green flag and watch!,25165723,https://cdn2.scratch.mit.edu/get_image/project/236175291_480x360.png,2018-07-12T00:43:47.000Z,2018-07-12T01:15:46.000Z,2018-07-12T01:15:46.000Z,4,1,1,0,0,,
+236176522,Day Seven Unstuck,I did refer to a program that used a flower drawing. I did straight lines and brought in the random component from Day Six. I would like to expand this to making a recognizable drawing.,The only key I have programmed in this is the green flag. ,2356410,https://cdn2.scratch.mit.edu/get_image/project/236176522_480x360.png,2018-07-12T01:04:47.000Z,2018-07-12T01:20:30.000Z,2018-07-12T01:16:29.000Z,3,0,0,0,0,,
+236176847,Unstuck Day 7,I kept this project very simple because I was so busy today! But I see how this is a great way to teach loops to stidents.,"Green flag for an intro, press space to see a pattern,",11305008,https://cdn2.scratch.mit.edu/get_image/project/236176847_480x360.png,2018-07-12T01:09:31.000Z,2018-07-12T01:20:33.000Z,2018-07-12T01:20:33.000Z,8,2,0,0,0,,
+236176397,#GettingUnstuck Day 7,This was my very first time using the pen code. I kept it really simple! I need more practice with this code. #GettingUnstuck, Click the green flag and move the mouse to create a pattern. Press the C key to clear the pattern,18062705,https://cdn2.scratch.mit.edu/get_image/project/236176397_480x360.png,2018-07-12T01:02:59.000Z,2018-07-12T01:24:52.000Z,2018-07-12T01:22:55.000Z,5,1,0,0,0,,
+236172194,Pinwheels (Getting Unstuck Day 7),"Inspiration from rita-kreinin Getting Unstuck : Day 7
+
+
+
+",Click the green flag to begin.,34198395,https://cdn2.scratch.mit.edu/get_image/project/236172194_480x360.png,2018-07-11T23:45:32.000Z,2018-07-15T04:10:28.000Z,2018-07-12T01:16:02.000Z,11,3,0,0,0,,
+236178369,day 7 flower surprise remix from day 2,"This was fun to remix this project that was already using the pen and use it in another way. I'm not sure that I understand exactly why everything is happening the way it is - for instance why the first time I open the project in a browser, the magic pencil draws different images than every time after that... Today was less making something happening than just messing around playing with the story...",First the bird will use the magic pencil - then you get a turn to use it.,124064,https://cdn2.scratch.mit.edu/get_image/project/236178369_480x360.png,2018-07-12T01:34:10.000Z,2018-07-12T01:58:11.000Z,2018-07-12T01:36:14.000Z,4,1,0,0,0,,
+236178090,Unstuck Day 7,This was fun to experiment with drawing. ,"Choose your angle, then hit the flag. Small angles do not make interesting designs. 
+",266894,https://cdn2.scratch.mit.edu/get_image/project/236178090_480x360.png,2018-07-12T01:29:37.000Z,2018-07-12T01:45:18.000Z,2018-07-12T01:38:15.000Z,7,3,0,0,0,,
+236173255,Unstuck Day 7 - Calming Star,"Challenge: use the pen block to draw a pattern on the stage
+I wanted to make a project that relaxed someone when he viewed it.
+I used the pen to draw the lines which always start at 0,0. I used the random block to choose the 2nd coordinate of the line. I would have liked to use more relaxing music. The music I used is from the sound library, but I made it longer by copying and pasting the original clip into the audio file editor.
+
+Update: I tried to add some calming music from Freesound.org, but the file wouldn't upload. So I made a simple musical pattern using a flutes.",Click on flag to begin. ,10715270,https://cdn2.scratch.mit.edu/get_image/project/236173255_480x360.png,2018-07-12T00:08:17.000Z,2018-07-31T22:45:58.000Z,2018-07-12T01:38:14.000Z,7,2,0,0,0,,
+236111184,Day 7 - Spiraling out of control,"Clicking on the background should have produced spirals complimentary in color to where you were on the color wheel but work got in the way and I had to abandon the effort. Still fun though!
+
+Day 7 - Create a project that uses the Pen blocks to automatically draw a pattern on the stage. ",Click the flag then click on the background. ,109272,https://cdn2.scratch.mit.edu/get_image/project/236111184_480x360.png,2018-07-11T12:26:14.000Z,2018-07-25T01:16:02.000Z,2018-07-12T01:48:33.000Z,6,3,0,0,0,,
+236170741,Getting Unstuck Challenge 7 - list unstuck,"Threw it together quickly, thought piggy backing off my tutorial from challenge 6, I would use index to draw out the short quick message which x, y locations were stored in lists.
+
+Once again, had to work to just got to this now. Hope looking inside will help show how to use index for referencing items or locations in a list.  
+
+Had plans to make a pen platformer level as an example but too long a day. Going to watch the Red Sox get the last out of the game and call it a night. Maybe tomorrow I'll have time","Hit green flag
+
+The pen tool will draw out the message.
+
+Sorry so short, worked a 12 hour day today (7 hours at a baseball camp, 2 hours of private lessons, and travel time), didn't have more than 15 minutes to create this project.
+",3158946,https://cdn2.scratch.mit.edu/get_image/project/236170741_480x360.png,2018-07-11T23:16:20.000Z,2018-07-12T11:16:01.000Z,2018-07-12T01:42:34.000Z,10,2,0,0,0,,
+236173528,Drunk Bear,"This was my attempt at addressing the Scratch Day 7 challenge, using the pen blocks. I had a couple things I couldn't figure out how to do... if anyone out there feels like lending a helping hand and giving me feedback, I'd appreciate it!
+(1) Any idea how to remove the white background of the beer can (which seemed to be transparent when I found the image)?
+(2) Instead of having the bear wildly meander when the user hits the space bar, I'd love to have this action initiated when the user walks the bear into the beer can (ie, the sprites touch).
+(3) There seems to be a problem with having everything reset when hitting the ""c"" key -- it requires that it be clicked on two times. What's that all about? Also, is there a way to get the bear to revert to its original angle (straight, not tilted)?
+THANKS IN ADVANCE!","Make the bear walk in different directions with the up, down, left and right arrows. Hit ""space"" to let him ramble around. Hit ""c"" to restart.",34185712,https://cdn2.scratch.mit.edu/get_image/project/236173528_480x360.png,2018-07-12T00:13:10.000Z,2018-07-12T02:02:23.000Z,2018-07-12T01:59:37.000Z,5,1,0,0,0,,
+236179435,Beetle Pattern  ,I am finding YouTube invaluable for helping learn things about Scratch that are not intuitive to me.  That's how I learned how to reset the pattern.,"Start with green flag, press space bar to clear.  You can also press green flag repeatedly for a pattern of hexagons w/o clearing.",34205973,https://cdn2.scratch.mit.edu/get_image/project/236179435_480x360.png,2018-07-12T01:51:20.000Z,2018-07-12T02:19:14.000Z,2018-07-12T02:08:28.000Z,6,0,0,0,0,,
+236139563,shamrock - Getting Unstuck day 7,,"This is the project it uses a simple u shaped pattern to draw some flower (of different sizes and color).
+
+Click on the stage to generate a flower. 
+Press space to clear the stage.
+If you want to see how the flower is drawed you click on the slow button or, better, open the project and peruse!
+",2458985,https://cdn2.scratch.mit.edu/get_image/project/236139563_480x360.png,2018-07-11T16:36:38.000Z,2018-07-12T02:35:27.000Z,2018-07-12T01:55:37.000Z,10,3,0,0,0,,
+236178904,Getting Unstuck Day 7,"Getting Unstuck Day 7: Create a project that uses the Pen blocks to automatically draw a pattern on the stage.  
+
+Inspiration and assistance from CMSSowders 
+
+I was trying to create a simple pattern of a snowflake, but I could not figure out how to make the shape. I kind of just allowed the code to take it away and waited to see what I ended up with. ",Click the green flag. ,10722024,https://cdn2.scratch.mit.edu/get_image/project/236178904_480x360.png,2018-07-12T01:42:07.000Z,2018-07-12T02:33:51.000Z,2018-07-12T02:28:19.000Z,6,1,0,0,0,,
+236184021,Unstuck Day 7 Rushing,"Using the More Blocks feature in Scratch, you can create a new block (Function) and define the rule that applies to that block.  If you look inside, you will see functions for various shapes and the rules that define them. 
+Can you remix this and make your own design? 
+What additional shapes can you make by creating more FUNCTIONS?","Click the Green Flag to have Scratch create a design using various shapes.  Each shape is created using a FUNCTION that defines how it's drawn.  
+
+Click the  Space Key to Clear the screen.",7525698,https://cdn2.scratch.mit.edu/get_image/project/236184021_480x360.png,2018-07-12T03:19:27.000Z,2018-07-12T03:20:38.000Z,2018-07-12T03:20:38.000Z,6,2,0,0,0,,
+236180880,Unstuck Day 7:Orange you glad I made a circle?,"Plan A: Tried to figure out the blocks necessary to code the math I have in my head.  If I had a compass and straight edge, I could draw this very quickly.  Will set aside and try again another day when I have better understanding of how and when to use each block. 
+Plan B: Make an orange circle using an orange sprite.  Where is my orange sprite?  Tried changing colour, too.  Didn't work and took out again. So many questions . . . will have to come back to this to play and experiment. Much more challenging than anticipated. #StillStuck :)",Create a project that uses the Pen blocks to automatically draw a pattern on the stage. ,18337230,https://cdn2.scratch.mit.edu/get_image/project/236180880_480x360.png,2018-07-12T02:17:02.000Z,2018-07-12T04:05:09.000Z,2018-07-12T03:43:23.000Z,4,0,0,0,0,,
+236164447,Alien Generator,"For this one I decided to compose an image from functions using only the basic pen commands. Definitely a fun start, but this kind of a project definitely becomes quite mathy quickly, which can be a barrier for some students.",,1092342,https://cdn2.scratch.mit.edu/get_image/project/236164447_480x360.png,2018-07-11T21:15:06.000Z,2018-07-13T16:45:26.000Z,2018-07-12T03:42:46.000Z,8,1,0,0,0,,
+236185541,unstuck day 7 Rainbow in the sky,,Such some playing with circles and colors. Nothing fancy.,33890948,https://cdn2.scratch.mit.edu/get_image/project/236185541_480x360.png,2018-07-12T03:55:13.000Z,2018-07-20T06:25:11.000Z,2018-07-12T04:18:16.000Z,8,3,0,0,0,,
+236183192,Dance steps,"This project responds to the prompt for Getting Unstuck Day 7:  ""Create a project that uses the Pen blocks to automatically draw a pattern on the stage."" 
+
+Today's strategy was just keep going.  Once I started with this dance steps idea, there was no turning back!  I would have liked to have created more interesting patterns, but that will be for the next iteration.","Click on the green flag, groove to the music, and watch the dancing feet!",527557,https://cdn2.scratch.mit.edu/get_image/project/236183192_480x360.png,2018-07-12T03:00:20.000Z,2018-07-12T04:27:35.000Z,2018-07-12T04:27:35.000Z,6,2,0,0,0,,
+236123425,day7 DISEGNARE FIGURE GEOMETRICHE,Grazie ad Anna che mi ha dato l'occasione di esercitarmi!! :),"Clicca sulla bandierina verde, rispondi e stai a guardare!
+
+Click on green flag, write answer and look!",17600576,https://cdn2.scratch.mit.edu/get_image/project/236123425_480x360.png,2018-07-11T14:15:41.000Z,2018-07-12T04:51:40.000Z,2018-07-12T04:49:04.000Z,10,2,0,0,0,236109208,236109208
+236116514,Getting Unstuck Day ,"Inspiration and assistance from CMSSowders and amthom687.
+
+I was trying to do an overlapping pattern.  Struggled being creative today.",Click the green flag.,8909132,https://cdn2.scratch.mit.edu/get_image/project/236116514_480x360.png,2018-07-11T13:19:03.000Z,2018-07-12T04:52:42.000Z,2018-07-12T04:48:44.000Z,3,0,0,0,0,,
+236185916,Beetle Etch-a-Sketch,A very simple idea as  I couldn't think of much else to do. Then realised it needed an automatic element so I added an extra code block to go with it.,"Use the arrow keys to move. Press and hold P to lift the pen up as you move. Press W for the beetle to walk around automatically and S to make it stop.
+Press the green flag to start again.",30508500,https://cdn2.scratch.mit.edu/get_image/project/236185916_480x360.png,2018-07-12T04:07:06.000Z,2018-07-12T05:22:05.000Z,2018-07-12T04:51:04.000Z,3,0,0,0,0,,
+236187397,Unstuck Day 7 - Pen Blocks,"Try as I might, I could not get the cat to leave the black square. It seemed odd because although I had the cat return to x=0 and y=0 at the beginning of the program, it did not return there between scribbles. I had it start a subsequent scribble from wherever it left off on the previous one. 
+
+Answer: Because the glide command currently keeps the cat to -100 and 100 in both X and Y directions, the travel range is limited. Thank you Scratch Community!
+","Challenge:
+Create a project that uses the Pen blocks to automatically draw a pattern on the stage. 
+
+Hit the space bar to see a random scribble created by Scratch cat. Hit the space bar again to create a new one.
+
+",25286049,https://cdn2.scratch.mit.edu/get_image/project/236187397_480x360.png,2018-07-12T04:48:24.000Z,2018-07-15T15:43:40.000Z,2018-07-12T04:48:46.000Z,9,1,0,0,0,,
+236189145,turtleart (Getting Unstucked D7),"Every year my cousin give me, as Christmas present a Turtle Art calendar...I love to have breakfast watching the monthly piece of art and to try to understand the code behind.
+
+I wanted to turtle with the pen the boat but it's late and I've got to go to work :)",Click on the green flag and enjoy this mixed creation!!,6030800,https://cdn2.scratch.mit.edu/get_image/project/236189145_480x360.png,2018-07-12T05:28:47.000Z,2018-07-12T05:32:52.000Z,2018-07-12T05:29:18.000Z,10,6,0,0,0,,
+236188850,Octogons and Pen Drawing Unstuck Day 7,Iterations.,Click on Create to watch Cat start creating her favorite shape of the day.  Click on the white pencil to create thick black strokes using your mouse pad.  Click stop to stop strokes. Click erase to start again. ,31144646,https://cdn2.scratch.mit.edu/get_image/project/236188850_480x360.png,2018-07-12T05:22:00.000Z,2018-07-12T17:15:29.000Z,2018-07-12T06:04:59.000Z,4,1,0,0,0,,
+236190238,Wormholes,Looked at other projects and felt inspired.,I decided to do another Day 6 project. Press space bar to move the wormhole.,30508500,https://cdn2.scratch.mit.edu/get_image/project/236190238_480x360.png,2018-07-12T05:52:08.000Z,2018-07-12T06:21:58.000Z,2018-07-12T06:18:31.000Z,7,3,0,0,0,,
+236176010,Day 7,,Click sprite for instructions. Press c to clear screen,24884035,https://cdn2.scratch.mit.edu/get_image/project/236176010_480x360.png,2018-07-12T00:56:36.000Z,2018-07-12T06:24:52.000Z,2018-07-12T06:24:25.000Z,5,1,0,0,0,,
+236171810,Getting Unstuck #7,"I originally had a very different idea for this, but just couldn't figure out how to do it. If I had more time I'd like to make sure that users couldn't put in fewer than 3 or more than 10 sides, or more than 100 instances. I'm going to have to look into how to do this. I tried a few different ways and couldn't figure it out.","Just pop in the values for sides and instances. Sides are best if they're 9 or fewer, and instances will be best under 100.
+
+V2.0 I've added sliders thanks to @visionsbyvicky. Much nicer.",141519,https://cdn2.scratch.mit.edu/get_image/project/236171810_480x360.png,2018-07-11T23:38:01.000Z,2018-07-12T09:20:35.000Z,2018-07-12T06:31:44.000Z,6,2,0,0,0,,
+236174328,Getting Unstuck - Day 7,"Was a relatively quick project to make. I used the random location and the pen block to make this wand animation/drawing. I'd love to experiment more with the pen/draw blocks in the future, especially to draw data visualizations or mathematical functions and graphs.
+
+Special shoutout to Harry Potter and Hermione!",Press the green flag and watch the animation!,25334812,https://cdn2.scratch.mit.edu/get_image/project/236174328_480x360.png,2018-07-12T00:26:09.000Z,2018-07-12T06:32:27.000Z,2018-07-12T06:30:26.000Z,5,1,0,0,0,,
+236192569,Getting Unstuck - Day 7 Activity,"This is my project for Day 7 of the Getting Unstuck programming challenge.
+
+By using a black background this is a little like a scratch off art activity where you cover a sheet of paper with colours and then add black ink all over it and then scratch off a design.
+
+After @alirb left a comment I tried again with this and now you are able to move the ball to a different spot with the pen up. There is still a bug when you put the pen down again but I am getting there. ","Click the green flag to begin the program.
+Press the space bar to start drawing with the ball.
+Press and hold the D key to have the pen down.
+Move the mouse to draw.
+Press and hold the L key to move the ball without drawing.
+Press the s key to stop drawing.",15946,https://cdn2.scratch.mit.edu/get_image/project/236192569_480x360.png,2018-07-12T06:30:15.000Z,2018-07-14T02:32:42.000Z,2018-07-12T07:12:19.000Z,8,3,0,0,0,,
+236194690,Getting Unstuck: Day 7,,Draw with the mouse and the program executes symmetries with different colors,19738986,https://cdn2.scratch.mit.edu/get_image/project/236194690_480x360.png,2018-07-12T07:05:10.000Z,2018-07-12T09:20:40.000Z,2018-07-12T07:17:12.000Z,5,3,0,0,0,,
+236192178,Getting Unstuck Day 7:    Patterns With Shapes,,Use the slider to set the number of sides and click the pencil. A pattern will be drawn with shapes of the specified size. You can press the space bar to reset the screen and not see the instructions repeated to draw a new pattern.,5271542,https://cdn2.scratch.mit.edu/get_image/project/236192178_480x360.png,2018-07-12T06:23:35.000Z,2018-07-12T07:26:45.000Z,2018-07-12T07:26:44.000Z,6,2,1,0,0,,
+236193607,Rainbow Lines,"I've made different versions of this project in the past. I was tempted to post one of my old ones, but I wanted to make something new. With this one I tried to keep the code as simple as possible, while making interesting drawings.
+
+I love when the line make a curve, if I had more time I would try to understand how to make the points bounce in a way that generates more of those nice curves. I would also add some music, I guess something like a theremin would sound good.
+
+Feel free to remix and enjoy!",Click the green flag and enjoy watching your computer drawing!,2286560,https://cdn2.scratch.mit.edu/get_image/project/236193607_480x360.png,2018-07-12T06:47:35.000Z,2018-07-19T01:48:26.000Z,2018-07-12T07:28:54.000Z,24,14,5,0,0,,
+236200170,Day 7 - Pen block,,,24154277,https://cdn2.scratch.mit.edu/get_image/project/236200170_480x360.png,2018-07-12T08:29:35.000Z,2018-07-12T08:49:09.000Z,2018-07-12T08:49:08.000Z,6,0,0,0,0,,
+236202060,Spirali interattive,"Se il  programma è così bello il merito è di benfire811, che ha realizzato il progetto al quale mi sono ispirata e della favolosa piattaforma Scratch che consente di apprendere remixando i lavori dei più esperti. Grazie!
+
+Ho rivisto il lavoro per #Getting Unstuck Day 7","Click on the green flag, move the mouse pointer to the upper and lower edges of the stage and edit the variables by dragging the sliders. Have fun!
+
+Clicca sulla bandierina verde, porta il puntatore del mouse verso i bordi superiore e inferiore dello stage, modifica le variabili trascinando gli slider e ... divertiti!",17698999,https://cdn2.scratch.mit.edu/get_image/project/236202060_480x360.png,2018-07-12T08:55:29.000Z,2018-07-12T09:02:18.000Z,2018-07-12T08:57:49.000Z,5,1,0,0,0,,
+236200779,Banana pen! Day 7 REVISED,"This was challenging.
+Maybe next time I could add a score keeping element.
+
+Worked out how to do the random element - and usign half the original code.  SOOOOOOOOO happy!!!nIts great when something works!
+
+#GettingUnstuck
+#CreativeCoding","Getting Unstuck Day 7 
+#CreativeComputing
+#GettingUnstuck
+REVISED!!!!
+
+Answer the questions correctly to draw the shape.
+Watch out if you get it wrong, you'll miss the shape.
+Space bar will clear the screen.
+Have fun!
+
+I'd like to use this with my students when I go back to school to check their understanding of 2D shape and spelling ability.",24864870,https://cdn2.scratch.mit.edu/get_image/project/236200779_480x360.png,2018-07-12T08:37:55.000Z,2018-07-15T15:08:53.000Z,2018-07-12T09:07:25.000Z,10,3,0,0,0,,
+236202793,Snowflake,Uso della penna per Getting unstuck Day 7: ho fatto muovere il gattino in modo da disegnare un fiocco di neve,"Clicca sulla bandierina verde
+
+Just click on the green flag",17698999,https://cdn2.scratch.mit.edu/get_image/project/236202793_480x360.png,2018-07-12T09:06:30.000Z,2018-07-12T09:16:37.000Z,2018-07-12T09:16:37.000Z,14,4,1,0,0,,
+236204792,Getting Unstuck Day7,"What did you like most about your project? Being colourful and including some math
+
+What would you do with it next, if you had more time? make the pattern more complex. maybe with several pens or with different base shapes by changing one of the if statements to random",,17809789,https://cdn2.scratch.mit.edu/get_image/project/236204792_480x360.png,2018-07-12T09:33:46.000Z,2018-07-12T09:49:02.000Z,2018-07-12T09:42:01.000Z,13,6,0,0,0,,
+236204622,Getting Unstuck #7.3,"I've redone this so that it now has sliders, but the length of the sides also changes in a Fibonacci sequence. It doesn't look as good, but figuring out the arithmetic was a bit of fun.
+Now the length of the sides is 1,1,2,3,5, etc. It's a great illustration of how quickly they add up to big numbers. ","Just pop in the values for sides and instances. Sides are best if they're 9 or fewer, and instances will be best under 100.
+
+V2.0 I've added sliders thanks to @visionsbyvicky. Much nicer.",141519,https://cdn2.scratch.mit.edu/get_image/project/236204622_480x360.png,2018-07-12T09:31:01.000Z,2018-07-12T09:48:08.000Z,2018-07-12T09:40:16.000Z,3,1,0,0,0,,
+236206205,Circles,"1. I would like to know how to get rid of the straight lines.
+2. I will revisit this when I have more time and work on another more satisfying project.
+
+Thank you so much ffred and Sabriana for your advice. It WORKED!","Getting Unstuck #Day 7
+
+Click green flag to start.",158902,https://cdn2.scratch.mit.edu/get_image/project/236206205_480x360.png,2018-07-12T09:53:53.000Z,2018-07-13T03:05:52.000Z,2018-07-12T10:19:53.000Z,13,3,0,0,0,,
+236204757,Day 7 - Getting Unstuck,,A Koch (MAD) snowflake...,26079479,https://cdn2.scratch.mit.edu/get_image/project/236204757_480x360.png,2018-07-12T09:33:21.000Z,2018-07-25T19:37:09.000Z,2018-07-12T10:21:21.000Z,9,4,1,0,0,236143961,236143961
+236197959,#GettingUnstuck_7,"What did you like most about your project?
+It´s visual and a good way to use it for explaining geometry
+
+What would you do with it next, if you had more time?
+I´d give it color
+",,16962202,https://cdn2.scratch.mit.edu/get_image/project/236197959_480x360.png,2018-07-12T07:57:44.000Z,2018-07-12T10:52:04.000Z,2018-07-12T10:52:04.000Z,3,1,0,0,0,,
+236208899,Drawing shapes - Getting Unstuck - Day 7,The hexagon and octagon were a little too big using the 100 move statement so I used a smaller length to fit on the screen. ,"In this project, we are drawing shapes based on the buttons you press.  
+Press the space bar to clear in between the different shapes. 
+
+",19641362,https://cdn2.scratch.mit.edu/get_image/project/236208899_480x360.png,2018-07-12T10:38:43.000Z,2018-07-12T10:56:16.000Z,2018-07-12T10:54:24.000Z,4,2,0,0,0,,
+236210546,Queen Pen,"You know what I learned on this project???  
+How to control the thumbnail that is saved.  LOL.
+
+Inspired by Pastry Tycoon and Fun with Pen","Change the variables to the left to create different designs.
+Once you change the variable, click the ""Design"" button to see the new design. 
+If you press the ""R"" key it will randomly select numbers for you. 
+Be sure to run in Turbo mode (SHIFT+ Green Flag)
+",2876976,https://cdn2.scratch.mit.edu/get_image/project/236210546_480x360.png,2018-07-12T11:04:29.000Z,2018-07-12T11:45:27.000Z,2018-07-12T11:05:06.000Z,5,3,0,0,0,,
+236215005,Getting Unstuck - Day 7,"I started this project originally as an assignment for my students.  We started with just drawing a triangle.  Then we added the ""sides"" slider.  I added the other user options to make it more interesting.  The most difficult part of the project for my students was the math.
+
+What I'd like to add is a way to disable the arrow buttons while the witch is drawing.","Getting Unstuck Day 7: Create a project that uses the Pen blocks to automatically draw a pattern on the stage. 
+
+Use the Green Flag to clear the page.
+Use the space bar to have the witch draw shapes specified by the slider settings. 
+Use the arrow keys to move the witch around the screen between drawings.",14400846,https://cdn2.scratch.mit.edu/get_image/project/236215005_480x360.png,2018-07-12T12:14:44.000Z,2018-07-12T12:23:31.000Z,2018-07-12T12:15:23.000Z,6,1,0,0,0,,
+236143985,Getting Unstuck #7,,,10296314,https://cdn2.scratch.mit.edu/get_image/project/236143985_480x360.png,2018-07-11T17:20:25.000Z,2018-07-12T13:17:19.000Z,2018-07-12T13:17:19.000Z,5,1,0,0,0,,
+236167574,Unstuck: Day 7,"By Filipe Mendes
+",Define the size of the square and draw 16 square inside the big square,2980392,https://cdn2.scratch.mit.edu/get_image/project/236167574_480x360.png,2018-07-11T22:13:06.000Z,2018-07-12T13:46:34.000Z,2018-07-12T13:45:37.000Z,3,1,0,0,0,,
+236171179,A Summer Night by the River_Getting Unstuck Day 7,,Click the green flag to start.  Click around the picture and see what happens!,17257831,https://cdn2.scratch.mit.edu/get_image/project/236171179_480x360.png,2018-07-11T23:24:40.000Z,2018-07-12T19:34:24.000Z,2018-07-12T19:34:23.000Z,12,5,2,0,0,,
+236225092,magic pencil,"Choose flower or pencil
+I found the maths quite hard on this!",click the green flag to start,33472226,https://cdn2.scratch.mit.edu/get_image/project/236225092_480x360.png,2018-07-12T13:55:20.000Z,2018-07-12T18:57:08.000Z,2018-07-12T15:17:34.000Z,5,1,0,0,0,,
+236227080,Getting Unstuck: Day 7,Inspired by:  antonellamazzobel ,,22286405,https://cdn2.scratch.mit.edu/get_image/project/236227080_480x360.png,2018-07-12T14:11:10.000Z,2018-07-12T15:35:41.000Z,2018-07-12T15:34:55.000Z,8,2,0,0,0,,
+236237575,Unstuck-7,"My nickname (Adri) !
+
+Not a pattern but started this and got carried away :)",,34091272,https://cdn2.scratch.mit.edu/get_image/project/236237575_480x360.png,2018-07-12T15:48:44.000Z,2018-07-12T16:22:33.000Z,2018-07-12T16:19:43.000Z,13,6,1,0,0,,
+236239541,Cat and Donut Day #7 Getting Unstuck   ,"What did you like most about your project? I like the color pattern that comes from the pens.
+ What would you do with it next, if you had more time? I would figure out how to change the sprites' direction so that they will keep drawing in different  directions in the same pattern.",Press the green arrow to start and the space bar to reset.,28676433,https://cdn2.scratch.mit.edu/get_image/project/236239541_480x360.png,2018-07-12T16:09:26.000Z,2018-07-12T16:38:58.000Z,2018-07-12T16:24:41.000Z,3,0,0,0,0,,
+236159147,Knitting Patterns: Getting Unstuck Day 7 bis Patterns and Pen,"Getting Unstuck Day 7
+
+Ran out of steam on this one. 
+
+In terms of getting unstuck, I had to google a few times, mostly to figure how lists work in Scratch.",Instructions are (mostly) in the project,3485356,https://cdn2.scratch.mit.edu/get_image/project/236159147_480x360.png,2018-07-11T19:59:15.000Z,2018-07-12T17:42:07.000Z,2018-07-12T17:40:55.000Z,8,0,0,0,0,,
+236247267,Getting Unstuck Day7-,Book: Imparare a programmare,,13275782,https://cdn2.scratch.mit.edu/get_image/project/236247267_480x360.png,2018-07-12T17:26:40.000Z,2018-07-12T17:48:11.000Z,2018-07-12T17:48:11.000Z,11,1,0,0,0,,
+236247338,IN PRINCIPIO FU IL CAOS...ANCHE DOPO!,HELP ME!   DIFFICILISSIMO!,BANDIERINA VERDE E PER PULIRE BARRA SPAZIO.,34259094,https://cdn2.scratch.mit.edu/get_image/project/236247338_480x360.png,2018-07-12T17:27:33.000Z,2018-07-12T17:59:02.000Z,2018-07-12T17:55:30.000Z,2,0,0,0,0,,
+236157840,Getting Unstuck Day 7,"Considering I started a complete novice less than 7 days ago with Scratch, I'm extremely proud of what I've been able to accomplish here today!","Challenge: Use the Pen blocks to automatically draw a pattern on the stage.
+
+Click the green flag to watch the fish outsmart the shark.",34245752,https://cdn2.scratch.mit.edu/get_image/project/236157840_480x360.png,2018-07-11T19:41:38.000Z,2018-07-12T18:04:52.000Z,2018-07-12T18:03:42.000Z,6,0,0,0,0,,
+236248373,Getting Unstuck Challenge Day 7,Taken and adapted from Coding Projects in Scratch by DK Press.,Click the green flag to grow a tree. Click it over and over to grow slightly different shaped trees. I played with the different angles and number of loop repetitions to try to get a more natural looking tree.,17824064,https://cdn2.scratch.mit.edu/get_image/project/236248373_480x360.png,2018-07-12T17:38:03.000Z,2018-07-24T21:58:08.000Z,2018-07-12T17:59:02.000Z,17,4,0,0,0,,
+236230900,Unstuck Day 7 (v2): Regular Polygons,"After yesterday's challenge, wanted to explore polygons in more depth.  Led to this . . . 
+Using pen to create regular polygons with 3 to 9 sides.
+May revisit again to explore other ways of solving.
+","Day 7 Challenge: Create patterns using pens.  (Second try)
+Double click on flag to clear
+Press number keys 3-9 to see regular polygon with that number of sides.",18337230,https://cdn2.scratch.mit.edu/get_image/project/236230900_480x360.png,2018-07-12T14:46:13.000Z,2018-07-16T16:52:19.000Z,2018-07-12T21:09:10.000Z,6,1,2,0,0,,
+236269033,Unstuck Day 7,Fun project.  Took some thought of what to draw and how.  ,Click the green flag to see the fish learn it's shapes!,11885888,https://cdn2.scratch.mit.edu/get_image/project/236269033_480x360.png,2018-07-12T22:17:54.000Z,2018-07-12T22:34:41.000Z,2018-07-12T22:27:18.000Z,4,1,0,0,0,,
+236268664,Getting Unstuck Day 7,I have previously not done much with the pen blocks on Scratch so this project was new and exciting. It's not too complicated and I think it's enjoyable to watch.,Press the green flag to start/ reset.,22156688,https://cdn2.scratch.mit.edu/get_image/project/236268664_480x360.png,2018-07-12T22:09:57.000Z,2018-07-12T23:00:52.000Z,2018-07-12T22:59:12.000Z,2,0,0,0,0,,
+236282585,"Getting Unstuck Day 7: Central Park, Winter","Thanks to by @gulshangrover - used script from project Pen Snow Flakes to make the snow (saved me lots of time!)
+
+Painting from the MET Public Domain Images
+Central Park, Winter
+William James Glackens
+
+Challenge: using the pen to make snow
+At first, I was trying to figure out how to program the pen to draw falling snowflakes. Explored the community for other projects with snow for some help! ",Click the green flag to make snow fall in the picture!,1353497,https://cdn2.scratch.mit.edu/get_image/project/236282585_480x360.png,2018-07-13T02:39:37.000Z,2018-07-13T02:57:03.000Z,2018-07-13T02:52:10.000Z,11,3,1,0,0,,
+236284092,Pen block to automatically draw on stage.,"I've not used the pen option before. I also haven't used the ""if on edge, bounce"" very much either. It was fun exploring these options.","Cick on the green flag and watch a slightly random, slightly ordered, pattern appear.",32833725,https://cdn2.scratch.mit.edu/get_image/project/236284092_480x360.png,2018-07-13T03:07:21.000Z,2018-07-13T03:20:44.000Z,2018-07-13T03:20:44.000Z,5,1,0,0,0,,
+236184060,Getting unstuck: Day 7,"For Getting Unstuck Day 7, I just tried to use simple patterns to represent some of the Gods I use in my History class. Maybe it would be a Good idea to continue with all the gods to give a class. Or maybe to ss to represent them as well. 
+
+My invitation is to remix: How could we improve this idea with variables? 
+
+This time I recorded my own sounds.
+",Click on the Green Flag to start.,32493591,https://cdn2.scratch.mit.edu/get_image/project/236184060_480x360.png,2018-07-12T03:20:10.000Z,2018-07-13T03:31:17.000Z,2018-07-13T03:28:30.000Z,4,1,0,0,0,,
+236292377,07 Getting Unstuck - Drawing with Pen,"I can't figure out why one of my rows is a different height than the others. Hmmmmm.
+",Click the green flag to begin and then press the space bar to draw a pattern!,5401184,https://cdn2.scratch.mit.edu/get_image/project/236292377_480x360.png,2018-07-13T06:15:07.000Z,2018-07-13T07:16:35.000Z,2018-07-13T07:07:17.000Z,11,3,0,0,0,,
+108152104,invisible man,Getting Unstuck,"Clicca sulla bandiera verde e poi usa barra spaziatrice.
+
+Click on the green flag, then on the spacebar.",11312120,https://cdn2.scratch.mit.edu/get_image/project/108152104_480x360.png,2016-05-04T10:29:20.000Z,2018-07-13T08:05:51.000Z,2016-05-04T16:24:09.000Z,16,3,1,0,0,,
+236293514,GettingUnstuck7: good summer holidays,,"Press the green flag
+Press the pencil",16573108,https://cdn2.scratch.mit.edu/get_image/project/236293514_480x360.png,2018-07-13T06:37:06.000Z,2018-07-13T08:46:50.000Z,2018-07-13T08:41:42.000Z,3,0,0,0,0,,
+236331730,Getting Unstuck #7 disegni,#GettingUnstuck,clicca sulla bandierina verde,17320587,https://cdn2.scratch.mit.edu/get_image/project/236331730_480x360.png,2018-07-13T15:42:52.000Z,2018-07-13T16:13:24.000Z,2018-07-13T16:12:39.000Z,12,3,0,0,0,,
+236111062,SunnyDay,"I had a hard time figuring out how to get the sun to start in the same spot. I though it was the Sprite/Sprite Center for the longest time. I finally realized I had to code the direction the Sprite was going! 
+
+
+
+Backdrop Image Source: Shutterstock Sea Sand Sky Summer by S_Photo https://www.shutterstock.com/image-photo/sea-sand-sky-summer-day-244123600
+",Press the Green Flag for to draw a Sunny Day!,10859938,https://cdn2.scratch.mit.edu/get_image/project/236111062_480x360.png,2018-07-11T12:24:45.000Z,2018-07-13T17:41:20.000Z,2018-07-13T17:38:36.000Z,6,0,0,0,0,,
+236258557,generative art - concentric circles,"Getting Unstuck: Day 7
+https://gettingunstuck.gse.harvard.edu/
+Create a project that uses the Pen blocks to automatically draw a pattern on the stage. 
+
+Huge thanks to @JacobAtInnovEd for the idea of nesting stamped copies. My goal here was to rewrite it so as to have generic helper functions for reuse in future projects.","Click the green flag to pack the screen full of circles.
+
+Hold the space key to animate the colours :)",34248043,https://cdn2.scratch.mit.edu/get_image/project/236258557_480x360.png,2018-07-12T19:28:02.000Z,2018-07-15T23:57:58.000Z,2018-07-13T23:05:32.000Z,15,6,1,0,0,235823446,235823446
+146213834,Drawing Shapes remix day 7,,CLICK ON THE PENCIL to draw a pattern,11349852,https://cdn2.scratch.mit.edu/get_image/project/146213834_480x360.png,2017-02-20T13:51:34.000Z,2018-07-13T23:16:17.000Z,2017-02-20T20:34:39.000Z,33,3,1,0,0,118215308,118215308
+236184388,Day 7:  Oh Happy Day!,"I saw a drawing pencil sprite like this many years ago and always wanted to try it.  To make it look like the pencil was drawing, I put the crosshairs of the sprite on the tip of the pencil.  I also used a chain reaction type broadcast scheme.
+
+It's a little obsessive, but I enjoyed figuring out a good strategy for doing this (I drew a background with the words, traced them with glides, then erased the background).
+
+I also learned that there is a limit to the number of blocks under a hat!  I had to break up ""Happy"" under three broadcast blocks.
+
+Music is Etta James singing ""Oh Happy Day!""",just press the green arrow,27658530,https://cdn2.scratch.mit.edu/get_image/project/236184388_480x360.png,2018-07-12T03:27:30.000Z,2018-07-14T03:28:03.000Z,2018-07-14T03:21:09.000Z,13,3,0,0,0,,
+236380561,Getting Unstuck: Day 7,,"Hi!
+
+I give you a magical greeting!
+
+I've learned to use a pen block. Very funny!",27636310,https://cdn2.scratch.mit.edu/get_image/project/236380561_480x360.png,2018-07-14T06:27:37.000Z,2018-07-14T07:57:56.000Z,2018-07-14T07:56:41.000Z,4,0,0,0,0,,
+236388749,getting unstuck day 7,I learn to use pencil,,23020553,https://cdn2.scratch.mit.edu/get_image/project/236388749_480x360.png,2018-07-14T09:50:18.000Z,2018-07-15T17:15:00.000Z,2018-07-14T10:06:52.000Z,4,1,0,0,0,,
+236387227,Getting unstuck day 7,"Draw repeated patterns changing size with variable.
+Tron bike from https://www.deviantart.com/anavar/art/Light-Cycle-Blue-156954030",Press green flag,2680901,https://cdn2.scratch.mit.edu/get_image/project/236387227_480x360.png,2018-07-14T09:15:03.000Z,2018-07-14T10:39:56.000Z,2018-07-14T10:38:20.000Z,7,1,0,0,0,,
+236390684,Unstuck 7,,,18827386,https://cdn2.scratch.mit.edu/get_image/project/236390684_480x360.png,2018-07-14T10:37:36.000Z,2018-07-14T10:38:05.000Z,2018-07-14T10:38:05.000Z,5,0,0,0,0,,
+236392071,Unstuck 7,For next time I would like to create a real pattern,,13846307,https://cdn2.scratch.mit.edu/get_image/project/236392071_480x360.png,2018-07-14T11:15:59.000Z,2018-07-14T11:49:56.000Z,2018-07-14T11:48:35.000Z,8,0,0,0,0,,
+236403267,Getting Unstuck: Day 7,"This is my project for Day 7 of the Getting Unstuck programming challenge. It is just a non-interactive animation that draws the initial letters of my name and my lastname, ""FM"".
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621",Create a project that uses the Pen blocks to automatically draw a pattern on the stage.,34314391,https://cdn2.scratch.mit.edu/get_image/project/236403267_480x360.png,2018-07-14T15:33:01.000Z,2018-07-14T16:10:42.000Z,2018-07-14T16:02:45.000Z,8,2,0,0,0,,
+236403148,Unstuck 7 circles,Very frustrated with the second element in this project as I cant get the ,,34099462,https://cdn2.scratch.mit.edu/get_image/project/236403148_480x360.png,2018-07-14T15:30:27.000Z,2018-07-26T16:45:30.000Z,2018-07-14T15:54:07.000Z,10,3,0,0,0,,
+236410228,Getting Unstuck 7," Getting Unstuck 7 ° 
+Penna per disegnare automaticamente un motivo sul palco.",Clicca sulla bandierina,15572972,https://cdn2.scratch.mit.edu/get_image/project/236410228_480x360.png,2018-07-14T18:00:37.000Z,2018-07-18T07:55:27.000Z,2018-07-14T18:27:18.000Z,8,2,0,0,0,,
+236417389,Unstuck Day 7 project,"I was still enjoying playing with randomness after Day 6, so I kept it going in my Day 7 project with the pen tool. #Unstuck #CreativeComputing #random",Click on a shape to draw it on the blank canvas!,17786521,https://cdn2.scratch.mit.edu/get_image/project/236417389_480x360.png,2018-07-14T20:45:56.000Z,2018-07-14T21:46:09.000Z,2018-07-14T21:35:06.000Z,7,2,0,0,0,,
+236434389,Getting Unstuck Day 7,"Getting Unstuck Day 7 Reflection:
+I think my project looks cool while it's running - I like that the colors gradually change as it's overwriting itself.  I don't like that there's a flaw somewhere in the hexagon code, so it messes up a side, but using a forever loop covers that up.  If I had more time I would troubleshoot that more - it's been driving me crazy!  :)",Press the green flag to start drawing a hexagonal spirograph.  Press the spare bar to clear the stage.,30095573,https://cdn2.scratch.mit.edu/get_image/project/236434389_480x360.png,2018-07-15T04:06:01.000Z,2018-07-15T04:40:07.000Z,2018-07-15T04:35:11.000Z,6,1,0,0,0,,
+236451258,UnStuck Day 7,It's my first project with pen. I have new knowledge about it. Thank's Scratch,"Use button:
+--> : right pen
+<-- : left pen
+a : left space
+s : right space
+d : up space
+f : bottom space
+",34216021,https://cdn2.scratch.mit.edu/get_image/project/236451258_480x360.png,2018-07-15T12:09:37.000Z,2018-07-15T12:16:53.000Z,2018-07-15T12:10:09.000Z,3,0,0,0,0,,
+236342867,day 7 of unstuck,"While using the pen block was not difficult, the challenge I had with this activity was getting the stage to clear each time so that my puzzle was not revealed prior to activating the code.",Press the green flag to get started.,25095252,https://cdn2.scratch.mit.edu/get_image/project/236342867_480x360.png,2018-07-13T18:04:08.000Z,2018-07-17T01:01:05.000Z,2018-07-15T12:52:14.000Z,2,0,0,0,0,,
+236453528,7 : Snake game remix,"Great simple game with the use of the pen blocks. The original project was inspired by the book ""20 games to create with Scratch"". ","This is a game with a snake that grows longer every second.... Try not to touch his body or the edge or he will say the score!
+Stir the snake with the arrows on the keyboard.
+
+Slangen bliver større og større hvert sekund. Den må ikke røre ved sin egen krop eller kanten. Spillet slutter, når slangen fortæller dig, hvor mange point du har fået. Styr slangen med piletasterne.",1252137,https://cdn2.scratch.mit.edu/get_image/project/236453528_480x360.png,2018-07-15T13:10:32.000Z,2018-07-15T15:50:50.000Z,2018-07-15T15:50:50.000Z,4,0,0,0,0,199495693,199495693
+236439052,IL GRANCHIO INTELLIGENTE,"Progetto creato per Getting Unstuck, giorno 7.",Clicca sulla bandierina verde per vedere cosa fa il granchietto. Quando il granchietto è fermo cliccaci sopra e...,14651357,https://cdn2.scratch.mit.edu/get_image/project/236439052_480x360.png,2018-07-15T06:27:13.000Z,2018-07-15T15:52:19.000Z,2018-07-15T15:52:19.000Z,3,0,0,0,0,,
+236462241,#GettingUnstuck7 - Drawing regular polygons with pen,"All sprites and costumes taken from the Scratch repository.
+
+There's a script which draws a regular polygon in random position, with random size and colour :)","Press green flag and follow the instructions. Keep space bar to finish the program.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 7.
+
+""Create a project that uses the Pen blocks to automatically draw a pattern on the stage""",1112440,https://cdn2.scratch.mit.edu/get_image/project/236462241_480x360.png,2018-07-15T16:40:18.000Z,2018-07-18T16:15:45.000Z,2018-07-15T16:50:14.000Z,7,0,0,0,0,,
+236177592,generative art - animated zigzag patterns,"Getting Unstuck: Day 7
+https://gettingunstuck.gse.harvard.edu/
+Create a project that uses the Pen blocks to automatically draw a pattern on the stage. 
+
+It's hard to stop playing with the pen drawing tools, so I might just add more than one project into the Getting Unstuck: Day 7 studio ^^
+
+I've had good fun with these zigzags! Simple shapes can be amazingly customizable if you just play around long enough :)
+
+ToDo: 
+- Center the fullscreen zigzags horizontally &vertically
+- Add a radial mode, and animate it with colours, different lengths and densities...
+- and I've always wanted to try Voronoi patterns ;)","Click the green flag, then press space to cycle trough the animated patterns",34248043,https://cdn2.scratch.mit.edu/get_image/project/236177592_480x360.png,2018-07-12T01:21:59.000Z,2018-07-24T18:58:18.000Z,2018-07-16T00:27:43.000Z,4,1,0,0,0,,
+236489834,Getting Unstuck Day 7 LK,"I struggled changing between sprites.  I had to remove a fourth sprite, the penguin, because it would not form the snowflake symmetrically. i will try again later. ",Click the green flag to begin,27094795,https://cdn2.scratch.mit.edu/get_image/project/236489834_480x360.png,2018-07-16T02:34:33.000Z,2018-07-16T03:41:39.000Z,2018-07-16T03:40:06.000Z,3,0,0,0,0,,
+236513754,Patterns - Getting Unstuck Day 7,,"Click on the green flag.
+Ordered patterns are being drawn for a while.
+But wait ...
+
+... it is a green wall.
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->
+Getting Unstuck: Day 7 - #CreativeComputing
+
+Create a project that uses the Pen blocks to automatically draw a pattern on the stage. 
+<-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><-><->",24583107,https://cdn2.scratch.mit.edu/get_image/project/236513754_480x360.png,2018-07-16T09:52:43.000Z,2018-07-16T12:11:31.000Z,2018-07-16T11:32:15.000Z,2,0,0,0,0,,
+236529857,Using Pen and drawing shapes,,,3035045,https://cdn2.scratch.mit.edu/get_image/project/236529857_480x360.png,2018-07-16T13:44:33.000Z,2018-07-16T13:59:47.000Z,2018-07-16T13:59:47.000Z,2,0,0,0,0,,
+236532330,pON pON,,Start with the green flag and then press space,3602053,https://cdn2.scratch.mit.edu/get_image/project/236532330_480x360.png,2018-07-16T14:05:03.000Z,2018-07-16T14:16:59.000Z,2018-07-16T14:16:58.000Z,6,3,0,0,0,,
+236565882,Getting Unstuck Day 7,"Again, like my work for an earlier project, I am inspired by Seymour Papert's work with Logo.
+I love making patterns like this. It's something to do with the regularity of it I think! I used to love the Spirograph toy when I was younger.
+I'm planning on adding some sort of input, maybe using loudness to change the thickness of the line or perhaps adding a random element. I did something like this at the conference at MIT in 2016.",Click the Green Flag to go!,287832,https://cdn2.scratch.mit.edu/get_image/project/236565882_480x360.png,2018-07-16T19:27:53.000Z,2018-07-16T19:52:24.000Z,2018-07-16T19:29:23.000Z,6,1,0,0,0,,
+236533856,coral reef - Getting Unstuck day 7,"This time I was inspired by https://speechfoodie.com/fractal-trees/
+
+I wanted a little less regular and deterministic appearance and then coral reef was born.
+
+I'm not fully happy at the result but I think it is a nice starting point for future remixes. The execution is too heavy for not so high values of height but the result looks enough natural to me.
+
+Credits go to 
+
+https://speechfoodie.com/fractal-trees/
+
+Even if it is not a proper remix, I would like to thanks  OriginallySystemized [1] for the RGB Color Detector project[2]
+
+It was fundamental to comprehend how to generate a random color
+
+[1]: https://scratch.mit.edu/users/OriginallySystemized/  
+[2]: https://scratch.mit.edu/projects/157358820/","Press green flag to start a new reef 
+Press space to grow a new coral 
+Press B to see an appropriate background (though I prefer the white one)
+Press W slightly change the corals appearance.",2458985,https://cdn2.scratch.mit.edu/get_image/project/236533856_480x360.png,2018-07-16T14:16:50.000Z,2018-07-23T20:23:43.000Z,2018-07-16T19:43:56.000Z,6,2,0,0,0,,
+236574369,disegnamo,"Getting Unstuck: Day 7
+Crea un progetto che utilizza i blocchi Penna per disegnare automaticamente un motivo sul palco.
+ mi sarebbe piaciuto riuscire a disegnare delle figure diverse in base al numero dei lati",rispondi alle domande e poi clicca lo sprite,21462276,https://cdn2.scratch.mit.edu/get_image/project/236574369_480x360.png,2018-07-16T21:33:30.000Z,2018-07-16T22:03:08.000Z,2018-07-16T21:40:14.000Z,2,0,0,0,0,,
+126409834,Colorando la geometria 2,Progetto realizzato con i ragazzi della 2 C dell'IC Giovanni XXIII-Binetto di Grumo Appula,,13575540,https://cdn2.scratch.mit.edu/get_image/project/126409834_480x360.png,2016-10-19T10:36:01.000Z,2018-07-17T10:20:32.000Z,2016-10-19T10:45:15.000Z,7,0,0,0,0,,
+236561294,Pinwheel (Getting Unstuck #7),"Getting Unstuck: Day 7
+Create a project that uses the Pen blocks to automatically draw a pattern on the stage. 
+
+Up until now I had some idea of how to do the daily projects. Then came day 7. I've never used the Pen blocks before, today's task was completely new to me!
+
+Didn't take to long to figure out a square. So my next challenge was to see what other shapes I could create...making a triangle wasn't as easy as I thought. This is a great way to explore and discuss angles and cartesian plane in elementary math.
+
+Finally, produced a rainbow pinwheel!",Click the down arrow to get Scratch cat to create a rainbow pinwheel. Use the space key to clear the screen.,22105327,https://cdn2.scratch.mit.edu/get_image/project/236561294_480x360.png,2018-07-16T18:37:53.000Z,2018-07-17T13:32:42.000Z,2018-07-17T13:31:16.000Z,7,1,0,0,0,,
+236634224,Day 7,Getting Unstuck day 7,,22217887,https://cdn2.scratch.mit.edu/get_image/project/236634224_480x360.png,2018-07-17T13:24:15.000Z,2018-07-17T13:50:08.000Z,2018-07-17T13:49:32.000Z,2,0,0,0,0,,
+236646444,getting unstuck day7,,green flag,17636749,https://cdn2.scratch.mit.edu/get_image/project/236646444_480x360.png,2018-07-17T15:11:27.000Z,2018-07-17T15:18:32.000Z,2018-07-17T15:17:36.000Z,1,0,0,0,0,,
+236686157,Getting Unstuck - Day 7,"Today's challenge was to use the pen block to create a pattern.
+
+I knew that I wanted something to be drawing a geometric pattern, so I had to find two sprites that would go together.  Then it took me a few tries to get the sprite to move slow enough to be viewable while drawing.  Then I had to experiment with the turning angles and repeat blocks to get it to return to the middle.","Click the green arrow and the wizard will create a pattern with his magic wand!
+
+Click the space bar to clear the pattern and start over.",24696341,https://cdn2.scratch.mit.edu/get_image/project/236686157_480x360.png,2018-07-17T22:45:57.000Z,2018-07-18T00:00:24.000Z,2018-07-17T23:50:36.000Z,2,0,0,0,0,,
+236693281,Unstuck 7,,Click the green flag. ,840815,https://cdn2.scratch.mit.edu/get_image/project/236693281_480x360.png,2018-07-18T00:31:32.000Z,2018-07-23T19:38:56.000Z,2018-07-18T01:08:14.000Z,3,0,0,0,0,,
+236687822,Spiraling flowers,"Getting Unstuck - Day 7
+My hope was to figure out how to generate an ""even"" looking spiral to use in a pattern, but I got stuck on this 12-petalled flower. :)  I thought a spiral's angle might change with each step, but it seems to not be done with a constant amount of decrease.
+
+For now, I am posting this as a draft -- I have an idea still to try, so perhaps I am somewhere between stuck and unstuck at the moment...!?","Create designs using a spiral-like flower, varying sizes as you go.
+Click green flag to clear and reset.
+Click red flag to stop.
+Use up and down arrows change the flower size from .5 to 5 (step size is 0.1).
+Click the background to place a flower.
+For a quicker run, turn on turbo mode.",52693,https://cdn2.scratch.mit.edu/get_image/project/236687822_480x360.png,2018-07-17T23:14:54.000Z,2018-07-18T02:14:20.000Z,2018-07-18T02:14:20.000Z,16,4,1,0,0,,
+236740624,day 7,Create a project that uses the Pen blocks to automatically draw a pattern on the stage. ,,24618980,https://cdn2.scratch.mit.edu/get_image/project/236740624_480x360.png,2018-07-18T12:42:24.000Z,2018-08-07T15:47:49.000Z,2018-07-18T13:03:20.000Z,2,0,0,0,0,,
+236761890,motivo,,,13575540,https://cdn2.scratch.mit.edu/get_image/project/236761890_480x360.png,2018-07-18T16:15:27.000Z,2018-07-18T16:30:36.000Z,2018-07-18T16:30:35.000Z,4,0,0,0,0,,
+236774599,Getting Unstuck Day 7 - patterns,"Created for Getting Unstuck Day 7: use the Pen blocks to automatically draw a pattern on the stage
+
+I really had no idea where to go with this, so I explored some projects in the studio. I liked what https://scratch.mit.edu/projects/236417389/ had done so I just tried to make my own version.
+
+Bonus was I learned how to draw circles, which I had wanted to do for my Day 6 project!","Click the green flag to clear the screen.
+
+Click on a shape to start drawing it in various patterns of color.",2803184,https://cdn2.scratch.mit.edu/get_image/project/236774599_480x360.png,2018-07-18T18:23:50.000Z,2018-07-18T19:14:45.000Z,2018-07-18T19:12:14.000Z,2,0,0,0,0,,
+236814665,Getting Unstuck - dag 7,#GettingUnstuck,Just click the green flag and watch.,25631396,https://cdn2.scratch.mit.edu/get_image/project/236814665_480x360.png,2018-07-19T04:59:44.000Z,2018-07-19T05:16:56.000Z,2018-07-19T05:16:04.000Z,3,0,0,0,0,,
+236843384,Spiraling Spiraling,"I used 'Spiralizer' in the book Coding Projects in Scratch: A Step-by-Step Visual Guide to Coding Your Own Animations, Games, Simulations, and More! by Jon Woodcock @RoboSquid to help me with my project.
+
+I used clones, variables, and drawing with the pen.  It was a fun project and I learned some things that I hadn't known before - slider control on the stage variables and destroying clones.","Click the Green Flag to begin.
+
+Change to the Angle and Speed sliders to experiment.
+
+Click Space Bar to clear all.",1196430,https://cdn2.scratch.mit.edu/get_image/project/236843384_480x360.png,2018-07-19T12:49:48.000Z,2018-07-25T16:46:08.000Z,2018-07-19T12:50:53.000Z,4,2,0,0,0,,
+236752963,getting unstuck day 7 - circles,,,16804071,https://cdn2.scratch.mit.edu/get_image/project/236752963_480x360.png,2018-07-18T14:46:31.000Z,2018-07-19T13:59:56.000Z,2018-07-19T13:59:55.000Z,2,0,0,0,0,,
+236861817,Getting Unstuck - Day 7,"At first, I just wanted to make a program where the butterfly made a trail whenever you moved it with your mouse.  But then realized this project was supposed to automatically make a shape.  So I removed the ""move to mouse"" bloc and added some circles.  With more time I would probably have tried to have it write words instead.  ",Click on the flag to begin,2502473,https://cdn2.scratch.mit.edu/get_image/project/236861817_480x360.png,2018-07-19T16:04:34.000Z,2018-07-19T16:16:47.000Z,2018-07-19T16:12:44.000Z,4,1,0,0,0,,
+236056796,generative art - random cosine,"Fire!
+...or is it a crown?","Click the green flag, then watch and enjoy :)",34248043,https://cdn2.scratch.mit.edu/get_image/project/236056796_480x360.png,2018-07-10T21:33:28.000Z,2018-07-15T23:46:59.000Z,2018-07-10T23:40:01.000Z,11,1,0,0,0,235830301,235830301
+236061963,generative art - random sine,Are fish modelled after sine or is it the other way around? ;),"Click the green flag, then watch and enjoy :)",34248043,https://cdn2.scratch.mit.edu/get_image/project/236061963_480x360.png,2018-07-10T23:09:49.000Z,2018-07-15T21:29:35.000Z,2018-07-10T23:41:07.000Z,11,2,0,0,0,235830301,235830301
+236959065,Unstuck Day 7,I had tried to make variables that would generate the increasing number of repeats by one and the value of the turn decrease by 360 divided by that new number but couldn't make it work - YET!  Debugging continues!!!,Click on green flag to see 2D shapes from 3 sides to 12 sides,14232182,https://cdn2.scratch.mit.edu/get_image/project/236959065_480x360.png,2018-07-20T17:47:29.000Z,2018-07-20T19:54:36.000Z,2018-07-20T19:54:36.000Z,1,0,0,0,0,,
+237007607,day-7,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/237007607_480x360.png,2018-07-21T10:42:32.000Z,2018-07-21T10:47:20.000Z,2018-07-21T10:47:19.000Z,2,0,0,0,0,,
+237075118,OwlMorton-Unstuck7,,Press the green flag to create a pen drawing.,21214926,https://cdn2.scratch.mit.edu/get_image/project/237075118_480x360.png,2018-07-22T15:13:34.000Z,2018-07-22T15:23:13.000Z,2018-07-22T15:22:45.000Z,6,0,0,0,0,,
+236989749,Getting Unstuck Day 7 - Using the pen,"I enjoyed using the pen function as a way to express myself in an ""arttistic way"". If I had more time, I would like to learn how make bubble letters or even write my name in cursive. ",Click on the green flag and watch the cat draw with a pen. ,30595057,https://cdn2.scratch.mit.edu/get_image/project/236989749_480x360.png,2018-07-21T03:03:05.000Z,2018-07-23T06:01:43.000Z,2018-07-23T05:25:01.000Z,3,1,0,0,0,,
+236327198,Día 7,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/236327198_480x360.png,2018-07-13T14:50:07.000Z,2018-07-19T22:59:14.000Z,2018-07-19T22:59:14.000Z,3,1,0,0,0,,
+237223202,Getting Unstuck: Day 7,,"Let's play shuriken
+mouse over wherever you want",34283191,https://cdn2.scratch.mit.edu/get_image/project/237223202_480x360.png,2018-07-24T05:10:37.000Z,2018-07-24T05:53:09.000Z,2018-07-24T05:51:53.000Z,8,2,0,0,0,,
+237270482,Unstuck #7 - Explosive Drawing!!,,Press the green flag to watch some pen magic.,26618044,https://cdn2.scratch.mit.edu/get_image/project/237270482_480x360.png,2018-07-24T16:28:02.000Z,2018-07-25T16:15:51.000Z,2018-07-24T16:55:11.000Z,3,1,0,0,0,,
+237271211,Unstuck - Day 7,,,17812875,https://cdn2.scratch.mit.edu/get_image/project/237271211_480x360.png,2018-07-24T16:36:50.000Z,2018-07-24T21:11:29.000Z,2018-07-24T21:11:29.000Z,3,1,0,0,0,,
+237330812,Getting Unstuck - Day 7 - Pen,"Getting Unstuck - Day 7 - Pen block  #CreativeComputing
+
+https://us18.campaign-archive.com/?u=5dd4d8b32f719a30cbde507c6&id=ee5fe48cb4
+
+""To understand is to perceive patterns.""—Isaiah Berlin",Press Green Flag,8880372,https://cdn2.scratch.mit.edu/get_image/project/237330812_480x360.png,2018-07-25T05:06:01.000Z,2018-07-25T05:30:52.000Z,2018-07-25T05:29:56.000Z,3,1,0,0,0,,
+237362277,Getting Unstuck: Day 7,,,28439839,https://cdn2.scratch.mit.edu/get_image/project/237362277_480x360.png,2018-07-25T13:47:56.000Z,2018-07-25T15:16:55.000Z,2018-07-25T15:16:19.000Z,3,1,0,0,0,,
+236270921,Day 7 - Spyrograph,I used the random function to create designs containing overlapping shapes with different number of sides and different sizes.  If I had more time I would ask the user to choose the number and length of the sides.,Click the green arrow to see random designs.,31044612,https://cdn2.scratch.mit.edu/get_image/project/236270921_480x360.png,2018-07-12T22:57:10.000Z,2018-07-25T20:07:26.000Z,2018-07-25T20:06:02.000Z,3,1,0,0,0,,
+237606173,Day 7- Drawing,,"Press the green arrow to start.
+Press the space bar to get the drawing to stop.",34331091,https://cdn2.scratch.mit.edu/get_image/project/237606173_480x360.png,2018-07-28T03:43:32.000Z,2018-07-28T04:10:33.000Z,2018-07-28T04:10:12.000Z,3,1,0,0,0,,
+237747343,Spirograph (user input) -Get Unstuck 7,We use a similar program to introduce the 'Pen' blocks in our CoderDojo sessions. This version adds user input. But now I'm trying to figure out how to animate the finished pattern!,"Click the green flag, then answer the Unicorn's questions.",3094436,https://cdn2.scratch.mit.edu/get_image/project/237747343_480x360.png,2018-07-30T09:33:55.000Z,2018-07-30T09:37:26.000Z,2018-07-30T09:37:26.000Z,2,1,0,0,0,,
+237340768,#Unstuck 7 Using pen,I had watched a previous tutorial on this and ,Push the flag,31492686,https://cdn2.scratch.mit.edu/get_image/project/237340768_480x360.png,2018-07-25T07:47:27.000Z,2018-07-27T03:49:30.000Z,2018-07-27T03:48:26.000Z,4,1,0,0,0,,
+236287653,Balloon Pop! Unstuck Day 8,"Song by Kevin Mcleod from Incompetech Hot Pursuit.mp3 https://incompetech.com/music/royalty-free/
+
+Iterations...many.  Remixed the code for jumping smoothly that I found in the Scratch database.  ","Press the Flag and then use the right, left, and up arrows to pop balloons.  ",31144646,https://cdn2.scratch.mit.edu/get_image/project/236287653_480x360.png,2018-07-13T04:31:57.000Z,2018-07-16T20:53:32.000Z,2018-07-13T05:44:06.000Z,13,2,0,0,0,,
+238080714,Notte stellata,,"Clicca sulla bandierina per scoprire la costellazione. 
+Per arrrestare tutto clicca ed un tasto quasiasi.",14096918,https://cdn2.scratch.mit.edu/get_image/project/238080714_480x360.png,2018-08-02T18:14:41.000Z,2018-08-04T19:18:36.000Z,2018-08-03T16:20:09.000Z,2,3,0,0,0,,

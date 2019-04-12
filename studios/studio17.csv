@@ -1,0 +1,584 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+236950729,Backwards language,"This took me a long time! Ultimately it came down to me not realizing that I needed to set my variable to equal the length of the answer.  After that it worked! Now I don't have as much time to make it fancy, but I'm proud of myself for learning!",I wanted to try to do a backward word generator using strings. This is what I created!,24267830,https://cdn2.scratch.mit.edu/get_image/project/236950729_480x360.png,2018-07-20T15:55:49.000Z,2018-07-20T19:57:03.000Z,2018-07-20T19:56:08.000Z,29,10,2,0,0,,
+236958198,The A-to-Z Game,"I don't know if I had a ""biggest challenge"" today. I played it pretty safe, picking a project I had a good idea how I'd build. I had a few problems with initializing data (e.g., adding to lists without emptying them out), but I squashed those bugs relatively quickly. I have no idea what inspired the glass in glasses. :)
+
+Music from the Atlantic Dance Orchestra, Tell Me With Smiles: https://archive.org/details/ReallyOldRecordingsSetA/AtlanticDanceOrchestra-TellMeWithSmiles1923edisonCylinder.mp3",This is one of my favorite games to play—press green flag to start!,39526,https://cdn2.scratch.mit.edu/get_image/project/236958198_480x360.png,2018-07-20T17:35:20.000Z,2018-07-21T09:08:07.000Z,2018-07-21T09:08:07.000Z,41,17,3,0,0,,
+236883847,Colorful sound,"I had seen a previous project (Maybe the hexapath remix I did?) where a user typed in some binary (1s and 0s) in order to affect the project. What if a user could type in numbers and make some sounds happen? I had a grand vision of being able to generate strings, and perhaps ""pluck"" them somewhat...Anyway, I figured out how to store a username + sequence of sounds but didn't have time to sort out the playback. Oh well!","Press the green flag and follow along! Hover over the strings to play some notes back (this only works sometimes, and for some reason really softly).",2745846,https://cdn2.scratch.mit.edu/get_image/project/236883847_480x360.png,2018-07-19T20:31:28.000Z,2018-07-21T10:30:25.000Z,2018-07-21T10:29:45.000Z,36,13,3,0,0,,
+236959179,Chromophobia Weaving,"When @karenb shared Chromophobia on Day 15, inspired by Josef Albers, I wondered how I might create a project inspired by both Josef and Anni Albers, combining chromophobia and weaving! Today seemed the perfect day, using list data to create potentially-hideous (and potentially pleasing) color combinations in weave structures, depending on your input!
+
+The life once-considered and yet-to-be-lived in which I was a math major and the life I instead lived at art school as a textiles major are both very excited about this project. This might be the Getting Unstuck project I'm most proud of so far (:
+
+Some stuck moments (of which there were certainly a handful) along the way included initially programming with pen drawing and struggling to get the layering to successfully simulate the weave structure I had in mind (a classic plain weave). At that point I thought maybe I'd set for transparency and realized pen drawings are only opaque. After a brief moment of AHHHH, I realized I could create a long 'thread' sprite which could be transparent, take color data, and be stamped (: 
+(any tips on starting to explore layers in scratch would be much appreciated)
+
+This was definitely part of continuing to explore my ""where could I get with programming if I don't focus on drawing...?"" question.
+This also felt like something of a redemption from pattern-drawing-day disasters.
+
+weaving sound:
+https://freesound.org/people/xserra/sounds/320510/","Press the green flag, enter some data, and see the weave structure you've made!
+
+Wanna make another? Press the space bar (:
+
+Update: I switched the color of the origin sprite -- I learned that this will determine the range of colors for the ""color effect""
+Is it more or less likely to be hideous now? 
+(definitely looking to maximize hideous - beautiful range)",25705937,https://cdn2.scratch.mit.edu/get_image/project/236959179_480x360.png,2018-07-20T17:49:04.000Z,2018-07-22T12:34:14.000Z,2018-07-21T10:53:32.000Z,42,19,5,0,0,,
+237004736,Memory Game,"This project was created for Day 17 of Getting Unstuck. Today's challenge was to make a project that asks the user for a list and does something interesting with it. There are multiple lists in this project, and I had a really big bug in one of them that took me 20 minutes to figure out (sheesh!). But I got to reuse a bunch of graphics and scripts from previous Getting Unstuck projects, and I had a lot of fun making it!
+
+Music: 4bstr4ck3r, ""Soundboy""",Press the green flag to play!,56239,https://cdn2.scratch.mit.edu/get_image/project/237004736_480x360.png,2018-07-21T09:28:21.000Z,2018-07-27T01:11:47.000Z,2018-07-21T11:11:17.000Z,39,17,6,0,0,,
+237008599,Be a judge on the voice! getting unstuck day 17,"Using lists is one of my favourite ways to personalize projects so I enjoyed this task! I'm actually working on creating a lesson plan for students to make a project like this, so please let me know what you think and how it can be improved.
+",,4610900,https://cdn2.scratch.mit.edu/get_image/project/237008599_480x360.png,2018-07-21T11:10:03.000Z,2018-07-21T11:46:56.000Z,2018-07-21T11:41:34.000Z,23,6,1,0,0,,
+237010392,Getting Unstuck: Day 17,"Shame about having to subtract 1 from the i variable, will look into that some more...",,24912473,https://cdn2.scratch.mit.edu/get_image/project/237010392_480x360.png,2018-07-21T11:59:32.000Z,2018-07-21T12:25:10.000Z,2018-07-21T12:19:51.000Z,17,7,0,0,0,,
+236930779,Unstuck Day 16/17- Text Input,"This was for the Getting Unstuck challenge Day 16 but turned into a big project that I didn't have time to finish in one day. Luckily the next day challenge pretty much fits the bill as well, so it covers Day 17, too!
+I have made and taught a hangman game in Python so I thought this would be doable but ran into many many problems. One was not planning carefully enough in the beginning. I was taking out random letters instead of all occurrences of specific letters.
+Then Scratch does not have indexed loops (for loops) so I had to make various counters to do things based on the the current loop number. 
+I have not used Snap much but this would be a good project for Snap as it would have been useful to have custom blocks that can report something. In Scratch I had to create many variables to keep track of little tasks that would have been easier with reporting blocks.
+","Play Guess the Word! This is for two players, one to type the secret word and the other to guess. Have fun!
+If you want to see something cool click ""under the hood"" while you play and you can see the program processing the tasks as you give it input.
+Note: The reason your word can't be a phrase is the program knows when you have guessed the word by checking if it has no more spaces in it, so the spaces would keep you from every being finished.",214174,https://cdn2.scratch.mit.edu/get_image/project/236930779_480x360.png,2018-07-20T10:44:08.000Z,2018-07-21T14:01:55.000Z,2018-07-21T12:23:21.000Z,13,5,3,0,0,,
+237009552,Getting Unstuck: Day 17,"I wanted to take numbers and convert them to colors, then make a design. I found several tutorials online to help me with lists and variables. Here is one of the videos that helped me get started:
+https://www.youtube.com/watch?v=Xlc4DMrrEJ4
+",Press the green flag and follow the prompts to create a design.,17807175,https://cdn2.scratch.mit.edu/get_image/project/237009552_480x360.png,2018-07-21T11:36:52.000Z,2018-07-21T13:35:46.000Z,2018-07-21T13:31:28.000Z,9,6,0,0,0,,
+237010908,Getting Unstuck #17,"This was going to be the Swedish chef, but my digital citizenship got the better of me. 
+The last bit of the list, where all the rest of the ingredients are added I couldn't figure out how to get an ""and"" in there to make it grammatically correct. I'm sure there's a way by carefully counting the ingredients and making sure that the last of them is added by itself, but I couldn't figure it out. If I devote some more time to it in the morning I might get there.
+
+Kitchen Background: By Pbroks13 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4297278",Do some cooking. Press the green flag and tell us what you have in your cupboards. We'll do the rest.,141519,https://cdn2.scratch.mit.edu/get_image/project/237010908_480x360.png,2018-07-21T12:14:04.000Z,2018-07-21T13:37:41.000Z,2018-07-21T13:34:44.000Z,17,6,0,0,0,,
+237013086,Donut Poetry Generator,"Credits: This is a Code Club project resource I used with 4th graders to make poetry in ELA class (projects can be found here https://scratch.mit.edu/studios/4586131/) The students, working in pairs, had to generate and code their list of words. Here I've changed it so the user adds their own parts of speech words to the list but it is still random if their word gets used.","Getting Unstuck #17 Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+
+Add your words to this Mad-lib style poem.",399245,https://cdn2.scratch.mit.edu/get_image/project/237013086_480x360.png,2018-07-21T13:07:18.000Z,2018-07-21T13:53:38.000Z,2018-07-21T13:53:38.000Z,27,9,0,0,0,78692754,78692754
+206822234,Unstuck 17 Binary Bitmap Art,"Sample digits to enter: 7 e 8 1 a 5 a 5 8 1 b d 8 1 7 e
+Another sample: 9 9 2 4 4 2 9 9 9 9 4 2 2 4 9 9
+
+The activity that inspired this program is a Binary Bitmaps activity (http://cse4k12.org/binary/bitmaps.html) posted by Gary Kacmarcik on cse4k12.org and licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License (https://creativecommons.org/licenses/by-sa/3.0/). 
+
+For binary/hexadecimal conversion practice, check out this project from gerogero: https://scratch.mit.edu/projects/19900885/","This is a program that can check the hexadecimal numbers that are generated as part of a binary bitmap activity. 
+Students create a picture on an 8x8 grid then convert the picture into binary numbers; an empty square on the grid is assigned the value 0 and a filled square is assigned the value 1. Each row has eight digits. If you split each row into two four-digit binary numbers you can then convert each row into a two-digit hexadecimal number. 
+This program asks the user to enter the 16 hexadecimal digits, one at a time, and then will print the bitmap picture on an 8x8 grid on the stage.
+I could modify the code so the user inputs all 16 hexadecimals at once. Does that make more sense that one digit at a time?",14632339,https://cdn2.scratch.mit.edu/get_image/project/206822234_480x360.png,2018-02-28T16:18:52.000Z,2018-07-21T22:16:43.000Z,2018-07-21T13:54:04.000Z,14,5,2,0,0,,
+237011090,Day 17 - See and Say,"IMAGES:
+https://upload.wikimedia.org/wikipedia/commons/a/aa/Dawn_on_the_S_rim_of_the_Grand_Canyon_%288645178272%29.jpg
+https://commons.wikimedia.org/wiki/File:A_waterfall_at_Coorg.jpg
+https://files.tripstodiscover.com/files/2014/11/Boracay-Philippines.jpg
+https://commons.wikimedia.org/wiki/File:Pins_palustris_forest.jpg
+https://commons.wikimedia.org/wiki/File:Night-sky-milky-way-galaxy-astrophotography_-_West_Virginia_-_ForestWander.jpg
+MUSIC:
+https://www.yourclassical.org/story/2016/03/14/daily-download-bedrich-smetana--the-moldau
+
+I have assigned this poetry generator to classes pretty regularly, but have never made one of my own!","Click the green flag and follow the prompts
+click the space bar to reset",18341966,https://cdn2.scratch.mit.edu/get_image/project/237011090_480x360.png,2018-07-21T12:18:46.000Z,2018-07-21T14:00:04.000Z,2018-07-21T14:00:03.000Z,11,5,1,0,0,,
+236969108,Getting Unstuck: Day 17 — Word Randomizer,"Reflection
+
+Playing with variables, lists, and data can be a lot of fun. I liked the challenge of creating a define block for splitting a string into individual words and placing them into a list. I also like creating the second define block that makes a new string by randomizing the order in which the words are removed from the list.
+","Tell Scratch Cat a sentence, and they will randomize the order of the words.",26264460,https://cdn2.scratch.mit.edu/get_image/project/236969108_480x360.png,2018-07-20T20:14:34.000Z,2018-07-21T18:50:17.000Z,2018-07-21T14:27:27.000Z,4,2,0,0,0,,
+237014047,Getting Unstuck day 17,"I wanted to try to work with some of the list blocks that I have not used before. I hit on the idea of using the length of the words given by the user to play particular notes. This ended up using more block than I expected. I needed a variable to itereate over the list and another to add the notes to the second list. 
+
+With more time I would try to make the output a bit more consistently melodious. Possibly by using addition rather than multiplication to se the notes. Also, I think it might help if the note length is not random, or at least less random.","Click the green flag
+follow the cat's instructions
+change the instrument with the slider.",17767933,https://cdn2.scratch.mit.edu/get_image/project/237014047_480x360.png,2018-07-21T13:30:04.000Z,2018-07-21T14:43:23.000Z,2018-07-21T14:43:23.000Z,13,4,1,0,0,,
+237009654,Bug Party planner (Getting Unstuck Day 17),"This is my fifth Unstuck project (three of them are shared on my other account @juf-Pinky). If you encounter a real bug, please let me know.
+
+This was super fun to make. At first I had no idea what to make for this challenge. I wanted to do something with a dance, but I couldn't figure out in which way I could ask the user how the sprite should dance. Then I came up with the idea of a party planner. Using a list turned out to be really useful in this project. I only faced some minor bugs :) Testing all the options was time consuming though. Maybe I missed a bug... This project took me about three hours to make.
+
+Thanks to @Mittensbrother and the Getting Unstuck team for the bug and the Unstuck logo, thanks to @ceebee for the dancing code, thanks to @chrisg for the dancing flower, thanks to @TheDiamonGamer  for the idea of the dancing pizza, thanks to @Bubblebomb for the idea of the dancing stickman. Thanks to @scratchcat for the cool Scratch cat sprites, and thanks to @TheLibrary for the code blocks I used for the confett.","Plan your own Bug Party. Please answer the questions of the bug.
+
+
+I made this for Day 17 of Getting Unstuck! The challenge of today:
+
+Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.",2676515,https://cdn2.scratch.mit.edu/get_image/project/237009654_480x360.png,2018-07-21T11:39:49.000Z,2018-07-21T21:09:18.000Z,2018-07-21T14:46:49.000Z,98,35,21,0,0,,
+237010640,Scratch 3 letter anagrammer fixed,"I am having nightmares with my internet as on the move. 4 letters kept crashing.
+There must be a neater way to make the anagrams?
+Plus I wanted to make a list of the answers but have no more time and don't know how.
+
+18 hours later - internet still rubbish so sticking to 3 letters but fixed!",,33472226,https://cdn2.scratch.mit.edu/get_image/project/237010640_480x360.png,2018-07-21T12:06:10.000Z,2018-07-22T09:30:17.000Z,2018-07-21T14:52:23.000Z,5,1,0,0,0,,
+237017004,GettingUnstuck Day 17,"In mathematics, the modal value of a set of numerical values is the number that appears most often in the whole.
+This program calculates the modal value.
+
+Book: Imparare a programmare di Boscaini","Click the green flag. 
+Write the numbers in a series one at a time by clicking each time you send",13275782,https://cdn2.scratch.mit.edu/get_image/project/237017004_480x360.png,2018-07-21T14:36:07.000Z,2018-07-21T14:54:44.000Z,2018-07-21T14:50:03.000Z,7,2,0,0,0,,
+237016630,day 17,"After choose anumber,you need to answer(yes or no) so to moveanother choose:)
+Sorry i missed  explan that..
+",press green flag.,34188789,https://cdn2.scratch.mit.edu/get_image/project/237016630_480x360.png,2018-07-21T14:27:55.000Z,2018-07-22T04:57:44.000Z,2018-07-21T14:57:32.000Z,8,2,0,0,0,,
+237016867,Drawing clones,"Did you know that EVERY rectangular slot in Scratch could be filled with a variable or a list element? Messages or go to something, for example. In this demo I have inserted a list element inside the clone function.
+
+I wonder if these ""hidden"" features were left on purpose to exercise our ""lateral thinking"".","Choose what to clone by answering the question. You can answer multiple times. When you're ready, just press enter and the clones will be created!
+Use only lower case letters!
+
+Once the clones are created, press space for drawing!",12148328,https://cdn2.scratch.mit.edu/get_image/project/237016867_480x360.png,2018-07-21T14:32:47.000Z,2018-07-21T15:48:50.000Z,2018-07-21T15:24:20.000Z,23,4,2,0,0,,
+237013980,Challenge 17 - list sorting,"Wasn't sure what to do with this one today as I created 3 6000 line lists yesterday which I used Python to extract the data I needed from the raw data to import, a bit exhausting. 
+
+Then I saw today's challenge...haha, LISTS! I was a day early. So I thought I'd work with some sorting. I had to use the Scratch wiki on the insertion sort as I haven't done those sorting methods in a few years. Good to freshen up on them and now I will create some more practice sorting for myself. ","The program will ask you how many numbers you want. I used a custom block without screen refresh for some parts, others I left there so the lists could be seen what they are performing.
+
+Second you'll ask what you want to count by. If you put 3, the separated list will count by 3s, any other number will be sorted to an odd or even list. 
+
+Then the list will shuffle randomly. Give you a heads up about sorting it and it will using insertion sort method to put it back in order. I used without screen refresh as the sorting took a while, this way it is just done. ",3158946,https://cdn2.scratch.mit.edu/get_image/project/237013980_480x360.png,2018-07-21T13:28:41.000Z,2018-07-21T15:31:01.000Z,2018-07-21T15:22:57.000Z,13,5,2,0,0,,
+237018603,Lecca-lecca colorati,,"Scegli tre numeri per colorare i lecca-lecca bianchi: 
+1-arancione
+2-azzurro
+3-verde
+4-fucsia
+5-giallo
+6-rosso",34169307,https://cdn2.scratch.mit.edu/get_image/project/237018603_480x360.png,2018-07-21T15:10:15.000Z,2018-07-21T16:16:28.000Z,2018-07-21T15:55:18.000Z,9,4,1,0,0,,
+237017448,Day 17 - Getting Unstuck,"Thanks to @ogonen:
+Two arrays control the sequence of the drum sounds.","Chose another instrument to play with our crab.
+Click crab to play sequence.
+Click the buttons to toggle drum triggers and pass the mouse over the singer to let her sing.
+
+Enjoy the concert!",26079479,https://cdn2.scratch.mit.edu/get_image/project/237017448_480x360.png,2018-07-21T14:45:53.000Z,2018-07-24T22:17:38.000Z,2018-07-21T15:35:43.000Z,8,5,0,0,0,16292660,16292660
+237009637,Duck Math! - Getting Unstuck Day 17,"I feel like this is one of the more complex projects I completed. I figure out how to do the lists, and I even figured out how to check if the math answers were correct! 
+I think the last thing i would change about this would be randomizing the statements the duck gives when you are right or wrong, and I think now that I understand lists this wouldn't be a big problem at all.
+
+Thanks to a student of mine, @Jackromance for the duck inspiration!","The duck will ask you some basic math problems, and you can answer them as best you can!
+Some sweet background music, so you should have your volume on.",22706156,https://cdn2.scratch.mit.edu/get_image/project/237009637_480x360.png,2018-07-21T11:39:22.000Z,2018-07-25T17:22:34.000Z,2018-07-21T16:19:15.000Z,7,1,0,0,0,157548822,157548822
+237019865,Day 17:  Sum of Three Positive One Digit Numbers (Basic Project),"This is the basic version . . . I have plans to fancy it up by the end of the day, and will add more detailed notes to that version.
+My main goal was to include parameters to make sure the user actually followed the instructions.  Wanted to get the three numbers in one list, and find the sum that way, but it was tricky and I knew I would be short on planning time this morning.  Went with three lists with one item each (not sure of the point of having a list with only one item . . . ) and then making a new list to find the sum of those three lists.  Would love suggestions for alternate / more efficient coding ideas.","Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+
+Press the green flag to begin.",18337230,https://cdn2.scratch.mit.edu/get_image/project/237019865_480x360.png,2018-07-21T15:38:28.000Z,2018-07-21T16:35:02.000Z,2018-07-21T16:35:02.000Z,5,1,0,0,0,,
+236598521,Barnsley Fern remix,"Ho usato il progetto di @heldlaw, modificandolo in modo da inserire in una lista di tre elementi i numeri forniti in input dall'utente
+Remix creato per Getting Unstuck Day 17","Input three numbers:
+color scheme: from 1 to 4
+fill density: from 1 to 20
+fill size: from 1 to 3
+Click the green flag, sit back and relax
+Press up/down keys to change audio volume
+Just a simple, relaxing animation, based on the 'Barnsley fern', a popular fractal",17698999,https://cdn2.scratch.mit.edu/get_image/project/236598521_480x360.png,2018-07-17T04:20:31.000Z,2018-07-21T18:01:07.000Z,2018-07-21T17:02:28.000Z,23,9,0,0,0,235828460,235828460
+237021196,#017 Getting Unstuck Lists,"Thanks to zacjambell, https://scratch.mit.edu/projects/69079482/#editor for helping me with the script for the chores",Press the green flag.,20126730,https://cdn2.scratch.mit.edu/get_image/project/237021196_480x360.png,2018-07-21T16:07:09.000Z,2018-07-21T17:07:44.000Z,2018-07-21T17:06:37.000Z,13,3,1,0,0,,
+237023709,Day17,,Click on the green flag to start,34225248,https://cdn2.scratch.mit.edu/get_image/project/237023709_480x360.png,2018-07-21T17:01:31.000Z,2018-07-21T17:15:34.000Z,2018-07-21T17:15:16.000Z,4,1,0,0,0,,
+237020184,interest rate arbitrage,"For Day 17 of GettingUnstuck, in which we work with Lists.
+
+Spreadsheets are an evocative object for me, so I was excited to use Scratch as a similar medium. I also wanted a visual to support a financial argument (an elective cash out mortgage can be sensible) that is anathema to common sense. 
+
+A more refined model would ask for tax rates on dividends/income and would adjust for tax deductibility of interest payments on the mortgage. Mortgages are structured so that interest repayment is weighted toward the start of the loan and principal repayment is weighted toward the tail, which is advantageous to arbitrage but feels unfair if your goal is to get out of debt. A more refined model would also fluctuate the investment returns.
+
+When I have more time I'd like to develop this so one could track payments in real time of an actual (theoretical) loan against a (paper) investment as well as against speculation, as well as spending opportunity costs, e.g. lattes vs. additional principal repayment.
+
+I tried a formula for calculating mortgage payments, based on https://www.mtgprofessor.com/formulas.htm, and it indicated a monthly payment that was 100 more per month than the PMT function indicated by Excel. This eliminated the arbitrage opportunity, so for this simulation I input the Excel PMT result to Scratch. I left a draft block showing how the inflated payment was calculated. If anyone can find an error there, I would love to understand what it is!","Green flag, and watch. This is a crude calculator that simulates mortgage payments balanced against a dividend yielding investment (or interest rate arbitrage). Exponential growth is visually understated (I divided results by 3) so that I could keep visuals on the stage.
+
+Assumptions: 100,000 borrowed for 360 months at an interest rate of 4.7%. Invested in a vehicle that pays annualized 7.1% before taxes via monthly payments. (I used DNP's price and monthly dividends for this model.) Monthly dividends minus pmts are reinvested in the vehicle (no transaction costs assumed).",33815227,https://cdn2.scratch.mit.edu/get_image/project/237020184_480x360.png,2018-07-21T15:44:50.000Z,2018-07-21T22:31:34.000Z,2018-07-21T17:19:35.000Z,8,3,0,0,0,,
+237021718,Getting Unstuck Day 17,"At the start of the main script, try changing:
+N - the number of numbers you have to enter.
+SPEED - the speed the waves travel
+
+Just wanted some weirdness from numbers. I think I've achieved this!
+
+Music by EliteFerrex http://www.newgrounds.com/audio/listen/603536","Getting Unstuck Day 17
+Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+
+Click the green flag to run the project.
+Each time you are prompted, enter a number.
+In total you will enter five numbers. 
+Sit back and watch the show.
+(Press the space bar to have another go)
+
+Try something like 100, 5, 12, 44, 32",2314547,https://cdn2.scratch.mit.edu/get_image/project/237021718_480x360.png,2018-07-21T16:18:07.000Z,2018-07-21T19:46:01.000Z,2018-07-21T17:28:44.000Z,13,6,2,0,0,,
+237017353,Unstuck Day 17 - Make a Limerick,I was all over the place with this one. It turned out to be a very simple animation. I'd like to do something more advanced. I just struggled on how to use the words from the list.,Click the flag to write a limerick.,10715270,https://cdn2.scratch.mit.edu/get_image/project/237017353_480x360.png,2018-07-21T14:44:01.000Z,2018-07-25T12:48:17.000Z,2018-07-21T17:27:15.000Z,7,3,1,0,0,,
+237025511,Challenge17MadLib,"When I first saw the challenge to do something with a user imputted list of words, my first thought was ""mad libs."" So this is the result of that inspiration. ",Click the green flag and play mad libs.,2190314,https://cdn2.scratch.mit.edu/get_image/project/237025511_480x360.png,2018-07-21T17:40:41.000Z,2018-07-21T17:41:59.000Z,2018-07-21T17:41:09.000Z,16,7,0,0,0,,
+237025012,Ticket Kiosk,"Unstuck Challenge 17: Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.",Click on the green flag to start.,25332755,https://cdn2.scratch.mit.edu/get_image/project/237025012_480x360.png,2018-07-21T17:30:53.000Z,2018-07-21T17:57:20.000Z,2018-07-21T17:56:26.000Z,15,5,0,0,0,,
+237011148,And if ...,"Idea liberamente tratta da la Grammatica della fantasia che dedica alla scrittura creativa molte indicazioni e giochi da sviluppare a scuola.
+Grazie a Gianni Rodari
+Scegliere un capitolo che si potesse animare con Scratch è stata la mia sfida personale oggi.","Giochiamo con delle ipotesi per suggerire situazioni fantastiche e sviluppare storie. 
+Clicca sulla bandiera verde. Premi il tasto ""a"" per la lingua inglese e il tasto ""b"" per la lingua italiana. Se vuoi, ""c"" per aggiungere una tua idea.
+
+Let's play with hypotheses to suggest fantastic situations and develop stories. 
+Click on the green flag. Press the ""a"" button for the English language and the ""b"" button for the Italian language.  Click on ""c"" to add ypur ideas.
+
+",11312120,https://cdn2.scratch.mit.edu/get_image/project/237011148_480x360.png,2018-07-21T12:20:26.000Z,2018-07-22T17:06:05.000Z,2018-07-21T17:24:59.000Z,14,0,0,0,0,,
+237023893,Tell me a capital,Getting Unstuck: Day 17,"Abby ask for name of capitals: If she doesn't know it, she ask for the name of the country, and save it in her memory. If she knows the capital she tells you the name of its country",2143382,https://cdn2.scratch.mit.edu/get_image/project/237023893_480x360.png,2018-07-21T17:06:08.000Z,2018-07-21T21:02:12.000Z,2018-07-21T18:13:35.000Z,14,5,0,0,0,,
+237016473,Getting Unstuck #17: Greek Olympiad in Informatics: ,"Special thanks to Scratch wiki editors for providing useful tips here: http://wiki.scratch.mit.edu/wiki/List
+
+Day #17 Challenge of ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education: Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.","Press the green flag and then, the spacebar to continue.
+
+The program prompts you to enter numbers which represent pupils' heights and stores them in a list. Then, it finds the total number of students who can see the school cafeteria while they are standing in line. 
+This Scratch project implements the same efficient algorithm which solves the programming exercise that is described here: http://www.pdp.gr/files/27A/PDP_27_A.pdf. Normally, these kind of exercises have a C++ implementation.",1202362,https://cdn2.scratch.mit.edu/get_image/project/237016473_480x360.png,2018-07-21T14:24:05.000Z,2018-07-21T18:43:30.000Z,2018-07-21T14:58:48.000Z,8,2,0,0,0,,
+237018549,EuropeanCountries,,"Playing words - you need to name a country whose name begins with a certain letter.
+The names are entered in lowercase Latin letters with no spaces.
+When searching the letter ""y"" is equated to the letter ""i"".
+If you lose, could not find the right word - enter ""lost""",139209,https://cdn2.scratch.mit.edu/get_image/project/237018549_480x360.png,2018-07-21T15:09:19.000Z,2018-07-21T18:39:37.000Z,2018-07-21T18:39:37.000Z,14,6,2,0,0,,
+121233654,Getting Unstuck 17,"Trying to get caught up, so this is a little bit of a cheat... 
+
+I started this project quite a while ago, with the original intent of the task of creating a shopping list as a lab for my computer science students. I never got around to finishing or assigning it so today seems like a good day to resurrect it!
+
+Thanks to @Listwizard for posting a project to show how to delete items from a list!",Click the green flag to run the shopping list app.,18044195,https://cdn2.scratch.mit.edu/get_image/project/121233654_480x360.png,2016-09-14T19:48:31.000Z,2018-07-21T19:44:06.000Z,2018-07-11T21:43:52.000Z,16,8,1,0,0,,
+237022047,Magnetic Poetry (Unstuck 17 ),"I started with one of my previous entries with the goal of creating an experience that would evolve and change over time as more people participated. 
+
+There are some ""workarounds"" that emulate cloud lists in a way, but I don't think that's what I'll do.","This started as an experiment in making a community created list that would be incorporated into poems, but there's no cloud list feature. (Maybe one day...)
+
+For now, it will have to stay a humble fridge poetry creator that accepts user input. Enjoy!",27690149,https://cdn2.scratch.mit.edu/get_image/project/237022047_480x360.png,2018-07-21T16:24:56.000Z,2018-07-21T21:52:10.000Z,2018-07-21T20:31:52.000Z,14,7,0,0,0,,
+237028270,Day 17: (v2) Sum of Three Positive One-Digit Numbers,"What I was was trying to accomplish here . . . 
+This second version has dialogue that considers many options; response when user doesn't press space bar to begin, when user types nonsense, when user types numbers other than whole numbers from 1-9, and when user types different variations of ""yes"" or ""no"" responses (e.g. yes/YES/Y/y)to continue. It was far more complicated than it needed to be, but I wanted to practise using many of the skills introduced in recent challenges, like broadcast, strings, lists, and answer boxes.  Some coding mistakes I have been making include incorrect use of blocks with ""and wait"" phrasing, and confusion over when to use answer boxes, variable boxes and how to effectively use lists.  My code made use of several lists with one number in them and a list to add the other lists.  I would much prefer to enter three numbers into one list and find the total of items in that list (but am happy to save that task for another day). Still not sure about the purple ""Make a block"" and ""Add an Extension"" blocks.  Not fancy, but I like it :)","Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+
+Press the green flag to begin.",18337230,https://cdn2.scratch.mit.edu/get_image/project/237028270_480x360.png,2018-07-21T18:41:44.000Z,2018-07-22T00:38:24.000Z,2018-07-21T20:46:46.000Z,9,3,0,0,0,,
+237015611,Getting Unstuck: Day 17,"This is my project for Day 17 of the Getting Unstuck programming challenge. My biggest challenge was to replicate an algorithm I studied in the University using the minor number of blocks. If I had some more time I would have added some animations to the wizard and to the background.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+
+Press the green flag and the wizard will generate 10 random numbers. Press the SPACE button and the wizard will do the magic: he will order them all!",34314391,https://cdn2.scratch.mit.edu/get_image/project/237015611_480x360.png,2018-07-21T14:06:08.000Z,2018-07-21T21:05:41.000Z,2018-07-21T21:00:22.000Z,16,7,3,0,0,,
+237034597,Unstuck Day 17,I usually have my students create a similar program about finding the average of test scores. I thought I would improve on this idea by bringing in science and math (the fish's swim speed is roughly based on the water temperature!),"Click the green flag for directions.
+This fish is helping with temperature data! Enter five temperatures (in degrees Faherenheit) and she will calculate the average and standard deviation (if I programmed it correctly!!)",11305008,https://cdn2.scratch.mit.edu/get_image/project/237034597_480x360.png,2018-07-21T21:17:35.000Z,2018-07-21T21:20:50.000Z,2018-07-21T21:20:50.000Z,4,3,0,0,0,,
+237014165,Make it brighter!  Getting Unstuck Day 17,"Getting Unstuck: Day 17 - Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the details from the list. 
+
+I got stuck today! Many hours with this project. I thought I would not unstuck of it :). 
+I had a crazy idea of trying to use two lists to get what I first wanted. It did not work and it is not very beautiful, but I learned a lot more about lists and variables.","Click on the green flag and follow the prompts.
+
+",2176961,https://cdn2.scratch.mit.edu/get_image/project/237014165_480x360.png,2018-07-21T13:32:33.000Z,2018-07-21T22:13:31.000Z,2018-07-21T22:03:10.000Z,7,2,0,0,0,,
+237034181,Getting Unstuck Challenge 17- Cluedo!,"I have seen lists used to create inventories and my thoughts turned to  the game cluedo.
+I used it as inspiration to create my project. Hence the strange looking costume trying to emulate a Cluedo token!
+Assuming the player has gathered all the clues, they can give their answers to the ""detective"" Scratch.
+I think there is an easier way to add the answers to the final link, perhaps through using data, but I think it works for now!
+I would like to spend more time perhaps adding clipart to match responses. I would also like to add an alternative response if the guesses are wrong - perhaps matching a random created list? - Starting to get tricky here!
+ I played with making the ""detective"" have animated talk, but again I will come back to this one day....!","Click the green flag.
+Enter your answers.",13484475,https://cdn2.scratch.mit.edu/get_image/project/237034181_480x360.png,2018-07-21T21:07:04.000Z,2018-07-22T01:53:25.000Z,2018-07-21T22:14:43.000Z,8,1,0,0,0,,
+237027976,Getting Unstuck Day 17,"Getting Unstuck Day 17
+Grazie al progetto  @maths77680 ho pensato di riprodurre in scratch un semplice gioco matematico ( :",Clicca sulla bandierina e rispondi alle domande!,15572972,https://cdn2.scratch.mit.edu/get_image/project/237027976_480x360.png,2018-07-21T18:35:40.000Z,2018-07-22T07:40:57.000Z,2018-07-21T22:13:37.000Z,13,4,2,0,0,,
+237036490,The Big 5-0_GU_Day17,"Next month I am going to celebrate ""the big five-0"" (not my age)! I have visited 49 states...only 1 to go. When we get to South Dakota, we need to choose our activities each day. Hopefully, we will do everything included in the project, plus more!
+
+Credits:
+http://www.blackhillsbadlands.com/parks-monuments","Click on the green flag to begin.
+Click on the sprite to choose where to go.
+
+Eeek! When I pressed share, my entire project disappeared except the instructions, notes and credits. All of my backgrounds (11 of them), my hand-drawn sprite (a first for me), my list and all of the coding is GONE! ",24741621,https://cdn2.scratch.mit.edu/get_image/project/237036490_480x360.png,2018-07-21T22:08:34.000Z,2018-07-21T23:02:18.000Z,2018-07-21T22:52:20.000Z,7,0,0,0,0,,
+237040903,Unstuck 17 Lists - MadLib Story,"Ay-ay-ay. I fell down another deep deep hole with this project but managed to get to the beach today also :-) I had hoped to ake this dynamic enough to be able to plug in a new story easily, but didn't quite get that far. If I had to do this again I would make more custom blocks as I was getting very confused with all the list positioning counters. It took me a long time to find a bug in my SubString custom block.
+Another improvement would be to somehow display the whole story all at once, like a printed paper with the missing words filled in. 
+","Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+
+>>I only had time to do one story - only the green button works!
+",19123745,https://cdn2.scratch.mit.edu/get_image/project/237040903_480x360.png,2018-07-22T00:08:57.000Z,2018-07-22T00:19:41.000Z,2018-07-22T00:14:14.000Z,16,4,2,0,0,,
+237038788,Getting Unstuck Day 17,"This was tricky.  Not as pretty as I would like, but I am proud of myself for persevering and accomplishing this challenge.",Just click the green flag and answer cat's questions to discover your lucky number.,24826697,https://cdn2.scratch.mit.edu/get_image/project/237038788_480x360.png,2018-07-21T23:12:55.000Z,2018-07-22T00:17:44.000Z,2018-07-22T00:16:02.000Z,5,3,0,0,0,,
+237035778,Superhero name generator,"Today's challenge took me less time than others. I've learned another way to use the list block.
+I've created a simple name generator.
+
+I'd like to add more words to have more nicknames, so any suggestions are welcomed.
+
+
+","Press the green flag to start.
+Write a color or adjective and then you'll get a super cool name.
+Press Down arrow key to see your words.
+
+
+                              ---Getting Unstuck Day 17---
+""Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.""",4413079,https://cdn2.scratch.mit.edu/get_image/project/237035778_480x360.png,2018-07-21T21:48:58.000Z,2018-07-22T19:30:12.000Z,2018-07-22T00:50:26.000Z,15,3,0,0,0,,
+237040280,Day 17,"I had fun with this! I hadn't used lists like this before, it was good to have a reason to do so.",Click on the green flag and be prepared to answer some personal questions.,32833725,https://cdn2.scratch.mit.edu/get_image/project/237040280_480x360.png,2018-07-21T23:53:29.000Z,2018-07-22T01:06:02.000Z,2018-07-22T01:05:29.000Z,5,2,0,0,0,,
+237043342,Unstuck Day 17: Party planning,"I used the DK book ""Help your Kids with Computer Coding"" to learn how to get the items added to the list from the user.  Then, I remixed a bit of WhaeaJR's code to give the responses at the end.",Click the green flag to give Cassy some ideas on what to get for her party.,34190490,https://cdn2.scratch.mit.edu/get_image/project/237043342_480x360.png,2018-07-22T01:07:48.000Z,2018-07-22T01:34:31.000Z,2018-07-22T01:29:51.000Z,5,2,0,0,0,,
+237044140,Chord Variations,"Thanks to @jsh for uploading the vibe sounds in another Getting Unstuck project
+
+Photo from amazon.com","Green flag, then follow Ludwig's instructions",27306974,https://cdn2.scratch.mit.edu/get_image/project/237044140_480x360.png,2018-07-22T01:26:11.000Z,2018-07-22T03:21:48.000Z,2018-07-22T03:21:48.000Z,14,6,2,0,0,,
+237048554,UnStuck Day 17,I would like to debug it so that only the room that you add to the list shows and then you return to the first screen to add another word to the list. ,Click the Cat each time you want to add a room to design your home.,14232182,https://cdn2.scratch.mit.edu/get_image/project/237048554_480x360.png,2018-07-22T03:10:52.000Z,2018-07-22T03:41:24.000Z,2018-07-22T03:41:24.000Z,8,2,0,0,0,,
+237049323,Wizard's Work,This was simple enough. The lists will get quite long so I'll probably have to add a replace item block or delete them.,"Start by clicking on the green flag, then follow directions.",30508500,https://cdn2.scratch.mit.edu/get_image/project/237049323_480x360.png,2018-07-22T03:31:34.000Z,2018-07-22T04:27:15.000Z,2018-07-22T04:27:15.000Z,2,1,0,0,0,,
+237020822,Getting Unstuck Day 17 - ,,Click the green flag and follow the prompts ,18558561,https://cdn2.scratch.mit.edu/get_image/project/237020822_480x360.png,2018-07-21T15:59:23.000Z,2018-07-23T15:46:30.000Z,2018-07-22T06:09:02.000Z,5,1,0,0,0,,
+237055575,Getting Unstuck Day 17,The inspiration came to me thinking about the BeeBot and some images I saw on pinterest. I designed the vector graphics with Adobe Illustrator.,"This works like a BeeBot: click on the orange botton (turn right, turn left, go straight on, turn back) and then press GO. Enter all the steps at once, to get to the flower.",14159575,https://cdn2.scratch.mit.edu/get_image/project/237055575_480x360.png,2018-07-22T06:33:30.000Z,2018-07-22T07:57:43.000Z,2018-07-22T06:34:02.000Z,19,11,4,0,0,,
+237056721,Day 17 of Getting Unstuck,,Premere la bandierina verde e scrivi tutti e 8 i pianeti,10086796,https://cdn2.scratch.mit.edu/get_image/project/237056721_480x360.png,2018-07-22T07:06:58.000Z,2018-07-22T07:35:01.000Z,2018-07-22T07:35:00.000Z,12,1,0,0,0,126425010,126425010
+237061440,Scratch 3 letter anagrammer fixed ,"I am having nightmares with my internet as on the move. 4 letters kept crashing.
+There must be a neater way to make the anagrams?
+Plus I wanted to make a list of the answers but have no more time and don't know how.
+Fixed now but stuck to 3 letters as internet so bad!",,33472226,https://cdn2.scratch.mit.edu/get_image/project/237061440_480x360.png,2018-07-22T09:09:08.000Z,2018-07-24T18:43:09.000Z,2018-07-24T18:43:09.000Z,3,2,0,0,0,,
+237059188,unstuck17,The hardest part was to get a different friend every time the spacebar is pressed. I made a second list to store the random numbers. But its not working very smoothly,"The Scratchcat meets random friends.
+Press spacebar to meet one ",1072279,https://cdn2.scratch.mit.edu/get_image/project/237059188_480x360.png,2018-07-22T08:09:11.000Z,2018-07-22T09:43:11.000Z,2018-07-22T09:35:44.000Z,10,3,1,0,0,,
+237070048,Getting Unstuck: Day 17 in english,"Getting Unstuck: Day 17
+Challenge: Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+For me it was a very difficult task. Thanks to various projects seen in recent days and in particular to that of Juf-Pinky, I managed to make a project even if very simple.",Click on green flag and follow the instructions. ,17615581,https://cdn2.scratch.mit.edu/get_image/project/237070048_480x360.png,2018-07-22T13:08:45.000Z,2018-07-22T14:33:28.000Z,2018-07-22T13:18:06.000Z,8,1,1,0,0,,
+237069924,Computer Lab Clean Up,"I struggled a bit with this. I was able to get it work if you answer all five answers, typed with the exact words (Steps include: quit, close windows, log off, shut down, push in chair). I tried making it so that you would get different feedback if you miss a step, but it's not working.  Can anyone please help?
+
+Also - is there a way to have it respond if the answer the answer includes the word, but not typed exactly - for example 'close your windows' instead of 'close windows'? I would anticipate that students might not necessarily type the exact wording.
+
+Image: https://zh.wikipedia.org/wiki/File:AIUB_Computer_Lab_2.jpg
+",Click on the Green Flag and answer questions to review the computer lab clean up procedure. Hint below in the Notes and Credits section...,1196430,https://cdn2.scratch.mit.edu/get_image/project/237069924_480x360.png,2018-07-22T13:05:42.000Z,2018-07-25T13:35:13.000Z,2018-07-22T14:18:58.000Z,7,1,0,0,0,,
+237048548,Scratch Cat Mad Lib Theater,Back ground image: Tonight Show Mad Lib Theater,Click the green flag to start.,17257831,https://cdn2.scratch.mit.edu/get_image/project/237048548_480x360.png,2018-07-22T03:10:48.000Z,2018-07-22T14:23:44.000Z,2018-07-22T14:22:48.000Z,6,3,0,0,0,,
+237073724,Day 17: Alien Language translation Version 2,"UPDATE:  Finally got this project working with lots of help.  See the new project https://scratch.mit.edu/projects/237098282/   
+
+
+This is my second attempt for day 17 challenge.  I did not like being stuck, so I searched on Scratch and found a project that was similar to what I wanted to do.   I remixed and it works except for how to translate in the written form.  Mostly because I still really do not understand the code.  I have to take more time to look at it and figure it out.  ","Click the green flag.  Enter your name or a phrase to hear it in an alien language. 
+Still working on how to display the name or phrase in the alien written language.  This is a remix of another project.  My original attempt of this project can be found here https://scratch.mit.edu/projects/237019487/",1294980,https://cdn2.scratch.mit.edu/get_image/project/237073724_480x360.png,2018-07-22T14:39:26.000Z,2018-07-23T00:50:36.000Z,2018-07-22T15:29:03.000Z,10,2,0,0,0,766189,766189
+237075276,Getting unstucked 17,"Thanks to @ClaGua for ispiration
+
+Facevo questo gioco da bambina con gli amici usando carta e penna: a ogni risposta si piegava il foglio in modo da coprirla e si passava il foglietto al vicino. Uscivano frasi molto divertenti
+this is a game of my chilhood (pen and paper): each time you give an answer you have to fold paper to cover it an pass the sheet to the nearest friend. very funny phrases  ","click on green flag and write (better if you press space at the end oof answer)
+clicca sulla bandierina verde e scrivi. (meglio premere spazio alla fine della risposta",25103547,https://cdn2.scratch.mit.edu/get_image/project/237075276_480x360.png,2018-07-22T15:17:26.000Z,2018-07-22T16:15:48.000Z,2018-07-22T16:15:48.000Z,4,2,0,0,0,,
+237071118,G.U. Day 17,,"Clicca sulla bandierina verde.
+Scegli tra 
+rosso
+arancione
+giallo
+verde
+fuxia
+turchese
+violetto",13746945,https://cdn2.scratch.mit.edu/get_image/project/237071118_480x360.png,2018-07-22T13:37:09.000Z,2018-07-22T16:31:57.000Z,2018-07-22T16:31:57.000Z,9,4,0,0,0,,
+237040422,GCF and LCM: Getting Unstuck Day 17 Lists,"Getting Unstuck Day 17 Lists
+
+In grade 7 math, we teach students to move away from making lists of multiples when finding the LCM, because it can get long with large numbers or 3 or more numbers, and students risk making mistakes with their multiples, leading to an error in their LCM. We teach them to use prime factorization instead. A computer can still use the list strategy because it won't make a mistake on the 1178th multiple, but even a computer takes a while to do it!
+
+Getting Unstuck strategies that helped me with this project:
+Sleeping on it
+Going through the code step by step
+Avoiding making clones broadcasters! (specific to Scratch)
+Using descriptive names for my variables
+
+TIL that if you want two clones to share information (clone-specific variables) then one strategy for this is to make a global variable and have one clone ""temporarily"" store its info there so that the other clone can act on it. Two clones cannot share information directly with one to another, as far as I can tell.
+
+If I had more time (or if someone wanted to remix this project), I would either use the prime factorization method for both the LCM and the GCF, or for the LCM (which is the long part for large numbers), I would make the program make a list of (say) the 20 first multiples, check if there is an LCM in that list, list the next 20, check again, etc. This should greatly reduce the time necessary for MOST LCM calculations (except when all of the numbers are prime amongst themselves).","Find the greatest common factor and the lowest common multiple of two or more numbers.
+Enter all the numbers and say ""No"" or ""no"" when you are done.
+If you use large numbers or 4 or more numbers, the program works but can take over 10 minutes (!), so if Scratch Cat is saying ""Hmm..."" for a long time but the timer is still advancing... be patient!",3485356,https://cdn2.scratch.mit.edu/get_image/project/237040422_480x360.png,2018-07-21T23:57:20.000Z,2018-07-22T17:01:35.000Z,2018-07-22T17:01:35.000Z,3,1,0,0,0,,
+237082906,Unstuck Day 17 project,"After exploring the ""length of"" green operator blocks I had this idea to use it to create a name game. It was SOOOOO much harder than I anticipated, but I used some Getting Unstuck strategies to persevere and am super proud of this project which uses lists and variables to remove the first letter of the user's name to add to the Name Game song.
+
+""The Name Game"" audio from https://www.youtube.com/watch?v=F3fT97caIkw ",Click the flag to play The Name Game!,17786521,https://cdn2.scratch.mit.edu/get_image/project/237082906_480x360.png,2018-07-22T18:13:25.000Z,2018-07-24T03:24:07.000Z,2018-07-22T19:07:59.000Z,11,5,0,0,0,,
+237033490,Story Idea Generator - Getting Unstuck Day 17,"Getting Unstuck Day 17: Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+
+This project was inspired by a student who explained a similar project he created at home. He uses his program at home to practice writing.","Press the green flag to begin. Then answer questions about Who, What, When, and Where? I recommend you capitalize only the first letter of your response to who the story is about and all other proper nouns. There is no need to add punctuation to the end of any responses. Once you ""Generate Prompt"" you can run with the story idea and add details to complete the story or click ""Generate Prompt"" again to get a new story idea.",22156688,https://cdn2.scratch.mit.edu/get_image/project/237033490_480x360.png,2018-07-21T20:50:07.000Z,2018-07-22T20:09:11.000Z,2018-07-22T20:02:45.000Z,8,0,0,0,0,,
+237028506,Day 17 Mad libs,"Today, I did kind of give up and come back to finish it.  I wish I could get it all printed on the screen to read. I'll work on this again to try and amend.  I hope that you have fun playing it!",So today we had to make a respeonse game.  I thought that I would do mad libs.  It was tricky enough to program and Im annoyed that I couldnt get it all on one screen.  ,24864870,https://cdn2.scratch.mit.edu/get_image/project/237028506_480x360.png,2018-07-21T18:46:39.000Z,2018-07-22T20:22:34.000Z,2018-07-22T20:21:03.000Z,3,0,0,0,0,,
+237084850,Day 17 - List Variable - Scratch Dining Experience,"Day 16 - Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list. 
+
+I tried to figure out how to change case if user typed in something incorrectly. Ended up just using and OR operator.","Click the green flag
+Order your dinner from Scratch.",16509596,https://cdn2.scratch.mit.edu/get_image/project/237084850_480x360.png,2018-07-22T18:57:20.000Z,2018-07-22T20:25:55.000Z,2018-07-22T20:22:53.000Z,6,2,1,0,0,,
+237088776,Day 17,I am struggling on how to get back to the correct boolean statement after a mistake.  Can anyone help?,Follow the prompts after the green flag,11885888,https://cdn2.scratch.mit.edu/get_image/project/237088776_480x360.png,2018-07-22T20:33:09.000Z,2018-07-22T21:17:52.000Z,2018-07-22T21:17:52.000Z,7,1,0,0,0,,
+237081313,Text Visualizer v2 (words),"Remixing my project from the text challenge. This time each dot represents a word, sized according to length.",Click one of the buttons to visualize a given text using colors!,1092342,https://cdn2.scratch.mit.edu/get_image/project/237081313_480x360.png,2018-07-22T17:36:54.000Z,2018-07-22T21:33:13.000Z,2018-07-22T21:32:32.000Z,4,0,0,0,0,,
+237022941,Getting Unstuck: Day 17-1,"Credits images: 
+https://www.flaticon.com - https://www.vecteezy.com","Fare clic sulla bandierina verde e seguire le istruzioni.
+Click the green flag and follow the instructions.",19789360,https://cdn2.scratch.mit.edu/get_image/project/237022941_480x360.png,2018-07-21T16:44:07.000Z,2018-07-23T05:50:53.000Z,2018-07-22T23:00:02.000Z,26,3,1,0,0,,
+237068418,Getting Unstuck: Day 17-2,"Credits images: 
+https://www.flaticon.com","Fare clic sulla bandierina verde e seguire le istruzioni.
+Click the green flag and follow the instructions.",19789360,https://cdn2.scratch.mit.edu/get_image/project/237068418_480x360.png,2018-07-22T12:25:12.000Z,2018-07-22T23:02:22.000Z,2018-07-22T23:00:55.000Z,9,0,0,0,0,,
+237100136,Unstuck #17 ,"Unstuck # . 17 . Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.","Well, I am just asking your name, then responding to its length and starting letter. 
+
+Oh, and thinking how silly it would be spelled backwards.
+
+I seriously need this challenge to get a better understanding of list!
+
+",26618044,https://cdn2.scratch.mit.edu/get_image/project/237100136_480x360.png,2018-07-23T00:24:44.000Z,2018-07-23T01:39:13.000Z,2018-07-23T01:26:07.000Z,3,0,0,0,0,,
+237075691,Day 17 - Spirograph,"I wanted to translate an older 'spirograph' project using lists but wanted to avoid errors that occur when typing the answers so ended up focusing on using 'drop-down' menus to hold the data that I wanted to use in conjunction with lists but got distracted. Again. I will visit.
+
+Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.",Click on the flag to start and mouse over the menu heading to reveal selections.,109272,https://cdn2.scratch.mit.edu/get_image/project/237075691_480x360.png,2018-07-22T15:26:47.000Z,2018-07-30T03:32:18.000Z,2018-07-23T01:29:31.000Z,3,1,0,0,0,,
+237104323,Wheel of Fortune Unstuck #17,Thanks to @mrswanson for another remix. I like this one because it's fairly simple and it helped me get a basic understanding of how lists can be used.,"Click on ""Vanna"" to spin the wheel for you. ",124311,https://cdn2.scratch.mit.edu/get_image/project/237104323_480x360.png,2018-07-23T01:27:33.000Z,2018-07-23T15:58:06.000Z,2018-07-23T01:56:02.000Z,8,0,1,0,0,25510111,25510111
+237043427,"Little you, big you","This project responds to the ""Getting Unstuck"" prompt for Day 17:  ""Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.""
+
+I almost gave up on this one!  At first, I was going to create a Memories Memory Game, with the cards that must be matched.  I realized that it would quickly get very complicated, so I scaled it down to this comparison activity.  I'm pleased with the result--simplicity can be satisfying, too!
+
+Artwork:  Married Children of Joseph Lea and Sarah Robeson Lea with Their Children, Augustin Amant Constant Fidèle Edouart, French, 1789 - 1861 http://www.philamuseum.org/collections/permanent/148122.html?mulR=1783981642|23
+
+Music: 12 Variations on a French Nursery Theme K 265 by Wolfgang Amadeus Mozart, performed by Stefano Ligoratti  https://musopen.org/music/2664-12-variations-on-a-french-nursery-theme-k-265300e/","Click on the green flag, then be prepared for a little reflective game!",527557,https://cdn2.scratch.mit.edu/get_image/project/237043427_480x360.png,2018-07-22T01:09:44.000Z,2018-07-23T02:37:28.000Z,2018-07-23T02:37:28.000Z,4,1,0,0,0,,
+225327523,History in a Box,"The artifacts were photographed and used as backdrops.
+Three listed have corresponding numbers; one list has artifact names, one list has the definition of each artifact, one list has a question to think about.
+If you go to NS school, you may ask your teacher to see the actual artifacts!","Click the green flag to begin.
+Each time that you want to select a different artifact, press the space bar. The archaeologist will ask you which number artifact you wish to see. ",24741621,https://cdn2.scratch.mit.edu/get_image/project/225327523_480x360.png,2018-05-24T13:11:30.000Z,2018-06-01T15:17:55.000Z,2018-06-01T15:17:55.000Z,3,0,0,0,0,,
+237138168,Day 17 - muiltiple words and lists,,,24154277,https://cdn2.scratch.mit.edu/get_image/project/237138168_480x360.png,2018-07-23T11:20:21.000Z,2018-07-23T12:15:52.000Z,2018-07-23T12:15:52.000Z,5,1,0,0,0,,
+237147903,DAY 17 - DILLO CON I FIORI!  ,"E' STATO MOLTO MOLTO MOLTO DIFFICILE
+NON CAPISCO PERCHE' SOLO 3/6 FUNZIONANO
+HO DATO LA STESSA SEQUENZA DI COMANDI A TUTTI GLI SPRITE, PERO', TRE FUNZIONANO E TRE NO.....PERCHE'....HELP ME!!!!","PER AVVIARE BANDIERA VERDE
+PER ABBINARE FIORE/SENTIMENTO BARRA SPAZIATRICE
+CLICCARE SULLO SPRITE PER PASSARE AD UN ALTRO FIORE",34259094,https://cdn2.scratch.mit.edu/get_image/project/237147903_480x360.png,2018-07-23T13:52:19.000Z,2018-07-23T14:03:02.000Z,2018-07-23T14:00:36.000Z,3,0,0,0,0,,
+237145175,SCRIGNO42- LE VACANZEVariabili e liste remix,"Ho remixato il progetto di MartaMazzi (che ringrazio) perchè non riuscivo a destreggiarmi fra variabili e liste,
+Progetto creato per Getting Unstuck, giorno 20 (remix del giorno 17)","Questo è un remix del progetto che ho inviato per il giorno 17.
+Ho inserito degli sfondi nuovi...
+CLICCARE SULLA BANDIERINA VERDE E RISPONDERE ALLA DOMANDA DI CAT. Potete scegliere fra 4 luoghi di vacanza (mare, montagna, campagna, lago)...Ricordatevi di scriverli in minuscolo; divertivi a rispondere ogni volta un luogo diverso e...(bisogna cliccare di nuovo la bandierina verde per dare una nuova risposta)
+",14651357,https://cdn2.scratch.mit.edu/get_image/project/237145175_480x360.png,2018-07-23T13:22:24.000Z,2018-07-25T13:23:40.000Z,2018-07-23T14:35:58.000Z,5,0,0,0,0,97018607,97018607
+237163897,Unstuck-17,"I wanted to make Scratch creating polygons, but I could not find an algorithm for that",,13846307,https://cdn2.scratch.mit.edu/get_image/project/237163897_480x360.png,2018-07-23T16:02:47.000Z,2018-07-23T16:31:45.000Z,2018-07-23T16:30:38.000Z,1,0,0,0,0,,
+237186231,Day 17 of Getting Unstuck,"I revisited this old project I did a while ago and made some changes and updates to it. It has been a while since I have done something like this so it took a bit to remember how to do something like this.
+
+
+
+Oven - www.clipartbest.com
+Open door oven - www.christmas-clipart.com
+tomato - feelgrafix.com
+spinach - www.medicalnewstoday.com
+artichoke - www.simplyrecipes.com
+pizza dough - www.annies-eats.com
+onion - en.wikipedia.org
+mushroom - gizmodo.com
+green pepper - pngimg.com
+olives - oliveit.eu
+pepperoni - www.themeatguy.jp
+sausage - www.packitgourmet.com
+chicken - www.createdby-diane.com
+steak - dianasnotes.com
+portabella mushrooms - www.happyhealthybalance.net
+tofu - www.mylilikoikitchen.com
+hamburger pieces - www.packitgourmet.com
+tomato sauce - stickafork.net
+pesto - www.italianfoodforever.com
+alfredo - myfridgefood.com
+olive oil - www.charliefoundation.org
+ranch dressing - en.wikipedia.org
+BBQ - mcdonalds.com.au
+Garlic Paste - www.splendidtable.org
+Fresh Mozzarella - www.seriouseats.com
+Parmesan - www.drshawnteyates.com
+Italian Mix - www.target.com
+goat - eatandrelish.com
+cheddar - www.exportersindia.com
+gorgonzola - good-cooking.co.uk
+ricotta - www.dishmaps.com
+cooked pizza - www.theluckypennyblog.com
+uncooked pizza - urbanfarmergf.com
+","Day 17 of Getting Unstuck.
+
+Click on Green Flag to make a pizza. Run the program randomly generate different types of pizzas.",588430,https://cdn2.scratch.mit.edu/get_image/project/237186231_480x360.png,2018-07-23T20:32:36.000Z,2018-07-23T20:37:01.000Z,2018-07-23T20:35:12.000Z,5,2,0,0,0,,
+237201599,Getting Unstuck Day 17,"I had quite a bit of trouble coming up with an idea for this challenge, but it was actually very fun to do once I had a starting point.","Challenge: Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+
+Press the green flag and see if you can spot the differences between the two.",34245752,https://cdn2.scratch.mit.edu/get_image/project/237201599_480x360.png,2018-07-24T00:25:33.000Z,2018-07-24T01:49:16.000Z,2018-07-24T01:49:16.000Z,3,0,0,0,0,,
+237188073,List- Day 17,"Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.","Press the green flag and click on the Scratch Cat.
+
+*This project is unfinished as I learn more about making lists!",25165723,https://cdn2.scratch.mit.edu/get_image/project/237188073_480x360.png,2018-07-23T21:00:43.000Z,2018-07-24T02:08:34.000Z,2018-07-24T02:07:04.000Z,6,0,0,0,0,,
+237212380,Decorating surprise,"i just find it very tough to muddle through this list. Finally, it works. However, there is one set of blocks I did not know how to add in - when the answer is not the required answer, I want to tell them what to do. In the end, I added the instruction in the question.","Click green flag to start.
+
+Getting Unstuck # Day 17
+
+How glad I am to finish this challenge. : )",158902,https://cdn2.scratch.mit.edu/get_image/project/237212380_480x360.png,2018-07-24T02:33:06.000Z,2018-07-24T10:35:31.000Z,2018-07-24T10:32:17.000Z,6,2,0,0,0,,
+237160855,RPN Calculator,"Getting Unstuck - day 17
+by Massimo Marletta
+
+In this project I realized a very simple RPN calculator.
+The starfish asks the user the data to put in the stack (which is a list) and the operation to perform.
+Once an operation is specified it get the last two data from the stack and replace them with the result. The latter is ready to be used as an operand for the next calculation.
+","When I was a child a teacher of mine had a calculator by Hewlett-Packard (HP) where if you want to calculate 2+3 you must type ""2"", ""enter"", ""3"", ""+"".
+
+I was a bit puzzled... then I studied about it.
+
+The Reverse Polish Notation (RPN) is a notation for math expression where you first put data in a stack and then type the operation you want to perform on the data.
+For example, to calculate the sum of 2 and 3, instead of writing ""2+3="" you must enter ""2"", then ""3"", then ""+"".
+The good thing is the once you calculated a result it take the place of the operands in the stack, so it can be easily used for another operation.
+It could sound confusing, but it is actually convenient!
+This procedure allow avoiding parenthesis and confusion about operator's precedence.
+
+If you want to calculate a bit more complex expression like:
+   (2+3)*7 = 35
+You must enter:
+2, 3, +, 7, *
+
+Easy! (or not?)
+
+The starfish asks you to type the numbers or symbols you want to enter in the RPN calculator, type each item at once and press enter...",4804940,https://cdn2.scratch.mit.edu/get_image/project/237160855_480x360.png,2018-07-23T15:29:20.000Z,2018-07-24T13:22:13.000Z,2018-07-24T11:27:19.000Z,9,1,0,0,0,,
+237245585,Getting Unstuck: Day 17,"Andrés Gil Ruiz.
+
+I've learned to use lists.","Using lists...
+
+Follow the instructions",27636310,https://cdn2.scratch.mit.edu/get_image/project/237245585_480x360.png,2018-07-24T11:34:22.000Z,2018-07-24T11:58:08.000Z,2018-07-24T11:56:55.000Z,7,0,0,0,0,,
+237238923,Getting Unstusck #17 Ordine alfabetico,"In questo mio progetto ho usato come spunto un'attività che potete trovare al seguente link:
+http://www.jo-soft.it/coding/9-coding/39-ordinare-alfabeticamente-una-lista-di-nomi-scratch.html.
+Io l'ho modificato in modo tale che sia l'utente ad inserire le parole.","Clicca sulla bandierina verde
+inserisci le 10 parole e guarda come vengono messe in ordine alfabeto.",17320587,https://cdn2.scratch.mit.edu/get_image/project/237238923_480x360.png,2018-07-24T09:27:02.000Z,2018-07-24T14:19:56.000Z,2018-07-24T14:19:56.000Z,3,0,0,0,0,,
+237254499,Doing some Math - Getting Unstuck - Day 17,Used an older project to help with this one. ,"Click the green flag.  The penguin will ask for 5 numbers and then after you can click each of the symbols to do these operations on the numbers. 
+
+The penguin will say the final result. ",19641362,https://cdn2.scratch.mit.edu/get_image/project/237254499_480x360.png,2018-07-24T13:41:01.000Z,2018-07-24T14:27:43.000Z,2018-07-24T14:23:42.000Z,2,0,0,0,0,,
+237264386,Day 17 LISTS!,"I'm actually amazed this worked! My first real experiment with lists and I can say that I kinda, sorta, understand it!
+
+I'm sure there must be a faster way to code this though.","Click the flag.
+
+Choose a color from the list.
+Choose a Shape from the list.
+Watch it draw!",10309968,https://cdn2.scratch.mit.edu/get_image/project/237264386_480x360.png,2018-07-24T15:21:59.000Z,2018-07-24T15:49:38.000Z,2018-07-24T15:48:22.000Z,6,0,0,0,0,,
+237252256,Getting Unstuck - Day 17,"Thank you to the tutorial from the from andre_rifaut on separating words in a sentence.  It allowed me to jump ahead to the actual translation portion of the project.
+
+The most difficult part of this project was compartmentalizing the separate steps given the character types.  It took me several attempts at hand written pseudo code to figure it out.
+
+What would I add?  An introduction, maby the option to toggle the translation process on or off for the user to see.  I might also add code to take the capital letter and put it at the front of the translated word, not in the middle of it.","Getting Unstuck Day 17 - Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+
+I chose to translate text from the user into pig latin.",14400846,https://cdn2.scratch.mit.edu/get_image/project/237252256_480x360.png,2018-07-24T13:19:00.000Z,2018-07-24T17:56:36.000Z,2018-07-24T17:52:16.000Z,2,0,0,0,0,10165988,10165988
+237196158,Unstuck 17,"My code is too long, but I could not figure out how to write nested loops to achieve the same results.
+
+Image credit: All images were downloaded from Google Search and converted to png in Paint before uploading to Scratch.","32 Football Teams in the USA:
+Click on the flag.
+Abby asks you to input your favorite football team's home base location. Then she returns a response with your favorite team's location and nickname.
+
+**Team names must be capped, and correct name spelling is required.",840815,https://cdn2.scratch.mit.edu/get_image/project/237196158_480x360.png,2018-07-23T23:14:12.000Z,2018-07-25T11:45:39.000Z,2018-07-25T10:58:07.000Z,4,1,0,0,0,,
+237317938,Unstuck - Day 17,"This project was a remix of another project I made where I used the Make a Block feature to create geometric figures of various shapes and sizes.  It works pretty well, unless you choose large numbers - then the shape hits the edge and gets distorted.  I could not get the change pen color to work properly.  Maybe someone has suggestions? ","Click on the green flag, then give some numbers to draw shapes.",2456527,https://cdn2.scratch.mit.edu/get_image/project/237317938_480x360.png,2018-07-25T02:20:50.000Z,2018-07-25T03:15:14.000Z,2018-07-25T03:15:14.000Z,4,0,0,0,0,,
+237135920,Day 17 - making sense of the sum of two dice,"This exploration of the game of two dice is inspired to Galileo Galilei ""On a discovery concerning dice"" where he answer the following question: ""Suppose three dice are thrown and the three numbers obtained added. The total scores of 9, 10, 11, and 12 can all be obtained in six different combinations. Why then is a total score of 10 or 11 more likely than a total score of 9 or 12?
+
+https://www.leidenuniv.nl/fsw/verduin/stathist/galileo.htm
+","Click on the roll button to repeat rolling two dice. The ""rolls"" list contain the sum of the two dice for each roll; the list ""roll-count"" counts the number of occurrences of each sum.  
+Examine the results, can you make an urn that (as a random generator) is equivalent to rolling two dice? Click on the ""2dice urn"" button to create it.
+If you notice that a number (e.g. 6) appears many times, put more 8 in the urn.
+Click on the dice to ""extract"" form the urn and check if this is equivalent the rolling the two dice.
+",214,https://cdn2.scratch.mit.edu/get_image/project/237135920_480x360.png,2018-07-23T10:36:25.000Z,2018-07-25T11:15:30.000Z,2018-07-24T13:01:32.000Z,8,0,0,0,0,,
+237373694,Getting Unstuck Day 17- GO GATORS,"Super thanks to @llhowell for the inspiration for the project!! I really enjoyed this project, especially anything featuring my FAVORITE school, the University of Florida! ",Click the green flag to find out the BEST football team in the State of Florida! ,17743612,https://cdn2.scratch.mit.edu/get_image/project/237373694_480x360.png,2018-07-25T15:55:37.000Z,2018-07-25T16:43:37.000Z,2018-07-25T16:39:14.000Z,5,0,1,0,0,,
+237377104,Getting Unstuck: Day 17,"By Filipe Mendes
+#CreativeComputing","Enter a random numbers and finish with zero.
+The program counts the numbers of even or odd numbers.
+",2980392,https://cdn2.scratch.mit.edu/get_image/project/237377104_480x360.png,2018-07-25T16:35:27.000Z,2018-07-25T17:33:23.000Z,2018-07-25T17:31:10.000Z,2,0,0,0,0,,
+237381858,Getting Unstuck Day 17 - lists,"For this one I modified (wish there was a way to remix my own projects) my Day 14 Mad Lib. This time I stored the questions and answers in lists. I like this method better because it keeps the code cleaner. But the script for the story itself became long and awkward. I would need to modify the wording to simplify that.
+
+I'm glad I did this project because I knew nothing about lists prior to this.","This project is for Getting Unstuck Day 17: Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list. 
+
+Click the green flag to get started.",2803184,https://cdn2.scratch.mit.edu/get_image/project/237381858_480x360.png,2018-07-25T17:28:16.000Z,2018-07-25T18:57:02.000Z,2018-07-25T18:55:24.000Z,2,0,0,0,0,,
+237395648,Getting Unstuck [Day 17] Shape Maker,This is for getting unstuck day 17!,"Green Flag, then answer questions in the project about your shape then it will draw it for you!",13594403,https://cdn2.scratch.mit.edu/get_image/project/237395648_480x360.png,2018-07-25T20:16:56.000Z,2018-07-25T20:33:53.000Z,2018-07-25T20:33:53.000Z,3,0,0,0,0,,
+237400534,Getting Unstuck Day 17,"Getting Unstuck Day 17 Reflection:
+This was fun to make.  The hardest part was coming up with an idea of how to use lists, now knowing specifically what they would say.  It limits what kinds of animations you can do.  I'd like to think more about what to have happen, like maybe have the girl and the cart move between actions and fill up the cart a bit.  
+Exterior store backdrop from: http://www.clker.com/clipart-store.html
+Interior store backdrop from: https://pixabay.com/en/supermarket-shelf-food-cereal-1094817/
+Shopping cart sprite from:  https://www.freeclipartnow.com/food/cooking/shopping-cart-2.jpg.html",Click on the green flag and help with the grocery shopping.,30095573,https://cdn2.scratch.mit.edu/get_image/project/237400534_480x360.png,2018-07-25T21:31:55.000Z,2018-07-25T23:10:45.000Z,2018-07-25T23:10:44.000Z,8,1,1,0,0,,
+237473655,new look ,Thanks to ssjpom ,"click on the flag and insert a word 
+",3602053,https://cdn2.scratch.mit.edu/get_image/project/237473655_480x360.png,2018-07-26T15:26:33.000Z,2018-07-27T14:47:06.000Z,2018-07-26T15:54:43.000Z,2,0,0,0,0,,
+237518408,Unstuck Day 17 project remix,"Getting Unstuck Day 17 
+
+This project was so cool! I couldn't help but remix this project. I changed the sprite to a penguin instead of keeping the cat. 
+
+Great idea, MrMarslandSF!  ",Click the flag to play The Name Game!,10722024,https://cdn2.scratch.mit.edu/get_image/project/237518408_480x360.png,2018-07-27T01:13:57.000Z,2018-07-27T01:30:03.000Z,2018-07-27T01:17:15.000Z,4,0,0,0,0,237082906,237082906
+237623321,Getting Unstuck day 17,"Well, the idea was that you'd name the planets and they'd get into the right order, but I must confess I am definitely NOT unstuck on this one!  All the tutorials I have found don't look like my screen at all.  I am sure that it is in the setup of the list that I have a problem, but I think I need to take a break and come back to this later!",Can you name the planets in our solar system?,3297086,https://cdn2.scratch.mit.edu/get_image/project/237623321_480x360.png,2018-07-28T11:12:37.000Z,2018-07-28T14:40:31.000Z,2018-07-28T14:34:14.000Z,2,0,0,0,0,,
+237626445,Getting Unstuck Day 17 Take 2,Take 2 - a lot better this time.  what I need to work on next is what happens if the player puts in the wrong planet.,Click the green flag and see if you can name all the planets in the correct order,3297086,https://cdn2.scratch.mit.edu/get_image/project/237626445_480x360.png,2018-07-28T12:40:28.000Z,2018-07-28T14:53:51.000Z,2018-07-28T14:53:51.000Z,4,0,0,0,0,,
+237643496,Día 17,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/237643496_480x360.png,2018-07-28T19:03:45.000Z,2018-07-28T19:04:00.000Z,2018-07-28T19:04:00.000Z,3,0,1,0,0,,
+237640940,Getting Unstuck Day 17,I'd like to play with this design to make a madlib game.,Click green flag to start.   Scratch will ask you about your favorite things!,34190765,https://cdn2.scratch.mit.edu/get_image/project/237640940_480x360.png,2018-07-28T18:03:44.000Z,2018-07-28T19:16:04.000Z,2018-07-28T19:14:21.000Z,2,0,0,0,0,,
+237647377,Getting Unstuck Day 17,"Inspiration comes from Getting Unstuck Day 17.
+I don't think I'd used a list in Scratch before doing this project.
+It was a bit more complicated than I thought it would be. At first I started n off at 0 like a list in C++ or Java.
+It would be interesting to try and sort a list of words into alphabetical order in the future.","Click the green flag and type in five numbers. The wizard will add them up.
+",287832,https://cdn2.scratch.mit.edu/get_image/project/237647377_480x360.png,2018-07-28T20:39:29.000Z,2018-07-28T20:57:04.000Z,2018-07-28T20:47:28.000Z,5,1,0,0,0,,
+237506468,L'inventastorie Day 17 Getting Unstuck ,"Getting unstuck Day 17:Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.
+This challenge for me was very complicated, because I had never use variables and lists. I was getting stuck so many times, but I didn't give up. So, in the end, I did it!
+
+Thanks to @CompTeacherK5
+",Click on the Green Flag and enter the requested information.,8789156,https://cdn2.scratch.mit.edu/get_image/project/237506468_480x360.png,2018-07-26T23:03:23.000Z,2018-08-01T19:48:30.000Z,2018-07-26T23:23:38.000Z,47,3,1,0,0,237066028,237066028
+237732531,UnStuck Day 17,click on the type of bear do you want,choose your bear ^^,34216021,https://cdn2.scratch.mit.edu/get_image/project/237732531_480x360.png,2018-07-30T04:40:08.000Z,2018-07-30T04:41:21.000Z,2018-07-30T04:40:36.000Z,3,1,0,0,0,,
+237734515,MCD Getting unstuck day 17 ,,Click on the green flag to calculate the mcd between two numbers,19738986,https://cdn2.scratch.mit.edu/get_image/project/237734515_480x360.png,2018-07-30T05:16:21.000Z,2018-07-30T05:45:37.000Z,2018-07-30T05:43:50.000Z,4,1,0,0,0,,
+237854017,scriviamo una storia,"Getting Unstuck: Day 17
+Creare 
+Creare un progetto che chiede all'utente di digitare più parole o numeri, memorizza gli elementi in una lista, poi fa qualcosa di interessante con gli elementi dall'elenco. 
+Ho avuto difficoltà a capire come funziona la ""lista"", grazie perchè mi si ",Rispondi alle domande.,21462276,https://cdn2.scratch.mit.edu/get_image/project/237854017_480x360.png,2018-07-31T11:47:21.000Z,2018-07-31T12:35:37.000Z,2018-07-31T12:33:12.000Z,3,1,0,0,0,,
+237875134,#GettingUnstuck17 - Average and max number,Sprite taken from the Scratch repository.,"Press Green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 17
+
+""Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list""
+
+Type numbers and, once done, type ""DONE"" in the textbox. This program will calculate average and max number (it should be easy to remix and calculate minimum number!)",1112440,https://cdn2.scratch.mit.edu/get_image/project/237875134_480x360.png,2018-07-31T16:29:38.000Z,2018-07-31T16:32:26.000Z,2018-07-31T16:32:16.000Z,3,1,0,0,0,,
+237919755,# Unstuck 17 Multiple Words,I made this thinking about our production for this term. I felt the students could make their own one as an assessment to the term.,You have to spell the words correctly or it doesn't accept them. ,31492686,https://cdn2.scratch.mit.edu/get_image/project/237919755_480x360.png,2018-08-01T02:15:22.000Z,2018-08-01T02:51:31.000Z,2018-08-01T02:50:11.000Z,4,1,0,0,0,,
+238078300,Shopping list getting unstuck day 17,"I've learned to manage lists: add, remove and move to another list.The biggest challenge is design a simple interface to do these actions. 
+","A project to save a shopping list.
+Add new item with ""nuevo"". 
+Mark as shopped with ""Hecho"". 
+You can see your shopped items with ""Lista Comprado""
+",2680901,https://cdn2.scratch.mit.edu/get_image/project/238078300_480x360.png,2018-08-02T17:40:15.000Z,2018-08-03T07:53:56.000Z,2018-08-02T18:12:15.000Z,7,1,0,0,0,,
+238079730,My game list Getting unstuck day 17,hi have learn to ad and remove elements ,,23020553,https://cdn2.scratch.mit.edu/get_image/project/238079730_480x360.png,2018-08-02T18:01:13.000Z,2018-08-02T18:38:12.000Z,2018-08-02T18:34:47.000Z,4,2,0,0,0,,
+238258079,day-17,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/238258079_480x360.png,2018-08-05T06:07:34.000Z,2018-08-05T06:19:19.000Z,2018-08-05T06:19:19.000Z,3,1,0,0,0,131337687,131337687
+238257085,Getting Unstuck - Day 17,"The Getting Unstuck Challenge for day 17 is to: ""Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list.""
+
+This program is inspired by one of my daughter's favorite youtube videos: https://youtu.be/frN3nvhIHUk
+
+It took me awhile to get the ""Yes!"" and ""No!!"" sprites to hide and show together and at the right times.  But I failed forward! Work on one sprite to follow what you want and then just duplicate the scripts to the second!
+
+Backdrop images from Pixabay:
+https://pixabay.com/photo-1081543/
+https://pixabay.com/photo-410330/","Enter your five favorite foods and then answer the prompts that follow by clicking on ""yes"" or ""no"".",24696341,https://cdn2.scratch.mit.edu/get_image/project/238257085_480x360.png,2018-08-05T05:37:59.000Z,2018-08-05T08:20:52.000Z,2018-08-05T08:08:51.000Z,3,1,0,0,0,,
+238341658,Getting Unstuck - dag 17,#GettingUnstuck,Click the green flag to have a short chat.,25631396,https://cdn2.scratch.mit.edu/get_image/project/238341658_480x360.png,2018-08-06T11:07:45.000Z,2018-08-06T11:08:27.000Z,2018-08-06T11:08:27.000Z,3,1,0,0,0,,
+238370277,Bubblesort - GettingUnstuck-17,"Bubblesort is one of many sorting algorithms, not the most efficient, but one of the simplest to implement so it was funny to play with it on Scratch.
+This is just the first iteration: I would like to see the bubbles move when I swap them (and just those involved) instead of redrawing all of them like now. I used the parsing function from the day16.
+And, thinking about thinking: bubblesort is not the way our brain sorts numbers, what kind of algorithm do we really use? Is it the same for all of us?","Green flag to start.
+You can enter some numbers comma separated and they will be bubblesorted (https://en.wikipedia.org/wiki/Bubble_sort)",25876369,https://cdn2.scratch.mit.edu/get_image/project/238370277_480x360.png,2018-08-06T18:27:01.000Z,2018-08-06T21:40:50.000Z,2018-08-06T21:17:48.000Z,2,1,0,0,0,,
+238410052,Program Steven,"I wanted to create a todo list for a sprite, then I realized that it is exactly what a computer program is! So I made a very simple programming language on top of Scratch.
+
+I was surprised by how easy it was to build the ""interpreter"", i.e. the ""start"" sprite that reads from the list and broadcast messages to Steven. If I had more time I would implement more programming blocks and I would add the possibility of repeat loops.
+
+Enjoy!
+","Click on the blocks to create a program, then press the start button to let Steven execute it.",2286560,https://cdn2.scratch.mit.edu/get_image/project/238410052_480x360.png,2018-08-07T03:28:46.000Z,2018-08-07T18:58:18.000Z,2018-08-07T04:16:55.000Z,17,6,3,0,0,,
+238474214,Getting Unstuck17 : the rainbow,,"
+PRESS THE GREEN FLAG 
+LIST IN ORDER THE COLORS OF THE RAINBOW
+IF YOU FAIL PRESS THE GREEN FLAG AGAIN
+WRITE IN BLOCK LETTERS PLEASE",16573108,https://cdn2.scratch.mit.edu/get_image/project/238474214_480x360.png,2018-08-07T20:36:17.000Z,2018-08-07T22:05:06.000Z,2018-08-07T21:58:51.000Z,3,1,0,0,0,,
+238458517,An alphabetical story (Getting Unstuck #17),"Getting Unstuck activity #17 - ""Create a project that asks the user to type in multiple words or numbers, stores the items in a list, then does something interesting with the items from the list. ""
+
+The story sorts the entered names alphabetically and uses them in the stories. I was going to have sprites using the entered names and have different backdrops etc, but the list logic took up too much time.","Click the flag. Enter the names and places as prompted and see what story comes out! 
+
+Words expected are:
+
+5 names
+3 places",15872912,https://cdn2.scratch.mit.edu/get_image/project/238458517_480x360.png,2018-08-07T16:42:36.000Z,2018-08-07T22:22:22.000Z,2018-08-07T22:22:22.000Z,2,1,0,0,0,,
+238545673,Getting Unstuck - Day 17,"I used a list to add elements of the story to. When the question has been asked multiple times, I loop through the list element by element to extract the lines and have the storyteller sprite say them.","You will need three people to play this story game!
+You will create a story together with two other people. Each person will have time to write their own line in the story. The trick is that you can only see the previous line. At the end, the storyteller will read the completed story to you.
+
+Press the green flag and follow the instructions.",25334812,https://cdn2.scratch.mit.edu/get_image/project/238545673_480x360.png,2018-08-08T14:02:27.000Z,2018-08-08T15:12:52.000Z,2018-08-08T15:10:49.000Z,1,0,0,0,0,,

@@ -1,0 +1,565 @@
+id,title,description,instructions,author/id,image,history/created,history/modified,history/shared,stats/views,stats/loves,stats/favorites,stats/comments,stats/remixes,remix/parent,remix/root
+236881381,Deep Thought,"This week has been a little short on time, so I haven't been able to spend as much time on the project as I want to, but it does force me to  think about time as a design constraint, particularly for implementing these activities in classrooms. I got the MVP (minimum viable project) working, and then I thought...what else do I have time for? In <30 minutes, there's definitely not enough time for looking for/making sprites, so I stuck with what was in the sprite library. And, it's a reminder that the sprite library is so rich! And I still have a fully functioning project!
+
+If I had more time, I would make the answers more respondent to the questions, instead of just at random. Any thoughts on how to do that much appreciated!
+
+Music: Zora's Domain (night) - Zelda breath of the wild.
+","Press the green flag to start, and follow along! Hitchhiker's inspired.",2745846,https://cdn2.scratch.mit.edu/get_image/project/236881381_480x360.png,2018-07-19T19:54:56.000Z,2018-07-20T09:53:54.000Z,2018-07-20T09:53:54.000Z,45,9,1,0,0,,
+236878449,Magic Marble Therapy,I was scared of this project because I didnt' know how to do it! But then I realized how the list function works and I used that!! It was exciting. ,Share a challenge you're having with the magic marble! It will ask you some questions about your situation. ,24267830,https://cdn2.scratch.mit.edu/get_image/project/236878449_480x360.png,2018-07-19T19:11:11.000Z,2018-07-21T16:56:41.000Z,2018-07-19T20:30:35.000Z,30,11,2,0,0,,
+236893557,Answer,"This project was created for Day 16 of Getting Unstuck. I was really vexed by today's challenge -- so many possible ways to explore the idea of answering someone's question! In the end, I channeled advice from @karenb on Day 13 to ""try to reconnect with your loves and see where they take you.""
+
+Sounds are from freesound.org; graphics are from pixabay.com. 
+","Press the green flag to have your question answered.
+
+(Best enjoyed in full-screen mode.)",56239,https://cdn2.scratch.mit.edu/get_image/project/236893557_480x360.png,2018-07-19T23:31:03.000Z,2018-07-27T16:08:15.000Z,2018-07-20T10:36:04.000Z,56,18,8,0,0,,
+236853476,5-Question Scratch Cat Jeopardy,"(For Day 16 of Getting Unstuck)
+Today's invitation to make was: ""Create a program that answers the user's questions."" My first thought was to create a Magic 8 ball, but then I tried to think of other situations where the user (or the player) is stating a question. I was reminded of someone from our apartment building who watches Jeopardy in one of the building's common areas every evening and used that as my inspiration. I took the questions from Jeopardy's online practice test sets (Teen edition).
+Were I to invest more time in this project, I would...
+* make it a big more flexible for answers that are ""close enough""
+* make it more Jeopardy-like, with identified categories and varying prize amounts",Press the green flag.,39526,https://cdn2.scratch.mit.edu/get_image/project/236853476_480x360.png,2018-07-19T14:36:56.000Z,2018-07-20T10:36:43.000Z,2018-07-20T10:36:43.000Z,34,9,4,0,0,,
+236852048,Getting Unstuck Day 16: Foodie dice!,"I was stuck on this challenge. The only thing I could think of that directly answered the prompt was some sort of magic 8 ball... which is cool, but not what I wanted to make! Eventually, with the help of @paulinah, I remembered a great gift I received for Christmas—foodie dice! They're meant to help you decide what to eat. So, I decided to turn this into my project :)
+
+It's not exactly answering a question the user *poses*, but I think it's definitely a question lots of people have!
+
+I'd like to come back to this later and add in more options, store the options in a list, and then only show the options available for those conditions.
+
+Wood image from Wikimedia Commons.
+Foodie dice found here! https://www.foodiedice.com/",This project answers age-old question... what should I make for dinner tonight?,19163721,https://cdn2.scratch.mit.edu/get_image/project/236852048_480x360.png,2018-07-19T14:20:40.000Z,2018-07-20T17:23:20.000Z,2018-07-20T02:36:12.000Z,29,14,5,0,0,,
+236925961,Tell Me More,"I got most stuck conceptualizing this project. I had a difficult time thinking about how to frame questions and answers in this context. Initially I wanted to try to really have the answers ""make sense"", that is, for the project to listen well and respond accordingly. Listening is HARD, and teaching a computer how to listen well seemed too large a hurdle any of the attempts I made at it. 
+
+So, I wondered how I might highlight that dilemma in the answers. I thought some more about listening, to each other and ourselves, and wondered how I might make a list of responses to think with. I ended up searching to see if I could find an interview by teacher + teacher educator Eleanor Duckworth. I thought I'd take the ""answers"" from there. (I didn't have a particular interview in mind, just that I'd like to to find one.)
+
+I found 'On Thinking about Teaching: A Conversation with Eleanor Duckworth', and pulled out some of her responses and this project unfolded (:
+http://www.ascd.org/ascd/pdf/journals/ed_lead/el_199103_meek.pdf
+
+loop that I used:
+https://freesound.org/people/arseniiv/sounds/159422/
+
+loops that I thought I might use:
+https://freesound.org/people/zagi2/sounds/351433/
+https://freesound.org/people/suonho/sounds/57870/
+",Press the green flag to start to interact with Truffle (:,25705937,https://cdn2.scratch.mit.edu/get_image/project/236925961_480x360.png,2018-07-20T09:13:29.000Z,2018-07-20T14:06:17.000Z,2018-07-20T10:50:37.000Z,37,9,1,0,0,,
+236932308,chiedi_ascolta copy,,"just to make a question and get the answer!
+",443100,https://cdn2.scratch.mit.edu/get_image/project/236932308_480x360.png,2018-07-20T11:14:13.000Z,2018-07-20T14:10:15.000Z,2018-07-20T11:41:44.000Z,25,2,0,0,0,,
+236933056,Day16 - Magic ball,,Click on the black ball to get an answer to your question,34225248,https://cdn2.scratch.mit.edu/get_image/project/236933056_480x360.png,2018-07-20T11:28:19.000Z,2018-07-20T11:50:57.000Z,2018-07-20T11:50:23.000Z,24,4,0,0,0,,
+236932931,Getting Unstuck Day 16,"Thanks @jsh for always creating beautiful projects that are surprising and fun.
+
+Writing scrolling text is something I have always wanted to try, so I spent a little time exploring jsh's project today, and came up with this (similar) idea. Thanks for sharing!",Hello! I want to ask you about getting unstuck!,4610900,https://cdn2.scratch.mit.edu/get_image/project/236932931_480x360.png,2018-07-20T11:25:43.000Z,2018-07-20T11:53:22.000Z,2018-07-20T11:52:01.000Z,12,5,0,0,0,,
+236932571,Getting Unstuck Day 16 - The ChatDuck5000,"This project uses the stringToWords block by @jsh from his Visual Editor of a few days ago: https://scratch.mit.edu/projects/236732850/ Thanks! 
+HINT - you don't have to remix to reuse - the backpack will carry items between projects if you're working online (look at the bottom of the editor). Remember to credit those who help you. 
+
+The duck splits the words of the question and uses the first word - probably the question word. It looks in a list Q for this word and if it's there it uses a corresponding reply. With more time I would extend the code to check the whole sentence to allow it to scan for trigger words like Orange or Quack and create a response. 
+
+You can see the lists used Q and A - dive in and remix to add some more replies. The trigger word (if first word in the question) will result in the reply. The last entry in A is the response if no match is found and should always be the last item. ","Getting Unstuck Day 16
+
+Click the green flag. Ask your questions of the great duck, o mortal.",2314547,https://cdn2.scratch.mit.edu/get_image/project/236932571_480x360.png,2018-07-20T11:19:07.000Z,2018-07-20T14:27:06.000Z,2018-07-20T11:55:03.000Z,21,5,0,0,0,,
+236934500,Answer remix,Fixed the scanner for you ;),"Press the green flag to have your question answered.
+
+(Best enjoyed in full-screen mode.)",2314547,https://cdn2.scratch.mit.edu/get_image/project/236934500_480x360.png,2018-07-20T11:57:59.000Z,2018-07-20T12:06:17.000Z,2018-07-20T11:58:03.000Z,20,4,0,0,0,236893557,236893557
+236933409,Dr Sbaitso is reborn!,i remember Dr Sbaitso from 1991!,,33472226,https://cdn2.scratch.mit.edu/get_image/project/236933409_480x360.png,2018-07-20T11:36:02.000Z,2018-07-20T21:18:08.000Z,2018-07-20T12:19:49.000Z,17,4,0,0,0,,
+236934959,getting unstucked day16,thanks to @DA-kparnell for inspiration for the code,"click on the green flag
+clicca sulla bandierina verde",25103547,https://cdn2.scratch.mit.edu/get_image/project/236934959_480x360.png,2018-07-20T12:07:38.000Z,2018-07-20T12:53:04.000Z,2018-07-20T12:50:34.000Z,17,0,0,0,0,,
+236934716,As simple as possible...,"This started as a joke, but looking back, some of these responses sound pretty familiar :)
+As a teacher, I am all for encouraging inquiry and critical thought, but hope I remember to be more engaged and less aloof than this knock-off of Professor Einstein.
+
+Photo from www.thoughtco.com","Green Flag, then ask your question.
+
+Click anywhere to ask again.",27306974,https://cdn2.scratch.mit.edu/get_image/project/236934716_480x360.png,2018-07-20T12:02:17.000Z,2018-07-20T15:22:05.000Z,2018-07-20T12:55:42.000Z,34,8,0,0,0,,
+236678312,Getting Unstuck: Day 16 — Magic Advice,"Reflection
+
+This is a straight up recreation of a Magic 8-ball. The user asks a question and then a random answer is selected from a dataset of answers stored in a list. The part that took the longest was manually inserting the answers into the list. This probably took me about 15 minutes to complete.
+
+Here's a Wikipedia article on the Magic 8-Ball:
+https://en.wikipedia.org/wiki/Magic_8-Ball",Ask Scratchy a yes or no question.,26264460,https://cdn2.scratch.mit.edu/get_image/project/236678312_480x360.png,2018-07-17T20:36:33.000Z,2018-07-20T19:45:24.000Z,2018-07-20T13:10:26.000Z,12,4,0,0,0,,
+236935121,Getting Unstuck #16,"This was a tricky one, and then I thought about who is best at seeming to answer questions without actually doing so, and after that it was easy. The tricky thing was deciding on which politicians to choose.
+
+I've updated this so that if you ask someone the same question twice she or he gives an appropriate response.",Choose a politician and ask as many questions as you'd like.,141519,https://cdn2.scratch.mit.edu/get_image/project/236935121_480x360.png,2018-07-20T12:11:23.000Z,2018-07-21T07:52:51.000Z,2018-07-20T13:08:35.000Z,17,1,0,0,0,,
+236932375,Getting Unstuck: Day 16 - Il libro delle risposte,"This is my project for Day 16 of the Getting Unstuck programming challenge. It was interesting to try out the list mechanism and implement an algorithm that I had in mind for some time.
+
+Challenge archive:
+https://us18.campaign-archive.com/home/?u=5dd4d8b32f719a30cbde507c6&id=cc0b423621","Create a program that answers the user's questions.
+
+Algoritmo che riproduce la logica alla base del libro delle risposte. Fai una o più domande e il proverà a chiarire i dubbi che hai.
+
+I'm working on the English translation.",34314391,https://cdn2.scratch.mit.edu/get_image/project/236932375_480x360.png,2018-07-20T11:15:27.000Z,2018-07-20T13:26:53.000Z,2018-07-20T13:24:00.000Z,13,4,1,0,0,,
+236938038,The answer remix - Getting unstuck day 16,"Thanks to @jsh, Antonello Taurino and Douglas Adams","Press the green flag to have your question answered.
+
+(Best enjoyed in full-screen mode.)",19738986,https://cdn2.scratch.mit.edu/get_image/project/236938038_480x360.png,2018-07-20T13:02:47.000Z,2018-07-20T13:57:20.000Z,2018-07-20T13:38:27.000Z,13,3,1,0,0,236893557,236893557
+236938930,Day 16 - Scarecrow,"Day 16 - Create a program that answers the user's questions.
+",Click the flag to get started.,109272,https://cdn2.scratch.mit.edu/get_image/project/236938930_480x360.png,2018-07-20T13:15:10.000Z,2018-07-25T01:23:09.000Z,2018-07-20T13:38:23.000Z,15,8,1,0,0,,
+236938726,Day 16 of Getting Unstuck,"Nel processo creativo ho cercato di non creare semplicemente domande e risposte, ma di creare interazione con le risposte.",Piccolo dialogo con Pico,10086796,https://cdn2.scratch.mit.edu/get_image/project/236938726_480x360.png,2018-07-20T13:12:49.000Z,2018-07-20T13:45:10.000Z,2018-07-20T13:44:04.000Z,12,2,0,0,0,,
+236939400,G.U. Day 16  SINGER,"Le richieste sono sempre più difficili per me.
+Ho aperto diversi progetti già caricati nella galleria, troppo complicati per me.
+
+","Clicca sulla bandierina verde.
+Non troverai risposte alle tue domande, ci lavorerò.",13746945,https://cdn2.scratch.mit.edu/get_image/project/236939400_480x360.png,2018-07-20T13:21:40.000Z,2018-07-20T13:50:04.000Z,2018-07-20T13:45:50.000Z,14,2,0,0,0,,
+236929322,European day of languages ,"I thought about the European Day of Languages and tried to combine different sounds with objects.
+This idea was born at school last year and I've worked on a project carried out with children: they thought of asking family and friends to record words from school objects. I've tried to write with them a simple sequence of scenes. It was interesting, this project is their idea.
+I would like to make it easier and simpler in writing codes.
+How could I make it easier or more simple?
+
+Thanks to the friendly voices 
+
+
+","An activity dedicated to European Day of Languages.
+Click on the green flag. Home to restart 
+
+Clicca sulla bandiera verde per iniziare (in inglese).
+
+",11312120,https://cdn2.scratch.mit.edu/get_image/project/236929322_480x360.png,2018-07-20T10:17:36.000Z,2018-08-03T05:58:29.000Z,2018-07-20T13:46:55.000Z,18,6,3,0,0,,
+236938384,Ak the Scratch Cat: Getting Unstuck Day 16,,Would you like to know your future?  Ask the scratch cat!  Hit the green flag to start.,17257831,https://cdn2.scratch.mit.edu/get_image/project/236938384_480x360.png,2018-07-20T13:07:35.000Z,2018-07-21T04:02:09.000Z,2018-07-21T03:58:43.000Z,13,3,0,0,0,,
+236939577,Getting Unstuck day 16,"I took today as an opportunity to revisit and improve an old project. A number of people have mentioned doing so the last couple of weeks and I have been meaning to follow their lead. This is a fairly straightforward magic 8 ball type project. I removed the extraneous code that recreated the list of answers every time the program is run. I also made it possible to ask another question without enduring the set up spiel each time. Finally, I added a spooky soundtrack of radio noise recorded by NASA's Cassini spacecraft (RIP brave robot). 
+
+soundtrack - https://soundcloud.com/nasa/cassini-saturn-radio-emissions-2?in=nasa/sets/spookyspacesounds
+",Click the green flag for answers to your most pressing questions.,17767933,https://cdn2.scratch.mit.edu/get_image/project/236939577_480x360.png,2018-07-20T13:24:07.000Z,2018-07-20T14:21:06.000Z,2018-07-20T14:21:06.000Z,9,5,1,0,0,,
+236939844,You Interview Scratch Cat,"This was pretty similar to ""Scratch Cat Interviews you""","Want to know more about Scratch Cat?  Ask any question!
+Answer ""Done"" when you are done playing the game
+Press the green flag to start",18198558,https://cdn2.scratch.mit.edu/get_image/project/236939844_480x360.png,2018-07-20T13:27:28.000Z,2018-07-21T04:37:07.000Z,2018-07-20T13:48:06.000Z,6,2,0,0,0,,
+236943691,GettingUnstuck Day 16,"This time I tried with math: a simple program to calculate the numerical average.
+
+
+
+Book Imparare a programmare di Boscaini
+",Click the green flag,13275782,https://cdn2.scratch.mit.edu/get_image/project/236943691_480x360.png,2018-07-20T14:19:37.000Z,2018-07-20T15:03:50.000Z,2018-07-20T14:46:52.000Z,14,4,0,0,0,,
+236942455,#016 Getting Unstuck Question Randomizer,"Clip art:  https://publicdomainvectors.org/en/free-clipart/Aladins-lamp/44100.html
+
+Google - using them as my preferred search engine.","Well...not quite sure what I was doing so very basic.  Hope it fits the requirements.
+
+Ask a question and see the response.",20126730,https://cdn2.scratch.mit.edu/get_image/project/236942455_480x360.png,2018-07-20T14:02:48.000Z,2018-07-21T00:35:07.000Z,2018-07-20T14:14:33.000Z,14,3,0,0,0,,
+236947421,G.U. Day 16 - 2,,"G.U. Day 16 
+Secondo progetto.",13746945,https://cdn2.scratch.mit.edu/get_image/project/236947421_480x360.png,2018-07-20T15:09:46.000Z,2018-07-20T15:59:58.000Z,2018-07-20T15:49:44.000Z,9,1,0,0,0,,
+236949133,Getting Unstuck #16: Internet Safety Quiz,"In fact, the user answers the program's questions and the program evaluates their responses and calculates the user's score.
+
+Originally, I created this Scratch project as part of a lesson plan for the WWW2 handbook (http://webwewant.eu/handbookdownload/handbook/). The Quiz aims to raise pupils' awareness on Internet safety issues.
+
+Special thanks to Scratch wiki editors for providing useful quiz implementation tips here http://wiki.scratch.mit.edu/wiki/Creating_a_Quiz
+
+Instrumental music by Longzijun
+
+Day #16 Challenge of ""Getting Unstuck"" project of the Creative Computing Lab at the Harvard Graduate School of Education: Create a program that answers the user's questions. 
+","Press the Green Flag and then, the Space key to take the quiz.
+",1202362,https://cdn2.scratch.mit.edu/get_image/project/236949133_480x360.png,2018-07-20T15:33:44.000Z,2018-07-20T16:20:08.000Z,2018-07-20T15:56:51.000Z,7,3,3,0,0,,
+236934509,Day 16:  Ask the Squirrel,"Like many, I struggled with how I can make the conversation seem authentic.  So I decided that I could at least code it so in the beginning when the squirrel ask the user a question that it recognizes if the input is correct or not and responds accordingly.  After that, I had to go for more generic answers.  Actually, they are the 10 ten ways to avoid answering a question.    
+I just thought of an additional idea that I would like to include in this project.  That is to use the the list block: CONTAIN THING?  I hope to get back to this project later today to add that option as well.  With this, I think I can answer the where, what, who, why and when questions that may give the user the feeling that the squirrel really is understanding their questions. 
+ 
+Nature sounds from https://www.youtube.com/watch?v=wKnS8VPxpHI","Day 16 Challenge: Create a program that answers the user's questions.
+
+Press the green flag to talk to the squirrel.  He will answer any question you may have!  Sometimes he gets a little grumpy if you don't answer his questions correctly!  Many find him a bit evasive! ",1294980,https://cdn2.scratch.mit.edu/get_image/project/236934509_480x360.png,2018-07-20T11:58:13.000Z,2018-07-20T21:14:10.000Z,2018-07-20T16:20:12.000Z,22,11,0,0,0,,
+236951727,Snake chatbot (Getting Unstuck Day 16),"I made this project for Getting Unstuck Day 16. It's my fourth Unstuck project (one is my other account: @PinkyPepper). Wow, I am amazed by how many people already made 16 projects. Good job!
+
+I've wanted to make a chatbox for a long time, but never took the time to actually do it. Now I did :) I've used this tutorial made by @crazynimbus: https://scratch.mit.edu/projects/23615814/ The hardest part is making interesting questions. I'll try to add some more later on.
+
+The drawings of the snake are inspired by a childrens book of Catharina Valckx, called ""Poten omhoog!"" (""Hands up""). I've made them three years ago for this project: https://scratch.mit.edu/projects/61060236/
+
+Thanks to @DeKrache for the stars used in this project.
+","PLEASE CLICK ON THE SNAKE TO CHAT.
+
+You may just say ""Hello"" and/or ask one of the following questions:
+- What is your name?
+- What time is it?
+- Do you like Scratch?
+- What is your favorite food?
+- What's your favorite colour?
+- How old are you?
+
+Or you could just ask a random question...",11833500,https://cdn2.scratch.mit.edu/get_image/project/236951727_480x360.png,2018-07-20T16:09:06.000Z,2018-07-21T08:32:19.000Z,2018-07-20T16:26:41.000Z,33,12,2,0,0,,
+236951280,Getting Unstuck: Day 16. Play color.,I tried to create a play to learn and repeat the name of colors in English. I think this type of project is useful for every subject and even the pupils can create other in the same way.,"Click on the green flag and play answering at the questions about colors in English language.
+If your answer is correct you earn 1 point, if your answer is wrong you lost 1 point.",18190669,https://cdn2.scratch.mit.edu/get_image/project/236951280_480x360.png,2018-07-20T16:03:12.000Z,2018-08-03T01:38:21.000Z,2018-07-20T16:29:11.000Z,21,7,1,0,0,,
+236949784,Getting Unstuck: Day 16,"Getting Unstuck: Day 16
+I had to create a program that answers the user's questions. 
+This is not the project I wanted to do. I wanted to use a list for questions and possibly a list for answers, but I have not been able to. I still do not know how to use the lists ...",Click on green flag to start.,17615581,https://cdn2.scratch.mit.edu/get_image/project/236949784_480x360.png,2018-07-20T15:43:13.000Z,2018-07-22T14:32:48.000Z,2018-07-20T16:57:51.000Z,11,4,0,0,0,,
+236955677,Unstuck 16 Ask me a math question,"Wow, this became very difficult for me very quickly.
+My code tried to determine if a valid math problem has been entered, and then solves it. It has to find a number followed by an operator (+ - * /) followed by a number, then calculate the answer.
+I didn't have enough time and would still like to put in more error checking:
+-more than one operator entered
+-divide by zero
+-invalid number format either before or after the operator
+I also wondered about a way to display the calculated answer in a larger more celebratory format, like as a sprite that could be animated. I will look into that. As I'm learning more about scratch, I wish it had some features of other languages, like a function that returns a value.
+
+-non-numeric characters entered",Create a program that answers the user's questions.,19123745,https://cdn2.scratch.mit.edu/get_image/project/236955677_480x360.png,2018-07-20T17:02:47.000Z,2018-07-21T17:11:29.000Z,2018-07-20T17:10:17.000Z,11,7,4,0,0,,
+236937215,Unstuck Day 16 - Forgetful Granny,This is quite silly. I wasn't sure how the sprite was going to answer random questions. I saw that @alirb had used random answers that didn't provide a direct answer. That's when I thought of using a forgetful granny. I used a Google image that was labeled for reuse from Public Domain pictures.,Press the flag. Granny will introduce herself then prompt you to ask questions. ,10715270,https://cdn2.scratch.mit.edu/get_image/project/236937215_480x360.png,2018-07-20T12:49:44.000Z,2018-07-25T12:49:46.000Z,2018-07-20T17:17:29.000Z,13,3,0,0,0,,
+236956999,geo quiz,"Today I'm in a super-rush... no eye candies!
+
+Just two thoughts:
+1) If you need a non-dynamic two-dimensional array, just use two lists with the same index.
+2) Did you know that you can import list from a text file? Every line is a record. Just right-click on the list and select ""import"" (you can export, too).
+
+The map is from Wikipedia by Strebe
+https://en.wikipedia.org/wiki/World_map#/media/File:Winkel_triple_projection_SW.jpg","Enter a capital or a country, the cat will find the corresponding country or capital!
+
+The names have to be correct and no acronyms are allowed... so the cat won't find ""USA"", you should search for ""United States of America"".
+The accented words are made with an apostrophe!",12148328,https://cdn2.scratch.mit.edu/get_image/project/236956999_480x360.png,2018-07-20T17:18:43.000Z,2018-07-24T15:26:18.000Z,2018-07-20T17:30:33.000Z,18,7,0,0,0,,
+236955983,day 16,i make it simple as it :) !,"press green flag, and ask bingo questions that answers yes or no ",34188789,https://cdn2.scratch.mit.edu/get_image/project/236955983_480x360.png,2018-07-20T17:06:35.000Z,2018-07-20T17:45:03.000Z,2018-07-20T17:43:05.000Z,10,2,0,0,0,,
+236939735,Getting Unstuck Day 16,"Getting Unstuck Day 16
+Sono riuscita per ora a creare una lista di risposte:), ma le domande?
+Nooo! Sono confusa, forse si deve fare una lista per ogni risposta  o programmare ciascuna domanda ) :
+Purtroppo non capisco bene l'inglese e guardando i vostri progetti non è facile comprendere!
+","Clicca sulla bandierina, rispondi alla domanda e poi clicca la barra spaziatrice.",15572972,https://cdn2.scratch.mit.edu/get_image/project/236939735_480x360.png,2018-07-20T13:26:10.000Z,2018-07-21T10:40:12.000Z,2018-07-20T17:04:46.000Z,7,1,0,0,0,,
+236953685,Day 16,"typing effect -  http://soundbible.com/853-Typewriter-And-Bell.html
+
+typewriter - https://commons.wikimedia.org/wiki/File:Berlin-_Royal_mechanic_manual_portable_typewriter_-_3128.jpg
+
+cheese - https://commons.wikimedia.org/wiki/Category:Blue_cheese#/media/File:Blauschimmelk%C3%A4se.jpg
+
+script for typing effect from - https://scratch.mit.edu/projects/115324471 by @footsocktoe
+
+I have been wanting to try the typing effect since @jsh used it a few days ago. I thought today was the day and then I looked at the script! I promise myself I will set aside time to pull it apart and figure it out, but today was, in fact, NOT the day! I found a much simpler substitute from @footsocktoe and used that instead. 
+I have lots of practice with the Magic 8 ball (coins, dice, spinners, paper fortune tellers, etc!) as I do a unit with 3rd grade every year on creating Scratch randomizers. I was looking for a slightly different take, just for a change.","Click the green flag to start
+click on your topic when prompted and ask away!
+",18341966,https://cdn2.scratch.mit.edu/get_image/project/236953685_480x360.png,2018-07-20T16:36:14.000Z,2018-07-20T18:13:32.000Z,2018-07-20T17:55:08.000Z,14,9,4,0,0,,
+236958917,Reverse Knock Knock,"My son loves reverse knock knock jokes, where he tries to trick people into being on the wrong end of the joke. Couldn't help myself :)",Click on the door to knock,1092342,https://cdn2.scratch.mit.edu/get_image/project/236958917_480x360.png,2018-07-20T17:45:24.000Z,2018-07-20T18:13:13.000Z,2018-07-20T18:12:26.000Z,11,1,0,0,0,,
+236940139,Getting Unstuck: Day 16 bis,"Getting Unstuck: Day 16
+I had to create a program that answers the user's questions.
+ 
+at the beginning I thought about using the lists and I've tried. But I failed so I did another simple project. When I add that project to the studio, 
+I looked the projects of some participants and I understood how could I correct my first project!!! I'm extremely happy!!! Thanks especially to  fabiomanuppella!!!",Click on green flag to start. Today butterfly wants to chat with you!,17615581,https://cdn2.scratch.mit.edu/get_image/project/236940139_480x360.png,2018-07-20T13:31:32.000Z,2018-07-22T14:33:47.000Z,2018-07-20T18:05:50.000Z,6,1,0,0,0,,
+236954270,Getting Unstuck Day 16: Magic 8-Ball,"My first thought when I saw today's project was a magic 8-ball. Since I'm short on time and behind on Unstuck projects, I remixed an earlier Magic 8-Ball project that I had created https://scratch.mit.edu/projects/218440214/ which was a remix of a project I created on a different Scratch account.
+Blank 8 ball image from http://appinventor.mit.edu/explore/ai2/magic-8-ball.html","Click the green flag and ask the Magic 8-Ball your questions. When you are done, just press enter in the ask block.",5271542,https://cdn2.scratch.mit.edu/get_image/project/236954270_480x360.png,2018-07-20T16:43:35.000Z,2018-07-20T20:33:43.000Z,2018-07-20T18:32:06.000Z,11,5,0,0,0,180706173,180706173
+236948951,Zorkish (Unstuck 16),"This is a very early exploration of creating ""interactive fiction"" within Scratch. I'm still travelling, so this is just an initiaal forray. However, I'm planning on tinkering with lists and variables to create a parsable vacubulary to better mimic this genre. 
+
+Keep up the excellent prompts ScratchEd Team! ","Press the flag and enter your responses in this very brief session of Zork, a classic work of interactive fiction.",27690149,https://cdn2.scratch.mit.edu/get_image/project/236948951_480x360.png,2018-07-20T15:30:59.000Z,2018-07-20T18:35:45.000Z,2018-07-20T18:28:36.000Z,13,4,0,0,0,,
+236952899,CSQuiz,"The quiz is in the list ""data"":
+1 line - topic of the quiz
+2 line - question 1
+3 line - 1 answer
+4 line - 2 answer
+5 line - 3 answer
+6 line - 4 answer
+7 line - 5 answer
+8 line - question 1
+9 line - 1 answer
+10 line - 2 answer
+11 line - 3 answer
+12 line - 4 answer
+13 line - 5 answer
+The last line contains only one character ""#""
+Each line of answers begins with a ""-"" symbol if the answer is incorrect, and the ""+"" symbol if the answer is correct","This is the shell for creating quizzes in Scratch.
+Press GreenFlag to start.
+Choose the right answers by clicking the button next to it - button will change its color to blue.
+Then click ""check answers"" - the correct answers are green, wrong - red.",139209,https://cdn2.scratch.mit.edu/get_image/project/236952899_480x360.png,2018-07-20T16:25:12.000Z,2018-07-20T18:35:17.000Z,2018-07-20T18:35:17.000Z,16,5,1,0,0,,
+236961087,Oracolo,"Lavoro per Getting Unstuck Day 16
+
+Devo dirlo:stavolta la sfida mi ha messo in crisi! Non riuscivo a farmi venire alcuna idea ... 
+",Clicca sulla bandierina verde e interroga l'oracolo,17698999,https://cdn2.scratch.mit.edu/get_image/project/236961087_480x360.png,2018-07-20T18:13:24.000Z,2018-07-21T10:04:57.000Z,2018-07-20T19:03:57.000Z,10,1,0,0,0,,
+236939077,Reader Response_GU_Day16,"I noticed that some projects produce nonsensical responses b/c the questions are not tightly enough constrained. I had many ideas today. Here's the rationale for the one I picked: The way “novels are taught” in many classrooms makes me crazy because the joy of reading is sucked away by countless low-level comprehension questions. EQ: How can teachers provide readers with more inspiring questioning?
+I am working on a bug. Yesterday I played with @jamesdotca 's Connect the Dots. For some reason, my drawing code is not working yet, even though it looks the same as his. My sprite is having laggy, or no, response. Now I'm trying a work-around. Next, trying to get unstuck about letting the user change the pen color mid-drawing. I have a solution! Play and find out! (Bonus Q: If you cross over a line that you have already drawn, what happens?)
+Credits:
+http://pngimg.com/download/2115
+https://www.flickr.com/photos/dominicspics/8554677475
+http://freemusicarchive.org/music/Borrtex/Emotion/2Gratitude","Click the green flag to begin.
+Follow the prompts.
+When you have finished drawing, click the stop sign icon. 
+Then show someone what you have created!
+Follow-up activity: Pretend that you are the character. Write a thank-you note that explains why you are grateful for the gift.",24741621,https://cdn2.scratch.mit.edu/get_image/project/236939077_480x360.png,2018-07-20T13:17:05.000Z,2018-07-20T19:17:47.000Z,2018-07-20T19:17:47.000Z,11,3,0,0,0,,
+236965755,Getting Unstuck Day 16,,Click on the green flag follow the instructions.,14159575,https://cdn2.scratch.mit.edu/get_image/project/236965755_480x360.png,2018-07-20T19:19:45.000Z,2018-07-20T19:20:55.000Z,2018-07-20T19:20:16.000Z,8,2,0,0,0,,
+236963216,Guess My Number,"Unstuck Challenge 16: Create a program that answers the user's questions.
+
+You can adjust the range of the numbers easily in the code. Negative integers can be included as well. However, when you expand the range, you might consider allowing more guesses. ",Click on the green flag to start. ,25332755,https://cdn2.scratch.mit.edu/get_image/project/236963216_480x360.png,2018-07-20T18:41:58.000Z,2018-07-20T21:34:19.000Z,2018-07-20T19:32:30.000Z,18,8,1,0,0,,
+236960307,"Unstuck Day 16, Yes or No?","I would like to add the option for the user to ask another question for starters. 
+",Green flag. Ask away?,14632339,https://cdn2.scratch.mit.edu/get_image/project/236960307_480x360.png,2018-07-20T18:03:57.000Z,2018-07-21T13:38:49.000Z,2018-07-20T19:36:04.000Z,10,4,0,0,0,,
+236964540,Challenge 16 - Scratch Dictionary,"Had a bit of trouble thinking of what to do today. Then I thought about a dictionary. Have always wanted to create one. Few things I may do with this. 
+
+May create the backdrops as a webpage search engine etc but we'll see how time goes. 
+
+pathikrit on github created the dictionary file of words, parts of speech and defintions. 
+
+I parsed them to create a csv file to import into the Scratch lists.","Created a 6000 word dictionary on Scratch. Type a word to see if it is there. If you can't find a word, click on the word list, it will show you the list to scroll through.
+
+The right margin on the text engine isn't perfect but it will do for this project. That will be a whole new rewrite down the road. 
+
+This showed me I have to work on my vocabulary. 6000 words and he don't know none of me's.
+
+Sorry, this is the only dictionary I could find that I could work with in Python and add to Scratch. Scratch as a 10048 list item limit. BIG WORDS!!!!!!!  
+
+",3158946,https://cdn2.scratch.mit.edu/get_image/project/236964540_480x360.png,2018-07-20T19:01:20.000Z,2018-07-20T21:48:55.000Z,2018-07-20T19:50:13.000Z,20,11,4,0,0,,
+236965547,unstuck16,"Due to just a little bit of time, I did not do much difficult things.
+In a list I gathered all answers 
+Then I put all the answers in the wish
+With broadcast I added some flying hearts.",The cat sends you the best wishes,1072279,https://cdn2.scratch.mit.edu/get_image/project/236965547_480x360.png,2018-07-20T19:16:52.000Z,2018-07-20T20:11:09.000Z,2018-07-20T20:08:28.000Z,6,3,0,0,0,,
+236968184,Question and Answer- Day 20,I added more to my Day 16 Project- Create a program that answers the user's questions.,"Press the green flag and answer the duck's questions with Yes or No.
+
+",25165723,https://cdn2.scratch.mit.edu/get_image/project/236968184_480x360.png,2018-07-20T19:59:21.000Z,2018-07-26T13:55:23.000Z,2018-07-20T20:20:30.000Z,6,2,0,0,0,,
+236964206,Unstuck Day 16- QandA with Dawn,,Just press the flag.,31144646,https://cdn2.scratch.mit.edu/get_image/project/236964206_480x360.png,2018-07-20T18:56:22.000Z,2018-07-20T21:52:12.000Z,2018-07-20T20:26:11.000Z,18,5,0,0,0,,
+236970402,Talking To Cheesy Puffs - Getting Unstuck Day 16,"This is the first time I used one of my old projects with a few small tweaks. Similar to what I saw about ""old code"" a couple of days ago, this is a project I made a while ago, and boy'o'boy, I could seriously see some changes I would make to it now. I don't really have to make much today because I was running at Moonhack event at my school for most of the day, and I'm busy this evening too. I've really been trying to get a project done every day as well.",Kitchen Chats with Cheesy Puffs,22706156,https://cdn2.scratch.mit.edu/get_image/project/236970402_480x360.png,2018-07-20T20:38:01.000Z,2018-07-25T23:28:13.000Z,2018-07-20T20:42:54.000Z,9,2,0,0,0,,
+236955018,Getting Unstuck Day 16 - Ask the sprite,Having trouble with this one. Still working on it.,Press the green flag and follow the prompts,18558561,https://cdn2.scratch.mit.edu/get_image/project/236955018_480x360.png,2018-07-20T16:53:36.000Z,2018-07-20T20:46:41.000Z,2018-07-20T20:46:00.000Z,8,2,0,0,0,,
+236968305,Day 16-Sprite Asks questions-Miss Cleo Knows All,"Day 16-Create a program that answers the user's questions. 
+
+Created a simple Miss Cleo program. She doesn't really answer any questions. Had to watch a few youtube videos to get ideas for the types of answers that she used to give.","This program detects username. Sign out to remain private.
+
+Green flag.
+Ask questions of Miss Cleo.
+1st question free
+$5 for each question after.
+After 6 questions you will be asked to pay.",16509596,https://cdn2.scratch.mit.edu/get_image/project/236968305_480x360.png,2018-07-20T20:00:54.000Z,2018-07-20T21:14:26.000Z,2018-07-20T21:06:16.000Z,13,7,0,0,0,,
+236954138,Getting Unstuck: Day 16,"Ho realizzato un programma che consente all'utente di calcolare lo sconto e il prezzo scontato.
+Ho utilizzato la guida ""Programmo anch'io"", Associazione Dschola 
+
+Credits: 
+images - https://www.flaticon.com 
+tutorial - https://upload.wikimedia.org/wikibooks/it/0/0a/Diderot_2014_Guida_docenti.pdf","Clicca sulla bandierina verde.
+Puoi calcolare lo sconto ed il prezzo scontato.
+
+Click on the green flag.
+You can calculate the discount and the discounted price.",19789360,https://cdn2.scratch.mit.edu/get_image/project/236954138_480x360.png,2018-07-20T16:42:07.000Z,2018-07-20T21:26:55.000Z,2018-07-20T21:25:22.000Z,19,7,3,0,0,,
+236967905,Day 16 - Dig a PYG Translator!,"This was tricky but fun.  I made it so complicated as I tried to make variables as you do in python, but with a bit of playing around I soon found out that everything I needed was in scratch blocks. 
+I have it set for 10 turns but you could add or take away as you wished. 
+I changed the responses so that even if the input for the questions was not as expected, it would push you through the game!  (my high5 to myself moment!  I also imported clipart and altered it to make my sprite animate.  Again. Silent high 5 to me!  
+I'm loving this!","Today I had a bit of fun with responses.  Ive been trying to learn python (it's hard!) but I had been programming Pyg Latin.  I throught it would be fun to do a Scratch version.
+
+Click the green flag and follow the instructions.",24864870,https://cdn2.scratch.mit.edu/get_image/project/236967905_480x360.png,2018-07-20T19:55:23.000Z,2018-07-20T21:49:55.000Z,2018-07-20T21:31:05.000Z,8,1,0,0,0,,
+236975021,Lazy Cat Answers - Getting Unstuck Day 16,Lazy Cat GIF - https://giphy.com/gifs/weekend-days-129NVCr1UfsGTS,Press the green flag to begin. Then ask the lazy cat your questions.,22156688,https://cdn2.scratch.mit.edu/get_image/project/236975021_480x360.png,2018-07-20T22:03:21.000Z,2018-07-20T22:22:01.000Z,2018-07-20T22:20:33.000Z,16,5,0,0,0,,
+236973960,Unstuck Day 16: Help Desk,"I got the idea of using my bitmoji when I saw @iloveCS312's project.
+
+This was a pretty quick project for me. The part that I spent the most time on, was figuring out the spacing for joining 'So you want to know' and the question.",Click on the green flag to open up the help desk.,34190490,https://cdn2.scratch.mit.edu/get_image/project/236973960_480x360.png,2018-07-20T21:41:35.000Z,2018-07-20T22:38:01.000Z,2018-07-20T22:32:26.000Z,16,4,0,0,0,,
+236975722,Unstuck day 16,"I was able to figure out how to do the first part, but I would love to broadcast a second message if one of the acceptable answers is not given.  I can't make this work.  Could someone take a look at the code I left unattached in the program and tell me what I am doing wrong? ",press the green flag to answer the cat's question.,24826697,https://cdn2.scratch.mit.edu/get_image/project/236975722_480x360.png,2018-07-20T22:16:51.000Z,2018-07-21T23:12:40.000Z,2018-07-20T22:42:22.000Z,6,2,0,0,0,,
+236948754,Day 16 - Getting Unstuck - ,"When Douglas Adams wrote The Hitchhiker's Guide to the Galaxy, he added a joke which has become famous over the years: ""The answer to the ultimate question of life, the universe and everything is 42.""
+","So Long, 
+and Thanks for All the Fish !!!",26079479,https://cdn2.scratch.mit.edu/get_image/project/236948754_480x360.png,2018-07-20T15:28:20.000Z,2018-07-24T22:18:01.000Z,2018-07-20T20:45:36.000Z,13,3,0,0,0,56351528,56351528
+236979591,FortuneTeller,"At first I thought this challenge was to create an AI that would look throught the string input to find words to reply to!! I had to look at other projects to realize I could make a version of the magic 8 ball!!
+
+I learned that you can use the random block to randomly select costumes!!
+","Click the green flag to begin.
+Visit the fortune teller and ask her any question!",11305008,https://cdn2.scratch.mit.edu/get_image/project/236979591_480x360.png,2018-07-20T23:46:03.000Z,2018-07-20T23:51:03.000Z,2018-07-20T23:49:12.000Z,5,1,0,0,0,,
+236980912,Alien Conversation,"Based on penguin patter by Sean McManus
+Tries to predict which way the conversation will go.
+To appear intelligent!","Click on flag
+Have a conversation",17651534,https://cdn2.scratch.mit.edu/get_image/project/236980912_480x360.png,2018-07-21T00:13:36.000Z,2018-07-21T00:29:33.000Z,2018-07-21T00:14:16.000Z,9,2,1,0,0,,
+236978696,Getting Unstuck Challenge Day 16 ,"I originally created a project that didn't quite fit the task - my bear was asking the questions rather than the user. 
+So I remixed and altered a little to meet the criteria.
+As I started to add answers to my list I realised I was becoming more sassy with my responses - hence the bear character evolved into sassy bear!
+","Click on the green flag.
+Ask sassy bear a question!",13484475,https://cdn2.scratch.mit.edu/get_image/project/236978696_480x360.png,2018-07-20T23:24:47.000Z,2018-07-21T00:21:20.000Z,2018-07-21T00:21:20.000Z,11,4,0,0,0,,
+236980838,Challenge16Answers,"I limited the questions that could be asked in this challenge, which may not be what was intended. But I didn't want to do something Magic-8-ballish, so specifying the questions was all I could think of. ",Click the green arrow to begin.,2190314,https://cdn2.scratch.mit.edu/get_image/project/236980838_480x360.png,2018-07-21T00:12:16.000Z,2018-07-21T00:26:47.000Z,2018-07-21T00:19:37.000Z,9,3,0,0,0,,
+236972513,Regrouping: Getting Unstuck Day 16 Questions,"Getting Unstuck
+
+At the moment, I am only able to count out the tokens required to show the addition, but I can't get them to regroup by 10s properly. For some reason, my ""repeat"" loop cuts out before looping as many times as I am asking for. I'll have to come back to this one...
+
+If anyone wants to have a look in the ""regrouping"" event for the ball sprite, I would be much obliged!
+
+OK, I've got the regrouping by 10 happening, but I've since learned that I cannot go above 301 clones of a sprite, so I may have to think on this and come back, at least if I want to multiply large double-digit numbers.
+
+I've also modified my scripts to include an idea coming from other Scratchers... instead of broadcasting and receiving from multiple clones (lots of broadcasting, so causing lots of unintended craziness) I should have one uncloned sprite do the broadcasting (and use ""broadcast and wait"" as well) and the clones do the receiving. That way, it's easier to control the timing of all clones' movements. It also helps to conceptualize breaking down the project into smaller steps, much like functions might, with each broadcast block dedicated to doing different things.","Ask Scratch Cat to do any math operation (add, subtract, divide, and multiply) with numbers up to 99.
+He'll give you the answer AND show how it's done.
+(For the moment, Scratch Cat only knows whole numbers and can only add numbers up to 99, but other operations will eventually be added!)",3485356,https://cdn2.scratch.mit.edu/get_image/project/236972513_480x360.png,2018-07-20T21:14:53.000Z,2018-07-22T18:42:30.000Z,2018-07-21T00:49:34.000Z,12,4,0,0,0,,
+236983763,8 Ball Magic,Just a bit of fun that hopefully doesn't have copyright issues!,Click the green flag to start. Press enter at the end of your question.,30508500,https://cdn2.scratch.mit.edu/get_image/project/236983763_480x360.png,2018-07-21T01:06:27.000Z,2018-07-21T01:37:55.000Z,2018-07-21T01:37:55.000Z,14,1,0,0,0,,
+236944268,The Dream Salad Restaurant: Getting Unstuck Day 16,"Getting Unstuck Day 16: Create a program that answers the user's questions.
+
+This project was a great opportunity of using and learning more about 
+variables and IF blocks. I've been stuck many times and had to look for a way out to ünstuck"". It took me many hours, but I am glad that I could make it! :)
+
+
+
+
+Music https://terraria.gamepedia.com/Music","Click on the green flag to start.
+Type on the prompt what you want from the menu of ingredients.",2176961,https://cdn2.scratch.mit.edu/get_image/project/236944268_480x360.png,2018-07-20T14:27:37.000Z,2018-07-21T23:38:01.000Z,2018-07-21T01:38:43.000Z,19,8,2,0,0,,
+236986497,Faculty Meeting Unstuck #16,This came from something I saw on Facebook. On FB it was a graphic organizer. ,Click the green flag to begin. Reply to the questions with yes or no.,124311,https://cdn2.scratch.mit.edu/get_image/project/236986497_480x360.png,2018-07-21T01:54:37.000Z,2018-07-21T19:13:07.000Z,2018-07-21T02:13:11.000Z,11,4,1,0,0,,
+236935595,Day 16: Coding Help,"Practised using broadcast blocks and lists for questions and answers.
+Here is a link to the Getting Unstuck strategies:
+https://gettingunstuck.gse.harvard.edu/strategies.html
+""Myst on the Moor"" mp3 file from https://incompetech.com/music/royalty-free/music.html
+","Create a program that answers the user's questions.
+Press the green flag and get help debugging your Scratch code!",18337230,https://cdn2.scratch.mit.edu/get_image/project/236935595_480x360.png,2018-07-20T12:19:50.000Z,2018-07-23T14:27:55.000Z,2018-07-21T03:37:46.000Z,10,1,0,0,0,,
+236974134,Female video games characters (8-16 bits),"Today I've got stuck many times because I didn't know how to do what I had in my mind. I took a look on some projects, but I didn't find what I wanted to do. So, I decided to do the same thing but in a simple way that works for me.
+I wanted to ask some predetermine questions by using the list block, and then the character would answer each one differently. 
+I finally used different variables instead of a list to answer the user's questions.
+I'd like to add more characters and questions.
+
+Any suggestions or comments are welcomed.","Press the green flag.
+Welcome to the ""Female video games hall of fame"".
+Read the messages from these gorgeous and strong women.
+Then click on them to know a bit more about them.
+
+                         ---Getting Unstuck Day 16---
+""Create a program that answers the user's questions.""
+
+",4413079,https://cdn2.scratch.mit.edu/get_image/project/236974134_480x360.png,2018-07-20T21:45:20.000Z,2018-07-21T04:21:59.000Z,2018-07-21T04:21:59.000Z,10,4,0,0,0,,
+236991607,Sassy mobile,"This project responds to the #GettingUnstuck"" prompt for Day 16:  Create a program that answers the user's questions.
+
+One thing that I had to think through was how to get the individual background elements to Say.  Then I remembered the paint editor's Magic Wand tool, and voila!  I was able to create three sprites using the three cut-out images, and aligned them to the original images on the backdrop.
+
+Music, Children's Corner by Claude Debussy, from https://musopen.org/music/4550-childrens-corner/
+Crib mobile image:  https://parentsneed.com/top-5-best-crib-mobiles/","Click the green flag, and prepare your ""yes"" or ""no"" questions!",527557,https://cdn2.scratch.mit.edu/get_image/project/236991607_480x360.png,2018-07-21T03:51:49.000Z,2018-07-21T05:51:21.000Z,2018-07-21T05:51:21.000Z,10,3,0,0,0,,
+137455327,(M) Ask3 debugme,,"Debugging challenge
+
+Tera aks for two questions, and then she should repeat your answers in one frase, but something goes wrong
+Try to fix the problem",2143382,https://cdn2.scratch.mit.edu/get_image/project/137455327_480x360.png,2016-12-20T17:48:12.000Z,2018-07-21T07:36:25.000Z,2016-12-20T17:51:49.000Z,228,2,1,0,0,,
+237001628,Day 16 Answers the users questions,"I initially wanted the user to be able to ask any question and the sprite to be able to give a suitable answer, for example, if the question had the words 'age' or 'old' in it the sprite would answer with a number. But I couldn't work out how to do this so I went with this instead.
+
+Thanks to  MadameFrancaise for the inspiration.","Click on the green flag and Piki will give you advice. Start your questions with ""Should I...""",32833725,https://cdn2.scratch.mit.edu/get_image/project/237001628_480x360.png,2018-07-21T08:12:30.000Z,2018-07-21T09:30:49.000Z,2018-07-21T09:30:48.000Z,5,1,0,0,0,,
+237007982,Cappello magico,,Clicca la bandiera verde e segui le istruzioni,34169307,https://cdn2.scratch.mit.edu/get_image/project/237007982_480x360.png,2018-07-21T10:52:18.000Z,2018-07-27T13:26:20.000Z,2018-07-21T10:52:26.000Z,6,3,1,0,0,236954270,180706173
+236930779,Unstuck Day 16/17- Text Input,"This was for the Getting Unstuck challenge Day 16 but turned into a big project that I didn't have time to finish in one day. Luckily the next day challenge pretty much fits the bill as well, so it covers Day 17, too!
+I have made and taught a hangman game in Python so I thought this would be doable but ran into many many problems. One was not planning carefully enough in the beginning. I was taking out random letters instead of all occurrences of specific letters.
+Then Scratch does not have indexed loops (for loops) so I had to make various counters to do things based on the the current loop number. 
+I have not used Snap much but this would be a good project for Snap as it would have been useful to have custom blocks that can report something. In Scratch I had to create many variables to keep track of little tasks that would have been easier with reporting blocks.
+","Play Guess the Word! This is for two players, one to type the secret word and the other to guess. Have fun!
+If you want to see something cool click ""under the hood"" while you play and you can see the program processing the tasks as you give it input.
+Note: The reason your word can't be a phrase is the program knows when you have guessed the word by checking if it has no more spaces in it, so the spaces would keep you from every being finished.",214174,https://cdn2.scratch.mit.edu/get_image/project/236930779_480x360.png,2018-07-20T10:44:08.000Z,2018-07-21T14:01:55.000Z,2018-07-21T12:23:21.000Z,13,5,3,0,0,,
+237011317,Ask Waldo the Wizard,"Wizard image: https://pixabay.com/en/fortune-telling-wizard-comic-funny-161852/
+
+","Click on the Green Flag to begin.
+Click the Space Bar to ask more questions.",1196430,https://cdn2.scratch.mit.edu/get_image/project/237011317_480x360.png,2018-07-21T12:24:07.000Z,2018-07-21T14:46:28.000Z,2018-07-21T14:46:28.000Z,12,4,2,0,0,,
+237033126,Getting Unstuck: Day 16. Play color. remix," REMIX DI  MaestraLIMda per: 
+ Getting Unstuck: Day 16. Play color.  (Progetto Originale) 
+L'APPREZZO MOLTO E LA SEGUO. 
+IO SONO ALLE PRIME ARMI E DA SOLA NON RIESCO AD UTILIZZARE ALCUNI BLOCCHI. AVEVO PENSATO DI LASCIARE. ERA TROPPO DIFFICILE E QUESTE VACANZE STAVANO DIVENTANDO UN INCUBO...PERO' HO DECISO CHE ARRIVERO' AL 21esimo GIORNO...REMIXANDO...SE I PROGETTI SARANNO MOLTO DIFFICILI. GRAZIE A TUTTI.
+","FA UN CLICK SULLA BANDIERINA VERDE...LA FARFALLA TI CONDURRA' NELLO SPLENDIDO MONDO DEI COLORI
+",34259094,https://cdn2.scratch.mit.edu/get_image/project/237033126_480x360.png,2018-07-21T20:40:42.000Z,2018-07-21T21:45:08.000Z,2018-07-21T21:35:03.000Z,7,1,1,0,0,236951280,236951280
+236929157,Hanoi Towers,"Getting Unstuck - day 16
+by Massimo Marletta
+
+The Hanoi Towers Game
+
+The main logic is in the Stack sprite, which handles a list of the sizes of the blocks which are stacked in it. The Block sprite have different costumes to represent different sizes.
+An extensive use of broadcast message is used to pass game control from the sprites. Nano is the game controller which send appropriate messages to the sprites. Tera gives instruction to the user.
+To satisfy challenge requirement, the user can make moves by answering to Nano's questions.","
+Hanoi towers is a classical game.
+
+(Click on Tera to see game instructions)
+
+You have three stacks and a series of blocks in the first stack.
+You can move the top block of one stack to another stack, with the aim to move all the blocks to the stack 3... but you cannot put a block over a smaller one!
+There is a famous solution to the game, but this project is not about computer giving the solution: it is up to you to move all the blocks to their destination!
+
+
+",4804940,https://cdn2.scratch.mit.edu/get_image/project/236929157_480x360.png,2018-07-20T10:14:27.000Z,2018-07-24T16:26:43.000Z,2018-07-21T22:07:38.000Z,16,2,0,0,0,,
+237041645,UnStuck Day 16 ,"Thanks to: <<https://scratch.mit.edu/projects/236975722/>> a project of <<https://scratch.mit.edu/users/sleifer/>> 
+I tried the same blocks as she did to get the program to recognize a different message when the answer was not correct but then if the next answer was correct the message did not change back to acknowledging a correct word.  Any ideas out there in the Scratch World? ",Help Cat send a mind message through the computer to your brain and pick a colour of a ball and watch it appear like MAGIC!,14232182,https://cdn2.scratch.mit.edu/get_image/project/237041645_480x360.png,2018-07-22T00:26:26.000Z,2018-07-22T02:37:56.000Z,2018-07-22T02:37:56.000Z,1,0,0,0,0,,
+237044529,Getting Unstuck 16,"Now that I actually interpreted the prompt correctly, this does what it's supposed to do. I loved making these fortune tellers (or cootie catchers, as we called them) when I was a kid.
+
+The ""unfolding"" animation doesn't look great, but overall I'm happy with it. If I have more time the main thing I'd like to add would be error checking. Right now it just trusts the user to enter the right numbers and colors to make the fortune teller work, but if someone typed in, say, violet instead of purple for the color at the end it won't work.
+
+Cootie Catcher images from https://boingboing.net/2015/08/18/brief-history-of-the-cootie-ca.html",Click the green flag.,18044195,https://cdn2.scratch.mit.edu/get_image/project/237044529_480x360.png,2018-07-22T01:35:48.000Z,2018-07-22T02:53:43.000Z,2018-07-22T02:49:25.000Z,12,4,0,0,0,,
+237067043,LE DOMANDE DI DUCK,"PROGETTO CREATO PER getting Unstuck, giorno 16.",CLICCA SULLA BANDIERINA VERDE E RISPONDI ALLE DOMANDE DEL PAPERO...,14651357,https://cdn2.scratch.mit.edu/get_image/project/237067043_480x360.png,2018-07-22T11:47:30.000Z,2018-07-22T12:28:58.000Z,2018-07-22T12:28:58.000Z,1,0,0,0,0,,
+236984577,Day 16,"This was definitely challenging my comfort level in Scratch,  You really had to plan out what you wanted/needed to do before just coding.  ",Press the green flag and follow the prompts,11885888,https://cdn2.scratch.mit.edu/get_image/project/236984577_480x360.png,2018-07-21T01:19:48.000Z,2018-07-22T15:11:42.000Z,2018-07-22T15:11:42.000Z,3,0,0,0,0,236955018,236955018
+237049168,Complete the Dylan Lyric!!!,"Dylan photo from Kiddharma's photostream on Flickr (used under creative commons license)
+
+Stanley photo by me
+
+For Unstuck Day 16. I didn't have time for the day's challenge so I remixed @karenb 's Jeopardy game and populated it with the only ""facts"" I know well. h/t to the Nobel winner : )","Press the green flag, follow the instructions!",33815227,https://cdn2.scratch.mit.edu/get_image/project/237049168_480x360.png,2018-07-22T03:27:10.000Z,2018-07-23T02:10:18.000Z,2018-07-22T17:21:57.000Z,6,0,0,0,0,236853476,236853476
+237079965,Getting Unstuck - Day 16,"Thank you to the Facebook Group and mstone326 for giving me the easy way to load lists from CSV files.  So much easier...that's the only reason I chose this project.
+
+I'm sure there is an easier way to choose which letter to highlight.  What I did was extremely repetitive. There's probably a way to use another list and an index.  I would appreciate any advice.
+
+If I were to add to this I would use a Ouji Board pointer to move to each letter before I highlight it and show it.  I'd probably have to move the center for each letter so that the pointer does not obscure the letter.","Getting Unstuck Day 16 - Create a program that answers the user's questions.
+
+I wanted to make a Magic 8 Ball...but then decided to combine it with a Ouji Board to use more of the string functions. ",14400846,https://cdn2.scratch.mit.edu/get_image/project/237079965_480x360.png,2018-07-22T17:07:03.000Z,2018-07-23T00:47:26.000Z,2018-07-23T00:40:17.000Z,4,2,1,0,0,,
+237128015,Relax,I think I did not really meet the requirements of this challenge. But that is all for now. I am still behind by one challenge. Perhaps I will come back next time and improve on this.,"Click green flag to start.
+
+Getting Unstuck #Day 16",158902,https://cdn2.scratch.mit.edu/get_image/project/237128015_480x360.png,2018-07-23T08:10:02.000Z,2018-07-23T09:22:24.000Z,2018-07-23T09:12:23.000Z,5,0,0,0,0,,
+237005696,Ask me anything! (yet another magic 8-ball),"Getting Unstuck: Day 16
+https://gettingunstuck.gse.harvard.edu/
+Create a program that answers the user's questions.
+
+I had good fun animating the alien's antenna, which can surely be used for a future generative art project (
+
+ToDo: I'd like to write the questions and answers using a pen text engine. This will have to wait due to more Unstuck homework.","Click the green flag, then type any question that can be answered with yes or no.
+
+Note that the chatbot only speaks English, but it will understand every human language you may speak, as long as you ask it yes/no questions ;)",34248043,https://cdn2.scratch.mit.edu/get_image/project/237005696_480x360.png,2018-07-21T09:52:28.000Z,2018-07-24T22:16:40.000Z,2018-07-23T12:46:34.000Z,9,1,0,0,0,,
+237149925,Getting Unstuck #16 Le scuse di Jaime,"Rivisitazione del  progetto originale  ""Le scuse di Pinocchio"" inserito nel libro ""Coding - Programmare è un gioco"" di Ferraresso - Colombini - Bonanome ed. De Agostini.
+","Clicca sulla bandierina verde
+e segui le istruzioni",17320587,https://cdn2.scratch.mit.edu/get_image/project/237149925_480x360.png,2018-07-23T14:15:18.000Z,2018-07-23T15:18:59.000Z,2018-07-23T15:18:53.000Z,2,0,0,0,0,,
+237162862,Day16 - Magic ball remix,,Click on the black ball to get an answer to your question,13846307,https://cdn2.scratch.mit.edu/get_image/project/237162862_480x360.png,2018-07-23T15:51:09.000Z,2018-07-23T16:01:08.000Z,2018-07-23T16:00:59.000Z,4,0,0,0,0,236933056,236933056
+237174648,Unstuck 16,"Modeled the work done by Ask Waldo the Wizard by CompTeacherK5 
+https://scratch.mit.edu/projects/237011317/ 
+
+Credit: https://www.vectorstock.com/royalty-free-vector/genie-flying-out-of-lamp-vector-18361111",Create a program that answers the user's questions.,840815,https://cdn2.scratch.mit.edu/get_image/project/237174648_480x360.png,2018-07-23T18:03:54.000Z,2018-07-27T16:41:37.000Z,2018-07-23T20:03:34.000Z,2,1,0,0,0,,
+237155266,Getting Unstuck: Day 16,"Credits: 
+images - https://www.flaticon.com ","Clicca la bandiera verde e segui le istruzioni.
+Click the green flag and follow the instructions",18667079,https://cdn2.scratch.mit.edu/get_image/project/237155266_480x360.png,2018-07-23T14:49:50.000Z,2018-07-23T20:54:14.000Z,2018-07-23T20:53:11.000Z,6,1,0,0,0,,
+237199182,Getting Unstuck Day 16,This was a lot of fun to create and I think if I wasn't trying to catch up so much I'd like to spend some more time exploring how this works better.,Challenge: Create a program that answers the user's questions. ,34245752,https://cdn2.scratch.mit.edu/get_image/project/237199182_480x360.png,2018-07-23T23:56:14.000Z,2018-07-24T00:20:16.000Z,2018-07-24T00:19:32.000Z,3,0,0,0,0,,
+237203383,Unstuck Day 16: Help Desk remix,I remixed this and added my own bitmojis because I loved this idea!,Click on the green flag to open up the help desk.,16010675,https://cdn2.scratch.mit.edu/get_image/project/237203383_480x360.png,2018-07-24T00:46:18.000Z,2018-07-24T00:55:42.000Z,2018-07-24T00:55:04.000Z,10,4,0,0,0,236973960,236973960
+237217765,Getting Unstuck Day 16,"Getting Unstuck Day 16 Reflection:
+This was fun to make, but I wish I could have figured out a better way to give a random answer than to just create different costumes. That seemed to be the simplest way, but it took me a long time to figure it out!    I don't know overall how much time I spent on it, maybe an hour, plus mulling it over before actually trying it out? 
+Sprite from http://www.clker.com/cliparts/2/d/8/d/1516264436970005817fortune-teller-with-crystal-ball-clipart.med.png",Press the green flag and ask the fortune teller a question.,30095573,https://cdn2.scratch.mit.edu/get_image/project/237217765_480x360.png,2018-07-24T03:57:20.000Z,2018-07-24T04:32:22.000Z,2018-07-24T04:32:22.000Z,6,0,0,0,0,,
+237244494,Getting Unstuck: Day 16,Andrés Gil Ruiz,"Learning a lot of things...
+
+Follow the instructions...",27636310,https://cdn2.scratch.mit.edu/get_image/project/237244494_480x360.png,2018-07-24T11:12:20.000Z,2018-07-24T11:29:44.000Z,2018-07-24T11:29:02.000Z,8,0,0,0,0,,
+237249609,Getting Unstuck: Day 16,Based on the list from here: https://en.wikipedia.org/wiki/Magic_8-Ball,,24912473,https://cdn2.scratch.mit.edu/get_image/project/237249609_480x360.png,2018-07-24T12:45:49.000Z,2018-07-24T13:33:58.000Z,2018-07-24T12:53:23.000Z,3,0,0,0,0,,
+237252186,Day 16 Getting Unstuck Magic 8 Ball,"Magic 8 Ball picture from amazon.com
+",Day 16 of Getting Unstuck,588430,https://cdn2.scratch.mit.edu/get_image/project/237252186_480x360.png,2018-07-24T13:18:08.000Z,2018-07-24T14:59:36.000Z,2018-07-24T14:58:44.000Z,7,0,0,0,0,,
+237268580,Scopri il numero remixCar,,"Click on the green flag to start. 
+Versione italiana.",13575540,https://cdn2.scratch.mit.edu/get_image/project/237268580_480x360.png,2018-07-24T16:07:44.000Z,2018-07-24T16:21:49.000Z,2018-07-24T16:20:17.000Z,7,0,0,0,0,236963216,236963216
+237245800,Magic Dee - Getting Unstuck Day 16,This project was the hardest because I didn't think of an idea for this project. ,Dee will request you to ask a question and will answer you!,19641362,https://cdn2.scratch.mit.edu/get_image/project/237245800_480x360.png,2018-07-24T11:38:32.000Z,2018-07-25T00:16:27.000Z,2018-07-25T00:13:23.000Z,6,0,0,0,0,,
+237313052,Unstuck - Day 16,"This was the first time my daughter had used lists.  I told her to check out some of the projects in the studio, then try it out on her own.  Mik looked at the projects, played them, then looked at the code.  She quickly picked up on how to make the list, and then I assisted her with having he doughnut reply with an answer from her list.  The part that took the longest for her was looking at others' projects for inspiration and tips.","Press the green flag, then ask some questions.",2456527,https://cdn2.scratch.mit.edu/get_image/project/237313052_480x360.png,2018-07-25T01:31:09.000Z,2018-07-25T02:19:18.000Z,2018-07-25T02:19:17.000Z,3,0,0,0,0,,
+237365574,Unstuck Day 16,Thanks to my little son (5 y) for the background and the purple dino ^_^,Answer the quiz and get u'r score,34216021,https://cdn2.scratch.mit.edu/get_image/project/237365574_480x360.png,2018-07-25T14:24:09.000Z,2018-07-25T14:27:54.000Z,2018-07-25T14:25:45.000Z,2,0,0,0,0,,
+237374464,Getting Unstuck: Day 16,,Even or odd,2980392,https://cdn2.scratch.mit.edu/get_image/project/237374464_480x360.png,2018-07-25T16:04:48.000Z,2018-07-25T16:32:30.000Z,2018-07-25T16:11:12.000Z,2,0,0,0,0,,
+237394689,Getting Unstuck [Day 16],This is Getting unstuck Day 16!,Ask a yes no question Click the cat to get started ,13594403,https://cdn2.scratch.mit.edu/get_image/project/237394689_480x360.png,2018-07-25T20:01:56.000Z,2018-07-25T20:13:22.000Z,2018-07-25T20:13:22.000Z,6,0,0,0,0,,
+237397055,Unstuck Day 16 project,"I got pretty stuck on this project because I wanted to create some original responses and tie them to costume changes. When that all became too much to tackle in the time I had, I resorted to creating a slightly snarky Scratch cat. Enjoy! ;-)",Learn more about Scratch cat by asking 3 questions.,17786521,https://cdn2.scratch.mit.edu/get_image/project/237397055_480x360.png,2018-07-25T20:38:27.000Z,2018-07-25T21:04:20.000Z,2018-07-25T21:02:28.000Z,2,0,0,0,0,,
+237449426,Getting Unstuck - dag 16,,The cat will help you add 2 numbers.,25631396,https://cdn2.scratch.mit.edu/get_image/project/237449426_480x360.png,2018-07-26T08:55:16.000Z,2018-07-26T09:10:09.000Z,2018-07-26T09:09:39.000Z,1,0,0,0,0,,
+237465765,Question and Answer- Day 16,I added more to my Day 16 Project- Create a program that answers the user's questions.,"Press the green flag and answer the duck's questions with Yes or No.
+
+",25165723,https://cdn2.scratch.mit.edu/get_image/project/237465765_480x360.png,2018-07-26T13:55:29.000Z,2018-07-26T13:57:01.000Z,2018-07-26T13:57:01.000Z,5,0,0,0,0,,
+237023037,Scratchbook ,,Cliccare sulla bandierina,3602053,https://cdn2.scratch.mit.edu/get_image/project/237023037_480x360.png,2018-07-21T16:46:41.000Z,2018-07-26T15:56:10.000Z,2018-07-26T15:11:49.000Z,3,0,0,0,0,,
+237498618,Getting Unstuck Day 16: remix remix,"Getting Unstuck Day 16
+
+I really liked the idea of using Bitmojis, so I remixed AnitaVaca and CBAtech's project using my own Bitmojis. I did have a little difficulty having the costume switch back to the Yes or No at the beginning. ",Click on the green flag.,10722024,https://cdn2.scratch.mit.edu/get_image/project/237498618_480x360.png,2018-07-26T20:59:33.000Z,2018-07-26T21:09:57.000Z,2018-07-26T21:06:11.000Z,11,2,0,0,0,237203383,236973960
+237547893,L'esperta che sa nulla!!!,"Getting Unstuck, Day 16.
+
+Create
+Create a program that answers the user's questions. 
+mi ero chiesta come fare a collegare scratch e wikipedia .....",Clicca la bandierina verde e scrivi quello che vuoi dire o chiedere!,21462276,https://cdn2.scratch.mit.edu/get_image/project/237547893_480x360.png,2018-07-27T09:30:10.000Z,2018-07-27T10:14:06.000Z,2018-07-27T10:10:47.000Z,2,0,0,0,0,,
+237577277,Getting Unstuck Day 16,"Made for Getting Unstuck Day 16, I couldn't help but be inspired by the books of Douglas Adams. Find out more at
+https://www.goodreads.com/author/show/4.Douglas_Adams
+I'd have liked to take the input and try and respond in some sort of Turing Test way, but I'm not sure how to do that yet.",Click the Green Flag for the chance to ask a question of a superior space being!,287832,https://cdn2.scratch.mit.edu/get_image/project/237577277_480x360.png,2018-07-27T17:59:16.000Z,2018-07-27T18:42:45.000Z,2018-07-27T18:12:08.000Z,5,0,0,0,0,,
+237622397,Unstuck Day 16,"Not quite how I wanted it to end up.  It works if you get the answer correct but not if you get the answer wrong.  I tried using ""forever"" but that didn't work either.
+I think I'll have another go with a different theme, perhaps making a branching database.  In the meantime if anyone can spot what I've done wrong.......",Click the green flag and answer the maths questions.,3297086,https://cdn2.scratch.mit.edu/get_image/project/237622397_480x360.png,2018-07-28T10:46:20.000Z,2018-07-28T11:07:49.000Z,2018-07-28T11:07:49.000Z,3,1,0,0,0,,
+237639558,Getting Unstuck Day 16,,Click sprite and you will be prompted to ask a question.  See what random response you get!,34190765,https://cdn2.scratch.mit.edu/get_image/project/237639558_480x360.png,2018-07-28T17:32:16.000Z,2018-08-02T20:41:32.000Z,2018-07-28T17:51:30.000Z,6,1,0,0,0,,
+236476390,Moltiplicazioni con Giga Day 16 Getting Unstuck ,Getting Unstuck 16: Create a program that answers the user's questions.,Clicca sulla bandierina verde e rispondi alle domande.,8789156,https://cdn2.scratch.mit.edu/get_image/project/236476390_480x360.png,2018-07-15T22:27:15.000Z,2018-08-01T19:49:19.000Z,2018-07-28T21:05:07.000Z,2,1,0,0,0,,
+237852694,Day 16 - answering questions,,,24154277,https://cdn2.scratch.mit.edu/get_image/project/237852694_480x360.png,2018-07-31T11:17:00.000Z,2018-07-31T11:22:05.000Z,2018-07-31T11:22:04.000Z,2,1,0,0,0,,
+237871240,#GettingUnstuck16 - My calculator,"Sprite taken from the Scratch repository.
+
+Next step: to identify numbers bigger than 9 and lesser than 0 :)","Press Green flag and follow the instructions.
+
+This project is part of #GettingUnstuck initiative #CreativeComputing, Day 16
+
+""Create a program that answers the user's questions""
+
+Dino will ask you for a simple operation, with 1 digit operators (numbers from 0 to 9). It allows + - * and /.
+
+For example:
+
+4+6
+5-7
+8*2
+9/1
+",1112440,https://cdn2.scratch.mit.edu/get_image/project/237871240_480x360.png,2018-07-31T15:38:25.000Z,2018-07-31T16:30:19.000Z,2018-07-31T15:53:40.000Z,5,2,0,0,0,,
+237902799,#Unstuck 16 Answer Users Questions,Use inspiration from the Help Desk project and the Random Response Unstuck programmes. Thanks Guys.,Click the flag,31492686,https://cdn2.scratch.mit.edu/get_image/project/237902799_480x360.png,2018-07-31T22:53:13.000Z,2018-08-01T02:07:03.000Z,2018-08-01T02:05:48.000Z,4,1,0,0,0,,
+237982056,Día 16,,,34199235,https://cdn2.scratch.mit.edu/get_image/project/237982056_480x360.png,2018-08-01T17:53:55.000Z,2018-08-01T17:57:13.000Z,2018-08-01T17:56:00.000Z,3,1,0,0,0,,
+237985524,Scratchy oracle. Getting unstuck day 16,"Ive learned to use lists, join text, config an element of a list and change stages with broadcast.
+Music credits: https://www.looperman.com/loops/detail/133605/city-sweepers-80bpm-ambient-pad-loop
+",Ask your worries to Scratchy and read its answers.,2680901,https://cdn2.scratch.mit.edu/get_image/project/237985524_480x360.png,2018-08-01T18:38:15.000Z,2018-08-01T19:34:43.000Z,2018-08-01T19:25:48.000Z,4,1,0,0,0,,
+238053919,getting unstuck day 16,"hi have learn to use the block ask
+",,23020553,https://cdn2.scratch.mit.edu/get_image/project/238053919_480x360.png,2018-08-02T11:48:55.000Z,2018-08-02T17:58:34.000Z,2018-08-02T11:57:57.000Z,4,1,0,0,0,,
+238171748,Unstuck #16 - Exploring,Getting Unstuck #16 This project could be streamlined to loop and make sure you visit all the destinations. Why don't you go ahead and remix!!,You choose your destination.,26618044,https://cdn2.scratch.mit.edu/get_image/project/238171748_480x360.png,2018-08-03T18:31:54.000Z,2018-08-03T19:27:27.000Z,2018-08-03T19:25:30.000Z,3,1,0,0,0,,
+238201127,Getting Unstuck - Day 16,"The challenge for day 16 of Getting Unstuck is to: ""Create a program that answers the user's questions.""
+
+This program will ask the user to provide two numbers and then Scratch will find the product!
+
+Chalkboard image from Pixabay
+https://pixabay.com/en/chalkboard-blackboard-chalk-board-163601/
+",Click on Scratch the cat to help him with his multiplication tables!,24696341,https://cdn2.scratch.mit.edu/get_image/project/238201127_480x360.png,2018-08-04T04:50:55.000Z,2018-08-04T05:42:28.000Z,2018-08-04T05:34:38.000Z,3,1,0,0,0,,
+238228100,day-16,,,16822769,https://cdn2.scratch.mit.edu/get_image/project/238228100_480x360.png,2018-08-04T16:57:43.000Z,2018-08-04T16:58:22.000Z,2018-08-04T16:58:21.000Z,2,1,0,0,0,,
+238366524,Universal Answer - GettingUnstuck-16,"The fun part of this project was the procedure to parse the user question in order to extract the individual words to process then.
+At the moment it only recognize a couple of keywords to give answers and goes random otherwise.
+It can of course be expanded...","Green flag to start.
+You can ask anything: of course the answers are not necessarily those you want.",25876369,https://cdn2.scratch.mit.edu/get_image/project/238366524_480x360.png,2018-08-06T17:37:43.000Z,2018-08-06T18:35:32.000Z,2018-08-06T18:11:12.000Z,3,1,0,0,0,,
+238397230,Ask Quelo,"The inspiration from this project comes from one of my favorite Italian comedians, Corrado Guzzanti, who played the role of a guru of an invented religion, based on the cult a piece of wood called Quelo.
+
+I've spent most of my time looking at other people's projects and realizing that most of my initial ideas had been realized already. It was hard to get the program respond to different questions, so this character and his jokes came into mind.
+
+I've spent a bit of time thinking whether or not to share it.. as the reference might be fully appreciated by people who know the character, but I decided to share it anyway! I have 5 more project to go!
+
+C'è grooossa crisi! :)","Ask a deep question to Quelo.
+
+Who are we? Where do we come from? Where do we go?
+
+",2286560,https://cdn2.scratch.mit.edu/get_image/project/238397230_480x360.png,2018-08-07T01:01:11.000Z,2018-08-07T03:22:10.000Z,2018-08-07T01:50:55.000Z,6,2,2,0,0,,
+238437388,day16,Create a program that answers the user's questions. ,Create a program that answers the user's questions. ,24618980,https://cdn2.scratch.mit.edu/get_image/project/238437388_480x360.png,2018-08-07T11:11:55.000Z,2018-08-07T15:54:01.000Z,2018-08-07T11:54:45.000Z,3,1,0,0,0,,
+238457615,Random Answers (Getting Unstuck #16),"Getting Unstuck activity #16 - ""Create a program that answers the user's questions.""
+
+Simple script which asks for a questions and then gives a random numerical answer. It does a quick check of question length in order to provide some cheeky reply prior to the answer.
+
+I'm catching up on the final week's worth of activities so this is quick and simple. It could be improved by attempting to parse the question to look for keywords or limit to maths questions which could be parsed and evaluated in script.
+",Click the flag and ask some questions.  I doubt you'll get the right answer!,15872912,https://cdn2.scratch.mit.edu/get_image/project/238457615_480x360.png,2018-08-07T16:29:30.000Z,2018-08-07T16:41:36.000Z,2018-08-07T16:39:31.000Z,5,1,0,0,0,,
+238461653,GETTING UNSTUCK16 : MULTIPLICATION TABLES,,Press the green flag and answer to the 5 questions,16573108,https://cdn2.scratch.mit.edu/get_image/project/238461653_480x360.png,2018-08-07T17:26:57.000Z,2018-08-07T20:32:03.000Z,2018-08-07T20:30:53.000Z,2,1,0,0,0,,
+238544443,Getting Unstuck - Day 16,I was inspired by my co-worker's magic cat ball. It had cheeky and humorous phrases (I can't remember them all) I wanted to recreate in this project.,This is the magic cat ball and it has all the answers to the universe's most important questions. Press the green flag to start and wait for the prompt to ask a YES or NO question.,25334812,https://cdn2.scratch.mit.edu/get_image/project/238544443_480x360.png,2018-08-08T13:44:57.000Z,2018-08-08T14:01:32.000Z,2018-08-08T14:00:03.000Z,1,0,0,0,0,,
